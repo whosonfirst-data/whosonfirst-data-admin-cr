@@ -1,0 +1,63 @@
+{
+  "id": 1209223471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.80696,9.88673,-83.80696,9.88673",
+    "geom:latitude":9.88673,
+    "geom:longitude":-83.80696,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30602.0",
+    "gn:asciiname":"Cervantes",
+    "gn:country_code":"CR",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624291,
+    "gn:latitude":9.88673,
+    "gn:longitude":-83.80696,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Cervantes",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624291
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e82a1bce0c7a2fa9e5473dcf6bf09027",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209223471
+        }
+    ],
+    "wof:id":1209223471,
+    "wof:lastmodified":1536293879,
+    "wof:name":"Cervantes",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.80696,
+    9.88673,
+    -83.80696,
+    9.88673
+],
+  "geometry": {"coordinates":[-83.80696,9.88673],"type":"Point"}
+}

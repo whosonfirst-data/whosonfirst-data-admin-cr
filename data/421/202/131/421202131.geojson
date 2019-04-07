@@ -1,0 +1,79 @@
+{
+  "id": 421202131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.65113,9.7227,-84.65113,9.7227",
+    "geom:latitude":9.7227,
+    "geom:longitude":-84.65113,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Las Agujas"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624968,
+    "qs:gn_pop":0,
+    "qs:name":"Agujas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":407,
+    "qs:photos_1k":82,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":407,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":219444,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57666,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421204087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624968,
+        "gp:id":57666,
+        "qs:id":219444
+    },
+    "wof:country":"CR",
+    "wof:created":1459010106,
+    "wof:geomhash":"0bad1161fff37b1e27bfbdedb8704eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204087,
+            "locality_id":421202131,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421202131,
+    "wof:lastmodified":1501268180,
+    "wof:name":"Agujas",
+    "wof:parent_id":421204087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.65113,
+    9.7227,
+    -84.65113,
+    9.7227
+],
+  "geometry": {"coordinates":[-84.65112999999999,9.7227],"type":"Point"}
+}

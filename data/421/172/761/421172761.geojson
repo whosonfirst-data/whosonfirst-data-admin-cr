@@ -1,0 +1,360 @@
+{
+  "id": 421172761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.03053,9.99286,-83.03053,9.99286",
+    "geom:latitude":9.99286,
+    "geom:longitude":-83.03053,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0645\u0648\u0646\u060c \u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0574\u0578\u0576"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09ae\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia de Lim\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:chi_x_preferred":[
+        "\u5229\u8499"
+    ],
+    "name:dan_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039b\u03b9\u03bc\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:epo_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:fin_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:fra_x_variant":[
+        "Lim\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039b\u03b9\u03bc\u03cc\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abf\u0aae\u0acb\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05de\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0940\u092e\u094b\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:hun_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0578\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Lim\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e2\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0cae\u0ccb\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ubaac"
+    ],
+    "name:lav_x_preferred":[
+        "Limona"
+    ],
+    "name:lit_x_preferred":[
+        "Limonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093f\u092e\u094b\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Limon"
+    ],
+    "name:nah_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:nob_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:oci_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:que_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:rum_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u041b\u0438\u043c\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043c\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0db8\u0db1\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:sme_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "Ciudad de Lim\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0bae\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3f\u0c2e\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e34\u0e21\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Limon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043c\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Lim\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Limon"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Lim\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8499"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Costa Rica",
+    "ne:ADM0_A3":"CRI",
+    "ne:ADM1NAME":"Lim\u00f3n",
+    "ne:ADMIN1_COD":6,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3622247,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Puerto Limon",
+    "ne:GN_POP":63081,
+    "ne:GTOPO30":2.0,
+    "ne:ISO_A2":"CR",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":10.000021,
+    "ne:LONGITUDE":-83.03334,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto Limon",
+    "ne:MAX_AREAKM":14.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":-83.025,
+    "ne:MAX_BBXMIN":-83.066667,
+    "ne:MAX_BBYMAX":10.008333,
+    "ne:MAX_BBYMIN":9.966667,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":18.0,
+    "ne:MAX_PERMI":11.0,
+    "ne:MAX_POP10":85001,
+    "ne:MAX_POP20":85001,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":85001,
+    "ne:MEAN_BBXC":-83.041422,
+    "ne:MEAN_BBYC":9.989461,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":14.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":-83.025,
+    "ne:MIN_BBXMIN":-83.066667,
+    "ne:MIN_BBYMAX":10.008333,
+    "ne:MIN_BBYMIN":9.966667,
+    "ne:MIN_PERKM":18.0,
+    "ne:MIN_PERMI":11.0,
+    "ne:NAME":"Puerto Limon",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Limon",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":85001,
+    "ne:POP_MIN":63081,
+    "ne:POP_OTHER":85001,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Costa Rica",
+    "ne:SOV_A3":"CRI",
+    "ne:TIMEZONE":"America/Costa_Rica",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3622247,
+    "qs:gn_pop":63081,
+    "qs:name":"Puerto Lim\u00f3n",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":1684,
+    "qs:photos_1k":341,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1684,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":274454,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59143,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421188065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622247,
+        "gp:id":59143,
+        "qs:id":274454,
+        "wd:id":"Q30620",
+        "wk:page":"Lim\u00f3n"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008954,
+    "wof:geomhash":"06da6a5b6067151c5a15d8c8348c9f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188065,
+            "locality_id":421172761,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421172761,
+    "wof:lastmodified":1513944367,
+    "wof:name":"Puerto Lim\u00f3n",
+    "wof:parent_id":421188065,
+    "wof:placetype":"locality",
+    "wof:population":63081,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.03053,
+    9.99286,
+    -83.03053,
+    9.99286
+],
+  "geometry": {"coordinates":[-83.03053,9.99286],"type":"Point"}
+}

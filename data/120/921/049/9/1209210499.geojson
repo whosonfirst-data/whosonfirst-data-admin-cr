@@ -1,0 +1,63 @@
+{
+  "id": 1209210499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.02276,9.96326,-84.02276,9.96326",
+    "geom:latitude":9.96326,
+    "geom:longitude":-84.02276,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"108",
+    "gn:admin3_code":"10805.0",
+    "gn:asciiname":"Mozotal",
+    "gn:country_code":"CR",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622791,
+    "gn:latitude":9.96326,
+    "gn:longitude":-84.02276,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Mozotal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622791
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"6974f66a354c23b18e8fdcda7fd45f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209210499
+        }
+    ],
+    "wof:id":1209210499,
+    "wof:lastmodified":1536294307,
+    "wof:name":"Mozotal",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.02275999999998,
+    9.96326,
+    -84.02275999999998,
+    9.96326
+],
+  "geometry": {"coordinates":[-84.02275999999998,9.96326],"type":"Point"}
+}

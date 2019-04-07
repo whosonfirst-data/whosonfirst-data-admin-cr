@@ -1,0 +1,75 @@
+{
+  "id": 421180329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.27578,10.451687,-84.27578,10.451687",
+    "geom:latitude":10.451687,
+    "geom:longitude":-84.27578,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Pital",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":427024,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809111,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809111,
+        "qs:id":427024
+    },
+    "wof:country":"CR",
+    "wof:created":1459009252,
+    "wof:geomhash":"88c443235a6950c6e4de1376ae6b3a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "localadmin_id":421180329,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421180329,
+    "wof:lastmodified":1499977295,
+    "wof:name":"Pital",
+    "wof:parent_id":421183457,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.27578,
+    10.451687,
+    -84.27578,
+    10.451687
+],
+  "geometry": {"coordinates":[-84.27578,10.451687],"type":"Point"}
+}

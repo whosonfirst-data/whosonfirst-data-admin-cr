@@ -1,0 +1,79 @@
+{
+  "id": 421190339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.01776,10.1321,-85.01776,10.1321",
+    "geom:latitude":10.1321,
+    "geom:longitude":-85.01776,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Iglesias"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622940,
+    "qs:gn_pop":0,
+    "qs:name":"Manzanillo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":53424,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58739,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622940,
+        "gp:id":58739,
+        "qs:id":53424
+    },
+    "wof:country":"CR",
+    "wof:created":1459009654,
+    "wof:geomhash":"65c41bb511c976e6de37ea9ccd32a205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421190339,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421190339,
+    "wof:lastmodified":1501268156,
+    "wof:name":"Manzanillo",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.01776,
+    10.1321,
+    -85.01776,
+    10.1321
+],
+  "geometry": {"coordinates":[-85.01776,10.1321],"type":"Point"}
+}

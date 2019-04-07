@@ -1,0 +1,83 @@
+{
+  "id": 421174735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.76243,10.08384,-85.76243,10.08384",
+    "geom:latitude":10.08384,
+    "geom:longitude":-85.76243,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622931,
+    "qs:gn_pop":0,
+    "qs:name":"Marbella",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":296,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":296,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":898028,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58745,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:latitude":36.5,
+    "wd:longitude":-4.883333,
+    "wd:population":139537,
+    "wd:wordcount":10652,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622931,
+        "gp:id":58745,
+        "qs:id":898028
+    },
+    "wof:country":"CR",
+    "wof:created":1459009042,
+    "wof:geomhash":"eac098ef1d663da61d2e921a148e3c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":421174735,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421174735,
+    "wof:lastmodified":1527716228,
+    "wof:name":"Marbella",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:population":139537,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76243,
+    10.08384,
+    -85.76243,
+    10.08384
+],
+  "geometry": {"coordinates":[-85.76242999999999,10.08384],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276771775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81714,9.85845,-83.81714,9.85845",
+    "geom:latitude":9.85845,
+    "geom:longitude":-83.81714,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"302",
+    "gn:admin3_code":"30202.0",
+    "gn:asciiname":"Yas",
+    "gn:country_code":"CR",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621039,
+    "gn:latitude":9.85845,
+    "gn:longitude":-83.81714,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Yas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Yas",
+        "Yas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421182145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621039
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0c63fe12d1bc07edba664840ad1f7c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182145,
+            "locality_id":1276771775,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1276771775,
+    "wof:lastmodified":1537618846,
+    "wof:name":"Yas",
+    "wof:parent_id":421182145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81714000000002,
+    9.85845,
+    -83.81714000000002,
+    9.85845
+],
+  "geometry": {"coordinates":[-83.81714000000002,9.85845],"type":"Point"}
+}

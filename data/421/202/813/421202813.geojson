@@ -1,0 +1,89 @@
+{
+  "id": 421202813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.32249,9.52012,-84.32249,9.52012",
+    "geom:latitude":9.52012,
+    "geom:longitude":-84.32249,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Parrita"
+    ],
+    "name:eng_x_preferred":[
+        "Parrita"
+    ],
+    "name:nob_x_preferred":[
+        "Parrita"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622537,
+    "qs:gn_pop":3734,
+    "qs:name":"Parrita",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":223,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":223,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":228530,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58958,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421182071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622537,
+        "gp:id":58958,
+        "qs:id":228530,
+        "wd:id":"Q7139824"
+    },
+    "wof:country":"CR",
+    "wof:created":1459010130,
+    "wof:geomhash":"a1865790d07599f536477c8ec61d461a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182071,
+            "locality_id":421202813,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421202813,
+    "wof:lastmodified":1513944366,
+    "wof:name":"Parrita",
+    "wof:parent_id":421182071,
+    "wof:placetype":"locality",
+    "wof:population":3734,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.32249,
+    9.52012,
+    -84.32249,
+    9.52012
+],
+  "geometry": {"coordinates":[-84.32249,9.52012],"type":"Point"}
+}

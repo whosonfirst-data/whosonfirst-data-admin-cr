@@ -1,0 +1,74 @@
+{
+  "id": 1193017901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46667,11.13333,-85.46667,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-85.46667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"510",
+    "gn:admin3_code":"51003.0",
+    "gn:asciiname":"Espavel",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623779,
+    "gn:latitude":11.13333,
+    "gn:longitude":-85.46667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Espavel",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Espabel",
+        "Espavel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623779
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4576ab994648ead053a28bb4106d0ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170049,
+            "locality_id":1193017901,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1193017901,
+    "wof:lastmodified":1537618866,
+    "wof:name":"Espavel",
+    "wof:parent_id":421170049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46667,
+    11.13333,
+    -85.46667,
+    11.13333
+],
+  "geometry": {"coordinates":[-85.46666999999999,11.13333],"type":"Point"}
+}

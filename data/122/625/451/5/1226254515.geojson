@@ -1,0 +1,74 @@
+{
+  "id": 1226254515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.3955,10.59783,-85.3955,10.59783",
+    "geom:latitude":10.59783,
+    "geom:longitude":-85.3955,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"501",
+    "gn:admin3_code":"50101.0",
+    "gn:asciiname":"Montanita",
+    "gn:country_code":"CR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622832,
+    "gn:latitude":10.59783,
+    "gn:longitude":-85.3955,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Monta\u00f1ita",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Monta\u00f1ita",
+        "La Monta\u00f1a",
+        "Monta\u00f1ita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421188119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622832
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"3ead1a8ce811c3a0febeb742528ab24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188119,
+            "locality_id":1226254515,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226254515,
+    "wof:lastmodified":1537618859,
+    "wof:name":"Montanita",
+    "wof:parent_id":421188119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.3955,
+    10.59783,
+    -85.3955,
+    10.59783
+],
+  "geometry": {"coordinates":[-85.3955,10.59783],"type":"Point"}
+}

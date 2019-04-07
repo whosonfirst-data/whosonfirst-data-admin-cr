@@ -1,0 +1,69 @@
+{
+  "id": 1276456573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.69544,9.87922,-83.69544,9.87922",
+    "geom:latitude":9.87922,
+    "geom:longitude":-83.69544,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30501.0",
+    "gn:asciiname":"San Juan Sur",
+    "gn:country_code":"CR",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621792,
+    "gn:latitude":9.87922,
+    "gn:longitude":-83.69544,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Juan Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421172003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621792
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"6af3657094c23f91ebd6272ff1008fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172003,
+            "locality_id":1276456573,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1276456573,
+    "wof:lastmodified":1536610939,
+    "wof:name":"San Juan Sur",
+    "wof:parent_id":421172003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.69544,
+    9.87922,
+    -83.69544,
+    9.87922
+],
+  "geometry": {"coordinates":[-83.69544,9.87922],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209408157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.03333,9.6,-83.03333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":-83.03333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70401.0",
+    "gn:asciiname":"Chimurinak",
+    "gn:country_code":"CR",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624253,
+    "gn:latitude":9.6,
+    "gn:longitude":-83.03333,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chimurinak",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624253
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d2b5c9cd28c0a26de94dbc03cd9e3a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209408157
+        }
+    ],
+    "wof:id":1209408157,
+    "wof:lastmodified":1536287927,
+    "wof:name":"Chimurinak",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.03333,
+    9.6,
+    -83.03333,
+    9.6
+],
+  "geometry": {"coordinates":[-83.03333000000001,9.6],"type":"Point"}
+}

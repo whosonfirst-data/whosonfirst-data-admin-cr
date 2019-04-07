@@ -1,0 +1,69 @@
+{
+  "id": 1310006527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.06503,9.97234,-84.06503,9.97234",
+    "geom:latitude":9.97234,
+    "geom:longitude":-84.06503,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403",
+    "gn:admin3_code":"40303.0",
+    "gn:asciiname":"Socorro",
+    "gn:country_code":"CR",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621425,
+    "gn:latitude":9.97234,
+    "gn:longitude":-84.06503,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421185327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621425
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"aa204105b151663e07d2f7fdb7e3bf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185327,
+            "locality_id":1310006527,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1310006527,
+    "wof:lastmodified":1536640959,
+    "wof:name":"Socorro",
+    "wof:parent_id":421185327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.06503000000002,
+    9.97234,
+    -84.06503000000002,
+    9.97234
+],
+  "geometry": {"coordinates":[-84.06503000000002,9.97234],"type":"Point"}
+}

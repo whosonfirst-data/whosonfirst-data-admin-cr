@@ -1,0 +1,74 @@
+{
+  "id": 1293683645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.03704,8.53928,-83.03704,8.53928",
+    "geom:latitude":8.53928,
+    "geom:longitude":-83.03704,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"610",
+    "gn:admin3_code":"61001.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"CR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622274,
+    "gn:latitude":8.53928,
+    "gn:longitude":-83.03704,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coto",
+        "Pueblo Nuevo de Coto",
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421189149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622274
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"96975b4862a26c88b650e73bfdd022b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189149,
+            "locality_id":1293683645,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1293683645,
+    "wof:lastmodified":1537618855,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421189149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.03704,
+    8.53928,
+    -83.03704,
+    8.53928
+],
+  "geometry": {"coordinates":[-83.03704,8.53928],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343460563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.01003,10.53259,-85.01003,10.53259",
+    "geom:latitude":10.53259,
+    "geom:longitude":-85.01003,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"508",
+    "gn:admin3_code":"50804.0",
+    "gn:asciiname":"Palma",
+    "gn:country_code":"CR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622620,
+    "gn:latitude":10.53259,
+    "gn:longitude":-85.01003,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Palma",
+        "Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622620
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f01cb9a47a5842897a94248105d70048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170251,
+            "locality_id":1343460563,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1343460563,
+    "wof:lastmodified":1537618857,
+    "wof:name":"Palma",
+    "wof:parent_id":421170251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.01003,
+    10.53259,
+    -85.01003,
+    10.53259
+],
+  "geometry": {"coordinates":[-85.01003,10.53259],"type":"Point"}
+}

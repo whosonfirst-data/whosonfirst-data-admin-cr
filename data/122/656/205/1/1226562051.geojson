@@ -1,0 +1,74 @@
+{
+  "id": 1226562051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.45,9.65,-84.45,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":-84.45,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10409.0",
+    "gn:asciiname":"Playa Bonita",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622351,
+    "gn:latitude":9.65,
+    "gn:longitude":-84.45,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Playa Bonita",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Playa Bonita",
+        "Playa Bonita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622351
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"63427e1cecf4fcdc99b9a87b889281a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1226562051,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1226562051,
+    "wof:lastmodified":1537618855,
+    "wof:name":"Playa Bonita",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.45,
+    9.65,
+    -84.45,
+    9.65
+],
+  "geometry": {"coordinates":[-84.45,9.65],"type":"Point"}
+}

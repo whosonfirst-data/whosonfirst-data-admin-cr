@@ -1,0 +1,67 @@
+{
+  "id": 1209326061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.59517,10.22242,-85.59517,10.22242",
+    "geom:latitude":10.22242,
+    "geom:longitude":-85.59517,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50301.0",
+    "gn:asciiname":"Arado",
+    "gn:country_code":"CR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624884,
+    "gn:latitude":10.22242,
+    "gn:longitude":-85.59517,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Arado",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Arado",
+        "Arado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624884
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"c007e20648d11932090ec6c220838dcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209326061
+        }
+    ],
+    "wof:id":1209326061,
+    "wof:lastmodified":1537618875,
+    "wof:name":"Arado",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.59517,
+    10.22242,
+    -85.59517,
+    10.22242
+],
+  "geometry": {"coordinates":[-85.59517,10.22242],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310019011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.41667,9.81667,-83.41667,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":-83.41667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30512.0",
+    "gn:asciiname":"Chirripo",
+    "gn:country_code":"CR",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624240,
+    "gn:latitude":9.81667,
+    "gn:longitude":-83.41667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chirrip\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421172003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624240
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"ec10e7ba6cbeba7421406124c8eef233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172003,
+            "locality_id":1310019011,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1310019011,
+    "wof:lastmodified":1536621723,
+    "wof:name":"Chirripo",
+    "wof:parent_id":421172003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.41667,
+    9.81667,
+    -83.41667,
+    9.81667
+],
+  "geometry": {"coordinates":[-83.41667,9.81667],"type":"Point"}
+}

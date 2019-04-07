@@ -1,0 +1,63 @@
+{
+  "id": 1209027795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.16559,9.87335,-85.16559,9.87335",
+    "geom:latitude":9.87335,
+    "geom:longitude":-85.16559,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60104.0",
+    "gn:asciiname":"San Blas",
+    "gn:country_code":"CR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621951,
+    "gn:latitude":9.87335,
+    "gn:longitude":-85.16559,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Blas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621951
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"14d67cd1f30a9b190ad2e9a015db26dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209027795
+        }
+    ],
+    "wof:id":1209027795,
+    "wof:lastmodified":1536299941,
+    "wof:name":"San Blas",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.16559000000002,
+    9.87335,
+    -85.16559000000002,
+    9.87335
+],
+  "geometry": {"coordinates":[-85.16559000000002,9.87335],"type":"Point"}
+}

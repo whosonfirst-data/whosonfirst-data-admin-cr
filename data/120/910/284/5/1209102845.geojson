@@ -1,0 +1,63 @@
+{
+  "id": 1209102845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.07467,9.80315,-84.07467,9.80315",
+    "geom:latitude":9.80315,
+    "geom:longitude":-84.07467,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"103",
+    "gn:admin3_code":"10309.0",
+    "gn:asciiname":"Guadarrama",
+    "gn:country_code":"CR",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623588,
+    "gn:latitude":9.80315,
+    "gn:longitude":-84.07467,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Guadarrama",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623588
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"be6e904231ca99672e593f5a59dd8b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209102845
+        }
+    ],
+    "wof:id":1209102845,
+    "wof:lastmodified":1536297677,
+    "wof:name":"Guadarrama",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.07467,
+    9.80315,
+    -84.07467,
+    9.80315
+],
+  "geometry": {"coordinates":[-84.07467,9.80315],"type":"Point"}
+}

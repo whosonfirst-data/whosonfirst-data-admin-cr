@@ -1,0 +1,66 @@
+{
+  "id": 1209517367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.99693,10.54916,-84.99693,10.54916",
+    "geom:latitude":10.54916,
+    "geom:longitude":-84.99693,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"508",
+    "gn:admin3_code":"50804.0",
+    "gn:asciiname":"HDA Montecristo",
+    "gn:country_code":"CR",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622828,
+    "gn:latitude":10.54916,
+    "gn:longitude":-84.99693,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"HDA Montecristo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Hacienda Montecristo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622828
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d366e4a072807734903c188bae8571ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209517367
+        }
+    ],
+    "wof:id":1209517367,
+    "wof:lastmodified":1537618859,
+    "wof:name":"HDA Montecristo",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.99693,
+    10.54916,
+    -84.99693,
+    10.54916
+],
+  "geometry": {"coordinates":[-84.99693000000001,10.54916],"type":"Point"}
+}

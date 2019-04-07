@@ -1,0 +1,68 @@
+{
+  "id": 1209529455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.36806,10.11512,-84.36806,10.11512",
+    "geom:latitude":10.11512,
+    "geom:longitude":-84.36806,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Cirri",
+    "gn:country_code":"CR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624204,
+    "gn:latitude":10.11512,
+    "gn:longitude":-84.36806,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Cirr\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cirr\u00ed Norte",
+        "Llano Bonito",
+        "Cirr\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624204
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b67a125dbb8ce893619aeac926ddbbed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209529455
+        }
+    ],
+    "wof:id":1209529455,
+    "wof:lastmodified":1537618870,
+    "wof:name":"Cirri",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.36806,
+    10.11512,
+    -84.36806,
+    10.11512
+],
+  "geometry": {"coordinates":[-84.36806,10.11512],"type":"Point"}
+}

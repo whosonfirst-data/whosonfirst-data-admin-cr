@@ -1,0 +1,73 @@
+{
+  "id": 1327034121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.01345,10.96417,-85.01345,10.96417",
+    "geom:latitude":10.96417,
+    "geom:longitude":-85.01345,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"213",
+    "gn:admin3_code":"21305.0",
+    "gn:asciiname":"La Cruz",
+    "gn:country_code":"CR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623260,
+    "gn:latitude":10.96417,
+    "gn:longitude":-85.01345,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruz",
+        "La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623260
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"2fb2431ad44b8db50f59b20529033acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "locality_id":1327034121,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1327034121,
+    "wof:lastmodified":1537618862,
+    "wof:name":"La Cruz",
+    "wof:parent_id":421172007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.01345,
+    10.96417,
+    -85.01345,
+    10.96417
+],
+  "geometry": {"coordinates":[-85.01345000000001,10.96417],"type":"Point"}
+}

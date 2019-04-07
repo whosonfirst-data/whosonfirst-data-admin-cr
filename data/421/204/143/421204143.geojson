@@ -1,0 +1,92 @@
+{
+  "id": 421204143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.89257,9.55392,-82.89257,9.55392",
+    "geom:latitude":9.55392,
+    "geom:longitude":-82.89257,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Bratsi"
+    ],
+    "name:ita_x_preferred":[
+        "Bratsi"
+    ],
+    "name:nob_x_preferred":[
+        "Bratsi"
+    ],
+    "name:spa_x_preferred":[
+        "Bratsi"
+    ],
+    "name:unk_x_variant":[
+        "Bralsi"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624627,
+    "qs:gn_pop":0,
+    "qs:name":"Bratsi",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":246,
+    "qs:photos_1k":50,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":246,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238560,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57862,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624627,
+        "gp:id":57862,
+        "qs:id":238560,
+        "wd:id":"Q23980804"
+    },
+    "wof:country":"CR",
+    "wof:created":1459010175,
+    "wof:geomhash":"026124971027c5004d22f37c076b4a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":421204143,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421204143,
+    "wof:lastmodified":1513944279,
+    "wof:name":"Bratsi",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.89257,
+    9.55392,
+    -82.89257,
+    9.55392
+],
+  "geometry": {"coordinates":[-82.89257000000001,9.55392],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209226343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.7949,10.44702,-84.7949,10.44702",
+    "geom:latitude":10.44702,
+    "geom:longitude":-84.7949,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"508",
+    "gn:admin3_code":"50801.0",
+    "gn:asciiname":"Cano Negro",
+    "gn:country_code":"CR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624431,
+    "gn:latitude":10.44702,
+    "gn:longitude":-84.7949,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Ca\u00f1o Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624431
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4fa8429289fc9717267f5a72fa7fa2f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209226343
+        }
+    ],
+    "wof:id":1209226343,
+    "wof:lastmodified":1536293787,
+    "wof:name":"Cano Negro",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.7949,
+    10.44702,
+    -84.7949,
+    10.44702
+],
+  "geometry": {"coordinates":[-84.7949,10.44702],"type":"Point"}
+}

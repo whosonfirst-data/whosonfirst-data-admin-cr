@@ -1,0 +1,105 @@
+{
+  "id": 421187203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.06791,9.6551,-85.06791,9.6551",
+    "geom:latitude":9.6551,
+    "geom:longitude":-85.06791,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Montezuma"
+    ],
+    "name:eng_x_preferred":[
+        "Montezuma"
+    ],
+    "name:fre_x_preferred":[
+        "Montezuma"
+    ],
+    "name:ger_x_preferred":[
+        "Montezuma"
+    ],
+    "name:ita_x_preferred":[
+        "Montezuma"
+    ],
+    "name:lit_x_preferred":[
+        "Montesuma"
+    ],
+    "name:nob_x_preferred":[
+        "Montezuma"
+    ],
+    "name:unk_x_variant":[
+        "Moctezuma"
+    ],
+    "name:vie_x_preferred":[
+        "Montezuma"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622810,
+    "qs:gn_pop":0,
+    "qs:name":"Montezuma",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":1724,
+    "qs:photos_1k":349,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1724,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082576,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58826,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622810,
+        "gp:id":58826,
+        "qs:id":1082576,
+        "wd:id":"Q633703",
+        "wk:page":"Montezuma, Costa Rica"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009505,
+    "wof:geomhash":"730ec0f6c752d936a62f9667742a3b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421187203,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421187203,
+    "wof:lastmodified":1513944358,
+    "wof:name":"Montezuma",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.06791,
+    9.6551,
+    -85.06791,
+    9.6551
+],
+  "geometry": {"coordinates":[-85.06791,9.6551],"type":"Point"}
+}

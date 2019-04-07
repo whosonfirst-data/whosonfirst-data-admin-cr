@@ -1,0 +1,67 @@
+{
+  "id": 890442541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.98845,9.83813,-83.98845,9.83813",
+    "geom:latitude":9.83813,
+    "geom:longitude":-83.98845,
+    "gn:country":"CR",
+    "gn:fcode":"AREA",
+    "gn:pop":4050,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Nuestra casa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        1108693655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942049,
+        "gp:id":59813,
+        "qs:id":653114
+    },
+    "wof:country":"CR",
+    "wof:created":1469052366,
+    "wof:geomhash":"fe3feacb4b5fd02c0bc6487a1a97ab02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693655,
+            "locality_id":890442541,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":890442541,
+    "wof:lastmodified":1505343588,
+    "wof:name":"Nuestra casa",
+    "wof:parent_id":1108693655,
+    "wof:placetype":"locality",
+    "wof:population":4050,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.98845,
+    9.83813,
+    -83.98845,
+    9.83813
+],
+  "geometry": {"coordinates":[-83.98845,9.83813],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 421181331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.16522,9.42357,-84.16522,9.42357",
+    "geom:latitude":9.42357,
+    "geom:longitude":-84.16522,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u514b\u6ce2\u65af\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Quepos"
+    ],
+    "name:eng_x_preferred":[
+        "Quepos"
+    ],
+    "name:fre_x_preferred":[
+        "Quepos"
+    ],
+    "name:ita_x_preferred":[
+        "Quepos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30dd\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Keposas"
+    ],
+    "name:nob_x_preferred":[
+        "Quepos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0584\u0565\u0578\u057a\u057d"
+    ],
+    "name:spa_x_preferred":[
+        "Quepos"
+    ],
+    "name:swe_x_preferred":[
+        "Quepos"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Quepos"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622193,
+    "qs:gn_pop":7810,
+    "qs:name":"Quepos",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":489033,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59182,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":335,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421201601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622193,
+        "gp:id":59182,
+        "qs:id":489033,
+        "wd:id":"Q2776723",
+        "wk:page":"Quepos"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009293,
+    "wof:geomhash":"a9fd4ad011dd80afe244b8a3c485ce49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201601,
+            "locality_id":421181331,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421181331,
+    "wof:lastmodified":1527716320,
+    "wof:name":"Quepos",
+    "wof:parent_id":421201601,
+    "wof:placetype":"locality",
+    "wof:population":7810,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.16522,
+    9.42357,
+    -84.16522,
+    9.42357
+],
+  "geometry": {"coordinates":[-84.16522000000001,9.42357],"type":"Point"}
+}

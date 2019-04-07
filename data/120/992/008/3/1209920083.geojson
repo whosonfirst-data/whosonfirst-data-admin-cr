@@ -1,0 +1,73 @@
+{
+  "id": 1209920083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.19493,9.97961,-84.19493,9.97961",
+    "geom:latitude":9.97961,
+    "geom:longitude":-84.19493,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"407",
+    "gn:admin3_code":"40701.0",
+    "gn:asciiname":"Calle La Labor",
+    "gn:country_code":"CR",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624809,
+    "gn:latitude":9.97961,
+    "gn:longitude":-84.19493,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Calle La Labor",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo La Labor",
+        "Bajo de las Labores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421197833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624809
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a58f1875711219413c9e3f170d9ab74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421197833,
+            "locality_id":1209920083,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1209920083,
+    "wof:lastmodified":1537618874,
+    "wof:name":"Calle La Labor",
+    "wof:parent_id":421197833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.19493,
+    9.97961,
+    -84.19493,
+    9.97961
+],
+  "geometry": {"coordinates":[-84.19493,9.97961],"type":"Point"}
+}

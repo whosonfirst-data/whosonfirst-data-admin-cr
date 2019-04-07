@@ -1,0 +1,69 @@
+{
+  "id": 1327440233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.78841,9.89274,-83.78841,9.89274",
+    "geom:latitude":9.89274,
+    "geom:longitude":-83.78841,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30602.0",
+    "gn:asciiname":"Birris",
+    "gn:country_code":"CR",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624694,
+    "gn:latitude":9.89274,
+    "gn:longitude":-83.78841,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Birr\u00eds",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421171707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624694
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"583f2079d81f90fa27d6c0ea28574012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171707,
+            "locality_id":1327440233,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1327440233,
+    "wof:lastmodified":1536669400,
+    "wof:name":"Birris",
+    "wof:parent_id":421171707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.78841,
+    9.89274,
+    -83.78841,
+    9.89274
+],
+  "geometry": {"coordinates":[-83.78841,9.89274],"type":"Point"}
+}

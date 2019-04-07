@@ -1,0 +1,108 @@
+{
+  "id": 85765811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":28933032.317371,
+    "geom:bbox":"-84.149881,9.948169,-84.149881,9.948169",
+    "geom:latitude":9.948169,
+    "geom:longitude":-84.149881,
+    "gn:latitude":9.65445,
+    "gn:longitude":-84.61977,
+    "iso:country":"CR",
+    "lbl:latitude":9.948169,
+    "lbl:longitude":-84.149881,
+    "mps:latitude":9.943714,
+    "mps:longitude":-84.155153,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:unk_x_variant":[
+        "Pueblo Nuevo"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Pueblo Nuevo",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Pavas",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":69,
+    "qs:photo_sum":432,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26809096,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421199285,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622265,
+        "gp:id":22723789,
+        "qs:id":1310048
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"c98447a2fe57f914bb6f848ca61c2dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421199285,
+            "locality_id":-1,
+            "neighbourhood_id":85765811,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765811,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859053,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.149881,
+    9.948169,
+    -84.149881,
+    9.948169
+],
+  "geometry": {"coordinates":[-84.14988099999999,9.948169],"type":"Point"}
+}

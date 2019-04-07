@@ -1,0 +1,116 @@
+{
+  "id": 421173025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.78661,10.21588,-83.78661,10.21588",
+    "geom:latitude":10.21588,
+    "geom:longitude":-83.78661,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u74dc\u76ae\u840a\u65af\u5340"
+    ],
+    "name:deu_x_preferred":[
+        "AD Santos de Gu\u00e1piles"
+    ],
+    "name:dut_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:eng_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:fra_x_preferred":[
+        "SD Santos"
+    ],
+    "name:fre_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:ita_x_preferred":[
+        "Asociaci\u00f3n Deportiva Santos de Gu\u00e1piles"
+    ],
+    "name:nob_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:nor_x_preferred":[
+        "Santos de Gu\u00e1piles"
+    ],
+    "name:sme_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:spa_x_preferred":[
+        "Santos de Gu\u00e1piles"
+    ],
+    "name:swe_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623580,
+    "qs:gn_pop":19092,
+    "qs:name":"Gu\u00e1piles",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":302,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":302,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":488988,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58405,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421171355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623580,
+        "gp:id":58405,
+        "qs:id":488988,
+        "wd:id":"Q3780111"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008963,
+    "wof:geomhash":"aada162f94f77235872ac75ecb52c542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171355,
+            "locality_id":421173025,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421173025,
+    "wof:lastmodified":1513944333,
+    "wof:name":"Gu\u00e1piles",
+    "wof:parent_id":421171355,
+    "wof:placetype":"locality",
+    "wof:population":19092,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.78661,
+    10.21588,
+    -83.78661,
+    10.21588
+],
+  "geometry": {"coordinates":[-83.78661,10.21588],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421173659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.81932,10.40008,-85.81932,10.40008",
+    "geom:latitude":10.40008,
+    "geom:longitude":-85.81932,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622239,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Viejo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":2262,
+    "qs:photos_1k":458,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2262,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":295246,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59151,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622239,
+        "gp:id":59151,
+        "qs:id":295246
+    },
+    "wof:country":"CR",
+    "wof:created":1459008998,
+    "wof:geomhash":"f6b0905516f24040746c59aab240e231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":421173659,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421173659,
+    "wof:lastmodified":1527716256,
+    "wof:name":"Puerto Viejo",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.81932,
+    10.40008,
+    -85.81932,
+    10.40008
+],
+  "geometry": {"coordinates":[-85.81932,10.40008],"type":"Point"}
+}

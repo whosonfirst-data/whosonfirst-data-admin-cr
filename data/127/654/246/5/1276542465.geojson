@@ -1,0 +1,74 @@
+{
+  "id": 1276542465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.32695,9.80659,-84.32695,9.80659",
+    "geom:latitude":9.80659,
+    "geom:longitude":-84.32695,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10406.0",
+    "gn:asciiname":"Pedernal",
+    "gn:country_code":"CR",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622484,
+    "gn:latitude":9.80659,
+    "gn:longitude":-84.32695,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pedernal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo del Pedernal",
+        "San Pedro",
+        "Pedernal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622484
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5f79553ae501f0ebcf1a2c724239a020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1276542465,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1276542465,
+    "wof:lastmodified":1537618856,
+    "wof:name":"Pedernal",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.32695,
+    9.80659,
+    -84.32695,
+    9.80659
+],
+  "geometry": {"coordinates":[-84.32695,9.80659],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293375639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.79084,9.25752,-83.79084,9.25752",
+    "geom:latitude":9.25752,
+    "geom:longitude":-83.79084,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"119",
+    "gn:admin3_code":"11909.0",
+    "gn:asciiname":"San Salvador",
+    "gn:country_code":"CR",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051051,
+    "gn:latitude":9.25752,
+    "gn:longitude":-83.79084,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Salvador",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421182141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051051
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d8bb2ec034e280c2e6c9867f93520d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182141,
+            "locality_id":1293375639,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1293375639,
+    "wof:lastmodified":1536948631,
+    "wof:name":"San Salvador",
+    "wof:parent_id":421182141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.79084,
+    9.25752,
+    -83.79084,
+    9.25752
+],
+  "geometry": {"coordinates":[-83.79084,9.25752],"type":"Point"}
+}

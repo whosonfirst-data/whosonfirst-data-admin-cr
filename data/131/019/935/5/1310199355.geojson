@@ -1,0 +1,62 @@
+{
+  "id": 1310199355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.43333,8.63333,-83.43333,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-83.43333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Conte",
+    "gn:country_code":"CR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624115,
+    "gn:latitude":8.63333,
+    "gn:longitude":-83.43333,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Conte",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624115
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"2a76a431cab56b69f59d5f6ee1a20d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310199355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310199355,
+    "wof:lastmodified":1536859804,
+    "wof:name":"Conte",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.43333,
+    8.63333,
+    -83.43333,
+    8.63333
+],
+  "geometry": {"coordinates":[-83.43333,8.63333],"type":"Point"}
+}

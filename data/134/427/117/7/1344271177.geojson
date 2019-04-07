@@ -1,0 +1,74 @@
+{
+  "id": 1344271177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.39633,9.99915,-84.39633,9.99915",
+    "geom:latitude":9.99915,
+    "geom:longitude":-84.39633,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20506.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"CR",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621848,
+    "gn:latitude":9.99915,
+    "gn:longitude":-84.39633,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 Sur",
+        "San Jos\u00e9 Sur de Atenas",
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421202071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621848
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"794195433f69e7738a8c09c73f8c5664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202071,
+            "locality_id":1344271177,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1344271177,
+    "wof:lastmodified":1537618851,
+    "wof:name":"San Jose",
+    "wof:parent_id":421202071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.39633,
+    9.99915,
+    -84.39633,
+    9.99915
+],
+  "geometry": {"coordinates":[-84.39633000000001,9.99915],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421196997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58673,9.475476,-83.58673,9.475476",
+    "geom:latitude":9.475476,
+    "geom:longitude":-83.58673,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rivas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":215,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":215,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264139,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809144,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421182141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809144,
+        "qs:id":1264139,
+        "qs_pg:id":1264139
+    },
+    "wof:country":"CR",
+    "wof:created":1459009899,
+    "wof:geomhash":"474d9d204ca9323fb3efc6d580190c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182141,
+            "localadmin_id":421196997,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421196997,
+    "wof:lastmodified":1497042684,
+    "wof:name":"Rivas",
+    "wof:parent_id":421182141,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58673,
+    9.475476,
+    -83.58673,
+    9.475476
+],
+  "geometry": {"coordinates":[-83.58673,9.475476],"type":"Point"}
+}

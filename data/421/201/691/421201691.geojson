@@ -1,0 +1,82 @@
+{
+  "id": 421201691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.95951,10.2809,-84.95951,10.2809",
+    "geom:latitude":10.2809,
+    "geom:longitude":-84.95951,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Las Juntas"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623307,
+    "qs:gn_pop":4737,
+    "qs:name":"Juntas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214107,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58555,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421190515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623307,
+        "gp:id":58555,
+        "qs:id":214107
+    },
+    "wof:country":"CR",
+    "wof:created":1459010081,
+    "wof:geomhash":"73531a19b86f0c188028cbfbe1d95191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190515,
+            "locality_id":421201691,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421201691,
+    "wof:lastmodified":1505340774,
+    "wof:name":"Juntas",
+    "wof:parent_id":421190515,
+    "wof:placetype":"locality",
+    "wof:population":4737,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.95951,
+    10.2809,
+    -84.95951,
+    10.2809
+],
+  "geometry": {"coordinates":[-84.95950999999999,10.2809],"type":"Point"}
+}

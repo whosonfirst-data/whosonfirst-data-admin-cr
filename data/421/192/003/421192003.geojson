@@ -1,0 +1,87 @@
+{
+  "id": 421192003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.15604,10.07215,-84.15604,10.07215",
+    "geom:latitude":10.07215,
+    "geom:longitude":-84.15604,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Roble"
+    ],
+    "name:spa_x_preferred":[
+        "Roble"
+    ],
+    "name:unk_x_variant":[
+        "El Roble"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622062,
+    "qs:gn_pop":0,
+    "qs:name":"Roble",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Heredia",
+    "qs:photos":133,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":133,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165041,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59263,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421202609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622062,
+        "gp:id":59263,
+        "qs:id":1165041,
+        "wd:id":"Q9069969"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009722,
+    "wof:geomhash":"8e9e372fda7977f890f3b9101e248d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202609,
+            "locality_id":421192003,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":421192003,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Roble",
+    "wof:parent_id":421202609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.15604,
+    10.07215,
+    -84.15604,
+    10.07215
+],
+  "geometry": {"coordinates":[-84.15604,10.07215],"type":"Point"}
+}

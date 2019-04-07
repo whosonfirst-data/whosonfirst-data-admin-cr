@@ -1,0 +1,79 @@
+{
+  "id": 421187199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.03253,9.6989,-85.03253,9.6989",
+    "geom:latitude":9.6989,
+    "geom:longitude":-85.03253,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Abuela"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623292,
+    "qs:gn_pop":0,
+    "qs:name":"La Abuela",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":756,
+    "qs:photos_1k":153,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":756,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082574,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58563,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623292,
+        "gp:id":58563,
+        "qs:id":1082574
+    },
+    "wof:country":"CR",
+    "wof:created":1459009504,
+    "wof:geomhash":"eed1fce14487c3657f8510653bb55c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421187199,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421187199,
+    "wof:lastmodified":1501268156,
+    "wof:name":"La Abuela",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.03253,
+    9.6989,
+    -85.03253,
+    9.6989
+],
+  "geometry": {"coordinates":[-85.03252999999999,9.6989],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343579027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.25552,10.09107,-84.25552,10.09107",
+    "geom:latitude":10.09107,
+    "geom:longitude":-84.25552,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"208",
+    "gn:admin3_code":"20803.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"CR",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621678,
+    "gn:latitude":10.09107,
+    "gn:longitude":-84.25552,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Rafael de Poas",
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421194119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621678
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f04dd9e04199600b17675e6d42799447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194119,
+            "locality_id":1343579027,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1343579027,
+    "wof:lastmodified":1537618850,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421194119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.25551999999998,
+    10.09107,
+    -84.25551999999998,
+    10.09107
+],
+  "geometry": {"coordinates":[-84.25551999999998,10.09107],"type":"Point"}
+}

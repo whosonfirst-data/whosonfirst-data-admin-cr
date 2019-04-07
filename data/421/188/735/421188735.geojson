@@ -1,0 +1,80 @@
+{
+  "id": 421188735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.90883,9.93933,-83.90883,9.93933",
+    "geom:latitude":9.93933,
+    "geom:longitude":-83.90883,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623037,
+    "qs:gn_pop":0,
+    "qs:name":"Llano Grande",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1103776,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809043,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421189139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623037,
+        "gp:id":26809043,
+        "qs:id":1103776,
+        "qs_pg:id":1103776
+    },
+    "wof:country":"CR",
+    "wof:created":1459009577,
+    "wof:geomhash":"087378cdc290884da96f65918395b1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189139,
+            "localadmin_id":421188735,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421188735,
+    "wof:lastmodified":1497043643,
+    "wof:name":"Llano Grande",
+    "wof:parent_id":421189139,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.90883,
+    9.93933,
+    -83.90883,
+    9.93933
+],
+  "geometry": {"coordinates":[-83.90882999999999,9.93933],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242791845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.48333,10.4,-84.48333,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-84.48333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Hacienda Quesada",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623505,
+    "gn:latitude":10.4,
+    "gn:longitude":-84.48333,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Hacienda Quesada",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Quebrada",
+        "Hacienda Quesada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623505
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"8afb122c0c70e1a7e47da9d7bbe1effe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1242791845,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1242791845,
+    "wof:lastmodified":1537618864,
+    "wof:name":"Hacienda Quesada",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.48333000000002,
+    10.4,
+    -84.48333000000002,
+    10.4
+],
+  "geometry": {"coordinates":[-84.48333000000002,10.4],"type":"Point"}
+}

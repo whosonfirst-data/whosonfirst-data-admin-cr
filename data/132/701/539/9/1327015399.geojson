@@ -1,0 +1,69 @@
+{
+  "id": 1327015399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.34799,9.64109,-84.34799,9.64109",
+    "geom:latitude":9.64109,
+    "geom:longitude":-84.34799,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10409.0",
+    "gn:asciiname":"Fila Aguacate",
+    "gn:country_code":"CR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623734,
+    "gn:latitude":9.64109,
+    "gn:longitude":-84.34799,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Fila Aguacate",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623734
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"c806e2c53fb927fe1b9ca1dd3b473a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1327015399,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1327015399,
+    "wof:lastmodified":1536785548,
+    "wof:name":"Fila Aguacate",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.34799,
+    9.64109,
+    -84.34799,
+    9.64109
+],
+  "geometry": {"coordinates":[-84.34799,9.64109],"type":"Point"}
+}

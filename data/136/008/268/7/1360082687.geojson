@@ -1,0 +1,69 @@
+{
+  "id": 1360082687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.05,9.91667,-84.05,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":-84.05,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"118",
+    "gn:admin3_code":"11801.0",
+    "gn:asciiname":"Barrio Hispano",
+    "gn:country_code":"CR",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624745,
+    "gn:latitude":9.91667,
+    "gn:longitude":-84.05,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Barrio Hispano",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421203755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624745
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"3a1a1899192bb7e84aae4c1e501d0a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203755,
+            "locality_id":1360082687,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1360082687,
+    "wof:lastmodified":1536949448,
+    "wof:name":"Barrio Hispano",
+    "wof:parent_id":421203755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.05,
+    9.91667,
+    -84.05,
+    9.91667
+],
+  "geometry": {"coordinates":[-84.05,9.91667],"type":"Point"}
+}

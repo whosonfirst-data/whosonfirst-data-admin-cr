@@ -1,0 +1,79 @@
+{
+  "id": 421176715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.810167,9.831706,-83.810167,9.831706",
+    "geom:latitude":9.831706,
+    "geom:longitude":-83.810167,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cachi",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":392754,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26808910,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421182145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808910,
+        "qs:id":392754,
+        "qs_pg:id":392754
+    },
+    "wof:country":"CR",
+    "wof:created":1459009117,
+    "wof:geomhash":"66945a1031b42eb3f0dad446baadae12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182145,
+            "localadmin_id":421176715,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421176715,
+    "wof:lastmodified":1497049066,
+    "wof:name":"Cachi",
+    "wof:parent_id":421182145,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.810167,
+    9.831706,
+    -83.810167,
+    9.831706
+],
+  "geometry": {"coordinates":[-83.81016700000001,9.831706],"type":"Point"}
+}

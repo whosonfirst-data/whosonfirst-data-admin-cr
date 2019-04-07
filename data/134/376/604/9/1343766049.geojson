@@ -1,0 +1,74 @@
+{
+  "id": 1343766049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.38173,10.89576,-85.38173,10.89576",
+    "geom:latitude":10.89576,
+    "geom:longitude":-85.38173,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"213",
+    "gn:admin3_code":"21306.0",
+    "gn:asciiname":"Colonia Dos Rios",
+    "gn:country_code":"CR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624167,
+    "gn:latitude":10.89576,
+    "gn:longitude":-85.38173,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Colonia Dos R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dos R\u00edos",
+        "Colonia Mayorga",
+        "Colonia Dos R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624167
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0710212369dfb5d13268e551b4b8234d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "locality_id":1343766049,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1343766049,
+    "wof:lastmodified":1537618870,
+    "wof:name":"Colonia Dos Rios",
+    "wof:parent_id":421172007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.38173,
+    10.89576,
+    -85.38173,
+    10.89576
+],
+  "geometry": {"coordinates":[-85.38173,10.89576],"type":"Point"}
+}

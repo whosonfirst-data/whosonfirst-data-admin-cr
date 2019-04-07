@@ -1,0 +1,69 @@
+{
+  "id": 1243179517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.08348,10.54302,-85.08348,10.54302",
+    "geom:latitude":10.54302,
+    "geom:longitude":-85.08348,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"506",
+    "gn:admin3_code":"50602.0",
+    "gn:asciiname":"Palmira",
+    "gn:country_code":"CR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622599,
+    "gn:latitude":10.54302,
+    "gn:longitude":-85.08348,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Palmira",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421201613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622599
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"97cf8ab3ab0f0f11887d8d80b17039ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201613,
+            "locality_id":1243179517,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1243179517,
+    "wof:lastmodified":1536693545,
+    "wof:name":"Palmira",
+    "wof:parent_id":421201613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.08348000000002,
+    10.54302,
+    -85.08348000000002,
+    10.54302
+],
+  "geometry": {"coordinates":[-85.08348000000002,10.54302],"type":"Point"}
+}

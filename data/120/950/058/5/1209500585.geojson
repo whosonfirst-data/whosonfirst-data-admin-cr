@@ -1,0 +1,63 @@
+{
+  "id": 1209500585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.38088,9.73889,-84.38088,9.73889",
+    "geom:latitude":9.73889,
+    "geom:longitude":-84.38088,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Vara Blanca",
+    "gn:country_code":"CR",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621125,
+    "gn:latitude":9.73889,
+    "gn:longitude":-84.38088,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Vara Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621125
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f85a6127b31d779284e5fc3c83f8b37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209500585
+        }
+    ],
+    "wof:id":1209500585,
+    "wof:lastmodified":1536285196,
+    "wof:name":"Vara Blanca",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.38088,
+    9.73889,
+    -84.38088,
+    9.73889
+],
+  "geometry": {"coordinates":[-84.38088,9.73889],"type":"Point"}
+}

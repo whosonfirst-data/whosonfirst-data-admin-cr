@@ -1,0 +1,63 @@
+{
+  "id": 1209117755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.38685,10.16142,-85.38685,10.16142",
+    "geom:latitude":10.16142,
+    "geom:longitude":-85.38685,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"502",
+    "gn:admin3_code":"50201.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"CR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621629,
+    "gn:latitude":10.16142,
+    "gn:longitude":-85.38685,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621629
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"180875e38b67e593288fb76db5458bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209117755
+        }
+    ],
+    "wof:id":1209117755,
+    "wof:lastmodified":1536297202,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.38685,
+    10.16142,
+    -85.38685,
+    10.16142
+],
+  "geometry": {"coordinates":[-85.38685,10.16142],"type":"Point"}
+}

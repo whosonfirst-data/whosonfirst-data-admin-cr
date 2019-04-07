@@ -1,0 +1,89 @@
+{
+  "id": 421182085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.03333,9.36667,-84.03333,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":-84.03333,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Savegre"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Savegre"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Savegre"
+    ],
+    "name:unk_x_variant":[
+        "Savegre de Quepos"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621482,
+    "qs:gn_pop":0,
+    "qs:name":"Savegre",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":506,
+    "qs:photos_1k":103,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":506,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887539,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59711,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421201601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621482,
+        "gp:id":59711,
+        "qs:id":887539
+    },
+    "wof:country":"CR",
+    "wof:created":1459009318,
+    "wof:geomhash":"0f068febffb573508d076c7b3295c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201601,
+            "locality_id":421182085,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421182085,
+    "wof:lastmodified":1527726431,
+    "wof:name":"Savegre",
+    "wof:parent_id":421201601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.03333,
+    9.36667,
+    -84.03333,
+    9.36667
+],
+  "geometry": {"coordinates":[-84.03333000000001,9.36667],"type":"Point"}
+}

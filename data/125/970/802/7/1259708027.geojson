@@ -1,0 +1,73 @@
+{
+  "id": 1259708027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.14129,10.06766,-84.14129,10.06766",
+    "geom:latitude":10.06766,
+    "geom:longitude":-84.14129,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"404",
+    "gn:admin3_code":"40404.0",
+    "gn:asciiname":"Comun",
+    "gn:country_code":"CR",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624149,
+    "gn:latitude":10.06766,
+    "gn:longitude":-84.14129,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Com\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Com\u00fan de Birr\u00ed",
+        "Com\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421202609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624149
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d05870b7cb74f2ede4f06056c42a305a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202609,
+            "locality_id":1259708027,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1259708027,
+    "wof:lastmodified":1537618870,
+    "wof:name":"Comun",
+    "wof:parent_id":421202609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.14129,
+    10.06766,
+    -84.14129,
+    10.06766
+],
+  "geometry": {"coordinates":[-84.14129,10.06766],"type":"Point"}
+}

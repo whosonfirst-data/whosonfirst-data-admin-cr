@@ -1,0 +1,98 @@
+{
+  "id": 421180737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18333,9.98333,-84.18333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-84.18333,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "San Antonio"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio"
+    ],
+    "name:nob_x_preferred":[
+        "San Antonio"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio de Bel\u00e9n"
+    ],
+    "name:unk_x_variant":[
+        "San Antonio de Belen"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621967,
+    "qs:gn_pop":10938,
+    "qs:name":"San Antonio",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Heredia",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1214169,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59326,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421197833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621967,
+        "gp:id":59326,
+        "qs:id":1214169,
+        "wd:id":"Q3946712"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009269,
+    "wof:geomhash":"1aa12f6328b0c4955ea74fe02695bb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421197833,
+            "locality_id":421180737,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":421180737,
+    "wof:lastmodified":1553816369,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421197833,
+    "wof:placetype":"locality",
+    "wof:population":10938,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18333,
+    9.98333,
+    -84.18333,
+    9.98333
+],
+  "geometry": {"coordinates":[-84.18333,9.98333],"type":"Point"}
+}

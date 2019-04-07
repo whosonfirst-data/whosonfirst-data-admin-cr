@@ -1,0 +1,79 @@
+{
+  "id": 421186097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.9556,9.92924,-84.9556,9.92924",
+    "geom:latitude":9.92924,
+    "geom:longitude":-84.9556,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Bajos Negros"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624802,
+    "qs:gn_pop":0,
+    "qs:name":"Bajo Negro",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":910187,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57769,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624802,
+        "gp:id":57769,
+        "qs:id":910187
+    },
+    "wof:country":"CR",
+    "wof:created":1459009464,
+    "wof:geomhash":"9516269971dca5c2856c769922103d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421186097,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421186097,
+    "wof:lastmodified":1501268180,
+    "wof:name":"Bajo Negro",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.9556,
+    9.92924,
+    -84.9556,
+    9.92924
+],
+  "geometry": {"coordinates":[-84.9556,9.92924],"type":"Point"}
+}

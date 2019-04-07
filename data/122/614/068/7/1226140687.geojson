@@ -1,0 +1,74 @@
+{
+  "id": 1226140687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.0662,9.91858,-83.0662,9.91858",
+    "geom:latitude":9.91858,
+    "geom:longitude":-83.0662,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"701",
+    "gn:admin3_code":"70104.0",
+    "gn:asciiname":"Bomba",
+    "gn:country_code":"CR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624650,
+    "gn:latitude":9.91858,
+    "gn:longitude":-83.0662,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Bomba",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00edo Banano",
+        "La Bomba",
+        "Bomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421188065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624650
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"1219f83a026c1181a48406a944293e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188065,
+            "locality_id":1226140687,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1226140687,
+    "wof:lastmodified":1537618873,
+    "wof:name":"Bomba",
+    "wof:parent_id":421188065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.0662,
+    9.91858,
+    -83.0662,
+    9.91858
+],
+  "geometry": {"coordinates":[-83.06619999999999,9.91858],"type":"Point"}
+}

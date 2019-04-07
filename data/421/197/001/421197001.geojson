@@ -1,0 +1,79 @@
+{
+  "id": 421197001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.123245,10.006167,-83.123245,10.006167",
+    "geom:latitude":10.006167,
+    "geom:longitude":-83.123245,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Rio Blanco",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":340,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":377,
+    "qs:photos_sr":5,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264142,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809137,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421188065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809137,
+        "qs:id":1264142,
+        "qs_pg:id":1264142
+    },
+    "wof:country":"CR",
+    "wof:created":1459009899,
+    "wof:geomhash":"3a6f8babfc11c92b54bef62f85fcd439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188065,
+            "localadmin_id":421197001,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421197001,
+    "wof:lastmodified":1497042685,
+    "wof:name":"Rio Blanco",
+    "wof:parent_id":421188065,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.123245,
+    10.006167,
+    -83.123245,
+    10.006167
+],
+  "geometry": {"coordinates":[-83.123245,10.006167],"type":"Point"}
+}

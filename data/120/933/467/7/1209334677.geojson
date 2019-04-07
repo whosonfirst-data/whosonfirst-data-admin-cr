@@ -1,0 +1,67 @@
+{
+  "id": 1209334677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18627,9.89575,-84.18627,9.89575",
+    "geom:latitude":9.89575,
+    "geom:longitude":-84.18627,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"109",
+    "gn:admin3_code":"10904.0",
+    "gn:asciiname":"Pabellon",
+    "gn:country_code":"CR",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622651,
+    "gn:latitude":9.89575,
+    "gn:longitude":-84.18627,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pabell\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Pabell\u00f3n",
+        "Pabell\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622651
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"aadd3b49fffb211921a695182fbf9dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209334677
+        }
+    ],
+    "wof:id":1209334677,
+    "wof:lastmodified":1537618858,
+    "wof:name":"Pabellon",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18627,
+    9.89575,
+    -84.18627,
+    9.89575
+],
+  "geometry": {"coordinates":[-84.18626999999999,9.89575],"type":"Point"}
+}

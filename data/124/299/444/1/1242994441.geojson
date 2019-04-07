@@ -1,0 +1,69 @@
+{
+  "id": 1242994441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.1148,9.85065,-85.1148,9.85065",
+    "geom:latitude":9.85065,
+    "geom:longitude":-85.1148,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60104.0",
+    "gn:asciiname":"Balsa",
+    "gn:country_code":"CR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624791,
+    "gn:latitude":9.85065,
+    "gn:longitude":-85.1148,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Balsa",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624791
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"3ba0a12549c8a2cb0813bb18074c9669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1242994441,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1242994441,
+    "wof:lastmodified":1536960212,
+    "wof:name":"Balsa",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.1148,
+    9.85065,
+    -85.1148,
+    9.85065
+],
+  "geometry": {"coordinates":[-85.1148,9.85065],"type":"Point"}
+}

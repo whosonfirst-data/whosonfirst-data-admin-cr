@@ -1,0 +1,73 @@
+{
+  "id": 1344049657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.99144,9.53726,-82.99144,9.53726",
+    "geom:latitude":9.53726,
+    "geom:longitude":-82.99144,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70404.0",
+    "gn:asciiname":"Coroma",
+    "gn:country_code":"CR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624087,
+    "gn:latitude":9.53726,
+    "gn:longitude":-82.99144,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Coroma",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koroma",
+        "Coroma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624087
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"571995644cf685b667d4d02406a566be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":1344049657,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1344049657,
+    "wof:lastmodified":1537618869,
+    "wof:name":"Coroma",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.99144,
+    9.53726,
+    -82.99144,
+    9.53726
+],
+  "geometry": {"coordinates":[-82.99144,9.53726],"type":"Point"}
+}

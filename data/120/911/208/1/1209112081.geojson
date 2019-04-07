@@ -1,0 +1,63 @@
+{
+  "id": 1209112081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.95915,10.47865,-83.95915,10.47865",
+    "geom:latitude":10.47865,
+    "geom:longitude":-83.95915,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41001.0",
+    "gn:asciiname":"Canfin",
+    "gn:country_code":"CR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9858494,
+    "gn:latitude":10.47865,
+    "gn:longitude":-83.95915,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Canfin",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9858494
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0dc4a8ee224a964f6b3f278f48b5bb65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209112081
+        }
+    ],
+    "wof:id":1209112081,
+    "wof:lastmodified":1536297373,
+    "wof:name":"Canfin",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.95915,
+    10.47865,
+    -83.95915,
+    10.47865
+],
+  "geometry": {"coordinates":[-83.95914999999999,10.47865],"type":"Point"}
+}

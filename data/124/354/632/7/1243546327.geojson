@@ -1,0 +1,69 @@
+{
+  "id": 1243546327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.20912,9.90201,-85.20912,9.90201",
+    "geom:latitude":9.90201,
+    "geom:longitude":-85.20912,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60104.0",
+    "gn:asciiname":"Juan de Leon",
+    "gn:country_code":"CR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623327,
+    "gn:latitude":9.90201,
+    "gn:longitude":-85.20912,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Juan de Le\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623327
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"927390725fe9a54f5f5a01498e42f07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1243546327,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1243546327,
+    "wof:lastmodified":1536661659,
+    "wof:name":"Juan de Leon",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.20912,
+    9.90201,
+    -85.20912,
+    9.90201
+],
+  "geometry": {"coordinates":[-85.20912,9.90201],"type":"Point"}
+}

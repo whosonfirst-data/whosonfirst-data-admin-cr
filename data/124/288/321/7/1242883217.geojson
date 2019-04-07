@@ -1,0 +1,69 @@
+{
+  "id": 1242883217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.74468,9.89412,-83.74468,9.89412",
+    "geom:latitude":9.89412,
+    "geom:longitude":-83.74468,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"304",
+    "gn:admin3_code":"30401.0",
+    "gn:asciiname":"Juan Vinas",
+    "gn:country_code":"CR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623318,
+    "gn:latitude":9.89412,
+    "gn:longitude":-83.74468,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Juan Vi\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421170047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623318
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"32d614f2523debd6c3a28bc1a66c6086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170047,
+            "locality_id":1242883217,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1242883217,
+    "wof:lastmodified":1536621336,
+    "wof:name":"Juan Vinas",
+    "wof:parent_id":421170047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.74468,
+    9.89412,
+    -83.74468,
+    9.89412
+],
+  "geometry": {"coordinates":[-83.74468,9.89412],"type":"Point"}
+}

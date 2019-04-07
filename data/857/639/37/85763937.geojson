@@ -1,0 +1,115 @@
+{
+  "id": 85763937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6780660.270502,
+    "geom:bbox":"-84.074257,9.963441,-84.074257,9.963441",
+    "geom:latitude":9.963441,
+    "geom:longitude":-84.074257,
+    "gn:latitude":9.95,
+    "gn:longitude":-84.08333,
+    "iso:country":"CR",
+    "lbl:latitude":9.963441,
+    "lbl:longitude":-84.074257,
+    "mps:latitude":9.966345,
+    "mps:longitude":-84.075602,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Mexico"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9xico"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Mexico"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Mexico",
+        "M\u00e9xico"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:gn_name":"M\u00e9xico",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"M\u00e9xico",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Carmen",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":41,
+    "qs:photo_sum":132,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26808924,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421202607,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622862,
+        "gp:id":58792,
+        "qs:id":228529
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"09316540920309ca1d219e22c96137ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202607,
+            "locality_id":-1,
+            "neighbourhood_id":85763937,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85763937,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858859,
+    "wof:name":"M\u00e9xico",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.074257,
+    9.963441,
+    -84.074257,
+    9.963441
+],
+  "geometry": {"coordinates":[-84.074257,9.963441],"type":"Point"}
+}

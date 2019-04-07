@@ -1,0 +1,73 @@
+{
+  "id": 1260182741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.05849,9.988,-84.05849,9.988",
+    "geom:latitude":9.988,
+    "geom:longitude":-84.05849,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"403",
+    "gn:admin3_code":"40307.0",
+    "gn:asciiname":"San Miguel Norte",
+    "gn:country_code":"CR",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621735,
+    "gn:latitude":9.988,
+    "gn:longitude":-84.05849,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Miguel Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Miguel",
+        "San Miguel Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421185327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621735
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"7c31beb4595e0118d471b4977ea66da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185327,
+            "locality_id":1260182741,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1260182741,
+    "wof:lastmodified":1537618850,
+    "wof:name":"San Miguel Norte",
+    "wof:parent_id":421185327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.05849,
+    9.988,
+    -84.05849,
+    9.988
+],
+  "geometry": {"coordinates":[-84.05849000000001,9.988],"type":"Point"}
+}

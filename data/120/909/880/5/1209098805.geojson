@@ -1,0 +1,67 @@
+{
+  "id": 1209098805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.96312,9.73707,-82.96312,9.73707",
+    "geom:latitude":9.73707,
+    "geom:longitude":-82.96312,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"701",
+    "gn:admin3_code":"70102.0",
+    "gn:asciiname":"Pandora",
+    "gn:country_code":"CR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622566,
+    "gn:latitude":9.73707,
+    "gn:longitude":-82.96312,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pandora",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Estrella",
+        "Pandora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622566
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4e7fe3385ae2e6a5ec1163e91bf76ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209098805
+        }
+    ],
+    "wof:id":1209098805,
+    "wof:lastmodified":1537618857,
+    "wof:name":"Pandora",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.96311999999998,
+    9.73707,
+    -82.96311999999998,
+    9.73707
+],
+  "geometry": {"coordinates":[-82.96311999999998,9.73707],"type":"Point"}
+}

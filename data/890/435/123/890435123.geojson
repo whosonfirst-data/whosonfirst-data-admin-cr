@@ -1,0 +1,70 @@
+{
+  "id": 890435123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.42337,10.05676,-84.42337,10.05676",
+    "geom:latitude":10.05676,
+    "geom:longitude":-84.42337,
+    "gn:country":"CR",
+    "gn:fcode":"PPL",
+    "gn:pop":1512,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Esquipulas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:latitude":"14.616666666",
+    "wd:longitude":"-89.2",
+    "wd:wordcount":2655,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421203763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623755,
+        "gp:id":59959,
+        "qs:id":149512,
+        "wk:page":"Esquipulas"
+    },
+    "wof:country":"CR",
+    "wof:created":1469052055,
+    "wof:geomhash":"3758843f6f7a0391512ad06072378365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203763,
+            "locality_id":890435123,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":890435123,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Esquipulas",
+    "wof:parent_id":421203763,
+    "wof:placetype":"locality",
+    "wof:population":1512,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.42337,
+    10.05676,
+    -84.42337,
+    10.05676
+],
+  "geometry": {"coordinates":[-84.42337000000001,10.05676],"type":"Point"}
+}

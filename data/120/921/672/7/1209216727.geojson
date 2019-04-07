@@ -1,0 +1,67 @@
+{
+  "id": 1209216727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.22929,10.63697,-85.22929,10.63697",
+    "geom:latitude":10.63697,
+    "geom:longitude":-85.22929,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50403.0",
+    "gn:asciiname":"Torno",
+    "gn:country_code":"CR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621256,
+    "gn:latitude":10.63697,
+    "gn:longitude":-85.22929,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Torno",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torino",
+        "Torno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621256
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"1836ed4853757c1d2a2c42bf2788f49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209216727
+        }
+    ],
+    "wof:id":1209216727,
+    "wof:lastmodified":1537618848,
+    "wof:name":"Torno",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.22929,
+    10.63697,
+    -85.22929,
+    10.63697
+],
+  "geometry": {"coordinates":[-85.22929000000001,10.63697],"type":"Point"}
+}

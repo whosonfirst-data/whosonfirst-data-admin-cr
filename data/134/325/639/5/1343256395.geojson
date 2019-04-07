@@ -1,0 +1,73 @@
+{
+  "id": 1343256395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.00449,8.68312,-83.00449,8.68312",
+    "geom:latitude":8.68312,
+    "geom:longitude":-83.00449,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"607",
+    "gn:admin3_code":"60703.0",
+    "gn:asciiname":"Tigre",
+    "gn:country_code":"CR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621293,
+    "gn:latitude":8.68312,
+    "gn:longitude":-83.00449,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tigre",
+        "Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421194697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621293
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"713bd798ce126a6c9820bf25bd574fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194697,
+            "locality_id":1343256395,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1343256395,
+    "wof:lastmodified":1537618848,
+    "wof:name":"Tigre",
+    "wof:parent_id":421194697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.00449,
+    8.68312,
+    -83.00449,
+    8.68312
+],
+  "geometry": {"coordinates":[-83.00449,8.68312],"type":"Point"}
+}

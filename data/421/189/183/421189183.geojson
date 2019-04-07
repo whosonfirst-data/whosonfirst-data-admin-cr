@@ -1,0 +1,79 @@
+{
+  "id": 421189183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.020862,9.657023,-84.020862,9.657023",
+    "geom:latitude":9.657023,
+    "geom:longitude":-84.020862,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Marcos",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1110271,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809213,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421169977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809213,
+        "qs:id":1110271,
+        "qs_pg:id":1110271
+    },
+    "wof:country":"CR",
+    "wof:created":1459009613,
+    "wof:geomhash":"4ad733351a19812d5811828e0b1077d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421169977,
+            "localadmin_id":421189183,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421189183,
+    "wof:lastmodified":1497044482,
+    "wof:name":"San Marcos",
+    "wof:parent_id":421169977,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.020862,
+    9.657023,
+    -84.020862,
+    9.657023
+],
+  "geometry": {"coordinates":[-84.02086199999999,9.657023],"type":"Point"}
+}

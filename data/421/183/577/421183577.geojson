@@ -1,0 +1,119 @@
+{
+  "id": 421183577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.55,10.45,-84.55,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-84.55,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0644\u0627\u0631\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Cant\u00f3n de Tilar\u00e1n"
+    ],
+    "name:chi_x_preferred":[
+        "\u8482\u62c9\u862d\u5340"
+    ],
+    "name:eng_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05dc\u05e8\u05d0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Cantone di Tilar\u00e1n"
+    ],
+    "name:nob_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:nor_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043b\u0430\u0440\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n de Tilar\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Cant\u00f3n de Tilar\u00e1n"
+    ],
+    "name:vie_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u62c9\u862d\u7e23"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624005,
+    "qs:gn_pop":0,
+    "qs:name":"Cuatro Esquinas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982495,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58183,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624005,
+        "gp:id":58183,
+        "qs:id":982495,
+        "wd:id":"Q7802056"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009374,
+    "wof:geomhash":"83f820e179b4ffe30c7d14dd0ff318d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":421183577,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421183577,
+    "wof:lastmodified":1513944289,
+    "wof:name":"Cuatro Esquinas",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.55,
+    10.45,
+    -84.55,
+    10.45
+],
+  "geometry": {"coordinates":[-84.55,10.45],"type":"Point"}
+}

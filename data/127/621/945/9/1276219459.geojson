@@ -1,0 +1,74 @@
+{
+  "id": 1276219459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.28333,9.4,-83.28333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-83.28333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"704",
+    "gn:admin3_code":"70404.0",
+    "gn:asciiname":"Sibubeta",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":2468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621460,
+    "gn:latitude":9.4,
+    "gn:longitude":-83.28333,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Sibubeta",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suebeta",
+        "Sibubeta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621460
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"06d556c524c333a9cebe08d2f1f2a975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":1276219459,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1276219459,
+    "wof:lastmodified":1537618849,
+    "wof:name":"Sibubeta",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.28333,
+    9.4,
+    -83.28333,
+    9.4
+],
+  "geometry": {"coordinates":[-83.28333000000001,9.4],"type":"Point"}
+}

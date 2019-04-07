@@ -1,0 +1,69 @@
+{
+  "id": 1343256239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.8366,10.28388,-84.8366,10.28388",
+    "geom:latitude":10.28388,
+    "geom:longitude":-84.8366,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60109.0",
+    "gn:asciiname":"La Lindora",
+    "gn:country_code":"CR",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9253687,
+    "gn:latitude":10.28388,
+    "gn:longitude":-84.8366,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"La Lindora",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253687
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4c09ff785d34266ff28be3a1e2c3358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1343256239,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1343256239,
+    "wof:lastmodified":1537039337,
+    "wof:name":"La Lindora",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.8366,
+    10.28388,
+    -84.8366,
+    10.28388
+],
+  "geometry": {"coordinates":[-84.8366,10.28388],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226244467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.61008,10.50672,-85.61008,10.50672",
+    "geom:latitude":10.50672,
+    "geom:longitude":-85.61008,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50503.0",
+    "gn:asciiname":"Hacienda El Porvenir",
+    "gn:country_code":"CR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623521,
+    "gn:latitude":10.50672,
+    "gn:longitude":-85.61008,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Hacienda El Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Porvenir",
+        "El Porvenir",
+        "Hacienda El Porvenir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421201615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623521
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0154bd39b19d7c3be708463931261627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201615,
+            "locality_id":1226244467,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226244467,
+    "wof:lastmodified":1537618865,
+    "wof:name":"Hacienda El Porvenir",
+    "wof:parent_id":421201615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.61008000000002,
+    10.50672,
+    -85.61008000000002,
+    10.50672
+],
+  "geometry": {"coordinates":[-85.61008000000002,10.50672],"type":"Point"}
+}

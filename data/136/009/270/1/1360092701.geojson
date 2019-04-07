@@ -1,0 +1,69 @@
+{
+  "id": 1360092701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.41961,9.99367,-85.41961,9.99367",
+    "geom:latitude":9.99367,
+    "geom:longitude":-85.41961,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"511",
+    "gn:admin3_code":"51102.0",
+    "gn:asciiname":"Guapinol",
+    "gn:country_code":"CR",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623578,
+    "gn:latitude":9.99367,
+    "gn:longitude":-85.41961,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Guapinol",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421171717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623578
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"bd2c042b5352f421391967c2acf032db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171717,
+            "locality_id":1360092701,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1360092701,
+    "wof:lastmodified":1536935374,
+    "wof:name":"Guapinol",
+    "wof:parent_id":421171717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.41960999999998,
+    9.99367,
+    -85.41960999999998,
+    9.99367
+],
+  "geometry": {"coordinates":[-85.41960999999998,9.99367],"type":"Point"}
+}

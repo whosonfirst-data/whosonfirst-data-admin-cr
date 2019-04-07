@@ -1,0 +1,73 @@
+{
+  "id": 1243271695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.35232,10.75417,-85.35232,10.75417",
+    "geom:latitude":10.75417,
+    "geom:longitude":-85.35232,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"501",
+    "gn:admin3_code":"50101.0",
+    "gn:asciiname":"Guachipelin",
+    "gn:country_code":"CR",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623608,
+    "gn:latitude":10.75417,
+    "gn:longitude":-85.35232,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Guachipel\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Guachipel\u00edn",
+        "Guachipel\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421188119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623608
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5ccebb04d45d0f8f7d5dcf6f964099cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188119,
+            "locality_id":1243271695,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1243271695,
+    "wof:lastmodified":1537618865,
+    "wof:name":"Guachipelin",
+    "wof:parent_id":421188119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.35231999999998,
+    10.75417,
+    -85.35231999999998,
+    10.75417
+],
+  "geometry": {"coordinates":[-85.35231999999998,10.75417],"type":"Point"}
+}

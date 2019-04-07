@@ -1,0 +1,76 @@
+{
+  "id": 421186571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.755975,9.654769,-82.755975,9.654769",
+    "geom:latitude":9.654769,
+    "geom:longitude":-82.755975,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Viejo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":3875,
+    "qs:photos_1k":785,
+    "qs:photos_9k":17,
+    "qs:photos_9r":12,
+    "qs:photos_all":3875,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074042,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59152,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":59152,
+        "qs:id":1074042
+    },
+    "wof:country":"CR",
+    "wof:created":1459009485,
+    "wof:geomhash":"af4658d0074e67f9168af00142aeefe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":421186571,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421186571,
+    "wof:lastmodified":1527716319,
+    "wof:name":"Puerto Viejo",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.755975,
+    9.654769,
+    -82.755975,
+    9.654769
+],
+  "geometry": {"coordinates":[-82.75597500000001,9.654769],"type":"Point"}
+}

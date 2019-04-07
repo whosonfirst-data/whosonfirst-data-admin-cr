@@ -1,0 +1,79 @@
+{
+  "id": 421190341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.01953,8.83087,-83.01953,8.83087",
+    "geom:latitude":8.83087,
+    "geom:longitude":-83.01953,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623057,
+    "qs:gn_pop":0,
+    "qs:name":"Limoncito",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53426,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58669,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-18.028889,
+    "wd:longitude":-63.403056,
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421171715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623057,
+        "gp:id":58669,
+        "qs:id":53426
+    },
+    "wof:country":"CR",
+    "wof:created":1459009654,
+    "wof:geomhash":"3b8509613c8b6c45eae27f8ee979bacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171715,
+            "locality_id":421190341,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421190341,
+    "wof:lastmodified":1527716392,
+    "wof:name":"Limoncito",
+    "wof:parent_id":421171715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.01953,
+    8.83087,
+    -83.01953,
+    8.83087
+],
+  "geometry": {"coordinates":[-83.01953,8.83087],"type":"Point"}
+}

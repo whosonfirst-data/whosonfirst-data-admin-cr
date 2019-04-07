@@ -1,0 +1,72 @@
+{
+  "id": 421197677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.16667,9.41667,-84.16667,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":-84.16667,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622244,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Quepos",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149499,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59147,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622244,
+        "gp:id":59147,
+        "qs:id":149499
+    },
+    "wof:country":"CR",
+    "wof:created":1459009921,
+    "wof:geomhash":"1f76b3c0962e78c08b7b0a41e6093373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "locality_id":421197677,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421197677,
+    "wof:lastmodified":1466635885,
+    "wof:name":"Puerto Quepos",
+    "wof:parent_id":85670385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.16667,
+    9.41667,
+    -84.16667,
+    9.41667
+],
+  "geometry": {"coordinates":[-84.16667,9.41667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276550483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.02372,9.78049,-84.02372,9.78049",
+    "geom:latitude":9.78049,
+    "geom:longitude":-84.02372,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"308",
+    "gn:admin3_code":"30804.0",
+    "gn:asciiname":"Caragral",
+    "gn:country_code":"CR",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624414,
+    "gn:latitude":9.78049,
+    "gn:longitude":-84.02372,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Caragral",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        1108693655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624414
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"141b2d653a7dc02e14a0f171d4ba46e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693655,
+            "locality_id":1276550483,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1276550483,
+    "wof:lastmodified":1536984222,
+    "wof:name":"Caragral",
+    "wof:parent_id":1108693655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.02372,
+    9.78049,
+    -84.02372,
+    9.78049
+],
+  "geometry": {"coordinates":[-84.02372,9.78049],"type":"Point"}
+}

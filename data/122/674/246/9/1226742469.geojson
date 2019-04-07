@@ -1,0 +1,69 @@
+{
+  "id": 1226742469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58478,10.15785,-83.58478,10.15785",
+    "geom:latitude":10.15785,
+    "geom:longitude":-83.58478,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"703",
+    "gn:admin3_code":"70304.0",
+    "gn:asciiname":"Williamsburg",
+    "gn:country_code":"CR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621042,
+    "gn:latitude":10.15785,
+    "gn:longitude":-83.58478,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Williamsburg",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621042
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e73a2c0c4753951f3976f1bd299e774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185331,
+            "locality_id":1226742469,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1226742469,
+    "wof:lastmodified":1536720611,
+    "wof:name":"Williamsburg",
+    "wof:parent_id":421185331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58478000000002,
+    10.15785,
+    -83.58478000000002,
+    10.15785
+],
+  "geometry": {"coordinates":[-83.58478000000002,10.15785],"type":"Point"}
+}

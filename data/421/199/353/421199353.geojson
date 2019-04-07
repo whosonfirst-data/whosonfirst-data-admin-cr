@@ -1,0 +1,76 @@
+{
+  "id": 421199353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.59794,10.407,-84.59794,10.407",
+    "geom:latitude":10.407,
+    "geom:longitude":-84.59794,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624287,
+    "qs:gn_pop":0,
+    "qs:name":"Chachagua",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474545,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58048,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421167885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624287,
+        "gp:id":58048,
+        "qs:id":474545
+    },
+    "wof:country":"CR",
+    "wof:created":1459009986,
+    "wof:geomhash":"b45373e7b6f0e474387c7b0dea2a8dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421167885,
+            "locality_id":421199353,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421199353,
+    "wof:lastmodified":1499977308,
+    "wof:name":"Chachagua",
+    "wof:parent_id":421167885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.59794,
+    10.407,
+    -84.59794,
+    10.407
+],
+  "geometry": {"coordinates":[-84.59793999999999,10.407],"type":"Point"}
+}

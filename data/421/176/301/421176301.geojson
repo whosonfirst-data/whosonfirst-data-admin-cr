@@ -1,0 +1,89 @@
+{
+  "id": 421176301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.31428,9.84636,-84.31428,9.84636",
+    "geom:latitude":9.84636,
+    "geom:longitude":-84.31428,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puriscal"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621524,
+    "qs:gn_pop":8292,
+    "qs:name":"Santiago",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045750,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809272,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":363,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621524,
+        "gp:id":26809272,
+        "qs:id":1045750,
+        "qs_pg:id":1045750,
+        "wd:id":"Q196298",
+        "wk:page":"Santiago de Puriscal"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009104,
+    "wof:geomhash":"f858c99f64bddfa3c1de28798936e034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "localadmin_id":421176301,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421176301,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Santiago",
+    "wof:parent_id":421175401,
+    "wof:placetype":"localadmin",
+    "wof:population":8292,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.31428,
+    9.84636,
+    -84.31428,
+    9.84636
+],
+  "geometry": {"coordinates":[-84.31428,9.84636],"type":"Point"}
+}

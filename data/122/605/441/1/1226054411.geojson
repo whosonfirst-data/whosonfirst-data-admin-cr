@@ -1,0 +1,69 @@
+{
+  "id": 1226054411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.67489,10.38256,-85.67489,10.38256",
+    "geom:latitude":10.38256,
+    "geom:longitude":-85.67489,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50305.0",
+    "gn:asciiname":"Cartagena",
+    "gn:country_code":"CR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624371,
+    "gn:latitude":10.38256,
+    "gn:longitude":-85.67489,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Cartagena",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624371
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"54575fe2f2d9c778cc90f83f0bfdc858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1226054411,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226054411,
+    "wof:lastmodified":1536712933,
+    "wof:name":"Cartagena",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.67489,
+    10.38256,
+    -85.67489,
+    10.38256
+],
+  "geometry": {"coordinates":[-85.67489,10.38256],"type":"Point"}
+}

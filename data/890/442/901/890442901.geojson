@@ -1,0 +1,64 @@
+{
+  "id": 890442901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.47044,10.08718,-84.47044,10.08718",
+    "geom:latitude":10.08718,
+    "geom:longitude":-84.47044,
+    "gn:country":"CR",
+    "gn:fcode":"ADM2",
+    "gn:pop":75182,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Cant\u00f3n de San Ram\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6946040,
+        "qs:id":653133
+    },
+    "wof:country":"CR",
+    "wof:created":1469052386,
+    "wof:geomhash":"d61819119cd2c74eea0459c5a9464f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":890442901,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":890442901,
+    "wof:lastmodified":1505343590,
+    "wof:name":"Cant\u00f3n de San Ram\u00f3n",
+    "wof:parent_id":85670393,
+    "wof:placetype":"county",
+    "wof:population":75182,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.47044,
+    10.08718,
+    -84.47044,
+    10.08718
+],
+  "geometry": {"coordinates":[-84.47044,10.08718],"type":"Point"}
+}

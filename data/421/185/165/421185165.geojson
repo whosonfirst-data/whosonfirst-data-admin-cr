@@ -1,0 +1,75 @@
+{
+  "id": 421185165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.93829,9.877878,-83.93829,9.877878",
+    "geom:latitude":9.877878,
+    "geom:longitude":-83.93829,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Nicolas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1018874,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809219,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421189139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809219,
+        "qs:id":1018874
+    },
+    "wof:country":"CR",
+    "wof:created":1459009434,
+    "wof:geomhash":"ba268993b95f39386fd915facacf1d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189139,
+            "localadmin_id":421185165,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421185165,
+    "wof:lastmodified":1499976204,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":421189139,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.93829,
+    9.877878,
+    -83.93829,
+    9.877878
+],
+  "geometry": {"coordinates":[-83.93828999999999,9.877878],"type":"Point"}
+}

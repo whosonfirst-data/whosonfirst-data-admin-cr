@@ -1,0 +1,95 @@
+{
+  "id": 421201265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21296,9.49446,-84.21296,9.49446",
+    "geom:latitude":9.49446,
+    "geom:longitude":-84.21296,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Damas"
+    ],
+    "name:ceb_x_preferred":[
+        "Damas"
+    ],
+    "name:deu_x_preferred":[
+        "Damas"
+    ],
+    "name:fra_x_preferred":[
+        "Damas"
+    ],
+    "name:pol_x_preferred":[
+        "Damas"
+    ],
+    "name:swe_x_preferred":[
+        "Damas"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623968,
+    "qs:gn_pop":0,
+    "qs:name":"Damas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":240,
+    "qs:photos_1k":49,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":240,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211032,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58199,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":225,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421201601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623968,
+        "gp:id":58199,
+        "qs:id":211032
+    },
+    "wof:country":"CR",
+    "wof:created":1459010067,
+    "wof:geomhash":"03982f21cebff8bdb99798713f6dda5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201601,
+            "locality_id":421201265,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421201265,
+    "wof:lastmodified":1527716440,
+    "wof:name":"Damas",
+    "wof:parent_id":421201601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21296,
+    9.49446,
+    -84.21296,
+    9.49446
+],
+  "geometry": {"coordinates":[-84.21296,9.49446],"type":"Point"}
+}

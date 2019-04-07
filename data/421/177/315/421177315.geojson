@@ -1,0 +1,105 @@
+{
+  "id": 421177315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.97092,8.82079,-82.97092,8.82079",
+    "geom:latitude":8.82079,
+    "geom:longitude":-82.97092,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7dad\u6258\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Vito"
+    ],
+    "name:eng_x_preferred":[
+        "San Vito"
+    ],
+    "name:ita_x_preferred":[
+        "San Vito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30f4\u30a3\u30c8\u30fb\u30c7\u30fb\u30b8\u30e3\u30d0"
+    ],
+    "name:nob_x_preferred":[
+        "San Vito"
+    ],
+    "name:spa_x_preferred":[
+        "San Vito"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad San Vito"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621501,
+    "qs:gn_pop":3981,
+    "qs:name":"San Vito",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":192,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":192,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1174544,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59602,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421171715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621501,
+        "gp:id":59602,
+        "qs:id":1174544,
+        "wd:id":"Q3948042"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009140,
+    "wof:geomhash":"e581ec993897e0811d100b1edbcff2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171715,
+            "locality_id":421177315,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421177315,
+    "wof:lastmodified":1553816367,
+    "wof:name":"San Vito",
+    "wof:parent_id":421171715,
+    "wof:placetype":"locality",
+    "wof:population":3981,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.97092,
+    8.82079,
+    -82.97092,
+    8.82079
+],
+  "geometry": {"coordinates":[-82.97092000000001,8.82079],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209936163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.6314,9.43393,-83.6314,9.43393",
+    "geom:latitude":9.43393,
+    "geom:longitude":-83.6314,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"119",
+    "gn:admin3_code":"11904.0",
+    "gn:asciiname":"Chimirol",
+    "gn:country_code":"CR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624254,
+    "gn:latitude":9.43393,
+    "gn:longitude":-83.6314,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chimirol",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421182141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624254
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f8f6c6a2745add3200246c93f2f6ac59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182141,
+            "locality_id":1209936163,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1209936163,
+    "wof:lastmodified":1536390553,
+    "wof:name":"Chimirol",
+    "wof:parent_id":421182141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.6314,
+    9.43393,
+    -83.6314,
+    9.43393
+],
+  "geometry": {"coordinates":[-83.6314,9.43393],"type":"Point"}
+}

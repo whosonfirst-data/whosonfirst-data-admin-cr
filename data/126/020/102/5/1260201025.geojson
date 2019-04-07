@@ -1,0 +1,73 @@
+{
+  "id": 1260201025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.03357,10.95724,-85.03357,10.95724",
+    "geom:latitude":10.95724,
+    "geom:longitude":-85.03357,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"213",
+    "gn:admin3_code":"21305.0",
+    "gn:asciiname":"Delicias",
+    "gn:country_code":"CR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623943,
+    "gn:latitude":10.95724,
+    "gn:longitude":-85.03357,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Delicias",
+        "Delicias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623943
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f717a9dbeed9c0a3f56e4de2708b1f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "locality_id":1260201025,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1260201025,
+    "wof:lastmodified":1537618868,
+    "wof:name":"Delicias",
+    "wof:parent_id":421172007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.03357,
+    10.95724,
+    -85.03357,
+    10.95724
+],
+  "geometry": {"coordinates":[-85.03357,10.95724],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209432617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.45763,9.94614,-84.45763,9.94614",
+    "geom:latitude":9.94614,
+    "geom:longitude":-84.45763,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20502.0",
+    "gn:asciiname":"Barroeta",
+    "gn:country_code":"CR",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624739,
+    "gn:latitude":9.94614,
+    "gn:longitude":-84.45763,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Barroeta",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624739
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"745733543f984271c1dbc4373a1c1bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209432617
+        }
+    ],
+    "wof:id":1209432617,
+    "wof:lastmodified":1536287194,
+    "wof:name":"Barroeta",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.45763000000002,
+    9.94614,
+    -84.45763000000002,
+    9.94614
+],
+  "geometry": {"coordinates":[-84.45763000000002,9.94614],"type":"Point"}
+}

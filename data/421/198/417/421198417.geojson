@@ -1,0 +1,79 @@
+{
+  "id": 421198417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0305,9.95808,-84.0305,9.95808",
+    "geom:latitude":9.95808,
+    "geom:longitude":-84.0305,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622217,
+    "qs:gn_pop":30034,
+    "qs:name":"Purral",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1200376,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59162,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        1108693657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622217,
+        "gp:id":59162,
+        "qs:id":1200376
+    },
+    "wof:country":"CR",
+    "wof:created":1459009947,
+    "wof:geomhash":"edd23a525cc6d2c489cf9a4666f2c583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693657,
+            "locality_id":421198417,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421198417,
+    "wof:lastmodified":1505340755,
+    "wof:name":"Purral",
+    "wof:parent_id":1108693657,
+    "wof:placetype":"locality",
+    "wof:population":30034,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0305,
+    9.95808,
+    -84.0305,
+    9.95808
+],
+  "geometry": {"coordinates":[-84.0305,9.95808],"type":"Point"}
+}

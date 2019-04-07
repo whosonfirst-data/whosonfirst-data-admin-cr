@@ -1,0 +1,69 @@
+{
+  "id": 1327152093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.33975,10.08447,-84.33975,10.08447",
+    "geom:latitude":10.08447,
+    "geom:longitude":-84.33975,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"212",
+    "gn:admin3_code":"21202.0",
+    "gn:asciiname":"Sarchi Sur",
+    "gn:country_code":"CR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621493,
+    "gn:latitude":10.08447,
+    "gn:longitude":-84.33975,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Sarch\u00ed Sur",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421175407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621493
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"8f93d72984c5d3255a58fa46d519e738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175407,
+            "locality_id":1327152093,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1327152093,
+    "wof:lastmodified":1537082359,
+    "wof:name":"Sarchi Sur",
+    "wof:parent_id":421175407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.33975,
+    10.08447,
+    -84.33975,
+    10.08447
+],
+  "geometry": {"coordinates":[-84.33975,10.08447],"type":"Point"}
+}

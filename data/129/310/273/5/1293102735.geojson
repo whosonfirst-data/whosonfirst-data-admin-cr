@@ -1,0 +1,72 @@
+{
+  "id": 1293102735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.72073,10.43059,-84.72073,10.43059",
+    "geom:latitude":10.43059,
+    "geom:longitude":-84.72073,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21007.0",
+    "gn:asciiname":"National Park Arenal",
+    "gn:country_code":"CR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335098,
+    "gn:latitude":10.43059,
+    "gn:longitude":-84.72073,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"National Park Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Parque Nacional Arenal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335098
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f3f27e6577a4a28a9249e32434606465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1293102735,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1293102735,
+    "wof:lastmodified":1537503899,
+    "wof:name":"National Park Arenal",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.72073,
+    10.43059,
+    -84.72073,
+    10.43059
+],
+  "geometry": {"coordinates":[-84.72073,10.43059],"type":"Point"}
+}

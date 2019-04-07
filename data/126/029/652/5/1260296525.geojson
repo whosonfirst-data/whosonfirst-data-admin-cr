@@ -1,0 +1,74 @@
+{
+  "id": 1260296525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.63333,11.1,-85.63333,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":-85.63333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"510",
+    "gn:admin3_code":"51001.0",
+    "gn:asciiname":"Pocitos",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622328,
+    "gn:latitude":11.1,
+    "gn:longitude":-85.63333,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pocitos",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pocitas",
+        "Pocitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622328
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5e6d94746a126ece5a96f5f75b7c30c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170049,
+            "locality_id":1260296525,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1260296525,
+    "wof:lastmodified":1537618855,
+    "wof:name":"Pocitos",
+    "wof:parent_id":421170049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.63333,
+    11.1,
+    -85.63333,
+    11.1
+],
+  "geometry": {"coordinates":[-85.63333,11.1],"type":"Point"}
+}

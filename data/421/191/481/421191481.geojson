@@ -1,0 +1,79 @@
+{
+  "id": 421191481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46195,10.382466,-84.46195,10.382466",
+    "geom:latitude":10.382466,
+    "geom:longitude":-84.46195,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Florencia",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1137341,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26808985,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808985,
+        "qs:id":1137341,
+        "qs_pg:id":1137341
+    },
+    "wof:country":"CR",
+    "wof:created":1459009694,
+    "wof:geomhash":"a77b252167fe31478af948fe1cb83835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "localadmin_id":421191481,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421191481,
+    "wof:lastmodified":1497045720,
+    "wof:name":"Florencia",
+    "wof:parent_id":421183457,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46195,
+    10.382466,
+    -84.46195,
+    10.382466
+],
+  "geometry": {"coordinates":[-84.46195,10.382466],"type":"Point"}
+}

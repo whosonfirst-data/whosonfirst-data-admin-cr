@@ -1,0 +1,75 @@
+{
+  "id": 421173265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.902257,10.388545,-84.902257,10.388545",
+    "geom:latitude":10.388545,
+    "geom:longitude":-84.902257,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Quebrada Grande",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":108,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":286187,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809129,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809129,
+        "qs:id":286187
+    },
+    "wof:country":"CR",
+    "wof:created":1459008976,
+    "wof:geomhash":"2b49f067097c5840394c7157d030435c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170251,
+            "localadmin_id":421173265,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421173265,
+    "wof:lastmodified":1499977323,
+    "wof:name":"Quebrada Grande",
+    "wof:parent_id":421170251,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.902257,
+    10.388545,
+    -84.902257,
+    10.388545
+],
+  "geometry": {"coordinates":[-84.90225700000001,10.388545],"type":"Point"}
+}

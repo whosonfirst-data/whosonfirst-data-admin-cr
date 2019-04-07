@@ -1,0 +1,69 @@
+{
+  "id": 1293606611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.04062,10.83703,-85.04062,10.83703",
+    "geom:latitude":10.83703,
+    "geom:longitude":-85.04062,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"213",
+    "gn:admin3_code":"21301.0",
+    "gn:asciiname":"Canalete",
+    "gn:country_code":"CR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624474,
+    "gn:latitude":10.83703,
+    "gn:longitude":-85.04062,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Canalete",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624474
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"32fece2ee51367b4371a22325efe1ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "locality_id":1293606611,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1293606611,
+    "wof:lastmodified":1536612935,
+    "wof:name":"Canalete",
+    "wof:parent_id":421172007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.04061999999998,
+    10.83703,
+    -85.04061999999998,
+    10.83703
+],
+  "geometry": {"coordinates":[-85.04061999999998,10.83703],"type":"Point"}
+}

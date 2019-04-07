@@ -1,0 +1,73 @@
+{
+  "id": 1326950101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35311,9.70565,-84.35311,9.70565",
+    "geom:latitude":9.70565,
+    "geom:longitude":-84.35311,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10409.0",
+    "gn:asciiname":"Concepcion",
+    "gn:country_code":"CR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624145,
+    "gn:latitude":9.70565,
+    "gn:longitude":-84.35311,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto Concepci\u00f3n",
+        "Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624145
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"8f0d35da6375b2253543fb2c6ca73408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1326950101,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1326950101,
+    "wof:lastmodified":1537618869,
+    "wof:name":"Concepcion",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35311,
+    9.70565,
+    -84.35311,
+    9.70565
+],
+  "geometry": {"coordinates":[-84.35311,9.70565],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343470567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71667,10.28333,-85.71667,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":-85.71667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50303.0",
+    "gn:asciiname":"Caimito",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624520,
+    "gn:latitude":10.28333,
+    "gn:longitude":-85.71667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Caimito",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Caimito",
+        "Caimito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624520
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"593ee3f9ad2f944094c0aafd2da38313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1343470567,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1343470567,
+    "wof:lastmodified":1537618872,
+    "wof:name":"Caimito",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71667,
+    10.28333,
+    -85.71667,
+    10.28333
+],
+  "geometry": {"coordinates":[-85.71666999999999,10.28333],"type":"Point"}
+}

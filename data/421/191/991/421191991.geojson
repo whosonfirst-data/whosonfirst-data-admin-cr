@@ -1,0 +1,94 @@
+{
+  "id": 421191991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.29733,9.81603,-85.29733,9.81603",
+    "geom:latitude":9.81603,
+    "geom:longitude":-85.29733,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03b9\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Ca\u00f1as"
+    ],
+    "name:lit_x_preferred":[
+        "Kanjasas"
+    ],
+    "name:nor_x_preferred":[
+        "Ca\u00f1as"
+    ],
+    "name:pol_x_preferred":[
+        "Ca\u00f1as"
+    ],
+    "name:spa_x_preferred":[
+        "Ca\u00f1as"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623379,
+    "qs:gn_pop":0,
+    "qs:name":"Jabilla",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165008,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58510,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623379,
+        "gp:id":58510,
+        "qs:id":1165008
+    },
+    "wof:country":"CR",
+    "wof:created":1459009722,
+    "wof:geomhash":"ab5c45b1feed4a5a5432f97a318a47f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693661,
+            "locality_id":421191991,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421191991,
+    "wof:lastmodified":1499977330,
+    "wof:name":"Jabilla",
+    "wof:parent_id":1108693661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.29733,
+    9.81603,
+    -85.29733,
+    9.81603
+],
+  "geometry": {"coordinates":[-85.29733,9.81603],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 85765765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11481849.111698,
+    "geom:bbox":"-84.049244,9.933202,-84.049244,9.933202",
+    "geom:latitude":9.933202,
+    "geom:longitude":-84.049244,
+    "gn:id":"",
+    "iso:country":"CR",
+    "lbl:latitude":9.933202,
+    "lbl:longitude":-84.049244,
+    "mps:latitude":9.938741,
+    "mps:longitude":-84.038474,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:ita_x_preferred":[
+        "Zapote"
+    ],
+    "name:nor_x_preferred":[
+        "Zapote"
+    ],
+    "name:spa_x_preferred":[
+        "Yoses Sur",
+        "Zapote"
+    ],
+    "name:unk_x_variant":[
+        "Yoses Sur"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6ce2\u7279\u5340"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_id":0,
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Yoses Sur",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Zapote",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":305,
+    "qs:photo_sum":1632,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26809330,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421169975,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723659,
+        "qs:id":224732
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b677292e90fe4f1a18c96a48a34034b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421169975,
+            "locality_id":-1,
+            "neighbourhood_id":85765765,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765765,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859047,
+    "wof:name":"Yoses Sur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.049244,
+    9.933202,
+    -84.049244,
+    9.933202
+],
+  "geometry": {"coordinates":[-84.049244,9.933202],"type":"Point"}
+}

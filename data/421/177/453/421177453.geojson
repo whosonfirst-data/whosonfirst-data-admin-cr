@@ -1,0 +1,79 @@
+{
+  "id": 421177453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.35906,8.57514,-83.35906,8.57514",
+    "geom:latitude":8.57514,
+    "geom:longitude":-83.35906,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "El Sandalo"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621928,
+    "qs:gn_pop":0,
+    "qs:name":"S\u00e1ndalo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":106,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340714,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59604,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421194697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621928,
+        "gp:id":59604,
+        "qs:id":1340714
+    },
+    "wof:country":"CR",
+    "wof:created":1459009145,
+    "wof:geomhash":"dd38ed14cc898682ed72373e8a1077e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194697,
+            "locality_id":421177453,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421177453,
+    "wof:lastmodified":1501268153,
+    "wof:name":"S\u00e1ndalo",
+    "wof:parent_id":421194697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.35906,
+    8.57514,
+    -83.35906,
+    8.57514
+],
+  "geometry": {"coordinates":[-83.35906,8.57514],"type":"Point"}
+}

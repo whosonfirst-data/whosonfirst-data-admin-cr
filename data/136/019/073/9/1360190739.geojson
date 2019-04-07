@@ -1,0 +1,76 @@
+{
+  "id": 1360190739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.05,9.96667,-84.05,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":-84.05,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"114",
+    "gn:asciiname":"Isla de Tibas",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623387,
+    "gn:latitude":9.96667,
+    "gn:longitude":-84.05,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Isla de Tib\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isla",
+        "La Isla",
+        "Tib\u00e1s",
+        "Isla de Tib\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421203271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623387,
+        "wk:page":"Tib%C3%A1s"
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e9fc6207df62e9685c9603c6485dbcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203271,
+            "locality_id":1360190739,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1360190739,
+    "wof:lastmodified":1537618863,
+    "wof:name":"Isla de Tibas",
+    "wof:parent_id":421203271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.05,
+    9.96667,
+    -84.05,
+    9.96667
+],
+  "geometry": {"coordinates":[-84.05,9.96667],"type":"Point"}
+}

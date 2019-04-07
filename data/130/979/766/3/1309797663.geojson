@@ -1,0 +1,74 @@
+{
+  "id": 1309797663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.11667,9.71667,-85.11667,9.71667",
+    "geom:latitude":9.71667,
+    "geom:longitude":-85.11667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60111.0",
+    "gn:asciiname":"Ario",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624856,
+    "gn:latitude":9.71667,
+    "gn:longitude":-85.11667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Ar\u00edo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ario Este",
+        "Ar\u00edo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624856
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"21d68e49e8a84328626666e56bfa855d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1309797663,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1309797663,
+    "wof:lastmodified":1537618875,
+    "wof:name":"Ario",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.11667,
+    9.71667,
+    -85.11667,
+    9.71667
+],
+  "geometry": {"coordinates":[-85.11667,9.71667],"type":"Point"}
+}

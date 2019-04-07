@@ -1,0 +1,69 @@
+{
+  "id": 1360007115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.55225,9.01478,-83.55225,9.01478",
+    "geom:latitude":9.01478,
+    "geom:longitude":-83.55225,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"605",
+    "gn:admin3_code":"60501.0",
+    "gn:asciiname":"Chontales",
+    "gn:country_code":"CR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624220,
+    "gn:latitude":9.01478,
+    "gn:longitude":-83.55225,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chontales",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624220
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a81ea692737f067339b2ab0e2386e20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":1360007115,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1360007115,
+    "wof:lastmodified":1537055763,
+    "wof:name":"Chontales",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.55225,
+    9.01478,
+    -83.55225,
+    9.01478
+],
+  "geometry": {"coordinates":[-83.55225,9.01478],"type":"Point"}
+}

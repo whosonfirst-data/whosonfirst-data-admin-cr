@@ -1,0 +1,69 @@
+{
+  "id": 1243065219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.13315,10.03945,-83.13315,10.03945",
+    "geom:latitude":10.03945,
+    "geom:longitude":-83.13315,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"701",
+    "gn:admin3_code":"70101.0",
+    "gn:asciiname":"Nueve Millas",
+    "gn:country_code":"CR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622697,
+    "gn:latitude":10.03945,
+    "gn:longitude":-83.13315,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Nueve Millas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421188065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622697
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"916ba7dc43a5c7e9eeada36c3cc8394e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188065,
+            "locality_id":1243065219,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1243065219,
+    "wof:lastmodified":1536856893,
+    "wof:name":"Nueve Millas",
+    "wof:parent_id":421188065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.13315,
+    10.03945,
+    -83.13315,
+    10.03945
+],
+  "geometry": {"coordinates":[-83.13315,10.03945],"type":"Point"}
+}

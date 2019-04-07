@@ -1,0 +1,74 @@
+{
+  "id": 1360192199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.75,10.36667,-85.75,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-85.75,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50304.0",
+    "gn:asciiname":"Chorro",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624218,
+    "gn:latitude":10.36667,
+    "gn:longitude":-85.75,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Chorro",
+        "Chorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624218
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4950ae43697517e1d1dfbda029407831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1360192199,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1360192199,
+    "wof:lastmodified":1537618871,
+    "wof:name":"Chorro",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.75,
+    10.36667,
+    -85.75,
+    10.36667
+],
+  "geometry": {"coordinates":[-85.75,10.36667],"type":"Point"}
+}

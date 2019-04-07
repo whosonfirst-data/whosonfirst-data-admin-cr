@@ -1,0 +1,84 @@
+{
+  "id": 421169545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.95488,10.45422,-84.95488,10.45422",
+    "geom:latitude":10.45422,
+    "geom:longitude":-84.95488,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ina_x_preferred":[
+        "Pedro Lombardia"
+    ],
+    "name:spa_x_preferred":[
+        "Pedro Lombard\u00eda"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623020,
+    "qs:gn_pop":0,
+    "qs:name":"Lombard\u00eda",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211043,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58697,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":384,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623020,
+        "gp:id":58697,
+        "qs:id":211043,
+        "wd:id":"Q6069330"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008814,
+    "wof:geomhash":"33b5e6a29f7a1549cd1904f3d750ad79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170251,
+            "locality_id":421169545,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421169545,
+    "wof:lastmodified":1527716170,
+    "wof:name":"Lombard\u00eda",
+    "wof:parent_id":421170251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.95488,
+    10.45422,
+    -84.95488,
+    10.45422
+],
+  "geometry": {"coordinates":[-84.95488,10.45422],"type":"Point"}
+}

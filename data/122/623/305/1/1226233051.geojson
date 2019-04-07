@@ -1,0 +1,73 @@
+{
+  "id": 1226233051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.01614,10.00711,-84.01614,10.00711",
+    "geom:latitude":10.00711,
+    "geom:longitude":-84.01614,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"114",
+    "gn:admin3_code":"11402.0",
+    "gn:asciiname":"San Jeronimo",
+    "gn:country_code":"CR",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621865,
+    "gn:latitude":10.00711,
+    "gn:longitude":-84.01614,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Ger\u00f3nimo",
+        "San Jer\u00f3nimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421203271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621865
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"882d38c5e0aed9f893d83022243dc7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203271,
+            "locality_id":1226233051,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1226233051,
+    "wof:lastmodified":1537618852,
+    "wof:name":"San Jeronimo",
+    "wof:parent_id":421203271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.01614000000002,
+    10.00711,
+    -84.01614000000002,
+    10.00711
+],
+  "geometry": {"coordinates":[-84.01614000000002,10.00711],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 421170203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.05279,9.94611,-84.05279,9.94611",
+    "geom:latitude":9.94611,
+    "geom:longitude":-84.05279,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:chi_x_preferred":[
+        "\u74dc\u9054\u76e7\u4f69"
+    ],
+    "name:dut_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:eng_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fra_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:fre_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:ita_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:nob_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:nor_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:spa_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:swe_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:unk_x_variant":[
+        "Goicoechea"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u9054\u76e7\u4f69"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623593,
+    "qs:gn_pop":26005,
+    "qs:name":"Guadalupe",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":175,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":228531,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58399,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        1108693657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623593,
+        "gp:id":58399,
+        "qs:id":228531,
+        "wd:id":"Q3778059",
+        "wk:page":"Guadalupe, Costa Rica"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008842,
+    "wof:geomhash":"b84613aa56e22458cd91109683ad0ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693657,
+            "locality_id":421170203,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421170203,
+    "wof:lastmodified":1527716461,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":1108693657,
+    "wof:placetype":"locality",
+    "wof:population":26005,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.05279,
+    9.94611,
+    -84.05279,
+    9.94611
+],
+  "geometry": {"coordinates":[-84.05279,9.94611],"type":"Point"}
+}

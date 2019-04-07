@@ -1,0 +1,75 @@
+{
+  "id": 421190543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338264,10.923325,-84.338264,10.923325",
+    "geom:latitude":10.923325,
+    "geom:longitude":-84.338264,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Castillo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":221,
+    "qs:photos_1k":45,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":824,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119698,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813406,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813406,
+        "qs:id":1119698,
+        "wd:id":"Q412671"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009660,
+    "wof:geomhash":"c627eb5e264e38f34a8b83429e2c6005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190543,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421190543,
+    "wof:lastmodified":1527716393,
+    "wof:name":"El Castillo",
+    "wof:parent_id":85670393,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.338264,
+    10.923325,
+    -84.338264,
+    10.923325
+],
+  "geometry": {"coordinates":[-84.338264,10.923325],"type":"Point"}
+}

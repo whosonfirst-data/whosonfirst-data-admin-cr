@@ -1,0 +1,74 @@
+{
+  "id": 1309715447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.06961,9.79764,-84.06961,9.79764",
+    "geom:latitude":9.79764,
+    "geom:longitude":-84.06961,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"301",
+    "gn:admin3_code":"30107.0",
+    "gn:asciiname":"San Juan Norte",
+    "gn:country_code":"CR",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621796,
+    "gn:latitude":9.79764,
+    "gn:longitude":-84.06961,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Juan Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Norte San Juan de Tobosi",
+        "San Juan de Tobos\u00ed Norte",
+        "San Juan Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421189139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621796
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"dc74d36db61e4495700a851e180f74c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189139,
+            "locality_id":1309715447,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1309715447,
+    "wof:lastmodified":1537618851,
+    "wof:name":"San Juan Norte",
+    "wof:parent_id":421189139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.06961,
+    9.79764,
+    -84.06961,
+    9.79764
+],
+  "geometry": {"coordinates":[-84.06961,9.79764],"type":"Point"}
+}

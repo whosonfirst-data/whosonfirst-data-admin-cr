@@ -1,0 +1,79 @@
+{
+  "id": 421187195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.25452,9.96277,-84.25452,9.96277",
+    "geom:latitude":9.96277,
+    "geom:longitude":-84.25452,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Gu\u00e1cima"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623605,
+    "qs:gn_pop":0,
+    "qs:name":"Gu\u00e1cima",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":419,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":419,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082572,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58388,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421201603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623605,
+        "gp:id":58388,
+        "qs:id":1082572
+    },
+    "wof:country":"CR",
+    "wof:created":1459009504,
+    "wof:geomhash":"777f75c37b69746bee7e7710e37664c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201603,
+            "locality_id":421187195,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421187195,
+    "wof:lastmodified":1501268157,
+    "wof:name":"Gu\u00e1cima",
+    "wof:parent_id":421201603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.25452,
+    9.96277,
+    -84.25452,
+    9.96277
+],
+  "geometry": {"coordinates":[-84.25452,9.96277],"type":"Point"}
+}

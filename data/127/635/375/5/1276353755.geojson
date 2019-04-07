@@ -1,0 +1,73 @@
+{
+  "id": 1276353755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35151,10.17997,-84.35151,10.17997",
+    "geom:latitude":10.17997,
+    "geom:longitude":-84.35151,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20604.0",
+    "gn:asciiname":"Chayote",
+    "gn:country_code":"CR",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624266,
+    "gn:latitude":10.17997,
+    "gn:longitude":-84.35151,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Chayote",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa Vieja",
+        "Chayote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421175393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624266
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5480aefcce1f62c3c7aee73e2a3f3afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175393,
+            "locality_id":1276353755,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1276353755,
+    "wof:lastmodified":1537618871,
+    "wof:name":"Chayote",
+    "wof:parent_id":421175393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35151,
+    10.17997,
+    -84.35151,
+    10.17997
+],
+  "geometry": {"coordinates":[-84.35151,10.17997],"type":"Point"}
+}

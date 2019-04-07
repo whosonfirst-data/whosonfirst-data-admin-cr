@@ -1,0 +1,74 @@
+{
+  "id": 1293024973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10448,9.99352,-84.10448,9.99352",
+    "geom:latitude":9.99352,
+    "geom:longitude":-84.10448,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"409",
+    "gn:admin3_code":"40901.0",
+    "gn:asciiname":"Puebla",
+    "gn:country_code":"CR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623152,
+    "gn:latitude":9.99352,
+    "gn:longitude":-84.10448,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Puebla",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puebla Este",
+        "La Puebla Oeste",
+        "La Puebla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421180915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623152
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"6f681b7604f89a5479e68c321d14e6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421180915,
+            "locality_id":1293024973,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1293024973,
+    "wof:lastmodified":1537618861,
+    "wof:name":"Puebla",
+    "wof:parent_id":421180915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10448000000002,
+    9.99352,
+    -84.10448000000002,
+    9.99352
+],
+  "geometry": {"coordinates":[-84.10448000000002,9.99352],"type":"Point"}
+}

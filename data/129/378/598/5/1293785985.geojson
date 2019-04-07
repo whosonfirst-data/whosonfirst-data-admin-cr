@@ -1,0 +1,74 @@
+{
+  "id": 1293785985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.55,11.16667,-85.55,11.16667",
+    "geom:latitude":11.16667,
+    "geom:longitude":-85.55,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"510",
+    "gn:admin3_code":"51001.0",
+    "gn:asciiname":"Los Andes",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623013,
+    "gn:latitude":11.16667,
+    "gn:longitude":-85.55,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Los Andes",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noventa y Ocho",
+        "Los Andes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623013
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e29e486f77271c303de6b0420a45cf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170049,
+            "locality_id":1293785985,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1293785985,
+    "wof:lastmodified":1537618860,
+    "wof:name":"Los Andes",
+    "wof:parent_id":421170049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.55,
+    11.16667,
+    -85.55,
+    11.16667
+],
+  "geometry": {"coordinates":[-85.55,11.16667],"type":"Point"}
+}

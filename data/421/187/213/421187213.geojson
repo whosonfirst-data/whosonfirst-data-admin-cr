@@ -1,0 +1,98 @@
+{
+  "id": 421187213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.81667,9.75,-82.81667,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-82.81667,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Cahuita"
+    ],
+    "name:eng_x_preferred":[
+        "Cahuita"
+    ],
+    "name:fre_x_preferred":[
+        "Cahuita"
+    ],
+    "name:ger_x_preferred":[
+        "Cahuita"
+    ],
+    "name:ita_x_preferred":[
+        "Cahuita"
+    ],
+    "name:lit_x_preferred":[
+        "Kahuita"
+    ],
+    "name:nob_x_preferred":[
+        "Cahuita"
+    ],
+    "name:swe_x_preferred":[
+        "Cahuita"
+    ],
+    "name:unk_x_variant":[
+        "Cahuita"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622259,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Cahuita",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":1569,
+    "qs:photos_1k":318,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1569,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082581,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59131,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622259,
+        "gp:id":59131,
+        "qs:id":1082581,
+        "wd:id":"Q1025795"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009505,
+    "wof:geomhash":"0bc593de8564d2358b6c2bd39214adf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":421187213
+        }
+    ],
+    "wof:id":421187213,
+    "wof:lastmodified":1513944366,
+    "wof:name":"Puerto Cahuita",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.81667,
+    9.75,
+    -82.81667,
+    9.75
+],
+  "geometry": {"coordinates":[-82.81667,9.75],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293889465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.06667,10.0,-84.06667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-84.06667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"406",
+    "gn:admin3_code":"40604.0",
+    "gn:asciiname":"La Saca",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623145,
+    "gn:latitude":10.0,
+    "gn:longitude":-84.06667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"La Saca",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Zaca",
+        "La Saca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        1108693667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623145
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"74b933c527e025de2fedb693ec8b0d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693667,
+            "locality_id":1293889465,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1293889465,
+    "wof:lastmodified":1537618861,
+    "wof:name":"La Saca",
+    "wof:parent_id":1108693667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.06667,
+    10.0,
+    -84.06667,
+    10.0
+],
+  "geometry": {"coordinates":[-84.06667,10.0],"type":"Point"}
+}

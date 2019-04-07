@@ -1,0 +1,78 @@
+{
+  "id": 890418125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.74928,10.55544,-84.74928,10.55544",
+    "geom:latitude":10.55544,
+    "geom:longitude":-84.74928,
+    "gn:country":"CR",
+    "gn:fcode":"PPL",
+    "gn:pop":250,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Venado"
+    ],
+    "name:ita_x_preferred":[
+        "Venado"
+    ],
+    "name:spa_x_preferred":[
+        "Venado"
+    ],
+    "qs:name":"Venado",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621114,
+        "gp:id":59898,
+        "qs:id":584247,
+        "wd:id":"Q4009458",
+        "wk:page":"Venado"
+    },
+    "wof:country":"CR",
+    "wof:created":1469051235,
+    "wof:geomhash":"6c7b2f64880b112c9e4e3ee1daca5fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":890418125,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":890418125,
+    "wof:lastmodified":1527792817,
+    "wof:name":"Venado",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.74928,
+    10.55544,
+    -84.74928,
+    10.55544
+],
+  "geometry": {"coordinates":[-84.74928,10.55544],"type":"Point"}
+}

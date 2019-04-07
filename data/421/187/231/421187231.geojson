@@ -1,0 +1,88 @@
+{
+  "id": 421187231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.96782,10.50474,-84.96782,10.50474",
+    "geom:latitude":10.50474,
+    "geom:longitude":-84.96782,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tejona"
+    ],
+    "name:eng_x_preferred":[
+        "Tejona"
+    ],
+    "name:unk_x_variant":[
+        "La Tejona"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621331,
+    "qs:gn_pop":0,
+    "qs:name":"Tejona",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":524,
+    "qs:photos_1k":106,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":524,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082589,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59784,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621331,
+        "gp:id":59784,
+        "qs:id":1082589,
+        "wd:id":"Q7695261",
+        "wk:page":"Tejona"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009506,
+    "wof:geomhash":"c3f7ff827e48e01b0d11c41cdd89fd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170251,
+            "locality_id":421187231,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421187231,
+    "wof:lastmodified":1527716250,
+    "wof:name":"Tejona",
+    "wof:parent_id":421170251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.96782,
+    10.50474,
+    -84.96782,
+    10.50474
+],
+  "geometry": {"coordinates":[-84.96782,10.50474],"type":"Point"}
+}

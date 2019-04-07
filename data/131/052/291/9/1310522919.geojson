@@ -1,0 +1,73 @@
+{
+  "id": 1310522919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.09945,8.68719,-83.09945,8.68719",
+    "geom:latitude":8.68719,
+    "geom:longitude":-83.09945,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"607",
+    "gn:admin3_code":"60703.0",
+    "gn:asciiname":"Kilometro Veintinueve",
+    "gn:country_code":"CR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623297,
+    "gn:latitude":8.68719,
+    "gn:longitude":-83.09945,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Kil\u00f3metro Veintinueve",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u00f3metro 29",
+        "Kil\u00f3metro Veintinueve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421194697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623297
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"909787ebd9afbbc157aa211f4088bb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194697,
+            "locality_id":1310522919,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1310522919,
+    "wof:lastmodified":1537618862,
+    "wof:name":"Kilometro Veintinueve",
+    "wof:parent_id":421194697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.09945,
+    8.68719,
+    -83.09945,
+    8.68719
+],
+  "geometry": {"coordinates":[-83.09945,8.68719],"type":"Point"}
+}

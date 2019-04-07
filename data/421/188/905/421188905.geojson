@@ -1,0 +1,79 @@
+{
+  "id": 421188905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.077607,9.953803,-84.077607,9.953803",
+    "geom:latitude":9.953803,
+    "geom:longitude":-84.077607,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Calle Blancos",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":18,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1105018,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26808914,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421202607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808914,
+        "qs:id":1105018,
+        "qs_pg:id":1105018
+    },
+    "wof:country":"CR",
+    "wof:created":1459009587,
+    "wof:geomhash":"0bcbeb81b8fc7804d3b6ce20d9ac07cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202607,
+            "localadmin_id":421188905,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421188905,
+    "wof:lastmodified":1497043721,
+    "wof:name":"Calle Blancos",
+    "wof:parent_id":421202607,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.077607,
+    9.953803,
+    -84.077607,
+    9.953803
+],
+  "geometry": {"coordinates":[-84.077607,9.953803],"type":"Point"}
+}

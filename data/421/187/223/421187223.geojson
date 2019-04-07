@@ -1,0 +1,76 @@
+{
+  "id": 421187223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7341,8.62178,-83.7341,8.62178",
+    "geom:latitude":8.62178,
+    "geom:longitude":-83.7341,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621724,
+    "qs:gn_pop":0,
+    "qs:name":"San Pedrillo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":701,
+    "qs:photos_1k":142,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":701,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082586,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59519,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621724,
+        "gp:id":59519,
+        "qs:id":1082586
+    },
+    "wof:country":"CR",
+    "wof:created":1459009505,
+    "wof:geomhash":"2307852a9646548b1d05920bd910c024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":421187223,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421187223,
+    "wof:lastmodified":1499977075,
+    "wof:name":"San Pedrillo",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7341,
+    8.62178,
+    -83.7341,
+    8.62178
+],
+  "geometry": {"coordinates":[-83.7341,8.62178],"type":"Point"}
+}

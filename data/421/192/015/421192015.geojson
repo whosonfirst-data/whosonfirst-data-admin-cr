@@ -1,0 +1,76 @@
+{
+  "id": 421192015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.33333,9.68479,-84.33333,9.68479",
+    "geom:latitude":9.68479,
+    "geom:longitude":-84.33333,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621019,
+    "qs:gn_pop":0,
+    "qs:name":"Zapat\u00f3n",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165053,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59945,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621019,
+        "gp:id":59945,
+        "qs:id":1165053
+    },
+    "wof:country":"CR",
+    "wof:created":1459009723,
+    "wof:geomhash":"3c332f28867585b23102f1979acb947a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":421192015,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421192015,
+    "wof:lastmodified":1499977154,
+    "wof:name":"Zapat\u00f3n",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.33333,
+    9.68479,
+    -84.33333,
+    9.68479
+],
+  "geometry": {"coordinates":[-84.33333,9.68479],"type":"Point"}
+}

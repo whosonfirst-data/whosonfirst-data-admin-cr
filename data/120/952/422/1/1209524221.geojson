@@ -1,0 +1,67 @@
+{
+  "id": 1209524221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.68384,9.86497,-83.68384,9.86497",
+    "geom:latitude":9.86497,
+    "geom:longitude":-83.68384,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30501.0",
+    "gn:asciiname":"Pavas",
+    "gn:country_code":"CR",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622498,
+    "gn:latitude":9.86497,
+    "gn:longitude":-83.68384,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pavas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Pavas",
+        "Pavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622498
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e1bd27318150b899450ac166e938fd26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209524221
+        }
+    ],
+    "wof:id":1209524221,
+    "wof:lastmodified":1537618856,
+    "wof:name":"Pavas",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.68384,
+    9.86497,
+    -83.68384,
+    9.86497
+],
+  "geometry": {"coordinates":[-83.68384,9.86497],"type":"Point"}
+}

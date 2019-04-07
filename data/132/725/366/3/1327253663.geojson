@@ -1,0 +1,69 @@
+{
+  "id": 1327253663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.72081,9.33339,-83.72081,9.33339",
+    "geom:latitude":9.33339,
+    "geom:longitude":-83.72081,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"119",
+    "gn:admin3_code":"11901.0",
+    "gn:asciiname":"Pacuar",
+    "gn:country_code":"CR",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622644,
+    "gn:latitude":9.33339,
+    "gn:longitude":-83.72081,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pacuar",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421182141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622644
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a3b093569efe7f7323ef8d8b248d59d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182141,
+            "locality_id":1327253663,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1327253663,
+    "wof:lastmodified":1536939647,
+    "wof:name":"Pacuar",
+    "wof:parent_id":421182141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.72081,
+    9.33339,
+    -83.72081,
+    9.33339
+],
+  "geometry": {"coordinates":[-83.72081,9.33339],"type":"Point"}
+}

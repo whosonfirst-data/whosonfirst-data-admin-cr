@@ -1,0 +1,74 @@
+{
+  "id": 1260299401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.26667,10.55,-84.26667,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-84.26667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21006.0",
+    "gn:asciiname":"Hacienda La Ester",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623515,
+    "gn:latitude":10.55,
+    "gn:longitude":-84.26667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Hacienda La Ester",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ester",
+        "Hacienda La Ester"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623515
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e26fb7558ebf6866dbf5917e4d19f9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1260299401,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1260299401,
+    "wof:lastmodified":1537618865,
+    "wof:name":"Hacienda La Ester",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.26666999999998,
+    10.55,
+    -84.26666999999998,
+    10.55
+],
+  "geometry": {"coordinates":[-84.26666999999998,10.55],"type":"Point"}
+}

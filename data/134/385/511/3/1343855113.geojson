@@ -1,0 +1,74 @@
+{
+  "id": 1343855113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.30496,9.83656,-84.30496,9.83656",
+    "geom:latitude":9.83656,
+    "geom:longitude":-84.30496,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Junquillo Abajo",
+    "gn:country_code":"CR",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623312,
+    "gn:latitude":9.83656,
+    "gn:longitude":-84.30496,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Junquillo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junquillo",
+        "Junquillo Arriba",
+        "Junquillo Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623312
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b2358bf81412d3acb8c07e4b5916171a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1343855113,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1343855113,
+    "wof:lastmodified":1537618863,
+    "wof:name":"Junquillo Abajo",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.30496,
+    9.83656,
+    -84.30496,
+    9.83656
+],
+  "geometry": {"coordinates":[-84.30495999999999,9.83656],"type":"Point"}
+}

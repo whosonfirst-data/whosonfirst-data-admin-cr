@@ -1,0 +1,69 @@
+{
+  "id": 1310327327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.01667,9.65,-84.01667,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":-84.01667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10501.0",
+    "gn:asciiname":"Vapor",
+    "gn:country_code":"CR",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621126,
+    "gn:latitude":9.65,
+    "gn:longitude":-84.01667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Vapor",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421169977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621126
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"261be89e1ee3f574c6048bf56cddb37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421169977,
+            "locality_id":1310327327,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1310327327,
+    "wof:lastmodified":1536676514,
+    "wof:name":"Vapor",
+    "wof:parent_id":421169977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.01666999999998,
+    9.65,
+    -84.01666999999998,
+    9.65
+],
+  "geometry": {"coordinates":[-84.01666999999998,9.65],"type":"Point"}
+}

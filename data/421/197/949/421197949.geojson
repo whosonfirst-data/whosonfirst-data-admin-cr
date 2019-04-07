@@ -1,0 +1,79 @@
+{
+  "id": 421197949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.81084,10.24793,-85.81084,10.24793",
+    "geom:latitude":10.24793,
+    "geom:longitude":-85.81084,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pinilla"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621823,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 Pinilla",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":417,
+    "qs:photos_1k":84,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":417,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":277700,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59433,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621823,
+        "gp:id":59433,
+        "qs:id":277700
+    },
+    "wof:country":"CR",
+    "wof:created":1459009931,
+    "wof:geomhash":"dcad39ee51ae969b5b6418227e79f7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":421197949,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421197949,
+    "wof:lastmodified":1501268151,
+    "wof:name":"San Jos\u00e9 Pinilla",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.81084,
+    10.24793,
+    -85.81084,
+    10.24793
+],
+  "geometry": {"coordinates":[-85.81084,10.24793],"type":"Point"}
+}

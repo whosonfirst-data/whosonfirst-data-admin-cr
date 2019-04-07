@@ -1,0 +1,69 @@
+{
+  "id": 1209728279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.5561,9.82255,-83.5561,9.82255",
+    "geom:latitude":9.82255,
+    "geom:longitude":-83.5561,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"305",
+    "gn:admin3_code":"30508.0",
+    "gn:asciiname":"Tayutic",
+    "gn:country_code":"CR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621336,
+    "gn:latitude":9.82255,
+    "gn:longitude":-83.5561,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tayutic",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421172003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621336
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"7ac65f848b4be3bcd468f92a7788ac1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172003,
+            "locality_id":1209728279,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1209728279,
+    "wof:lastmodified":1536381441,
+    "wof:name":"Tayutic",
+    "wof:parent_id":421172003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.5561,
+    9.82255,
+    -83.5561,
+    9.82255
+],
+  "geometry": {"coordinates":[-83.5561,9.82255],"type":"Point"}
+}

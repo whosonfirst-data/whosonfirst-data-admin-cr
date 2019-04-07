@@ -1,0 +1,87 @@
+{
+  "id": 421180193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.9,10.55,-84.9,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-84.9,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nuevo Arenal"
+    ],
+    "name:eng_x_preferred":[
+        "Nuevo Arenal"
+    ],
+    "name:ita_x_preferred":[
+        "Arenal"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624867,
+    "qs:gn_pop":0,
+    "qs:name":"Arenal",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":2259,
+    "qs:photos_1k":458,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2259,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":423357,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57732,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421170251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624867,
+        "gp:id":57732,
+        "qs:id":423357,
+        "wd:id":"Q3622158",
+        "wk:page":"Nuevo Arenal"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009247,
+    "wof:geomhash":"2936c8aa240a74a866da16184da98431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170251,
+            "locality_id":421180193,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421180193,
+    "wof:lastmodified":1513944277,
+    "wof:name":"Arenal",
+    "wof:parent_id":421170251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.9,
+    10.55,
+    -84.9,
+    10.55
+],
+  "geometry": {"coordinates":[-84.90000000000001,10.55],"type":"Point"}
+}

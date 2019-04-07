@@ -1,0 +1,79 @@
+{
+  "id": 421193373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.709297,9.37243,-83.709297,9.37243",
+    "geom:latitude":9.37243,
+    "geom:longitude":-83.709297,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Isidro de El General",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":106,
+    "qs:photos_1k":21,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1442,
+    "qs:photos_sr":3,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":891810,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809176,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421182141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808991,
+        "qs:id":891810,
+        "qs_pg:id":993427
+    },
+    "wof:country":"CR",
+    "wof:created":1459009769,
+    "wof:geomhash":"f1e7ae21de538d3a7676be164ae149bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182141,
+            "localadmin_id":421193373,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421193373,
+    "wof:lastmodified":1507751329,
+    "wof:name":"San Isidro de El General",
+    "wof:parent_id":421182141,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.709297,
+    9.37243,
+    -83.709297,
+    9.37243
+],
+  "geometry": {"coordinates":[-83.70929700000001,9.37243],"type":"Point"}
+}

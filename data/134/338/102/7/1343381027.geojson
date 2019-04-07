@@ -1,0 +1,69 @@
+{
+  "id": 1343381027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.41478,9.75643,-84.41478,9.75643",
+    "geom:latitude":9.75643,
+    "geom:longitude":-84.41478,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Tulin",
+    "gn:country_code":"CR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621193,
+    "gn:latitude":9.75643,
+    "gn:longitude":-84.41478,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tul\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621193
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4d6d7868d08672631a522f61c59b4e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1343381027,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1343381027,
+    "wof:lastmodified":1536859510,
+    "wof:name":"Tulin",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.41478000000002,
+    9.75643,
+    -84.41478000000002,
+    9.75643
+],
+  "geometry": {"coordinates":[-84.41478000000002,9.75643],"type":"Point"}
+}

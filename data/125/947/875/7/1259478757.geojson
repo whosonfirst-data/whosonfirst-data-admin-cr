@@ -1,0 +1,72 @@
+{
+  "id": 1259478757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.942,9.69862,-83.942,9.69862",
+    "geom:latitude":9.69862,
+    "geom:longitude":-83.942,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"117",
+    "gn:asciiname":"Chonta",
+    "gn:country_code":"CR",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624222,
+    "gn:latitude":9.69862,
+    "gn:longitude":-83.942,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Chonta",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Chonta",
+        "Chonta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        1108693655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624222
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"3763f93061e6f78e36be860f7968d7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693655,
+            "locality_id":1259478757,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1259478757,
+    "wof:lastmodified":1537618871,
+    "wof:name":"Chonta",
+    "wof:parent_id":1108693655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94200000000002,
+    9.69862,
+    -83.94200000000002,
+    9.69862
+],
+  "geometry": {"coordinates":[-83.94200000000002,9.69862],"type":"Point"}
+}

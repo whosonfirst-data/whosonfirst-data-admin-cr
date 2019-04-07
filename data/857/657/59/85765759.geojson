@@ -1,0 +1,105 @@
+{
+  "id": 85765759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7174437.583701,
+    "geom:bbox":"-84.044355,9.922013,-84.044355,9.922013",
+    "geom:latitude":9.922013,
+    "geom:longitude":-84.044355,
+    "gn:id":"",
+    "iso:country":"CR",
+    "lbl:latitude":9.922013,
+    "lbl:longitude":-84.044355,
+    "mps:latitude":9.91745,
+    "mps:longitude":-84.037978,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Pradera"
+    ],
+    "name:unk_x_variant":[
+        "Pradera"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_id":0,
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Pradera",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Zapote",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":40,
+    "qs:photo_sum":138,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26809330,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421203755,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723622,
+        "qs:id":986126
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"82c6364be78ca60594db65940197f924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203755,
+            "locality_id":-1,
+            "neighbourhood_id":85765759,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765759,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859046,
+    "wof:name":"Pradera",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.044355,
+    9.922013,
+    -84.044355,
+    9.922013
+],
+  "geometry": {"coordinates":[-84.044355,9.922013],"type":"Point"}
+}

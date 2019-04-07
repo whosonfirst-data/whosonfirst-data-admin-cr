@@ -1,0 +1,67 @@
+{
+  "id": 1209017137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.84617,9.91963,-83.84617,9.91963",
+    "geom:latitude":9.91963,
+    "geom:longitude":-83.84617,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"307",
+    "gn:admin3_code":"30705.0",
+    "gn:asciiname":"Pasqui",
+    "gn:country_code":"CR",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622511,
+    "gn:latitude":9.91963,
+    "gn:longitude":-83.84617,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pasqu\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Pasqui",
+        "Pasqu\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622511
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4660d2ae30947af08d3fded924cd484d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209017137
+        }
+    ],
+    "wof:id":1209017137,
+    "wof:lastmodified":1537618857,
+    "wof:name":"Pasqui",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.84617,
+    9.91963,
+    -83.84617,
+    9.91963
+],
+  "geometry": {"coordinates":[-83.84617,9.91963],"type":"Point"}
+}

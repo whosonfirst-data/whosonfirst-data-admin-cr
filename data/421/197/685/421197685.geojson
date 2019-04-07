@@ -1,0 +1,104 @@
+{
+  "id": 421197685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.16173,9.79853,-84.16173,9.79853",
+    "geom:latitude":9.79853,
+    "geom:longitude":-84.16173,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967\u5fb7\u963f\u79d1\u65af\u5854\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:lit_x_preferred":[
+        "San Ignasijo de Akosta"
+    ],
+    "name:nob_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio de Acosta"
+    ],
+    "name:unk_x_variant":[
+        "San Ignacio de Acosta"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621890,
+    "qs:gn_pop":3072,
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149494,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59383,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421167827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621890,
+        "gp:id":59383,
+        "qs:id":149494,
+        "wd:id":"Q3947359"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009921,
+    "wof:geomhash":"c17ec446381b10a903c0dbf016573aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421167827,
+            "locality_id":421197685,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421197685,
+    "wof:lastmodified":1513944444,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":421167827,
+    "wof:placetype":"locality",
+    "wof:population":3072,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.16173,
+    9.79853,
+    -84.16173,
+    9.79853
+],
+  "geometry": {"coordinates":[-84.16173000000001,9.79853],"type":"Point"}
+}

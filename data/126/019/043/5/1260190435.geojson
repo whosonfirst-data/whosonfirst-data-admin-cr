@@ -1,0 +1,68 @@
+{
+  "id": 1260190435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.25,10.25,-85.25,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-85.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Puerto Coyolar",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622256,
+    "gn:latitude":10.25,
+    "gn:longitude":-85.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Coyolar",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitio Coyolar",
+        "Coyolar",
+        "Cayolar",
+        "Puerto Coyolar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622256
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"1e78ccf6bfcf22055bba6f37e12fdb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260190435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260190435,
+    "wof:lastmodified":1537618854,
+    "wof:name":"Puerto Coyolar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.25,
+    10.25,
+    -85.25,
+    10.25
+],
+  "geometry": {"coordinates":[-85.25,10.25],"type":"Point"}
+}

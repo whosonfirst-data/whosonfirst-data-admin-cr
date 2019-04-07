@@ -1,0 +1,69 @@
+{
+  "id": 1293785923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.4,10.25,-85.4,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-85.4,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"502",
+    "gn:admin3_code":"50203.0",
+    "gn:asciiname":"El Canal",
+    "gn:country_code":"CR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623856,
+    "gn:latitude":10.25,
+    "gn:longitude":-85.4,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"El Ca\u00f1al",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421175395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623856
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"9d6152a81408f88c1e8a82e9fe5bb368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175395,
+            "locality_id":1293785923,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1293785923,
+    "wof:lastmodified":1536852774,
+    "wof:name":"El Canal",
+    "wof:parent_id":421175395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.4,
+    10.25,
+    -85.4,
+    10.25
+],
+  "geometry": {"coordinates":[-85.40000000000001,10.25],"type":"Point"}
+}

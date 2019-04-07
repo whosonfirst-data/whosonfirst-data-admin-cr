@@ -1,0 +1,67 @@
+{
+  "id": 1209517343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.85,10.5,-84.85,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":-84.85,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"508",
+    "gn:admin3_code":"50801.0",
+    "gn:asciiname":"Union",
+    "gn:country_code":"CR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621157,
+    "gn:latitude":10.5,
+    "gn:longitude":-84.85,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uni\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621157,
+        "wk:page":"Uni%C3%B3n%2C_Guanacaste"
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"c664f4596f6b726f4c0a01dc1175312d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209517343
+        }
+    ],
+    "wof:id":1209517343,
+    "wof:lastmodified":1537618847,
+    "wof:name":"Union",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.85,
+    10.5,
+    -84.85,
+    10.5
+],
+  "geometry": {"coordinates":[-84.84999999999999,10.5],"type":"Point"}
+}

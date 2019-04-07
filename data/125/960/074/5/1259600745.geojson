@@ -1,0 +1,75 @@
+{
+  "id": 1259600745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.5,10.4,-84.5,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":-84.5,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21002.0",
+    "gn:asciiname":"Hacienda Coronado",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623524,
+    "gn:latitude":10.4,
+    "gn:longitude":-84.5,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Hacienda Coronado",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corohado",
+        "Coronado",
+        "Hacienda Coronado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623524
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"db4279d0d128595c7de1cf7849201570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1259600745,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1259600745,
+    "wof:lastmodified":1537618865,
+    "wof:name":"Hacienda Coronado",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.5,
+    10.4,
+    -84.5,
+    10.4
+],
+  "geometry": {"coordinates":[-84.5,10.4],"type":"Point"}
+}

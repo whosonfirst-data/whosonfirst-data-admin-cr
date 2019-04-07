@@ -1,0 +1,75 @@
+{
+  "id": 421170137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.910041,8.599013,-82.910041,8.599013",
+    "geom:latitude":8.599013,
+    "geom:longitude":-82.910041,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bugaba",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Chiriqu\u00ed",
+    "qs:photos":59,
+    "qs:photos_1k":12,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1509,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":220300,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793092,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793092,
+        "qs:id":220300,
+        "wd:id":"Q20818127"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008839,
+    "wof:geomhash":"a14c8ac8bbadcdda93d84cee364fb7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170137,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421170137,
+    "wof:lastmodified":1527716469,
+    "wof:name":"Bugaba",
+    "wof:parent_id":85670385,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.910041,
+    8.599013,
+    -82.910041,
+    8.599013
+],
+  "geometry": {"coordinates":[-82.91004100000001,8.599013],"type":"Point"}
+}

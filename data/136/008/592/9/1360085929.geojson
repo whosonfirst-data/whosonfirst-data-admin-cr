@@ -1,0 +1,73 @@
+{
+  "id": 1360085929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.08748,10.05089,-84.08748,10.05089",
+    "geom:latitude":10.05089,
+    "geom:longitude":-84.08748,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"405",
+    "gn:admin3_code":"40504.0",
+    "gn:asciiname":"Uvita",
+    "gn:country_code":"CR",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621137,
+    "gn:latitude":10.05089,
+    "gn:longitude":-84.08748,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Uvita",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Uvita",
+        "Uvita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421180917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621137
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b5dd78986d2b784c233445cb4b74026d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421180917,
+            "locality_id":1360085929,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1360085929,
+    "wof:lastmodified":1537618847,
+    "wof:name":"Uvita",
+    "wof:parent_id":421180917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.08748,
+    10.05089,
+    -84.08748,
+    10.05089
+],
+  "geometry": {"coordinates":[-84.08748,10.05089],"type":"Point"}
+}

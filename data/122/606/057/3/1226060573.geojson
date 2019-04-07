@@ -1,0 +1,69 @@
+{
+  "id": 1226060573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.36899,9.98547,-84.36899,9.98547",
+    "geom:latitude":9.98547,
+    "geom:longitude":-84.36899,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20501.0",
+    "gn:asciiname":"Angeles",
+    "gn:country_code":"CR",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624909,
+    "gn:latitude":9.98547,
+    "gn:longitude":-84.36899,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"\u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421202071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624909
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5f36cfa39496defa8e760892bce7da94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202071,
+            "locality_id":1226060573,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1226060573,
+    "wof:lastmodified":1536704070,
+    "wof:name":"Angeles",
+    "wof:parent_id":421202071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.36899,
+    9.98547,
+    -84.36899,
+    9.98547
+],
+  "geometry": {"coordinates":[-84.36899,9.98547],"type":"Point"}
+}

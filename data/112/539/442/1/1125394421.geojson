@@ -1,0 +1,78 @@
+{
+  "id": 1125394421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.695419,10.557346,-85.695419,10.557346",
+    "geom:latitude":10.557346,
+    "geom:longitude":-85.695419,
+    "gn:gn_country":"CR",
+    "iso:country":"CR",
+    "lbl:latitude":10.557346,
+    "lbl:longitude":-85.695419,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CR",
+    "qs_pg:gn_country":"CR",
+    "qs_pg:name":"Sardinal",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"Guanacaste",
+    "qs_pg:photos":190,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2688,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":224860,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":26809281,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"Guanacaste",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809281,
+        "qs_pg:id":224860
+    },
+    "wof:country":"CR",
+    "wof:created":1497048919,
+    "wof:geomhash":"63e03df7b3293a9c7051e1873b19d0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "localadmin_id":1125394421,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125394421,
+    "wof:lastmodified":1509389902,
+    "wof:name":"Sardinal",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.695419,
+    10.557346,
+    -85.695419,
+    10.557346
+],
+  "geometry": {"coordinates":[-85.695419,10.557346],"type":"Point"}
+}

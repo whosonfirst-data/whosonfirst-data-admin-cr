@@ -1,0 +1,73 @@
+{
+  "id": 1344270965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.40031,10.10919,-84.40031,10.10919",
+    "geom:latitude":10.10919,
+    "geom:longitude":-84.40031,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"206",
+    "gn:admin3_code":"20601.0",
+    "gn:asciiname":"Corrales",
+    "gn:country_code":"CR",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624074,
+    "gn:latitude":10.10919,
+    "gn:longitude":-84.40031,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo Corrales",
+        "Corrales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421175393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624074
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"7b969c2726b19f5754fac9d2509f8ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175393,
+            "locality_id":1344270965,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1344270965,
+    "wof:lastmodified":1537618869,
+    "wof:name":"Corrales",
+    "wof:parent_id":421175393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.40031,
+    10.10919,
+    -84.40031,
+    10.10919
+],
+  "geometry": {"coordinates":[-84.40031,10.10919],"type":"Point"}
+}

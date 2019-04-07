@@ -1,0 +1,68 @@
+{
+  "id": 1327335487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.21667,9.9,-85.21667,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":-85.21667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"509",
+    "gn:asciiname":"Cerro Azul",
+    "gn:country_code":"CR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624295,
+    "gn:latitude":9.9,
+    "gn:longitude":-85.21667,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Cerro Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624295
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"9c6bf0620d866f9d89b0a321567f9018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1327335487,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1327335487,
+    "wof:lastmodified":1536819858,
+    "wof:name":"Cerro Azul",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.21667,
+    9.9,
+    -85.21667,
+    9.9
+],
+  "geometry": {"coordinates":[-85.21666999999999,9.9],"type":"Point"}
+}

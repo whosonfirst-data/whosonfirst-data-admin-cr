@@ -1,0 +1,109 @@
+{
+  "id": 421182125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.52665,9.8824,-85.52665,9.8824",
+    "geom:latitude":9.8824,
+    "geom:longitude":-85.52665,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u99ac\u62c9\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e1mara"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u99ac\u62c9\u5340"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621990,
+    "qs:gn_pop":1071,
+    "qs:name":"S\u00e1mara",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":1493,
+    "qs:photos_1k":303,
+    "qs:photos_9k":7,
+    "qs:photos_9r":7,
+    "qs:photos_all":1493,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":889982,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59310,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421175395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621990,
+        "gp:id":59310,
+        "qs:id":889982,
+        "wd:id":"Q3438102",
+        "wk:page":"S\u00e1mara"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009319,
+    "wof:geomhash":"37e0eb7106a7becaf8b84b884bb6b7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175395,
+            "locality_id":421182125,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421182125,
+    "wof:lastmodified":1527726465,
+    "wof:name":"S\u00e1mara",
+    "wof:parent_id":421175395,
+    "wof:placetype":"locality",
+    "wof:population":1071,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.52665,
+    9.8824,
+    -85.52665,
+    9.8824
+],
+  "geometry": {"coordinates":[-85.52665,9.8824],"type":"Point"}
+}

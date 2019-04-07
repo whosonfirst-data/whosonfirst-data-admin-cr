@@ -1,0 +1,77 @@
+{
+  "id": 421173643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.48053,9.92939,-85.48053,9.92939",
+    "geom:latitude":9.92939,
+    "geom:longitude":-85.48053,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623703,
+    "qs:gn_pop":0,
+    "qs:name":"Galilea",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":294993,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58351,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":3661,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421175395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623703,
+        "gp:id":58351,
+        "qs:id":294993
+    },
+    "wof:country":"CR",
+    "wof:created":1459008992,
+    "wof:geomhash":"de1df04a073a54bc73c95a2bfda92c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175395,
+            "locality_id":421173643,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421173643,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Galilea",
+    "wof:parent_id":421175395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.48053,
+    9.92939,
+    -85.48053,
+    9.92939
+],
+  "geometry": {"coordinates":[-85.48053,9.92939],"type":"Point"}
+}

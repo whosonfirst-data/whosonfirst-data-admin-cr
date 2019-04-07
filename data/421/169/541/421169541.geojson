@@ -1,0 +1,81 @@
+{
+  "id": 421169541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.61667,8.76667,-83.61667,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":-83.61667,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u044d\u0440\u0440\u0430"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623536,
+    "qs:gn_pop":0,
+    "qs:name":"Guerra",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211041,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58433,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":470,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623536,
+        "gp:id":58433,
+        "qs:id":211041,
+        "wd:id":"Q14075030"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008814,
+    "wof:geomhash":"b4299f4d11b76f3be54a344bea93096b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":421169541,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421169541,
+    "wof:lastmodified":1527716176,
+    "wof:name":"Guerra",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.61667,
+    8.76667,
+    -83.61667,
+    8.76667
+],
+  "geometry": {"coordinates":[-83.61667,8.76667],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 421178113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.95808,9.33066,-83.95808,9.33066",
+    "geom:latitude":9.33066,
+    "geom:longitude":-83.95808,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aym_x_preferred":[
+        "Matapalu jisk'a t'aqa suyu"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Matapalo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0\u10de\u10d0\u10da\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Matapalo"
+    ],
+    "name:que_x_preferred":[
+        "Matapalu distritu"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Matapalo"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622904,
+    "qs:gn_pop":0,
+    "qs:name":"Matapalo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":256,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":256,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":277679,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58763,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421201601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622904,
+        "gp:id":58763,
+        "qs:id":277679
+    },
+    "wof:country":"CR",
+    "wof:created":1459009171,
+    "wof:geomhash":"939d53b76a237d2b88d4126d97a57191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201601,
+            "locality_id":421178113,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421178113,
+    "wof:lastmodified":1527717729,
+    "wof:name":"Matapalo",
+    "wof:parent_id":421201601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.95808,
+    9.33066,
+    -83.95808,
+    9.33066
+],
+  "geometry": {"coordinates":[-83.95808,9.33066],"type":"Point"}
+}

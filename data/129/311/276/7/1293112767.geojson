@@ -1,0 +1,69 @@
+{
+  "id": 1293112767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.37745,10.25753,-84.37745,10.25753",
+    "geom:latitude":10.25753,
+    "geom:longitude":-84.37745,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21001.0",
+    "gn:asciiname":"San Jose de la Montana",
+    "gn:country_code":"CR",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621825,
+    "gn:latitude":10.25753,
+    "gn:longitude":-84.37745,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Jos\u00e9 de la Monta\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621825
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"f98122b11fadc1dc5b2766f0a3f9491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1293112767,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1293112767,
+    "wof:lastmodified":1536829263,
+    "wof:name":"San Jose de la Montana",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.37745,
+    10.25753,
+    -84.37745,
+    10.25753
+],
+  "geometry": {"coordinates":[-84.37745,10.25753],"type":"Point"}
+}

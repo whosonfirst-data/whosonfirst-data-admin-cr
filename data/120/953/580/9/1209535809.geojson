@@ -1,0 +1,63 @@
+{
+  "id": 1209535809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.70603,9.27325,-83.70603,9.27325",
+    "geom:latitude":9.27325,
+    "geom:longitude":-83.70603,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"119",
+    "gn:admin3_code":"11901.0",
+    "gn:asciiname":"Esperanza",
+    "gn:country_code":"CR",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623778,
+    "gn:latitude":9.27325,
+    "gn:longitude":-83.70603,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623778
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5f82b7c77179bfe87fd75528ea4f5cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209535809
+        }
+    ],
+    "wof:id":1209535809,
+    "wof:lastmodified":1536284146,
+    "wof:name":"Esperanza",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.70603,
+    9.27325,
+    -83.70603,
+    9.27325
+],
+  "geometry": {"coordinates":[-83.70603,9.27325],"type":"Point"}
+}

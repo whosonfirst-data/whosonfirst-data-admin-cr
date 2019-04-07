@@ -1,0 +1,69 @@
+{
+  "id": 1309828121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.15306,9.97506,-83.15306,9.97506",
+    "geom:latitude":9.97506,
+    "geom:longitude":-83.15306,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"701",
+    "gn:admin3_code":"70103.0",
+    "gn:asciiname":"Blanco",
+    "gn:country_code":"CR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624685,
+    "gn:latitude":9.97506,
+    "gn:longitude":-83.15306,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421188065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624685
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4ca468d51046c570b5575d23cbfa89fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188065,
+            "locality_id":1309828121,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1309828121,
+    "wof:lastmodified":1536898936,
+    "wof:name":"Blanco",
+    "wof:parent_id":421188065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.15306,
+    9.97506,
+    -83.15306,
+    9.97506
+],
+  "geometry": {"coordinates":[-83.15306,9.97506],"type":"Point"}
+}

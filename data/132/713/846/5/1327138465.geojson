@@ -1,0 +1,69 @@
+{
+  "id": 1327138465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.4159,10.60868,-84.4159,10.60868",
+    "geom:latitude":10.60868,
+    "geom:longitude":-84.4159,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21011.0",
+    "gn:asciiname":"Rancho Chico",
+    "gn:country_code":"CR",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622162,
+    "gn:latitude":10.60868,
+    "gn:longitude":-84.4159,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Rancho Chico",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622162
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d85846cf96413fb81e39de5572a1ec98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1327138465,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1327138465,
+    "wof:lastmodified":1536604280,
+    "wof:name":"Rancho Chico",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4159,
+    10.60868,
+    -84.4159,
+    10.60868
+],
+  "geometry": {"coordinates":[-84.41589999999999,10.60868],"type":"Point"}
+}

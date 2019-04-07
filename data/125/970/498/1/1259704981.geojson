@@ -1,0 +1,69 @@
+{
+  "id": 1259704981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.94896,8.77896,-82.94896,8.77896",
+    "geom:latitude":8.77896,
+    "geom:longitude":-82.94896,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"608",
+    "gn:admin3_code":"60803.0",
+    "gn:asciiname":"Copal",
+    "gn:country_code":"CR",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624105,
+    "gn:latitude":8.77896,
+    "gn:longitude":-82.94896,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Copal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421171715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624105
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"02346a1dbdc88b4c0bab1901ff8d05a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171715,
+            "locality_id":1259704981,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1259704981,
+    "wof:lastmodified":1537034654,
+    "wof:name":"Copal",
+    "wof:parent_id":421171715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.94896,
+    8.77896,
+    -82.94896,
+    8.77896
+],
+  "geometry": {"coordinates":[-82.94896,8.77896],"type":"Point"}
+}

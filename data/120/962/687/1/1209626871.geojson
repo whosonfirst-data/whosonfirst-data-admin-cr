@@ -1,0 +1,63 @@
+{
+  "id": 1209626871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.6,10.35,-85.6,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":-85.6,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50504.0",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"CR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623141,
+    "gn:latitude":10.35,
+    "gn:longitude":-85.6,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623141
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5a5d9de4c6bcf00122150a2f27615973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209626871
+        }
+    ],
+    "wof:id":1209626871,
+    "wof:lastmodified":1536281327,
+    "wof:name":"Las Canas",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.6,
+    10.35,
+    -85.6,
+    10.35
+],
+  "geometry": {"coordinates":[-85.59999999999999,10.35],"type":"Point"}
+}

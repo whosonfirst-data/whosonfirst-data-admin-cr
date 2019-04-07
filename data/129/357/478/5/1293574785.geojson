@@ -1,0 +1,74 @@
+{
+  "id": 1293574785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.96667,9.98333,-83.96667,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-83.96667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"111",
+    "gn:admin3_code":"11102.0",
+    "gn:asciiname":"Durazno",
+    "gn:cc2":"CR",
+    "gn:country_code":"CR",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623873,
+    "gn:latitude":9.98333,
+    "gn:longitude":-83.96667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Durazno",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Durazno",
+        "Durazno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623873
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"535b365db9d4bbc5259dd10b73006c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175409,
+            "locality_id":1293574785,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1293574785,
+    "wof:lastmodified":1537618868,
+    "wof:name":"Durazno",
+    "wof:parent_id":421175409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.96667,
+    9.98333,
+    -83.96667,
+    9.98333
+],
+  "geometry": {"coordinates":[-83.96666999999999,9.98333],"type":"Point"}
+}

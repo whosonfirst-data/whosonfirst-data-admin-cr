@@ -1,0 +1,79 @@
+{
+  "id": 421177451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18208,10.31429,-84.18208,10.31429",
+    "geom:latitude":10.31429,
+    "geom:longitude":-84.18208,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "San Miguel de Barranca"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621744,
+    "qs:gn_pop":0,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340713,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59508,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421201603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621744,
+        "gp:id":59508,
+        "qs:id":1340713
+    },
+    "wof:country":"CR",
+    "wof:created":1459009145,
+    "wof:geomhash":"148d8431849fc2f3615d3fab4800938c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201603,
+            "locality_id":421177451,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421177451,
+    "wof:lastmodified":1501268151,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421201603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18208,
+    10.31429,
+    -84.18208,
+    10.31429
+],
+  "geometry": {"coordinates":[-84.18208,10.31429],"type":"Point"}
+}

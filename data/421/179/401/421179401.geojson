@@ -1,0 +1,114 @@
+{
+  "id": 421179401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.13396,10.00696,-84.13396,10.00696",
+    "geom:latitude":10.00696,
+    "geom:longitude":-84.13396,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mercedes"
+    ],
+    "name:dut_x_preferred":[
+        "Mercedes"
+    ],
+    "name:eng_x_preferred":[
+        "Mercedes"
+    ],
+    "name:fra_x_preferred":[
+        "Mercedes"
+    ],
+    "name:fre_x_preferred":[
+        "Mercedes"
+    ],
+    "name:pol_x_preferred":[
+        "Mercedes"
+    ],
+    "name:swe_x_preferred":[
+        "Mercedes"
+    ],
+    "name:unk_x_variant":[
+        "Mercedes Norte"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622881,
+    "qs:gn_pop":26007,
+    "qs:name":"Mercedes",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Heredia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149506,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58772,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421183455,
+        85670375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622881,
+        "gp:id":58772,
+        "qs:id":149506,
+        "wd:id":"Q3183475",
+        "wk:page":"Mercedes, Costa Rica"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009214,
+    "wof:geomhash":"c5c81ff66398bc83e10549ce374ac2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183455,
+            "locality_id":421179401,
+            "region_id":85670391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183455,
+            "locality_id":421179401,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":421179401,
+    "wof:lastmodified":1527717704,
+    "wof:name":"Mercedes",
+    "wof:parent_id":421183455,
+    "wof:placetype":"locality",
+    "wof:population":26007,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.13396,
+    10.00696,
+    -84.13396,
+    10.00696
+],
+  "geometry": {"coordinates":[-84.13396,10.00696],"type":"Point"}
+}

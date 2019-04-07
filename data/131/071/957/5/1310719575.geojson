@@ -1,0 +1,73 @@
+{
+  "id": 1310719575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.36528,10.54579,-84.36528,10.54579",
+    "geom:latitude":10.54579,
+    "geom:longitude":-84.36528,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21004.0",
+    "gn:asciiname":"Boca de los Chiles",
+    "gn:country_code":"CR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624668,
+    "gn:latitude":10.54579,
+    "gn:longitude":-84.36528,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Boca de los Chiles",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca Los Chiles",
+        "Boca de los Chiles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624668
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"480423db1d99e1f9e5cbea915ad3689f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1310719575,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1310719575,
+    "wof:lastmodified":1537618873,
+    "wof:name":"Boca de los Chiles",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.36528,
+    10.54579,
+    -84.36528,
+    10.54579
+],
+  "geometry": {"coordinates":[-84.36528,10.54579],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 421201279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.46661,8.95248,-83.46661,8.95248",
+    "geom:latitude":8.95248,
+    "geom:longitude":-83.46661,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Palmar Sur"
+    ],
+    "name:eng_x_preferred":[
+        "Palmar Sur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30eb\u30de\u30eb\u30fb\u30b9\u30fc\u30eb"
+    ],
+    "name:unk_x_variant":[
+        "El Palmar"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622606,
+    "qs:gn_pop":0,
+    "qs:name":"Palmar Sur",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211047,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58921,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622606,
+        "gp:id":58921,
+        "qs:id":211047,
+        "wd:id":"Q7128132",
+        "wk:page":"Palmar Sur"
+    },
+    "wof:country":"CR",
+    "wof:created":1459010067,
+    "wof:geomhash":"ecf79b392462525bbcbb093f372795ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":421201279,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421201279,
+    "wof:lastmodified":1527716438,
+    "wof:name":"Palmar Sur",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.46661,
+    8.95248,
+    -83.46661,
+    8.95248
+],
+  "geometry": {"coordinates":[-83.46661,8.95248],"type":"Point"}
+}

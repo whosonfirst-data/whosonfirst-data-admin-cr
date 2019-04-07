@@ -1,0 +1,74 @@
+{
+  "id": 1343753567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.04965,8.60315,-83.04965,8.60315",
+    "geom:latitude":8.60315,
+    "geom:longitude":-83.04965,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"607",
+    "gn:admin3_code":"60701.0",
+    "gn:asciiname":"Union",
+    "gn:country_code":"CR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621159,
+    "gn:latitude":8.60315,
+    "gn:longitude":-83.04965,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Uni\u00f3n de Coto",
+        "Uni\u00f3n de Coto",
+        "Uni\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421194697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621159
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"307ee576754c33b5cbe1250054e7e3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194697,
+            "locality_id":1343753567,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1343753567,
+    "wof:lastmodified":1537618848,
+    "wof:name":"Union",
+    "wof:parent_id":421194697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.04965,
+    8.60315,
+    -83.04965,
+    8.60315
+],
+  "geometry": {"coordinates":[-83.04965,8.60315],"type":"Point"}
+}

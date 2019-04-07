@@ -1,0 +1,101 @@
+{
+  "id": 421177507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29008,9.831,-84.29008,9.831",
+    "geom:latitude":9.831,
+    "geom:longitude":-84.29008,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u963f\u74e6\u970d\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:pol_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:swe_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621659,
+    "qs:gn_pop":27419,
+    "qs:name":"San Rafael Abajo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1200467,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59570,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621659,
+        "gp:id":59570,
+        "qs:id":1200467,
+        "wd:id":"Q3947880"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009147,
+    "wof:geomhash":"9730decc7f5aebe9611878e5d33e9a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":421177507,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421177507,
+    "wof:lastmodified":1513944467,
+    "wof:name":"San Rafael Abajo",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:population":27419,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29008,
+    9.831,
+    -84.29008,
+    9.831
+],
+  "geometry": {"coordinates":[-84.29008,9.831],"type":"Point"}
+}

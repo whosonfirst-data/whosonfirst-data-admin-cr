@@ -1,0 +1,79 @@
+{
+  "id": 421192723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.71331,9.9295,-84.71331,9.9295",
+    "geom:latitude":9.9295,
+    "geom:longitude":-84.71331,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mata Lim\u00f3n"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622913,
+    "qs:gn_pop":0,
+    "qs:name":"Mata de Lim\u00f3n",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1174512,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58757,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622913,
+        "gp:id":58757,
+        "qs:id":1174512
+    },
+    "wof:country":"CR",
+    "wof:created":1459009746,
+    "wof:geomhash":"ff6aff9a06274f87f67fa16532475808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188117,
+            "locality_id":421192723,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421192723,
+    "wof:lastmodified":1501268156,
+    "wof:name":"Mata de Lim\u00f3n",
+    "wof:parent_id":421188117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.71331,
+    9.9295,
+    -84.71331,
+    9.9295
+],
+  "geometry": {"coordinates":[-84.71331000000001,9.9295],"type":"Point"}
+}

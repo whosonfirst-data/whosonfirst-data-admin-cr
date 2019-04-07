@@ -1,0 +1,69 @@
+{
+  "id": 1242669183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.34033,8.86947,-83.34033,8.86947",
+    "geom:latitude":8.86947,
+    "geom:longitude":-83.34033,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"605",
+    "gn:admin3_code":"60505.0",
+    "gn:asciiname":"Villa Colon",
+    "gn:country_code":"CR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621083,
+    "gn:latitude":8.86947,
+    "gn:longitude":-83.34033,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Villa Col\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621083
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d478574b0f51c3f7bb4461969fb7e410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":1242669183,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1242669183,
+    "wof:lastmodified":1536932662,
+    "wof:name":"Villa Colon",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.34033000000002,
+    8.86947,
+    -83.34033000000002,
+    8.86947
+],
+  "geometry": {"coordinates":[-83.34033000000002,8.86947],"type":"Point"}
+}

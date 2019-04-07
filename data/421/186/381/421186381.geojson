@@ -1,0 +1,79 @@
+{
+  "id": 421186381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.64383,9.91012,-85.64383,9.91012",
+    "geom:latitude":9.91012,
+    "geom:longitude":-85.64383,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Garza"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623684,
+    "qs:gn_pop":0,
+    "qs:name":"Garza",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":153,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":153,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1340603,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58360,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421175395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623684,
+        "gp:id":58360,
+        "qs:id":1340603
+    },
+    "wof:country":"CR",
+    "wof:created":1459009479,
+    "wof:geomhash":"e2779ffe29fa598419b6ae4245fbcbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175395,
+            "locality_id":421186381,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421186381,
+    "wof:lastmodified":1501268157,
+    "wof:name":"Garza",
+    "wof:parent_id":421175395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.64383,
+    9.91012,
+    -85.64383,
+    9.91012
+],
+  "geometry": {"coordinates":[-85.64382999999999,9.91012],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242785275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.2776,9.98139,-85.2776,9.98139",
+    "geom:latitude":9.98139,
+    "geom:longitude":-85.2776,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"509",
+    "gn:admin3_code":"50901.0",
+    "gn:asciiname":"Las Camas",
+    "gn:country_code":"CR",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623142,
+    "gn:latitude":9.98139,
+    "gn:longitude":-85.2776,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Las Camas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camas",
+        "Las Camas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623142
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"66cb8e218b2fbac381a7c98c75193693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693661,
+            "locality_id":1242785275,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1242785275,
+    "wof:lastmodified":1537618861,
+    "wof:name":"Las Camas",
+    "wof:parent_id":1108693661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.2776,
+    9.98139,
+    -85.2776,
+    9.98139
+],
+  "geometry": {"coordinates":[-85.27760000000001,9.98139],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 421173647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.8096,10.305,-84.8096,10.305",
+    "geom:latitude":10.305,
+    "geom:longitude":-84.8096,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8499\u6cf0\u97cb\u723e\u5fb7\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Monteverde"
+    ],
+    "name:eng_x_preferred":[
+        "Monteverde"
+    ],
+    "name:fre_x_preferred":[
+        "Monteverde"
+    ],
+    "name:ind_x_preferred":[
+        "Monteverde"
+    ],
+    "name:ita_x_preferred":[
+        "Monteverde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30d9\u30eb\u30c7"
+    ],
+    "name:nob_x_preferred":[
+        "Monteverde"
+    ],
+    "name:spa_x_preferred":[
+        "Monteverde"
+    ],
+    "name:srp_x_preferred":[
+        "Monteverde"
+    ],
+    "name:vie_x_preferred":[
+        "Monteverde"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622811,
+    "qs:gn_pop":0,
+    "qs:name":"Monte Verde",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":295102,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58816,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622811,
+        "gp:id":58816,
+        "qs:id":295102,
+        "wd:id":"Q3046917"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008992,
+    "wof:geomhash":"1b325e770c3553c734248bf2984a679a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421173647,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421173647,
+    "wof:lastmodified":1513944358,
+    "wof:name":"Monte Verde",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.8096,
+    10.305,
+    -84.8096,
+    10.305
+],
+  "geometry": {"coordinates":[-84.8096,10.305],"type":"Point"}
+}

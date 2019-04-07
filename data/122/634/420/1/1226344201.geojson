@@ -1,0 +1,85 @@
+{
+  "id": 1226344201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.84107,10.29913,-85.84107,10.29913",
+    "geom:latitude":10.29913,
+    "geom:longitude":-85.84107,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50309.0",
+    "gn:asciiname":"Tamarindo",
+    "gn:country_code":"CR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6619864,
+    "gn:latitude":10.29913,
+    "gn:longitude":-85.84107,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tamarindo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0574\u0561\u0580\u056b\u0576\u0564\u0578"
+    ],
+    "name:lit_x_preferred":[
+        "Tamarindas"
+    ],
+    "name:por_x_preferred":[
+        "Playa Tamarindo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d\u0434\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u99ac\u6797\u591a\u5340"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619864,
+        "wk:page":"Tamarindo%2C_Costa_Rica"
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"be44b855f3eca519cceeb8123fbd5f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1226344201,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226344201,
+    "wof:lastmodified":1537618877,
+    "wof:name":"Tamarindo",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.84107,
+    10.29913,
+    -85.84107,
+    10.29913
+],
+  "geometry": {"coordinates":[-85.84107,10.29913],"type":"Point"}
+}

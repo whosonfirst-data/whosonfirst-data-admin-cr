@@ -1,0 +1,88 @@
+{
+  "id": 421193931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86242,9.94696,-83.86242,9.94696",
+    "geom:latitude":9.94696,
+    "geom:longitude":-83.86242,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "San Juan Chico\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de Chicu\u00e1"
+    ],
+    "name:spa_x_variant":[
+        "San Juano Chicua"
+    ],
+    "name:unk_x_variant":[
+        "Chicua"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621806,
+    "qs:gn_pop":0,
+    "qs:name":"San Juan Chico\u00e1",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":232,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":232,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":295319,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59453,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421175397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621806,
+        "gp:id":59453,
+        "qs:id":295319
+    },
+    "wof:country":"CR",
+    "wof:created":1459009787,
+    "wof:geomhash":"de0a6344fdbf32c3f72257b5e9880737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175397,
+            "locality_id":421193931,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421193931,
+    "wof:lastmodified":1501268151,
+    "wof:name":"San Juan Chico\u00e1",
+    "wof:parent_id":421175397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86242,
+    9.94696,
+    -83.86242,
+    9.94696
+],
+  "geometry": {"coordinates":[-83.86242,9.94696],"type":"Point"}
+}

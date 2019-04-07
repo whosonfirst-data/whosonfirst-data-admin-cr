@@ -1,0 +1,79 @@
+{
+  "id": 421191975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.43604,10.3647,-85.43604,10.3647",
+    "geom:latitude":10.3647,
+    "geom:longitude":-85.43604,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Ballena"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624794,
+    "qs:gn_pop":0,
+    "qs:name":"Ballena",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":131,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1164987,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57777,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624794,
+        "gp:id":57777,
+        "qs:id":1164987
+    },
+    "wof:country":"CR",
+    "wof:created":1459009716,
+    "wof:geomhash":"c61930c272d3736c710c9abe204a9f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":421191975,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421191975,
+    "wof:lastmodified":1501268180,
+    "wof:name":"Ballena",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.43604,
+    10.3647,
+    -85.43604,
+    10.3647
+],
+  "geometry": {"coordinates":[-85.43604000000001,10.3647],"type":"Point"}
+}

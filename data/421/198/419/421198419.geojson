@@ -1,0 +1,101 @@
+{
+  "id": 421198419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10551,9.90488,-84.10551,9.90488",
+    "geom:latitude":9.90488,
+    "geom:longitude":-84.10551,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Felipe"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69\u5fb7\u963f\u62c9\u80e1\u57c3\u5229\u5854\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Felipe"
+    ],
+    "name:eng_x_preferred":[
+        "San Felipe"
+    ],
+    "name:glg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ita_x_preferred":[
+        "San Felipe"
+    ],
+    "name:spa_x_preferred":[
+        "San Felipe"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621922,
+    "qs:gn_pop":24985,
+    "qs:name":"San Felipe",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1200417,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59357,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421201605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621922,
+        "gp:id":59357,
+        "qs:id":1200417,
+        "wd:id":"Q3947040"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009948,
+    "wof:geomhash":"862190544f9b2396d2f76d39a2c191a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201605,
+            "locality_id":421198419,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421198419,
+    "wof:lastmodified":1513944444,
+    "wof:name":"San Felipe",
+    "wof:parent_id":421201605,
+    "wof:placetype":"locality",
+    "wof:population":24985,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10551,
+    9.90488,
+    -84.10551,
+    9.90488
+],
+  "geometry": {"coordinates":[-84.10551,9.90488],"type":"Point"}
+}

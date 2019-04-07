@@ -1,0 +1,79 @@
+{
+  "id": 421187197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.66056,9.65448,-84.66056,9.65448",
+    "geom:latitude":9.65448,
+    "geom:longitude":-84.66056,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Herradura"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623474,
+    "qs:gn_pop":0,
+    "qs:name":"Herradura",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":1887,
+    "qs:photos_1k":382,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1887,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082573,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58473,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421204087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623474,
+        "gp:id":58473,
+        "qs:id":1082573
+    },
+    "wof:country":"CR",
+    "wof:created":1459009504,
+    "wof:geomhash":"43a071ad8b10ce14caa8d8a54cd9a5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204087,
+            "locality_id":421187197,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421187197,
+    "wof:lastmodified":1501268156,
+    "wof:name":"Herradura",
+    "wof:parent_id":421204087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.66056,
+    9.65448,
+    -84.66056,
+    9.65448
+],
+  "geometry": {"coordinates":[-84.66056,9.65448],"type":"Point"}
+}

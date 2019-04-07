@@ -1,0 +1,69 @@
+{
+  "id": 1276349869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.48333,10.03333,-84.48333,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-84.48333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"202",
+    "gn:admin3_code":"20202.0",
+    "gn:asciiname":"Recreo",
+    "gn:country_code":"CR",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622152,
+    "gn:latitude":10.03333,
+    "gn:longitude":-84.48333,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Recreo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421167885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622152
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"eaec88af6a178bc87859aac443abf5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421167885,
+            "locality_id":1276349869,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1276349869,
+    "wof:lastmodified":1536756318,
+    "wof:name":"Recreo",
+    "wof:parent_id":421167885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.48333000000002,
+    10.03333,
+    -84.48333000000002,
+    10.03333
+],
+  "geometry": {"coordinates":[-84.48333000000002,10.03333],"type":"Point"}
+}

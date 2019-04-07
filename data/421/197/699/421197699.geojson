@@ -1,0 +1,118 @@
+{
+  "id": 421197699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.84042,9.73781,-82.84042,9.73781",
+    "geom:latitude":9.73781,
+    "geom:longitude":-82.84042,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cahuita"
+    ],
+    "name:deu_x_preferred":[
+        "Cahuita"
+    ],
+    "name:dut_x_preferred":[
+        "Cahuita"
+    ],
+    "name:eng_x_preferred":[
+        "Cahuita"
+    ],
+    "name:fre_x_preferred":[
+        "Cahuita"
+    ],
+    "name:ger_x_preferred":[
+        "Cahuita"
+    ],
+    "name:ita_x_preferred":[
+        "Cahuita"
+    ],
+    "name:lit_x_preferred":[
+        "Kahuita"
+    ],
+    "name:nld_x_preferred":[
+        "Cahuita"
+    ],
+    "name:nob_x_preferred":[
+        "Cahuita"
+    ],
+    "name:nor_x_preferred":[
+        "Cahuita"
+    ],
+    "name:swe_x_preferred":[
+        "Cahuita"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624524,
+    "qs:gn_pop":646,
+    "qs:name":"Cahuita",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":512,
+    "qs:photos_1k":104,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":512,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":149524,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57915,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":212,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624524,
+        "gp:id":57915,
+        "qs:id":149524,
+        "wd:id":"Q1025795",
+        "wk:page":"Cahuita"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009922,
+    "wof:geomhash":"6ef0e259c7210b482ea2c3ef8335bcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "locality_id":421197699,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421197699,
+    "wof:lastmodified":1527716406,
+    "wof:name":"Cahuita",
+    "wof:parent_id":421185333,
+    "wof:placetype":"locality",
+    "wof:population":646,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.84042,
+    9.73781,
+    -82.84042,
+    9.73781
+],
+  "geometry": {"coordinates":[-82.84041999999999,9.73781],"type":"Point"}
+}

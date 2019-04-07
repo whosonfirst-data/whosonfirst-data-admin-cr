@@ -1,0 +1,73 @@
+{
+  "id": 1277001897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.06271,9.53843,-84.06271,9.53843",
+    "geom:latitude":9.53843,
+    "geom:longitude":-84.06271,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"105",
+    "gn:admin3_code":"10502.0",
+    "gn:asciiname":"Rodeo",
+    "gn:country_code":"CR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622057,
+    "gn:latitude":9.53843,
+    "gn:longitude":-84.06271,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Rodeo",
+        "Rodeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421169977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622057
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"fe9e3677a7a03ac15e08b1b9f991f446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421169977,
+            "locality_id":1277001897,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1277001897,
+    "wof:lastmodified":1537618853,
+    "wof:name":"Rodeo",
+    "wof:parent_id":421169977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.06271,
+    9.53843,
+    -84.06271,
+    9.53843
+],
+  "geometry": {"coordinates":[-84.06271,9.53843],"type":"Point"}
+}

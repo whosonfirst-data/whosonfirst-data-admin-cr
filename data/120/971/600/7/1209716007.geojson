@@ -1,0 +1,69 @@
+{
+  "id": 1209716007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.15121,9.98286,-84.15121,9.98286",
+    "geom:latitude":9.98286,
+    "geom:longitude":-84.15121,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401",
+    "gn:admin3_code":"40104.0",
+    "gn:asciiname":"Pitahaya",
+    "gn:country_code":"CR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623154,
+    "gn:latitude":9.98286,
+    "gn:longitude":-84.15121,
+    "gn:modification_date":"2016-10-20",
+    "gn:name":"Pitahaya",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421183455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623154
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a6e73f71bdc2f8e385fbfbf71327789f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183455,
+            "locality_id":1209716007,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1209716007,
+    "wof:lastmodified":1536388542,
+    "wof:name":"Pitahaya",
+    "wof:parent_id":421183455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.15120999999998,
+    9.98286,
+    -84.15120999999998,
+    9.98286
+],
+  "geometry": {"coordinates":[-84.15120999999998,9.98286],"type":"Point"}
+}

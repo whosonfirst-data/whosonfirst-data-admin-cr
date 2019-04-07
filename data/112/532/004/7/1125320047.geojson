@@ -1,0 +1,86 @@
+{
+  "id": 1125320047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.85033,9.641833,-83.85033,9.641833",
+    "geom:latitude":9.641833,
+    "geom:longitude":-83.85033,
+    "gn:gn_country":null,
+    "iso:country":"CR",
+    "lbl:latitude":9.641833,
+    "lbl:longitude":-83.85033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CR",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"San Isidro",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"Cartago",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":290,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1110245,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":26809184,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"Cartago",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421184839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809184,
+        "qs_pg:id":1110245
+    },
+    "wof:country":"CR",
+    "wof:created":1497044481,
+    "wof:geomhash":"d8e63c8179f488d6053146d874126b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421184839,
+            "localadmin_id":1125320047,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1125320047,
+    "wof:lastmodified":1534379263,
+    "wof:name":"San Isidro",
+    "wof:parent_id":421184839,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[
+        421189169
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.85033,
+    9.641833,
+    -83.85033,
+    9.641833
+],
+  "geometry": {"coordinates":[-83.85033,9.641833],"type":"Point"}
+}

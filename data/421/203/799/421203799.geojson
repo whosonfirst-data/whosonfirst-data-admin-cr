@@ -1,0 +1,79 @@
+{
+  "id": 421203799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.65,10.65,-85.65,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-85.65,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hacienda Culebra"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623987,
+    "qs:gn_pop":0,
+    "qs:name":"Culebra",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":1948,
+    "qs:photos_1k":395,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1948,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235282,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58190,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421188119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623987,
+        "gp:id":58190,
+        "qs:id":235282
+    },
+    "wof:country":"CR",
+    "wof:created":1459010164,
+    "wof:geomhash":"8ca748e670384d4f8716ac7a910609a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188119,
+            "locality_id":421203799,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421203799,
+    "wof:lastmodified":1501268157,
+    "wof:name":"Culebra",
+    "wof:parent_id":421188119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.65,
+    10.65,
+    -85.65,
+    10.65
+],
+  "geometry": {"coordinates":[-85.65000000000001,10.65],"type":"Point"}
+}

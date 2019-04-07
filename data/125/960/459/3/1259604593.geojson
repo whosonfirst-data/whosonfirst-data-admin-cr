@@ -1,0 +1,69 @@
+{
+  "id": 1259604593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.6833,10.18389,-84.6833,10.18389",
+    "geom:latitude":10.18389,
+    "geom:longitude":-84.6833,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"604",
+    "gn:admin3_code":"60402.0",
+    "gn:asciiname":"Jabonal",
+    "gn:country_code":"CR",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623372,
+    "gn:latitude":10.18389,
+    "gn:longitude":-84.6833,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Jabonal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421185489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623372
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"cae50954de345e65e7bc228a12ec74c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185489,
+            "locality_id":1259604593,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1259604593,
+    "wof:lastmodified":1536684404,
+    "wof:name":"Jabonal",
+    "wof:parent_id":421185489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.6833,
+    10.18389,
+    -84.6833,
+    10.18389
+],
+  "geometry": {"coordinates":[-84.6833,10.18389],"type":"Point"}
+}

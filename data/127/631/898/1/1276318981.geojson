@@ -1,0 +1,72 @@
+{
+  "id": 1276318981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.15801,9.90289,-84.15801,9.90289",
+    "geom:latitude":9.90289,
+    "geom:longitude":-84.15801,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"102",
+    "gn:admin3_code":"10202.0",
+    "gn:asciiname":"Bebedero",
+    "gn:country_code":"CR",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624729,
+    "gn:latitude":9.90289,
+    "gn:longitude":-84.15801,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Bebedero",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421188115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624729
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"38861e3624523165aa95b71a7ce01c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188115,
+            "locality_id":1276318981,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1276318981,
+    "wof:lastmodified":1537618874,
+    "wof:name":"Bebedero",
+    "wof:parent_id":421188115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.15801,
+    9.90289,
+    -84.15801,
+    9.90289
+],
+  "geometry": {"coordinates":[-84.15801,9.90289],"type":"Point"}
+}

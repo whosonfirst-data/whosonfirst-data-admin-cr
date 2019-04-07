@@ -1,0 +1,63 @@
+{
+  "id": 1209117599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.31667,10.76667,-85.31667,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-85.31667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"501",
+    "gn:admin3_code":"50101.0",
+    "gn:asciiname":"Tanques",
+    "gn:country_code":"CR",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621352,
+    "gn:latitude":10.76667,
+    "gn:longitude":-85.31667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tanques",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621352
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"fae68712133a6059de692abe72d1f258",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209117599
+        }
+    ],
+    "wof:id":1209117599,
+    "wof:lastmodified":1536297207,
+    "wof:name":"Tanques",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.31667,
+    10.76667,
+    -85.31667,
+    10.76667
+],
+  "geometry": {"coordinates":[-85.31667,10.76667],"type":"Point"}
+}

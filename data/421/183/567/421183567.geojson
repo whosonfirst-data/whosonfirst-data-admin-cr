@@ -1,0 +1,112 @@
+{
+  "id": 421183567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0847,9.8773,-84.0847,9.8773",
+    "geom:latitude":9.8773,
+    "geom:longitude":-84.0847,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0639\u0628 \u0631\u064a\u0643\u0627\u0631\u062f\u0648 \u0633\u0627\u0628\u0631\u064a\u0633\u0627 \u0623\u064a\u0645\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Estadio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Stade Ricardo Saprissa"
+    ],
+    "name:ind_x_preferred":[
+        "Stadion Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Estadio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:lit_x_preferred":[
+        "Estadio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:nor_x_preferred":[
+        "Estadio Ricardo Saprissa"
+    ],
+    "name:pol_x_preferred":[
+        "Estadio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Est\u00e1dio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Estadio Ricardo Saprissa Aym\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Juan de Dios"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621804,
+    "qs:gn_pop":15469,
+    "qs:name":"San Juan de Tib\u00e1s",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Heredia",
+    "qs:photos":81,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":81,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":982487,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58506,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421190519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621804,
+        "gp:id":58506,
+        "qs:id":982487
+    },
+    "wof:country":"CR",
+    "wof:created":1459009374,
+    "wof:geomhash":"4761c905959549f184dc4f53a203e7bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190519,
+            "locality_id":421183567,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421183567,
+    "wof:lastmodified":1505340687,
+    "wof:name":"San Juan de Tib\u00e1s",
+    "wof:parent_id":421190519,
+    "wof:placetype":"locality",
+    "wof:population":15469,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0847,
+    9.8773,
+    -84.0847,
+    9.8773
+],
+  "geometry": {"coordinates":[-84.0847,9.8773],"type":"Point"}
+}

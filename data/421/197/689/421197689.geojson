@@ -1,0 +1,79 @@
+{
+  "id": 421197689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.27933,10.24138,-84.27933,10.24138",
+    "geom:latitude":10.24138,
+    "geom:longitude":-84.27933,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622074,
+    "qs:gn_pop":9853,
+    "qs:name":"R\u00edo Segundo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149498,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59257,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421175407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622074,
+        "gp:id":59257,
+        "qs:id":149498
+    },
+    "wof:country":"CR",
+    "wof:created":1459009921,
+    "wof:geomhash":"b357d50ab4756078610b3b3485bfb21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175407,
+            "locality_id":421197689,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421197689,
+    "wof:lastmodified":1505340752,
+    "wof:name":"R\u00edo Segundo",
+    "wof:parent_id":421175407,
+    "wof:placetype":"locality",
+    "wof:population":9853,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.27933,
+    10.24138,
+    -84.27933,
+    10.24138
+],
+  "geometry": {"coordinates":[-84.27933,10.24138],"type":"Point"}
+}

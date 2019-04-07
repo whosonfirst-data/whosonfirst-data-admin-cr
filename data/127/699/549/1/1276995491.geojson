@@ -1,0 +1,69 @@
+{
+  "id": 1276995491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18635,9.97895,-84.18635,9.97895",
+    "geom:latitude":9.97895,
+    "geom:longitude":-84.18635,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"201",
+    "gn:admin3_code":"20104.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"CR",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621966,
+    "gn:latitude":9.97895,
+    "gn:longitude":-84.18635,
+    "gn:modification_date":"2016-10-27",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421197833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621966
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d44c0c7a56edb8fa2d0d0bac9abf5287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421197833,
+            "locality_id":1276995491,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":1276995491,
+    "wof:lastmodified":1536885520,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421197833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18635,
+    9.97895,
+    -84.18635,
+    9.97895
+],
+  "geometry": {"coordinates":[-84.18635,9.97895],"type":"Point"}
+}

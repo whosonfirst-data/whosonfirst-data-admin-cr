@@ -1,0 +1,69 @@
+{
+  "id": 1243176141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.43654,10.21014,-84.43654,10.21014",
+    "geom:latitude":10.21014,
+    "geom:longitude":-84.43654,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"211",
+    "gn:admin3_code":"21102.0",
+    "gn:asciiname":"Pena",
+    "gn:country_code":"CR",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622458,
+    "gn:latitude":10.21014,
+    "gn:longitude":-84.43654,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        1108693671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622458
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"7edf5e2bee00705fc5a4da67e27189b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693671,
+            "locality_id":1243176141,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1243176141,
+    "wof:lastmodified":1536698496,
+    "wof:name":"Pena",
+    "wof:parent_id":1108693671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.43654000000002,
+    10.21014,
+    -84.43654000000002,
+    10.21014
+],
+  "geometry": {"coordinates":[-84.43654000000002,10.21014],"type":"Point"}
+}

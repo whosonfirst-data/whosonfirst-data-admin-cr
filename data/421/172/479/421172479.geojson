@@ -1,0 +1,75 @@
+{
+  "id": 421172479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.637428,9.051808,-83.637428,9.051808",
+    "geom:latitude":9.051808,
+    "geom:longitude":-83.637428,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Cortes",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1311494,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809123,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809123,
+        "qs:id":1311494
+    },
+    "wof:country":"CR",
+    "wof:created":1459008944,
+    "wof:geomhash":"7e5c820e75e559238b0929f4b34289c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "localadmin_id":421172479,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421172479,
+    "wof:lastmodified":1499977066,
+    "wof:name":"Puerto Cortes",
+    "wof:parent_id":421188109,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.637428,
+    9.051808,
+    -83.637428,
+    9.051808
+],
+  "geometry": {"coordinates":[-83.637428,9.051808],"type":"Point"}
+}

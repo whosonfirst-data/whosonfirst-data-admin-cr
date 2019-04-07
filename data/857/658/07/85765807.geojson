@@ -1,0 +1,124 @@
+{
+  "id": 85765807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3995241.98598,
+    "geom:bbox":"-84.075412,9.937796,-84.075412,9.937796",
+    "geom:latitude":9.937796,
+    "geom:longitude":-84.075412,
+    "gn:id":"",
+    "iso:country":"CR",
+    "lbl:latitude":9.937796,
+    "lbl:longitude":-84.075412,
+    "mps:latitude":9.948503,
+    "mps:longitude":-84.078207,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:bre_x_preferred":[
+        "Tournon"
+    ],
+    "name:deu_x_preferred":[
+        "Tournon"
+    ],
+    "name:fra_x_preferred":[
+        "Tournon"
+    ],
+    "name:ita_x_preferred":[
+        "Tournon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30ce\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Tournon"
+    ],
+    "name:unk_x_variant":[
+        "Tournon"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_id":0,
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Tournon",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Carmen",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":452,
+    "qs:photo_sum":1235,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26808924,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421199285,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723707,
+        "qs:id":1196558
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"d3b03bdf5531b801c6bccbb76d742c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421199285,
+            "locality_id":-1,
+            "neighbourhood_id":85765807,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765807,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859052,
+    "wof:name":"Tournon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.075412,
+    9.937796,
+    -84.075412,
+    9.937796
+],
+  "geometry": {"coordinates":[-84.075412,9.937796],"type":"Point"}
+}

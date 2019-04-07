@@ -1,0 +1,63 @@
+{
+  "id": 1209011911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.28003,9.95475,-85.28003,9.95475",
+    "geom:latitude":9.95475,
+    "geom:longitude":-85.28003,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"509",
+    "gn:admin3_code":"50905.0",
+    "gn:asciiname":"Bellavista",
+    "gn:country_code":"CR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624714,
+    "gn:latitude":9.95475,
+    "gn:longitude":-85.28003,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Bellavista",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624714
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5b236133806612a8e536980fcdb5ab83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209011911
+        }
+    ],
+    "wof:id":1209011911,
+    "wof:lastmodified":1536300418,
+    "wof:name":"Bellavista",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.28003000000002,
+    9.95475,
+    -85.28003000000002,
+    9.95475
+],
+  "geometry": {"coordinates":[-85.28003000000002,9.95475],"type":"Point"}
+}

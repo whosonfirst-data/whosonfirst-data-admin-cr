@@ -1,0 +1,73 @@
+{
+  "id": 1327051301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.71639,10.07844,-84.71639,10.07844",
+    "geom:latitude":10.07844,
+    "geom:longitude":-84.71639,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"604",
+    "gn:admin3_code":"60403.0",
+    "gn:asciiname":"La Isla",
+    "gn:country_code":"CR",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623215,
+    "gn:latitude":10.07844,
+    "gn:longitude":-84.71639,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"La Isla",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isla",
+        "La Isla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421185489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623215
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"fd3f2979d99a22153b350318e15a09a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185489,
+            "locality_id":1327051301,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1327051301,
+    "wof:lastmodified":1537618862,
+    "wof:name":"La Isla",
+    "wof:parent_id":421185489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.71639,
+    10.07844,
+    -84.71639,
+    10.07844
+],
+  "geometry": {"coordinates":[-84.71639,10.07844],"type":"Point"}
+}

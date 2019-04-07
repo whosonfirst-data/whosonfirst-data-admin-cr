@@ -1,0 +1,69 @@
+{
+  "id": 1293787005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.72558,9.92573,-83.72558,9.92573",
+    "geom:latitude":9.92573,
+    "geom:longitude":-83.72558,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"304",
+    "gn:admin3_code":"30401.0",
+    "gn:asciiname":"Esmeralda",
+    "gn:country_code":"CR",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623782,
+    "gn:latitude":9.92573,
+    "gn:longitude":-83.72558,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Esmeralda",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421170047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623782
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"93cfe80884fc2c2fca299f7708e19a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170047,
+            "locality_id":1293787005,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1293787005,
+    "wof:lastmodified":1536851203,
+    "wof:name":"Esmeralda",
+    "wof:parent_id":421170047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.72558000000002,
+    9.92573,
+    -83.72558000000002,
+    9.92573
+],
+  "geometry": {"coordinates":[-83.72558000000002,9.92573],"type":"Point"}
+}

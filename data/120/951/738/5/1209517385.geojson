@@ -1,0 +1,63 @@
+{
+  "id": 1209517385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.76762,10.53637,-85.76762,10.53637",
+    "geom:latitude":10.53637,
+    "geom:longitude":-85.76762,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50503.0",
+    "gn:asciiname":"Matapalo",
+    "gn:country_code":"CR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622902,
+    "gn:latitude":10.53637,
+    "gn:longitude":-85.76762,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Matapalo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622902
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"76d7ebeeda46919bb7b54903f45e4a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209517385
+        }
+    ],
+    "wof:id":1209517385,
+    "wof:lastmodified":1536284689,
+    "wof:name":"Matapalo",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76762,
+    10.53637,
+    -85.76762,
+    10.53637
+],
+  "geometry": {"coordinates":[-85.76761999999999,10.53637],"type":"Point"}
+}

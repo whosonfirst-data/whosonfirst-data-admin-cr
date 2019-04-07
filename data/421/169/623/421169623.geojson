@@ -1,0 +1,79 @@
+{
+  "id": 421169623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.63129,9.779437,-84.63129,9.779437",
+    "geom:latitude":9.779437,
+    "geom:longitude":-84.63129,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tarcoles",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":192,
+    "qs:photos_1k":39,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1905,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":224359,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26809293,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421204087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26809293,
+        "qs:id":224359,
+        "qs_pg:id":224359
+    },
+    "wof:country":"CR",
+    "wof:created":1459008817,
+    "wof:geomhash":"61fec438db2dc608fedb19438a7ef171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204087,
+            "localadmin_id":421169623,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421169623,
+    "wof:lastmodified":1497043151,
+    "wof:name":"Tarcoles",
+    "wof:parent_id":421204087,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.63129,
+    9.779437,
+    -84.63129,
+    9.779437
+],
+  "geometry": {"coordinates":[-84.63129000000001,9.779437],"type":"Point"}
+}

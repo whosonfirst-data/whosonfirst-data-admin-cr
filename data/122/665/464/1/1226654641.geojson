@@ -1,0 +1,69 @@
+{
+  "id": 1226654641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81877,9.90472,-83.81877,9.90472",
+    "geom:latitude":9.90472,
+    "geom:longitude":-83.81877,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"306",
+    "gn:admin3_code":"30601.0",
+    "gn:asciiname":"Pascon",
+    "gn:country_code":"CR",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622531,
+    "gn:latitude":9.90472,
+    "gn:longitude":-83.81877,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pasc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421171707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622531
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"ad95f5b0a6508a3e7e05e1137e613dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171707,
+            "locality_id":1226654641,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1226654641,
+    "wof:lastmodified":1536845443,
+    "wof:name":"Pascon",
+    "wof:parent_id":421171707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81877,
+    9.90472,
+    -83.81877,
+    9.90472
+],
+  "geometry": {"coordinates":[-83.81877,9.90472],"type":"Point"}
+}

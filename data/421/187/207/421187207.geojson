@@ -1,0 +1,129 @@
+{
+  "id": 421187207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.03407,9.91178,-84.03407,9.91178",
+    "geom:latitude":9.91178,
+    "geom:longitude":-84.03407,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Curridabat"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u91cc\u9054\u5df4\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Curridabat"
+    ],
+    "name:eng_x_preferred":[
+        "Curridabat"
+    ],
+    "name:fra_x_preferred":[
+        "Curridabat"
+    ],
+    "name:fre_x_preferred":[
+        "Curridabat"
+    ],
+    "name:ita_x_preferred":[
+        "Curridabat"
+    ],
+    "name:nob_x_preferred":[
+        "Curridabat"
+    ],
+    "name:nor_x_preferred":[
+        "Curridabat"
+    ],
+    "name:pol_x_preferred":[
+        "Curridabat"
+    ],
+    "name:ron_x_preferred":[
+        "Curridabat"
+    ],
+    "name:rum_x_preferred":[
+        "Curridabat"
+    ],
+    "name:spa_x_preferred":[
+        "Curridabat"
+    ],
+    "name:swe_x_preferred":[
+        "Curridabat"
+    ],
+    "name:vol_x_preferred":[
+        "Curridabat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u91cc\u9054\u5df4\u7279"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623977,
+    "qs:gn_pop":34586,
+    "qs:name":"Curridabat",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":257,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":257,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1082579,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58196,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421203755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623977,
+        "gp:id":58196,
+        "qs:id":1082579,
+        "wd:id":"Q2569193",
+        "wk:page":"Curridabat"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009505,
+    "wof:geomhash":"70133cf1f21aeb6472ad78820be6bbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203755,
+            "locality_id":421187207,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421187207,
+    "wof:lastmodified":1513944289,
+    "wof:name":"Curridabat",
+    "wof:parent_id":421203755,
+    "wof:placetype":"locality",
+    "wof:population":34586,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.03407,
+    9.91178,
+    -84.03407,
+    9.91178
+],
+  "geometry": {"coordinates":[-84.03407,9.91178],"type":"Point"}
+}

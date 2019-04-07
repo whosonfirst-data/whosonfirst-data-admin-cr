@@ -1,0 +1,87 @@
+{
+  "id": 421183589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46582,10.47194,-84.46582,10.47194",
+    "geom:latitude":10.47194,
+    "geom:longitude":-84.46582,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Juan Carlos Arg\u00fcello"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Carlos Arg\u00fcello"
+    ],
+    "name:unk_x_variant":[
+        "El Muelle"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622787,
+    "qs:gn_pop":0,
+    "qs:name":"Muelle",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982517,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58838,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622787,
+        "gp:id":58838,
+        "qs:id":982517,
+        "wd:id":"Q3817729"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009374,
+    "wof:geomhash":"bf2f35fb404985800e42e55f8e39e72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":421183589,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421183589,
+    "wof:lastmodified":1527716492,
+    "wof:name":"Muelle",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46582,
+    10.47194,
+    -84.46582,
+    10.47194
+],
+  "geometry": {"coordinates":[-84.46581999999999,10.47194],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327355669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.35595,10.13606,-83.35595,10.13606",
+    "geom:latitude":10.13606,
+    "geom:longitude":-83.35595,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70502.0",
+    "gn:asciiname":"Sara",
+    "gn:country_code":"CR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621499,
+    "gn:latitude":10.13606,
+    "gn:longitude":-83.35595,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Sara",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421170303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621499
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"993ce1e2339e263021c1cac8289a3313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170303,
+            "locality_id":1327355669,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1327355669,
+    "wof:lastmodified":1536792026,
+    "wof:name":"Sara",
+    "wof:parent_id":421170303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.35595,
+    10.13606,
+    -83.35595,
+    10.13606
+],
+  "geometry": {"coordinates":[-83.35595000000001,10.13606],"type":"Point"}
+}

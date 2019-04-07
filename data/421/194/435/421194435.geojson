@@ -1,0 +1,79 @@
+{
+  "id": 421194435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.04762,9.96016,-84.04762,9.96016",
+    "geom:latitude":9.96016,
+    "geom:longitude":-84.04762,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621505,
+    "qs:gn_pop":34447,
+    "qs:name":"San Vicente",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1174545,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59598,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421203271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621505,
+        "gp:id":59598,
+        "qs:id":1174545
+    },
+    "wof:country":"CR",
+    "wof:created":1459009805,
+    "wof:geomhash":"6ad9157c16933cc3bb8c05f4dce4b9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203271,
+            "locality_id":421194435,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421194435,
+    "wof:lastmodified":1505340740,
+    "wof:name":"San Vicente",
+    "wof:parent_id":421203271,
+    "wof:placetype":"locality",
+    "wof:population":34447,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.04762,
+    9.96016,
+    -84.04762,
+    9.96016
+],
+  "geometry": {"coordinates":[-84.04761999999999,9.96016],"type":"Point"}
+}

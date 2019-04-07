@@ -1,0 +1,69 @@
+{
+  "id": 1327155569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.65827,9.99923,-84.65827,9.99923",
+    "geom:latitude":9.99923,
+    "geom:longitude":-84.65827,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"602",
+    "gn:admin3_code":"60201.0",
+    "gn:asciiname":"Maranonal",
+    "gn:country_code":"CR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622935,
+    "gn:latitude":9.99923,
+    "gn:longitude":-84.65827,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Mara\u00f1onal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622935
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"78c4a88993d64cb59d48062b02785013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188117,
+            "locality_id":1327155569,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1327155569,
+    "wof:lastmodified":1537077452,
+    "wof:name":"Maranonal",
+    "wof:parent_id":421188117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.65827,
+    9.99923,
+    -84.65827,
+    9.99923
+],
+  "geometry": {"coordinates":[-84.65827,9.99923],"type":"Point"}
+}

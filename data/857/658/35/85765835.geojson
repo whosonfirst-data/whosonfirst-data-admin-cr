@@ -1,0 +1,105 @@
+{
+  "id": 85765835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4475586.189146,
+    "geom:bbox":"-84.12296,9.942499,-84.12296,9.942499",
+    "geom:latitude":9.942499,
+    "geom:longitude":-84.12296,
+    "gn:id":"",
+    "iso:country":"CR",
+    "lbl:latitude":9.942499,
+    "lbl:longitude":-84.12296,
+    "mps:latitude":9.946172,
+    "mps:longitude":-84.123922,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Favorita Sur"
+    ],
+    "name:unk_x_variant":[
+        "Favorita Sur"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_id":0,
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Favorita Sur",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Pavas",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":26,
+    "qs:photo_sum":74,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26809096,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421199285,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723818,
+        "qs:id":986128
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"ec2915fe4174b31d95ee29d8b41b9af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421199285,
+            "locality_id":-1,
+            "neighbourhood_id":85765835,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765835,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859057,
+    "wof:name":"Favorita Sur",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.12296,
+    9.942499,
+    -84.12296,
+    9.942499
+],
+  "geometry": {"coordinates":[-84.12296000000001,9.942499],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326744573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.58041,9.8895,-84.58041,9.8895",
+    "geom:latitude":9.8895,
+    "geom:longitude":-84.58041,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"209",
+    "gn:admin3_code":"20904.0",
+    "gn:asciiname":"Pozon",
+    "gn:country_code":"CR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622281,
+    "gn:latitude":9.8895,
+    "gn:longitude":-84.58041,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Poz\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Poz\u00f3n",
+        "Poz\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421203757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622281
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"5a47ee1b69ec877e496310a3a9a5fb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421203757,
+            "locality_id":1326744573,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1326744573,
+    "wof:lastmodified":1537618855,
+    "wof:name":"Pozon",
+    "wof:parent_id":421203757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.58041,
+    9.8895,
+    -84.58041,
+    9.8895
+],
+  "geometry": {"coordinates":[-84.58041,9.8895],"type":"Point"}
+}

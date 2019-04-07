@@ -1,0 +1,16 @@
+{
+  "id": 421183457,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-cr",
+    "src:geom":"quattroshapes",
+    "wof:geomhash":"80fde748f7b0bd5de471a8b7898ca3e5",
+    "wof:id":421183457
+},
+  "bbox": [
+    -84.4519,
+    10.639013,
+    -84.4519,
+    10.639013
+],
+  "geometry": {"coordinates":[-84.45189999999999,10.639013],"type":"Point"}
+}

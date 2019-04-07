@@ -1,0 +1,73 @@
+{
+  "id": 1310402635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.05412,9.751,-84.05412,9.751",
+    "geom:latitude":9.751,
+    "geom:longitude":-84.05412,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"103",
+    "gn:admin3_code":"10306.0",
+    "gn:asciiname":"Frailes",
+    "gn:country_code":"CR",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623711,
+    "gn:latitude":9.751,
+    "gn:longitude":-84.05412,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Frailes",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Frailes",
+        "Frailes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421190519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623711
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"80b6a99ca7ef4bbb5df8ddb43c6e9c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190519,
+            "locality_id":1310402635,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1310402635,
+    "wof:lastmodified":1537618866,
+    "wof:name":"Frailes",
+    "wof:parent_id":421190519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.05412,
+    9.751,
+    -84.05412,
+    9.751
+],
+  "geometry": {"coordinates":[-84.05412,9.751],"type":"Point"}
+}

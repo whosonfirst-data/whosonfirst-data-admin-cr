@@ -1,0 +1,69 @@
+{
+  "id": 1360089031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.44524,9.97302,-84.44524,9.97302",
+    "geom:latitude":9.97302,
+    "geom:longitude":-84.44524,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"205",
+    "gn:admin3_code":"20502.0",
+    "gn:asciiname":"Alto del Monte",
+    "gn:country_code":"CR",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624934,
+    "gn:latitude":9.97302,
+    "gn:longitude":-84.44524,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Alto del Monte",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421202071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624934
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a20a5f4e1fff928e8009db72bb74f388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202071,
+            "locality_id":1360089031,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1360089031,
+    "wof:lastmodified":1536940605,
+    "wof:name":"Alto del Monte",
+    "wof:parent_id":421202071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.44524,
+    9.97302,
+    -84.44524,
+    9.97302
+],
+  "geometry": {"coordinates":[-84.44524,9.97302],"type":"Point"}
+}

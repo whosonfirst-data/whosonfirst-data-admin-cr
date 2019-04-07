@@ -1,0 +1,69 @@
+{
+  "id": 1343980121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.73771,10.21078,-83.73771,10.21078",
+    "geom:latitude":10.21078,
+    "geom:longitude":-83.73771,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"706",
+    "gn:admin3_code":"70601.0",
+    "gn:asciiname":"Angelina",
+    "gn:country_code":"CR",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257592,
+    "gn:latitude":10.21078,
+    "gn:longitude":-83.73771,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Angelina",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421204091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257592
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e0df62942ffd1537cde7030f080de976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204091,
+            "locality_id":1343980121,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1343980121,
+    "wof:lastmodified":1536990850,
+    "wof:name":"Angelina",
+    "wof:parent_id":421204091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73770999999998,
+    10.21078,
+    -83.73770999999998,
+    10.21078
+],
+  "geometry": {"coordinates":[-83.73770999999998,10.21078],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209837903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.1165,9.88307,-84.1165,9.88307",
+    "geom:latitude":9.88307,
+    "geom:longitude":-84.1165,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"110",
+    "gn:admin3_code":"11003.0",
+    "gn:asciiname":"Arcangeles",
+    "gn:country_code":"CR",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624875,
+    "gn:latitude":9.88307,
+    "gn:longitude":-84.1165,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Arc\u00e1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Arc\u00e1ngeles",
+        "Arc\u00e1ngeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421201605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624875
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"348eda1cb84ffef10483524416e4bd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201605,
+            "locality_id":1209837903,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1209837903,
+    "wof:lastmodified":1537618875,
+    "wof:name":"Arcangeles",
+    "wof:parent_id":421201605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.1165,
+    9.88307,
+    -84.1165,
+    9.88307
+],
+  "geometry": {"coordinates":[-84.1165,9.88307],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343669385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.91283,10.30323,-84.91283,10.30323",
+    "geom:latitude":10.30323,
+    "geom:longitude":-84.91283,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"507",
+    "gn:admin3_code":"50702.0",
+    "gn:asciiname":"Boston",
+    "gn:country_code":"CR",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624633,
+    "gn:latitude":10.30323,
+    "gn:longitude":-84.91283,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Boston",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421190515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624633
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"a2c70b37e9f9ffd7916e9d5f0ca70c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190515,
+            "locality_id":1343669385,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1343669385,
+    "wof:lastmodified":1536942700,
+    "wof:name":"Boston",
+    "wof:parent_id":421190515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.91283,
+    10.30323,
+    -84.91283,
+    10.30323
+],
+  "geometry": {"coordinates":[-84.91283,10.30323],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421200863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.85658,10.32674,-84.85658,10.32674",
+    "geom:latitude":10.32674,
+    "geom:longitude":-84.85658,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cebodilla"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624330,
+    "qs:gn_pop":0,
+    "qs:name":"Cebadilla",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":658,
+    "qs:photos_1k":133,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":658,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898491,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58022,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421190515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624330,
+        "gp:id":58022,
+        "qs:id":898491
+    },
+    "wof:country":"CR",
+    "wof:created":1459010044,
+    "wof:geomhash":"0eb5b6d13ddbb3ab53d76bd3586f216a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421190515,
+            "locality_id":421200863,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421200863,
+    "wof:lastmodified":1501268179,
+    "wof:name":"Cebadilla",
+    "wof:parent_id":421190515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.85658,
+    10.32674,
+    -84.85658,
+    10.32674
+],
+  "geometry": {"coordinates":[-84.85657999999999,10.32674],"type":"Point"}
+}

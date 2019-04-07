@@ -1,0 +1,80 @@
+{
+  "id": 421173649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71828,10.54411,-85.71828,10.54411",
+    "geom:latitude":10.54411,
+    "geom:longitude":-85.71828,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622687,
+    "qs:gn_pop":0,
+    "qs:name":"Ocotal",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":601,
+    "qs:photos_1k":122,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":601,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":295157,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58878,
+    "src:geom":"quattroshapes",
+    "wd:elevation":611.0,
+    "wd:latitude":13.633333,
+    "wd:longitude":-86.483333,
+    "wd:wordcount":620,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421201615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622687,
+        "gp:id":58878,
+        "qs:id":295157
+    },
+    "wof:country":"CR",
+    "wof:created":1459008992,
+    "wof:geomhash":"3f141daae4185219d3f522a5481697e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201615,
+            "locality_id":421173649,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421173649,
+    "wof:lastmodified":1527716259,
+    "wof:name":"Ocotal",
+    "wof:parent_id":421201615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71828,
+    10.54411,
+    -85.71828,
+    10.54411
+],
+  "geometry": {"coordinates":[-85.71827999999999,10.54411],"type":"Point"}
+}

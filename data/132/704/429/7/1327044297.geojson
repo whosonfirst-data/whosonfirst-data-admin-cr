@@ -1,0 +1,73 @@
+{
+  "id": 1327044297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.68129,10.55631,-84.68129,10.55631",
+    "geom:latitude":10.55631,
+    "geom:longitude":-84.68129,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21012.0",
+    "gn:asciiname":"Pataste",
+    "gn:country_code":"CR",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622506,
+    "gn:latitude":10.55631,
+    "gn:longitude":-84.68129,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pataste",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pataste Arriba",
+        "Pataste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622506
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"210a6b42556f9091e6c519494f031f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1327044297,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1327044297,
+    "wof:lastmodified":1537618857,
+    "wof:name":"Pataste",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.68129,
+    10.55631,
+    -84.68129,
+    10.55631
+],
+  "geometry": {"coordinates":[-84.68129,10.55631],"type":"Point"}
+}

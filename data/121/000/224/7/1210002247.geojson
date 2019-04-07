@@ -1,0 +1,69 @@
+{
+  "id": 1210002247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.32862,9.85565,-84.32862,9.85565",
+    "geom:latitude":9.85565,
+    "geom:longitude":-84.32862,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10401.0",
+    "gn:asciiname":"Cirri",
+    "gn:country_code":"CR",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624205,
+    "gn:latitude":9.85565,
+    "gn:longitude":-84.32862,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Cirr\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624205
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"cb5381ed2cba5a302b15f4def6c1ae75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1210002247,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1210002247,
+    "wof:lastmodified":1536377470,
+    "wof:name":"Cirri",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.32862,
+    9.85565,
+    -84.32862,
+    9.85565
+],
+  "geometry": {"coordinates":[-84.32862,9.85565],"type":"Point"}
+}

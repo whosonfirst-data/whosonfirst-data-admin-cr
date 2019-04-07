@@ -1,0 +1,79 @@
+{
+  "id": 421185335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.391565,9.989138,-84.391565,9.989138",
+    "geom:latitude":9.989138,
+    "geom:longitude":-84.391565,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Atenas",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":419,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":419,
+    "qs:photos_sr":6,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":890674,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26808879,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421202071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808879,
+        "qs:id":890674,
+        "qs_pg:id":890674
+    },
+    "wof:country":"CR",
+    "wof:created":1459009439,
+    "wof:geomhash":"1778ae93a942782afb4010f312f2ad18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421202071,
+            "localadmin_id":421185335,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421185335,
+    "wof:lastmodified":1497049045,
+    "wof:name":"Atenas",
+    "wof:parent_id":421202071,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.391565,
+    9.989138,
+    -84.391565,
+    9.989138
+],
+  "geometry": {"coordinates":[-84.391565,9.989138],"type":"Point"}
+}

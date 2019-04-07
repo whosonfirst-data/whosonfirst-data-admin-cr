@@ -1,0 +1,69 @@
+{
+  "id": 1326921955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.03757,9.90935,-85.03757,9.90935",
+    "geom:latitude":9.90935,
+    "geom:longitude":-85.03757,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"601",
+    "gn:admin3_code":"60104.0",
+    "gn:asciiname":"Montana Grande",
+    "gn:country_code":"CR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622833,
+    "gn:latitude":9.90935,
+    "gn:longitude":-85.03757,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Monta\u00f1a Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622833
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"91b9e9dde7eb317b579b2b58eb80c368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":1326921955,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":1326921955,
+    "wof:lastmodified":1536920257,
+    "wof:name":"Montana Grande",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.03757,
+    9.90935,
+    -85.03757,
+    9.90935
+],
+  "geometry": {"coordinates":[-85.03757,9.90935],"type":"Point"}
+}

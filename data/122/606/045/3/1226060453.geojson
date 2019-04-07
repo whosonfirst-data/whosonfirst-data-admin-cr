@@ -1,0 +1,69 @@
+{
+  "id": 1226060453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.76667,10.76667,-84.76667,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-84.76667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"215",
+    "gn:admin3_code":"21502.0",
+    "gn:asciiname":"Cano Ciego",
+    "gn:country_code":"CR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624433,
+    "gn:latitude":10.76667,
+    "gn:longitude":-84.76667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Ca\u00f1o Ciego",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421204093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624433
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"dd8516ebc583290ac867da8856481e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204093,
+            "locality_id":1226060453,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1226060453,
+    "wof:lastmodified":1536704243,
+    "wof:name":"Cano Ciego",
+    "wof:parent_id":421204093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.76666999999998,
+    10.76667,
+    -84.76666999999998,
+    10.76667
+],
+  "geometry": {"coordinates":[-84.76666999999998,10.76667],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 890444881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.13722,9.92787,-84.13722,9.92787",
+    "geom:latitude":9.92787,
+    "geom:longitude":-84.13722,
+    "gn:country":"CR",
+    "gn:fcode":"PPL",
+    "gn:pop":25410,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "San Rafael"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ita_x_preferred":[
+        "San Rafael"
+    ],
+    "name:nob_x_preferred":[
+        "San Rafael"
+    ],
+    "name:spa_x_preferred":[
+        "San Rafael de Montes de Oca"
+    ],
+    "qs:name":"San Rafael",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":596,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421188115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621689,
+        "gp:id":58298,
+        "qs:id":1045752,
+        "wd:id":"Q3947871",
+        "wk:page":"San Rafael"
+    },
+    "wof:country":"CR",
+    "wof:created":1469052485,
+    "wof:geomhash":"5f5a6b6266a1272934851fe48d15229c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188115,
+            "locality_id":890444881,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":890444881,
+    "wof:lastmodified":1553816401,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421188115,
+    "wof:placetype":"locality",
+    "wof:population":25410,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.13722,
+    9.92787,
+    -84.13722,
+    9.92787
+],
+  "geometry": {"coordinates":[-84.13722,9.92787],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421182483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.1361,10.95173,-85.1361,10.95173",
+    "geom:latitude":10.95173,
+    "geom:longitude":-85.1361,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621841,
+    "qs:gn_pop":31430,
+    "qs:name":"San Jos\u00e9",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":87,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":87,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1340705,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59427,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421172007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621841,
+        "gp:id":59427,
+        "qs:id":1340705
+    },
+    "wof:country":"CR",
+    "wof:created":1459009331,
+    "wof:geomhash":"3c2d2d3423942042c9092628ea82d9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421172007,
+            "locality_id":421182483,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421182483,
+    "wof:lastmodified":1505340663,
+    "wof:name":"San Jos\u00e9",
+    "wof:parent_id":421172007,
+    "wof:placetype":"locality",
+    "wof:population":31430,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.1361,
+    10.95173,
+    -85.1361,
+    10.95173
+],
+  "geometry": {"coordinates":[-85.1361,10.95173],"type":"Point"}
+}

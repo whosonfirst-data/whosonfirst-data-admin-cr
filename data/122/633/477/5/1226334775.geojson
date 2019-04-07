@@ -1,0 +1,69 @@
+{
+  "id": 1226334775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.34194,10.09918,-83.34194,10.09918",
+    "geom:latitude":10.09918,
+    "geom:longitude":-83.34194,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"705",
+    "gn:admin3_code":"70502.0",
+    "gn:asciiname":"Parcelas",
+    "gn:country_code":"CR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256793,
+    "gn:latitude":10.09918,
+    "gn:longitude":-83.34194,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Parcelas",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421170303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256793
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"9f7bc1ae07f817a309c52b76313b9b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421170303,
+            "locality_id":1226334775,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1226334775,
+    "wof:lastmodified":1536805161,
+    "wof:name":"Parcelas",
+    "wof:parent_id":421170303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.34194000000002,
+    10.09918,
+    -83.34194000000002,
+    10.09918
+],
+  "geometry": {"coordinates":[-83.34194000000002,10.09918],"type":"Point"}
+}

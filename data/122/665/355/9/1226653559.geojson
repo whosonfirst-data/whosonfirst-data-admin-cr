@@ -1,0 +1,74 @@
+{
+  "id": 1226653559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.35158,10.54482,-85.35158,10.54482",
+    "geom:latitude":10.54482,
+    "geom:longitude":-85.35158,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"504",
+    "gn:admin3_code":"50401.0",
+    "gn:asciiname":"Pijije",
+    "gn:country_code":"CR",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622401,
+    "gn:latitude":10.54482,
+    "gn:longitude":-85.35158,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Pijije",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Pijige",
+        "Hacienda Pilige",
+        "Pijije"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421171711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622401
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0c05f2da660946b5322f02e7cc2b1bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171711,
+            "locality_id":1226653559,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226653559,
+    "wof:lastmodified":1537618856,
+    "wof:name":"Pijije",
+    "wof:parent_id":421171711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.35158,
+    10.54482,
+    -85.35158,
+    10.54482
+],
+  "geometry": {"coordinates":[-85.35158,10.54482],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259902033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.55574,10.29629,-83.55574,10.29629",
+    "geom:latitude":10.29629,
+    "geom:longitude":-83.55574,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"706",
+    "gn:admin3_code":"70604.0",
+    "gn:asciiname":"Angeles",
+    "gn:country_code":"CR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624902,
+    "gn:latitude":10.29629,
+    "gn:longitude":-83.55574,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"\u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo Tigre",
+        "\u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421204091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624902
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"785c5c6fff83e959e7c782e326722b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204091,
+            "locality_id":1259902033,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":1259902033,
+    "wof:lastmodified":1537618876,
+    "wof:name":"Angeles",
+    "wof:parent_id":421204091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.55574,
+    10.29629,
+    -83.55574,
+    10.29629
+],
+  "geometry": {"coordinates":[-83.55574,10.29629],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890417721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.1744,8.630836,-83.1744,8.630836",
+    "geom:latitude":8.630836,
+    "geom:longitude":-83.1744,
+    "gn:country":"CR",
+    "gp:adm0":23424791,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Golfito",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":190,
+    "qs:photos_1k":39,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1168,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "wd:wordcount":703,
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808993,
+        "qs:id":1264121,
+        "wd:id":"Q949409",
+        "wk:page":"Golfito"
+    },
+    "wof:country":"CR",
+    "wof:created":1469051217,
+    "wof:geomhash":"9f997d242272aac72098a469efdcb0a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "localadmin_id":890417721
+        }
+    ],
+    "wof:id":890417721,
+    "wof:lastmodified":1527782126,
+    "wof:name":"Golfito",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.1744,
+    8.630836,
+    -83.1744,
+    8.630836
+],
+  "geometry": {"coordinates":[-83.17440000000001,8.630836],"type":"Point"}
+}

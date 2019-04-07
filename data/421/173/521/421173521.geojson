@@ -1,0 +1,79 @@
+{
+  "id": 421173521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.59003,10.54937,-85.59003,10.54937",
+    "geom:latitude":10.54937,
+    "geom:longitude":-85.59003,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "La Comunidad"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624147,
+    "qs:gn_pop":0,
+    "qs:name":"Comunidad",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1321619,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58119,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421201615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624147,
+        "gp:id":58119,
+        "qs:id":1321619
+    },
+    "wof:country":"CR",
+    "wof:created":1459008985,
+    "wof:geomhash":"598fb67b7d13a75104642f501b468eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201615,
+            "locality_id":421173521,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421173521,
+    "wof:lastmodified":1501268179,
+    "wof:name":"Comunidad",
+    "wof:parent_id":421201615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.59003,
+    10.54937,
+    -85.59003,
+    10.54937
+],
+  "geometry": {"coordinates":[-85.59003,10.54937],"type":"Point"}
+}

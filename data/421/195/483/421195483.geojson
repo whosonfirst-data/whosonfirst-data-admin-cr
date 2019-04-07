@@ -1,0 +1,100 @@
+{
+  "id": 421195483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.86135,9.25483,-83.86135,9.25483",
+    "geom:latitude":9.25483,
+    "geom:longitude":-83.86135,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Dominical"
+    ],
+    "name:eng_x_preferred":[
+        "Dominical"
+    ],
+    "name:fre_x_preferred":[
+        "Dominical"
+    ],
+    "name:nob_x_preferred":[
+        "Dominical"
+    ],
+    "name:nor_x_preferred":[
+        "Dominical"
+    ],
+    "name:spa_x_preferred":[
+        "Playa Dominical"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Dominical"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623905,
+    "qs:gn_pop":0,
+    "qs:name":"Dominical",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":2010,
+    "qs:photos_1k":407,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2010,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":488991,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58231,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623905,
+        "gp:id":58231,
+        "qs:id":488991,
+        "wd:id":"Q5290721",
+        "wk:page":"Dominical, Puntarenas"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009849,
+    "wof:geomhash":"8354ef2ca3fc562fc1e40c296a2e7736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":421195483,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421195483,
+    "wof:lastmodified":1527716118,
+    "wof:name":"Dominical",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.86135,
+    9.25483,
+    -83.86135,
+    9.25483
+],
+  "geometry": {"coordinates":[-83.86135,9.25483],"type":"Point"}
+}

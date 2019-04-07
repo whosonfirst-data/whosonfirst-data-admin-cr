@@ -1,0 +1,63 @@
+{
+  "id": 1209120261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.19258,10.76117,-85.19258,10.76117",
+    "geom:latitude":10.76117,
+    "geom:longitude":-85.19258,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"213",
+    "gn:admin3_code":"21302.0",
+    "gn:asciiname":"Guayabal",
+    "gn:country_code":"CR",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623548,
+    "gn:latitude":10.76117,
+    "gn:longitude":-85.19258,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Guayabal",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623548
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"4666c271ef3f6ea1dcb2c224f7a33696",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209120261
+        }
+    ],
+    "wof:id":1209120261,
+    "wof:lastmodified":1536297122,
+    "wof:name":"Guayabal",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.19258,
+    10.76117,
+    -85.19258,
+    10.76117
+],
+  "geometry": {"coordinates":[-85.19258000000001,10.76117],"type":"Point"}
+}

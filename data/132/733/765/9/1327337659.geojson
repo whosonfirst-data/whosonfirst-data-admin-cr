@@ -1,0 +1,69 @@
+{
+  "id": 1327337659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.25288,10.33802,-84.25288,10.33802",
+    "geom:latitude":10.33802,
+    "geom:longitude":-84.25288,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Marsella",
+    "gn:country_code":"CR",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622922,
+    "gn:latitude":10.33802,
+    "gn:longitude":-84.25288,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Marsella",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622922
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"0d9d23f5133f3c40481ec325323111dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1327337659,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1327337659,
+    "wof:lastmodified":1536816773,
+    "wof:name":"Marsella",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.25288,
+    10.33802,
+    -84.25288,
+    10.33802
+],
+  "geometry": {"coordinates":[-84.25288,10.33802],"type":"Point"}
+}

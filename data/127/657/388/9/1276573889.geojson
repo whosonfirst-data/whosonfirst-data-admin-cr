@@ -1,0 +1,73 @@
+{
+  "id": 1276573889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.11285,9.81688,-84.11285,9.81688",
+    "geom:latitude":9.81688,
+    "geom:longitude":-84.11285,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"106",
+    "gn:admin3_code":"10602.0",
+    "gn:asciiname":"Tarbaca",
+    "gn:country_code":"CR",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621344,
+    "gn:latitude":9.81688,
+    "gn:longitude":-84.11285,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tarbaca",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Praga",
+        "Tarbaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421167829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621344
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"98b4391e48bfb97519329525e63cdefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421167829,
+            "locality_id":1276573889,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1276573889,
+    "wof:lastmodified":1537618849,
+    "wof:name":"Tarbaca",
+    "wof:parent_id":421167829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.11285,
+    9.81688,
+    -84.11285,
+    9.81688
+],
+  "geometry": {"coordinates":[-84.11284999999999,9.81688],"type":"Point"}
+}

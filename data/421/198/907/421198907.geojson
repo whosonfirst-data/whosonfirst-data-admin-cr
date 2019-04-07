@@ -1,0 +1,84 @@
+{
+  "id": 421198907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.75133,10.27528,-83.75133,10.27528",
+    "geom:latitude":10.27528,
+    "geom:longitude":-83.75133,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Roxano"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622036,
+    "qs:gn_pop":2351,
+    "qs:name":"Roxana",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":112,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1208031,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59283,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":602,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421171355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622036,
+        "gp:id":59283,
+        "qs:id":1208031,
+        "wd:id":"Q190055"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009965,
+    "wof:geomhash":"54ba14eb08587ce2e4a78e8e8e9be824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171355,
+            "locality_id":421198907,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421198907,
+    "wof:lastmodified":1527716347,
+    "wof:name":"Roxana",
+    "wof:parent_id":421171355,
+    "wof:placetype":"locality",
+    "wof:population":2351,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.75133,
+    10.27528,
+    -83.75133,
+    10.27528
+],
+  "geometry": {"coordinates":[-83.75133,10.27528],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277096453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.34573,9.90496,-84.34573,9.90496",
+    "geom:latitude":9.90496,
+    "geom:longitude":-84.34573,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"107",
+    "gn:admin3_code":"10705.0",
+    "gn:asciiname":"Picagres",
+    "gn:country_code":"CR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622430,
+    "gn:latitude":9.90496,
+    "gn:longitude":-84.34573,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Picagres",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421179213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622430
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"99efe8338a829150af15985cb74c59c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421179213,
+            "locality_id":1277096453,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1277096453,
+    "wof:lastmodified":1536747711,
+    "wof:name":"Picagres",
+    "wof:parent_id":421179213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.34573,
+    9.90496,
+    -84.34573,
+    9.90496
+],
+  "geometry": {"coordinates":[-84.34573,9.90496],"type":"Point"}
+}

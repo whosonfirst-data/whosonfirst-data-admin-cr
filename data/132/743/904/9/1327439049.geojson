@@ -1,0 +1,76 @@
+{
+  "id": 1327439049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78649,10.43095,-85.78649,10.43095",
+    "geom:latitude":10.43095,
+    "geom:longitude":-85.78649,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50308.0",
+    "gn:asciiname":"Playa Flamingo",
+    "gn:country_code":"CR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051159,
+    "gn:latitude":10.43095,
+    "gn:longitude":-85.78649,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Playa Flamingo",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Playa Flamingo"
+    ],
+    "name:spa_x_preferred":[
+        "Playa Flamingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051159,
+        "wk:page":"Flamingo,_Costa_Rica"
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"dc3c2b590c9a34f302d0b84999df47f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1327439049,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1327439049,
+    "wof:lastmodified":1537618877,
+    "wof:name":"Playa Flamingo",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78649,
+    10.43095,
+    -85.78649,
+    10.43095
+],
+  "geometry": {"coordinates":[-85.78649,10.43095],"type":"Point"}
+}

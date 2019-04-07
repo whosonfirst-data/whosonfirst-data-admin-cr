@@ -1,0 +1,82 @@
+{
+  "id": 421202415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.89185,9.8237,-83.89185,9.8237",
+    "geom:latitude":9.8237,
+    "geom:longitude":-83.89185,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Deyanira \u00c1frica Melo"
+    ],
+    "name:unk_x_variant":[
+        "Barra Mocado"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624738,
+    "qs:gn_pop":0,
+    "qs:name":"Barro Morado",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":120,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":120,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":222177,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57805,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421189139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624738,
+        "gp:id":57805,
+        "qs:id":222177
+    },
+    "wof:country":"CR",
+    "wof:created":1459010117,
+    "wof:geomhash":"c43378c316de5310f5785ba08cbaa74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189139,
+            "locality_id":421202415,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421202415,
+    "wof:lastmodified":1501268180,
+    "wof:name":"Barro Morado",
+    "wof:parent_id":421189139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.89185,
+    9.8237,
+    -83.89185,
+    9.8237
+],
+  "geometry": {"coordinates":[-83.89185000000001,9.8237],"type":"Point"}
+}

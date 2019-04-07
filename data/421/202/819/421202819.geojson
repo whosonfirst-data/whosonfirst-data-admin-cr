@@ -1,0 +1,108 @@
+{
+  "id": 421202819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.47171,8.8599,-83.47171,8.8599",
+    "geom:latitude":8.8599,
+    "geom:longitude":-83.47171,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u897f\u57c3\u723e\u4f69\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Sierpe"
+    ],
+    "name:eng_x_preferred":[
+        "Sierpe"
+    ],
+    "name:fra_x_preferred":[
+        "La Sierpe"
+    ],
+    "name:hun_x_preferred":[
+        "La Sierpe"
+    ],
+    "name:ita_x_preferred":[
+        "Sierpe"
+    ],
+    "name:nld_x_preferred":[
+        "La Sierpe"
+    ],
+    "name:nob_x_preferred":[
+        "Sierpe"
+    ],
+    "name:sco_x_preferred":[
+        "La Sierpe"
+    ],
+    "name:spa_x_preferred":[
+        "La Sierpe"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621457,
+    "qs:gn_pop":0,
+    "qs:name":"Sierpe",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228540,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59721,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":11,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421188109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621457,
+        "gp:id":59721,
+        "qs:id":228540,
+        "wd:id":"Q3960252"
+    },
+    "wof:country":"CR",
+    "wof:created":1459010130,
+    "wof:geomhash":"d3e2f4cb18646c0777055ad41617dc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421188109,
+            "locality_id":421202819,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421202819,
+    "wof:lastmodified":1527716205,
+    "wof:name":"Sierpe",
+    "wof:parent_id":421188109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.47171,
+    8.8599,
+    -83.47171,
+    8.8599
+],
+  "geometry": {"coordinates":[-83.47171,8.8599],"type":"Point"}
+}

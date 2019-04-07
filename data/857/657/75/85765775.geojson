@@ -1,0 +1,132 @@
+{
+  "id": 85765775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":390273.891583,
+    "geom:bbox":"-84.072746,9.931732,-84.072746,9.931732",
+    "geom:latitude":9.931732,
+    "geom:longitude":-84.072746,
+    "gn:id":"",
+    "iso:country":"CR",
+    "lbl:latitude":9.931732,
+    "lbl:longitude":-84.072746,
+    "mps:latitude":9.930772,
+    "mps:longitude":-84.072461,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Soledad"
+    ],
+    "name:deu_x_preferred":[
+        "Soledad"
+    ],
+    "name:fra_x_preferred":[
+        "Soledad"
+    ],
+    "name:hbs_x_preferred":[
+        "Soledad"
+    ],
+    "name:ita_x_preferred":[
+        "Soledad"
+    ],
+    "name:nld_x_preferred":[
+        "Soledad"
+    ],
+    "name:pol_x_preferred":[
+        "Soledad"
+    ],
+    "name:por_x_preferred":[
+        "Soledad"
+    ],
+    "name:spa_x_preferred":[
+        "Soledad"
+    ],
+    "name:unk_x_variant":[
+        "Soledad"
+    ],
+    "name:vol_x_preferred":[
+        "Soledad"
+    ],
+    "qs:gn_adm0_cc":"CR",
+    "qs:gn_id":0,
+    "qs:gn_local":3621849,
+    "qs:gn_nam_loc":"San Jose, San Jos\u00e9, San Jos\u00e9, CR",
+    "qs:gn_namadm1":"08",
+    "qs:local_max":6857,
+    "qs:local_sum":19186,
+    "qs:localhoods":27,
+    "qs:name":"Soledad",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:name_adm2":"San Jos\u00e9",
+    "qs:name_lau":"Catedral",
+    "qs:name_local":"San Jos\u00e9",
+    "qs:photo_max":186,
+    "qs:photo_sum":583,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424791,
+    "qs:woe_adm1":2345088,
+    "qs:woe_adm2":26808844,
+    "qs:woe_lau":26808932,
+    "qs:woe_local":59426,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        421199285,
+        85670391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723689,
+        "qs:id":346804
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"bf5a19910a95cabea00b7d7cdb3eea15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421199285,
+            "locality_id":-1,
+            "neighbourhood_id":85765775,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":85765775,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531859049,
+    "wof:name":"Soledad",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.072746,
+    9.931732,
+    -84.072746,
+    9.931732
+],
+  "geometry": {"coordinates":[-84.072746,9.931732],"type":"Point"}
+}

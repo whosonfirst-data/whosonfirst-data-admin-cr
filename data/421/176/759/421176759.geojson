@@ -1,0 +1,82 @@
+{
+  "id": 421176759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.41803,10.0579,-85.41803,10.0579",
+    "geom:latitude":10.0579,
+    "geom:longitude":-85.41803,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Hoja Ancha"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623454,
+    "qs:gn_pop":1823,
+    "qs:name":"Hojancha",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Guanacaste",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":395315,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58482,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421171717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623454,
+        "gp:id":58482,
+        "qs:id":395315
+    },
+    "wof:country":"CR",
+    "wof:created":1459009118,
+    "wof:geomhash":"a96aca193896bc5189ccdfbbc2ae4a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421171717,
+            "locality_id":421176759,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":421176759,
+    "wof:lastmodified":1505340629,
+    "wof:name":"Hojancha",
+    "wof:parent_id":421171717,
+    "wof:placetype":"locality",
+    "wof:population":1823,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.41803,
+    10.0579,
+    -85.41803,
+    10.0579
+],
+  "geometry": {"coordinates":[-85.41803,10.0579],"type":"Point"}
+}

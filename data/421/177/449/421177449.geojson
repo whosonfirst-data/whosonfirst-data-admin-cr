@@ -1,0 +1,104 @@
+{
+  "id": 421177449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.98881,9.98876,-83.98881,9.98876",
+    "geom:latitude":9.98876,
+    "geom:longitude":-83.98881,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u8499\u7279\u65af\u5fb7\u5967\u5361\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro"
+    ],
+    "name:nob_x_preferred":[
+        "San Pedro"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro"
+    ],
+    "name:sme_x_preferred":[
+        "San Pedro"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Montes de Oca"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621714,
+    "qs:gn_pop":0,
+    "qs:name":"San Pedro",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"San Jose",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":151,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340711,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59526,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621714,
+        "gp:id":59526,
+        "qs:id":1340711,
+        "wd:id":"Q1815110"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009145,
+    "wof:geomhash":"20388d62cd4f342439dbd7a5f1d1747d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175409,
+            "locality_id":421177449,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":421177449,
+    "wof:lastmodified":1553816367,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421175409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.98881,
+    9.98876,
+    -83.98881,
+    9.98876
+],
+  "geometry": {"coordinates":[-83.98881,9.98876],"type":"Point"}
+}

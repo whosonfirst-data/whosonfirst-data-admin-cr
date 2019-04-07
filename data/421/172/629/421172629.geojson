@@ -1,0 +1,75 @@
+{
+  "id": 421172629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.779235,9.658546,-82.779235,9.658546",
+    "geom:latitude":9.658546,
+    "geom:longitude":-82.779235,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cahuita",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":187,
+    "qs:photos_1k":38,
+    "qs:photos_9k":29,
+    "qs:photos_9r":15,
+    "qs:photos_all":6507,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1314887,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":26808911,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421185333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26808911,
+        "qs:id":1314887
+    },
+    "wof:country":"CR",
+    "wof:created":1459008949,
+    "wof:geomhash":"43c25b71872f21838c291fd18b768bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185333,
+            "localadmin_id":421172629,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421172629,
+    "wof:lastmodified":1499976260,
+    "wof:name":"Cahuita",
+    "wof:parent_id":421185333,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.779235,
+    9.658546,
+    -82.779235,
+    9.658546
+],
+  "geometry": {"coordinates":[-82.779235,9.658546],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421180499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.67898,9.84397,-84.67898,9.84397",
+    "geom:latitude":9.84397,
+    "geom:longitude":-84.67898,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3624819,
+    "qs:gn_pop":0,
+    "qs:name":"Bajamar",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":367,
+    "qs:photos_1k":74,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":367,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":433449,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":57753,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":432,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        421204087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624819,
+        "gp:id":57753,
+        "qs:id":433449
+    },
+    "wof:country":"CR",
+    "wof:created":1459009261,
+    "wof:geomhash":"3a9c69046594a5f24079b50480395cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204087,
+            "locality_id":421180499,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421180499,
+    "wof:lastmodified":1527716236,
+    "wof:name":"Bajamar",
+    "wof:parent_id":421204087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.67898,
+    9.84397,
+    -84.67898,
+    9.84397
+],
+  "geometry": {"coordinates":[-84.67898,9.84397],"type":"Point"}
+}

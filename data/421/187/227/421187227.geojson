@@ -1,0 +1,83 @@
+{
+  "id": 421187227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.08984,9.98123,-84.08984,9.98123",
+    "geom:latitude":9.98123,
+    "geom:longitude":-84.08984,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "San Domingo"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621516,
+    "qs:gn_pop":0,
+    "qs:name":"Santo Domingo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Heredia",
+    "qs:photos":257,
+    "qs:photos_1k":52,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":257,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082588,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59697,
+    "src:geom":"quattroshapes",
+    "wd:elevation":14.0,
+    "wd:latitude":18.476389,
+    "wd:longitude":-69.893333,
+    "wd:wordcount":5610,
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421185327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621516,
+        "gp:id":59697,
+        "qs:id":1082588
+    },
+    "wof:country":"CR",
+    "wof:created":1459009506,
+    "wof:geomhash":"034a87a268edeebf4a8f71447dd75800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185327,
+            "locality_id":421187227,
+            "region_id":85670375
+        }
+    ],
+    "wof:id":421187227,
+    "wof:lastmodified":1527716244,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":421185327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.08984,
+    9.98123,
+    -84.08984,
+    9.98123
+],
+  "geometry": {"coordinates":[-84.08984,9.98123],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343275923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.25957,10.47077,-84.25957,10.47077",
+    "geom:latitude":10.47077,
+    "geom:longitude":-84.25957,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"210",
+    "gn:admin3_code":"21006.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"CR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621765,
+    "gn:latitude":10.47077,
+    "gn:longitude":-84.25957,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421183457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621765
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"fd09125f7c3f9a6b05f0df6e967d6095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421183457,
+            "locality_id":1343275923,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":1343275923,
+    "wof:lastmodified":1537011781,
+    "wof:name":"San Luis",
+    "wof:parent_id":421183457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.25957,
+    10.47077,
+    -84.25957,
+    10.47077
+],
+  "geometry": {"coordinates":[-84.25957,10.47077],"type":"Point"}
+}

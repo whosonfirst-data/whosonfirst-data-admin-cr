@@ -1,0 +1,73 @@
+{
+  "id": 1260190049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.57284,10.5022,-85.57284,10.5022",
+    "geom:latitude":10.5022,
+    "geom:longitude":-85.57284,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"505",
+    "gn:admin3_code":"50502.0",
+    "gn:asciiname":"Paso del Tempisque",
+    "gn:country_code":"CR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622523,
+    "gn:latitude":10.5022,
+    "gn:longitude":-85.57284,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Paso del Tempisque",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Paso",
+        "Paso del Tempisque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421201615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622523
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b250a6b579da397eeb0ca402d3102604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421201615,
+            "locality_id":1260190049,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1260190049,
+    "wof:lastmodified":1537618857,
+    "wof:name":"Paso del Tempisque",
+    "wof:parent_id":421201615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.57284,
+    10.5022,
+    -85.57284,
+    10.5022
+],
+  "geometry": {"coordinates":[-85.57284,10.5022],"type":"Point"}
+}

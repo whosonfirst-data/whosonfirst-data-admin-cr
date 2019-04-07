@@ -1,0 +1,67 @@
+{
+  "id": 1209628993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29369,10.09546,-84.29369,10.09546",
+    "geom:latitude":10.09546,
+    "geom:longitude":-84.29369,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"203",
+    "gn:admin3_code":"20302.0",
+    "gn:asciiname":"Meson",
+    "gn:country_code":"CR",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622865,
+    "gn:latitude":10.09546,
+    "gn:longitude":-84.29369,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Mes\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mes\u00f3n",
+        "Mes\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622865
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"51d91eee9277992cecb5167ddeeed1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209628993
+        }
+    ],
+    "wof:id":1209628993,
+    "wof:lastmodified":1537618859,
+    "wof:name":"Meson",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29369,
+    10.09546,
+    -84.29369,
+    10.09546
+],
+  "geometry": {"coordinates":[-84.29369,10.09546],"type":"Point"}
+}

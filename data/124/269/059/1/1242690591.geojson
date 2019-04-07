@@ -1,0 +1,74 @@
+{
+  "id": 1242690591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.03494,9.81935,-84.03494,9.81935",
+    "geom:latitude":9.81935,
+    "geom:longitude":-84.03494,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"301",
+    "gn:admin3_code":"30111.0",
+    "gn:asciiname":"Copalchi",
+    "gn:country_code":"CR",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624102,
+    "gn:latitude":9.81935,
+    "gn:longitude":-84.03494,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Copalch\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salitrillo",
+        "Copachi",
+        "Copalch\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421189139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624102
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"07eebe35d5de0920c4b0a1ae9cbd6152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421189139,
+            "locality_id":1242690591,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1242690591,
+    "wof:lastmodified":1537618869,
+    "wof:name":"Copalchi",
+    "wof:parent_id":421189139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.03494,
+    9.81935,
+    -84.03494,
+    9.81935
+],
+  "geometry": {"coordinates":[-84.03494000000001,9.81935],"type":"Point"}
+}

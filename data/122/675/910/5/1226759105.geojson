@@ -1,0 +1,74 @@
+{
+  "id": 1226759105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.51588,9.95618,-85.51588,9.95618",
+    "geom:latitude":9.95618,
+    "geom:longitude":-85.51588,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"502",
+    "gn:admin3_code":"50207.0",
+    "gn:asciiname":"Maquenco",
+    "gn:country_code":"CR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3622937,
+    "gn:latitude":9.95618,
+    "gn:longitude":-85.51588,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Maquenco",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maquenal",
+        "Maquencal",
+        "Maquenco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        421175395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622937
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"07799de91799801644fd7914fe6e051f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175395,
+            "locality_id":1226759105,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1226759105,
+    "wof:lastmodified":1537618860,
+    "wof:name":"Maquenco",
+    "wof:parent_id":421175395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.51588000000002,
+    9.95618,
+    -85.51588000000002,
+    9.95618
+],
+  "geometry": {"coordinates":[-85.51588000000002,9.95618],"type":"Point"}
+}

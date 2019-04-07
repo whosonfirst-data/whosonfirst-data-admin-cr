@@ -1,0 +1,111 @@
+{
+  "id": 421199033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.68067,10.21044,-83.68067,10.21044",
+    "geom:latitude":10.21044,
+    "geom:longitude":-83.68067,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:dut_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:eng_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u0633\u06cc\u0645\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:nob_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:nor_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0648\u0627\u0633\u06cc\u0645\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "name:swe_x_preferred":[
+        "Gu\u00e1cimo"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3623601,
+    "qs:gn_pop":7022,
+    "qs:name":"Gu\u00e1cimo",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Limon",
+    "qs:photos":278,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":278,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1214097,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58391,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670381,
+        421204091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623601,
+        "gp:id":58391,
+        "qs:id":1214097,
+        "wd:id":"Q3780110",
+        "wk:page":"Gu\u00e1cimo"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009975,
+    "wof:geomhash":"7ced1b1a55a54062ad2aded622644cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204091,
+            "locality_id":421199033,
+            "region_id":85670381
+        }
+    ],
+    "wof:id":421199033,
+    "wof:lastmodified":1513944333,
+    "wof:name":"Gu\u00e1cimo",
+    "wof:parent_id":421204091,
+    "wof:placetype":"locality",
+    "wof:population":7022,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.68067,
+    10.21044,
+    -83.68067,
+    10.21044
+],
+  "geometry": {"coordinates":[-83.68067000000001,10.21044],"type":"Point"}
+}

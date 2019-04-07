@@ -1,0 +1,99 @@
+{
+  "id": 421169999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.24412,10.07535,-84.24412,10.07535",
+    "geom:latitude":10.07535,
+    "geom:longitude":-84.24412,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro"
+    ],
+    "name:nor_x_preferred":[
+        "San Pedro"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Po\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro de Poas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u6ce2\u963f\u65af\u5340"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621711,
+    "qs:gn_pop":0,
+    "qs:name":"San Pedro",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Alajuela",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211054,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59525,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670393,
+        421194119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621711,
+        "gp:id":59525,
+        "qs:id":211054,
+        "wd:id":"Q2063040",
+        "wk:page":"San Pedro de Po\u00e1s"
+    },
+    "wof:country":"CR",
+    "wof:created":1459008832,
+    "wof:geomhash":"20f92a5821885d5148539726b01f8f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421194119,
+            "locality_id":421169999,
+            "region_id":85670393
+        }
+    ],
+    "wof:id":421169999,
+    "wof:lastmodified":1501268151,
+    "wof:name":"San Pedro",
+    "wof:parent_id":421194119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.24412,
+    10.07535,
+    -84.24412,
+    10.07535
+],
+  "geometry": {"coordinates":[-84.24412,10.07535],"type":"Point"}
+}

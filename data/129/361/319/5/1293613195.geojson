@@ -1,0 +1,79 @@
+{
+  "id": 1293613195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.93735,10.71599,-83.93735,10.71599",
+    "geom:latitude":10.71599,
+    "geom:longitude":-83.93735,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"410",
+    "gn:admin3_code":"41005.0",
+    "gn:asciiname":"Trinidad",
+    "gn:country_code":"CR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621216,
+    "gn:latitude":10.71599,
+    "gn:longitude":-83.93735,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670375,
+        421185329,
+        85632599,
+        85675465,
+        421175429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621216
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b175a3d024f9fbfdd73df4e2d42d9180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421185329,
+            "locality_id":1293613195,
+            "region_id":85670375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175429,
+            "locality_id":1293613195,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":1293613195,
+    "wof:lastmodified":1536602833,
+    "wof:name":"Trinidad",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.93735,
+    10.71599,
+    -83.93735,
+    10.71599
+],
+  "geometry": {"coordinates":[-83.93735,10.71599],"type":"Point"}
+}

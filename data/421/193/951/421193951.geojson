@@ -1,0 +1,107 @@
+{
+  "id": 421193951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9876,9.90644,-83.9876,9.90644",
+    "geom:latitude":9.90644,
+    "geom:longitude":-83.9876,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7279\u96f7\u65af\u91cc\u5967\u65af\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:eng_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:fre_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:ita_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:lit_x_preferred":[
+        "Tres Riosas"
+    ],
+    "name:nob_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:spa_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:unk_x_variant":[
+        "La Uni\u00f3n"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3621224,
+    "qs:gn_pop":10430,
+    "qs:name":"Tres R\u00edos",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Cartago",
+    "qs:photos":417,
+    "qs:photos_1k":84,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":417,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":583708,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":59835,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421204569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621224,
+        "gp:id":59835,
+        "qs:id":583708,
+        "wd:id":"Q1112873"
+    },
+    "wof:country":"CR",
+    "wof:created":1459009788,
+    "wof:geomhash":"2e67fd78eefda2dc1d3b620328659e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421204569,
+            "locality_id":421193951,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":421193951,
+    "wof:lastmodified":1513944471,
+    "wof:name":"Tres R\u00edos",
+    "wof:parent_id":421204569,
+    "wof:placetype":"locality",
+    "wof:population":10430,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9876,
+    9.90644,
+    -83.9876,
+    9.90644
+],
+  "geometry": {"coordinates":[-83.9876,9.90644],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243566191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.70667,10.35917,-85.70667,10.35917",
+    "geom:latitude":10.35917,
+    "geom:longitude":-85.70667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"503",
+    "gn:admin3_code":"50305.0",
+    "gn:asciiname":"Lorena",
+    "gn:country_code":"CR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3623016,
+    "gn:latitude":10.35917,
+    "gn:longitude":-85.70667,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Lorena",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zopilote",
+        "Lorena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670399,
+        1108693669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3623016
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"b6fba7e65dae623d38939e75b87a75d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693669,
+            "locality_id":1243566191,
+            "region_id":85670399
+        }
+    ],
+    "wof:id":1243566191,
+    "wof:lastmodified":1537618860,
+    "wof:name":"Lorena",
+    "wof:parent_id":1108693669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.70666999999997,
+    10.35917,
+    -85.70666999999997,
+    10.35917
+],
+  "geometry": {"coordinates":[-85.70666999999997,10.35917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259395403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.80037,9.76842,-83.80037,9.76842",
+    "geom:latitude":9.76842,
+    "geom:longitude":-83.80037,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"302",
+    "gn:admin3_code":"30203.0",
+    "gn:asciiname":"Tapanti",
+    "gn:country_code":"CR",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621351,
+    "gn:latitude":9.76842,
+    "gn:longitude":-83.80037,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Tapant\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tapanti",
+        "Tapant\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670371,
+        421182145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621351
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"e2edf0522d57d791bf8648b9731c1007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421182145,
+            "locality_id":1259395403,
+            "region_id":85670371
+        }
+    ],
+    "wof:id":1259395403,
+    "wof:lastmodified":1537618849,
+    "wof:name":"Tapanti",
+    "wof:parent_id":421182145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.80037,
+    9.76842,
+    -83.80037,
+    9.76842
+],
+  "geometry": {"coordinates":[-83.80037,9.76842],"type":"Point"}
+}

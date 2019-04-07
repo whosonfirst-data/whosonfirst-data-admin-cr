@@ -1,0 +1,98 @@
+{
+  "id": 421201277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.93513,9.82005,-84.93513,9.82005",
+    "geom:latitude":9.82005,
+    "geom:longitude":-84.93513,
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Paquera"
+    ],
+    "name:eng_x_preferred":[
+        "Paquera"
+    ],
+    "name:ita_x_preferred":[
+        "Paquera"
+    ],
+    "name:por_x_preferred":[
+        "Ascens\u00e3o e Queda de um Paquera"
+    ],
+    "name:spa_x_preferred":[
+        "Paquera"
+    ],
+    "name:swe_x_preferred":[
+        "Paquera"
+    ],
+    "qs:gn_country":"CR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3622561,
+    "qs:gn_pop":1510,
+    "qs:name":"Paquera",
+    "qs:name_adm0":"Costa Rica",
+    "qs:name_adm1":"Puntarenas",
+    "qs:photos":404,
+    "qs:photos_1k":82,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":404,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":211046,
+    "qs:woe_adm0":23424791,
+    "qs:woe_id":58947,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670385,
+        1108693663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3622561,
+        "gp:id":58947,
+        "qs:id":211046,
+        "wd:id":"Q3894943"
+    },
+    "wof:country":"CR",
+    "wof:created":1459010067,
+    "wof:geomhash":"5987be65656cf49f549bd77e76bc9216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":1108693663,
+            "locality_id":421201277,
+            "region_id":85670385
+        }
+    ],
+    "wof:id":421201277,
+    "wof:lastmodified":1513944365,
+    "wof:name":"Paquera",
+    "wof:parent_id":1108693663,
+    "wof:placetype":"locality",
+    "wof:population":1510,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.93513,
+    9.82005,
+    -84.93513,
+    9.82005
+],
+  "geometry": {"coordinates":[-84.93513,9.82005],"type":"Point"}
+}

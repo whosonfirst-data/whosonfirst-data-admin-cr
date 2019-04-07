@@ -1,0 +1,63 @@
+{
+  "id": 1209226145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.69337,10.98545,-85.69337,10.98545",
+    "geom:latitude":10.98545,
+    "geom:longitude":-85.69337,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"510",
+    "gn:admin3_code":"51001.0",
+    "gn:asciiname":"Brasilito",
+    "gn:country_code":"CR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624629,
+    "gn:latitude":10.98545,
+    "gn:longitude":-85.69337,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Brasilito",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624629
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"33a3cfbd9a8ae7aec77a0b37509d0950",
+    "wof:hierarchy":[
+        {
+            "country_id":85632487,
+            "locality_id":1209226145
+        }
+    ],
+    "wof:id":1209226145,
+    "wof:lastmodified":1536293794,
+    "wof:name":"Brasilito",
+    "wof:parent_id":85632487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.69337,
+    10.98545,
+    -85.69337,
+    10.98545
+],
+  "geometry": {"coordinates":[-85.69337,10.98545],"type":"Point"}
+}

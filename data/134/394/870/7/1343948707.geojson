@@ -1,0 +1,69 @@
+{
+  "id": 1343948707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.35722,9.81183,-84.35722,9.81183",
+    "geom:latitude":9.81183,
+    "geom:longitude":-84.35722,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"104",
+    "gn:admin3_code":"10402.0",
+    "gn:asciiname":"Bajo La Legua",
+    "gn:country_code":"CR",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3624804,
+    "gn:latitude":9.81183,
+    "gn:longitude":-84.35722,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Bajo La Legua",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"CR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632487,
+        85670391,
+        421175401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3624804
+    },
+    "wof:country":"CR",
+    "wof:geomhash":"8f5c849da836d6d9e4908f8b58168440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632487,
+            "county_id":421175401,
+            "locality_id":1343948707,
+            "region_id":85670391
+        }
+    ],
+    "wof:id":1343948707,
+    "wof:lastmodified":1537035470,
+    "wof:name":"Bajo La Legua",
+    "wof:parent_id":421175401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.35722,
+    9.81183,
+    -84.35722,
+    9.81183
+],
+  "geometry": {"coordinates":[-84.35722,9.81183],"type":"Point"}
+}
