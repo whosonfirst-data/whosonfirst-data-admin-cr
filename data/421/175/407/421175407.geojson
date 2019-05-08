@@ -10,6 +10,12 @@
     "geom:latitude":10.189871,
     "geom:longitude":-84.301083,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Valverde Vega Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.22166,
     "lbl:longitude":-84.283119,
     "meso:admin_1":"Alajuela",
@@ -30,6 +36,9 @@
         "Valverde Vega"
     ],
     "name:eng_x_variant":[
+        "Valverde Vega"
+    ],
+    "name:spa_x_preferred":[
         "Valverde Vega"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421175407,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1555047425,
     "wof:name":"Valverde Vega",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.219271,
     "geom:longitude":-84.413883,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Zarcero Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.216907,
     "lbl:longitude":-84.415801,
     "meso:admin_1":"Alajuela",
@@ -35,7 +41,7 @@
         "Zarcero"
     ],
     "name:eng_x_preferred":[
-        "Alfaro Ruiz"
+        "Zarcero"
     ],
     "name:eng_x_variant":[
         "Alfaro Ruiz",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693671,
-    "wof:lastmodified":1536615337,
+    "wof:lastmodified":1555047431,
     "wof:name":"Zarcero",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.908406,
     "geom:longitude":-82.922714,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Coto Brus Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":8.934883,
     "lbl:longitude":-82.919782,
     "meso:admin_1":"Puntarenas",
@@ -30,6 +36,9 @@
         "Coto Brus"
     ],
     "name:eng_x_variant":[
+        "Coto Brus"
+    ],
+    "name:spa_x_preferred":[
         "Coto Brus"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421171715,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1555047424,
     "wof:name":"Coto Brus",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

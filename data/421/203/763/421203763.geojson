@@ -10,6 +10,12 @@
     "geom:latitude":10.044257,
     "geom:longitude":-84.437167,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Palmares Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.043767,
     "lbl:longitude":-84.436549,
     "meso:admin_1":"Alajuela",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421203763,
-    "wof:lastmodified":1536616160,
+    "wof:lastmodified":1553717575,
     "wof:name":"Palmares",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

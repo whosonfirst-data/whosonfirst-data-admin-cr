@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063618,
-    "geom:area_square_m":774661261.601975,
+    "geom:area_square_m":774661261.6021,
     "geom:bbox":"-83.4678494861,9.79770384192,-83.1508454002,10.2237838054",
     "geom:latitude":10.016212,
     "geom:longitude":-83.292264,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Matina Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.069307,
     "lbl:longitude":-83.28993,
     "meso:admin_1":"Limon",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421170303,
-    "wof:lastmodified":1553816359,
+    "wof:lastmodified":1555037161,
     "wof:name":"Matina",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

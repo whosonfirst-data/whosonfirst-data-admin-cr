@@ -10,6 +10,12 @@
     "geom:latitude":9.989326,
     "geom:longitude":-84.6555,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Esparza Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.993773,
     "lbl:longitude":-84.632107,
     "meso:admin_1":"Puntarenas",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421188117,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1553717463,
     "wof:name":"Esparza",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

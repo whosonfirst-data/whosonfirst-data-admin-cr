@@ -10,6 +10,12 @@
     "geom:latitude":10.094073,
     "geom:longitude":-84.225669,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Alajuela Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.04489,
     "lbl:longitude":-84.210038,
     "meso:admin_1":"Alajuela",
@@ -30,6 +36,9 @@
         "Alajuela"
     ],
     "name:eng_x_variant":[
+        "Alajuela"
+    ],
+    "name:spa_x_preferred":[
         "Alajuela"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421201603,
-    "wof:lastmodified":1536616140,
+    "wof:lastmodified":1555047428,
     "wof:name":"Alajuela",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

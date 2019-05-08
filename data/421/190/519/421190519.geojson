@@ -10,6 +10,12 @@
     "geom:latitude":9.814631,
     "geom:longitude":-84.045534,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Desamparados Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.844311,
     "lbl:longitude":-84.045525,
     "meso:admin_1":"San Jose",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1553717492,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

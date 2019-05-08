@@ -10,6 +10,12 @@
     "geom:latitude":10.007701,
     "geom:longitude":-83.865866,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Oreamuno Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.034413,
     "lbl:longitude":-83.842453,
     "meso:admin_1":"Cartago",
@@ -36,6 +42,12 @@
         "Oreamuno"
     ],
     "name:fra_x_preferred":[
+        "Oreamuno"
+    ],
+    "name:fre_x_preferred":[
+        "Oreamuno"
+    ],
+    "name:spa_x_preferred":[
         "Oreamuno"
     ],
     "qs:gn_country":null,
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421175397,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1555047424,
     "wof:name":"Oreamuno",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

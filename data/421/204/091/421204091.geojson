@@ -10,6 +10,12 @@
     "geom:latitude":10.201809,
     "geom:longitude":-83.646058,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Guacimo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.205658,
     "lbl:longitude":-83.656389,
     "meso:admin_1":"Limon",
@@ -30,7 +36,7 @@
         "Gu\u00e1cimo"
     ],
     "name:eng_x_preferred":[
-        "Gu\u00e1cimo"
+        "Guacimo"
     ],
     "name:eng_x_variant":[
         "Guacimo",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421204091,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1555047428,
     "wof:name":"Guacimo",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

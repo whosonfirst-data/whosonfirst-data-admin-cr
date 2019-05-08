@@ -10,6 +10,12 @@
     "geom:latitude":9.747254,
     "geom:longitude":-83.93018,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "El Guarco Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.72676,
     "lbl:longitude":-83.920011,
     "meso:admin_1":"Cartago",
@@ -29,6 +35,9 @@
         "El Guarco"
     ],
     "name:eng_x_variant":[
+        "El Guarco"
+    ],
+    "name:spa_x_preferred":[
         "El Guarco"
     ],
     "src:geom":"meso",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1108693655,
-    "wof:lastmodified":1536615336,
+    "wof:lastmodified":1555047429,
     "wof:name":"El Guarco",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

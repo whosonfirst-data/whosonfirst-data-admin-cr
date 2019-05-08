@@ -10,6 +10,12 @@
     "geom:latitude":10.589072,
     "geom:longitude":-84.435801,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.551682,
     "lbl:longitude":-84.406731,
     "meso:admin_1":"Alajuela",
@@ -30,6 +36,9 @@
         "San Carlos"
     ],
     "name:eng_x_variant":[
+        "San Carlos"
+    ],
+    "name:spa_x_preferred":[
         "San Carlos"
     ],
     "qs:gn_country":null,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421183457,
-    "wof:lastmodified":1536616013,
+    "wof:lastmodified":1555047426,
     "wof:name":"San Carlos",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

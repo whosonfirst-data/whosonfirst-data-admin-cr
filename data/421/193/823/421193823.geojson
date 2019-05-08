@@ -10,6 +10,12 @@
     "geom:latitude":10.07556,
     "geom:longitude":-84.114717,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Barva Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.087905,
     "lbl:longitude":-84.10924,
     "meso:admin_1":"Heredia",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421193823,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1553717525,
     "wof:name":"Barva",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

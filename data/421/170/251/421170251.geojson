@@ -10,6 +10,12 @@
     "geom:latitude":10.468628,
     "geom:longitude":-84.913672,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Tilaran Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.478366,
     "lbl:longitude":-84.925031,
     "meso:admin_1":"Guanacaste",
@@ -30,7 +36,7 @@
         "\u8482\u62c9\u862d\u5340"
     ],
     "name:eng_x_preferred":[
-        "Tilar\u00e1n"
+        "Tilaran"
     ],
     "name:eng_x_variant":[
         "Tilaran",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421170251,
-    "wof:lastmodified":1536615908,
+    "wof:lastmodified":1555047424,
     "wof:name":"Tilaran",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

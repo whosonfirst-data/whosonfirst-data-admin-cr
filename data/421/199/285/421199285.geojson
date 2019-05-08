@@ -10,6 +10,12 @@
     "geom:latitude":9.935178,
     "geom:longitude":-84.102455,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "San Jose Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.928684,
     "lbl:longitude":-84.095917,
     "meso:admin_1":"San Jose",
@@ -27,10 +33,13 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "San Jos\u00e9"
+        "San Jose"
     ],
     "name:eng_x_variant":[
         "San Jose",
+        "San Jos\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "San Jos\u00e9"
     ],
     "qs:gn_country":null,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421199285,
-    "wof:lastmodified":1536616130,
+    "wof:lastmodified":1555047427,
     "wof:name":"San Jose",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

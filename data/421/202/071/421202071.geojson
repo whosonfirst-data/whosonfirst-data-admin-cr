@@ -10,6 +10,12 @@
     "geom:latitude":9.97532,
     "geom:longitude":-84.40437,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Atenas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.976494,
     "lbl:longitude":-84.405587,
     "meso:admin_1":"Alajuela",
@@ -30,6 +36,9 @@
         "Atenas"
     ],
     "name:eng_x_variant":[
+        "Atenas"
+    ],
+    "name:spa_x_preferred":[
         "Atenas"
     ],
     "qs:gn_country":null,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421202071,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1555047428,
     "wof:name":"Atenas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

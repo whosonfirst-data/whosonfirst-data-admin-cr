@@ -10,6 +10,12 @@
     "geom:latitude":9.884184,
     "geom:longitude":-84.269844,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Mora Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.886917,
     "lbl:longitude":-84.25666,
     "meso:admin_1":"San Jose",
@@ -190,7 +196,7 @@
         }
     ],
     "wof:id":421179213,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1553717374,
     "wof:name":"Mora",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.530698,
     "geom:longitude":-85.260535,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Bagaces Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.520268,
     "lbl:longitude":-85.278657,
     "meso:admin_1":"Guanacaste",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421171711,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1553717332,
     "wof:name":"Bagaces",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

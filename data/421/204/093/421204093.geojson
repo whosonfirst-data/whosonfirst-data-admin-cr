@@ -10,6 +10,12 @@
     "geom:latitude":10.694885,
     "geom:longitude":-84.841434,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Guatuso Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.698786,
     "lbl:longitude":-84.844185,
     "meso:admin_1":"Alajuela",
@@ -30,6 +36,9 @@
         "Guatuso"
     ],
     "name:eng_x_variant":[
+        "Guatuso"
+    ],
+    "name:spa_x_preferred":[
         "Guatuso"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421204093,
-    "wof:lastmodified":1536616162,
+    "wof:lastmodified":1555047429,
     "wof:name":"Guatuso",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

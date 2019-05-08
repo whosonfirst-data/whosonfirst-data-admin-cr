@@ -10,6 +10,12 @@
     "geom:latitude":9.888606,
     "geom:longitude":-85.019475,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Puntarenas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.826225,
     "lbl:longitude":-85.072436,
     "meso:admin_1":"Puntarenas",
@@ -29,6 +35,9 @@
         "Puntarenas"
     ],
     "name:eng_x_variant":[
+        "Puntarenas"
+    ],
+    "name:spa_x_preferred":[
         "Puntarenas"
     ],
     "src:geom":"meso",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1108693663,
-    "wof:lastmodified":1536615336,
+    "wof:lastmodified":1555047430,
     "wof:name":"Puntarenas",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

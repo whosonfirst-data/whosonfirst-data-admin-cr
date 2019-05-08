@@ -10,6 +10,12 @@
     "geom:latitude":10.242868,
     "geom:longitude":-85.685253,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Santa Cruz Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.211927,
     "lbl:longitude":-85.688665,
     "meso:admin_1":"Guanacaste",
@@ -29,6 +35,9 @@
         "Santa Cruz"
     ],
     "name:eng_x_variant":[
+        "Santa Cruz"
+    ],
+    "name:spa_x_preferred":[
         "Santa Cruz"
     ],
     "src:geom":"meso",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1108693669,
-    "wof:lastmodified":1536615337,
+    "wof:lastmodified":1555047430,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

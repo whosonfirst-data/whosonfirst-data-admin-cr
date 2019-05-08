@@ -10,6 +10,12 @@
     "geom:latitude":10.881829,
     "geom:longitude":-85.14929,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Upala Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.891045,
     "lbl:longitude":-85.154649,
     "meso:admin_1":"Alajuela",
@@ -54,6 +60,9 @@
         "Upala"
     ],
     "name:spa_x_preferred":[
+        "Upala"
+    ],
+    "name:spa_x_variant":[
         "Upala Centro"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421172007,
-    "wof:lastmodified":1536615937,
+    "wof:lastmodified":1555047424,
     "wof:name":"Upala",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

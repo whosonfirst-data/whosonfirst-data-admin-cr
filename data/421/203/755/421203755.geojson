@@ -10,6 +10,12 @@
     "geom:latitude":9.917482,
     "geom:longitude":-84.027857,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Curridabat Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.91644,
     "lbl:longitude":-84.028301,
     "meso:admin_1":"San Jose",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421203755,
-    "wof:lastmodified":1536616160,
+    "wof:lastmodified":1553717576,
     "wof:name":"Curridabat",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

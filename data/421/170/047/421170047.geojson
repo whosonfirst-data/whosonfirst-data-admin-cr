@@ -10,6 +10,12 @@
     "geom:latitude":9.806807,
     "geom:longitude":-83.702699,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Jimenez Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.811457,
     "lbl:longitude":-83.696679,
     "meso:admin_1":"Cartago",
@@ -30,13 +36,16 @@
         "Jim\u00e9nez"
     ],
     "name:eng_x_preferred":[
-        "Jim\u00e9nez"
+        "Jimenez"
     ],
     "name:eng_x_variant":[
         "Jimenez",
         "Jim\u00e9nez"
     ],
     "name:ita_x_preferred":[
+        "Jim\u00e9nez"
+    ],
+    "name:spa_x_preferred":[
         "Jim\u00e9nez"
     ],
     "qs:gn_country":null,
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":421170047,
-    "wof:lastmodified":1536615904,
+    "wof:lastmodified":1555047423,
     "wof:name":"Jimenez",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

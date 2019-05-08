@@ -10,6 +10,12 @@
     "geom:latitude":9.98555,
     "geom:longitude":-84.066275,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.982822,
     "lbl:longitude":-84.069393,
     "meso:admin_1":"Heredia",
@@ -30,6 +36,9 @@
         "Santo Domingo"
     ],
     "name:eng_x_variant":[
+        "Santo Domingo"
+    ],
+    "name:spa_x_preferred":[
         "Santo Domingo"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421185327,
-    "wof:lastmodified":1536616028,
+    "wof:lastmodified":1555047426,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

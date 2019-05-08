@@ -10,6 +10,12 @@
     "geom:latitude":9.108424,
     "geom:longitude":-83.250521,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Buenos Aires Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.120599,
     "lbl:longitude":-83.246022,
     "meso:admin_1":"Puntarenas",
@@ -29,6 +35,9 @@
         "Buenos Aires"
     ],
     "name:eng_x_variant":[
+        "Buenos Aires"
+    ],
+    "name:spa_x_preferred":[
         "Buenos Aires"
     ],
     "src:geom":"meso",
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1108693653,
-    "wof:lastmodified":1536615335,
+    "wof:lastmodified":1555047429,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

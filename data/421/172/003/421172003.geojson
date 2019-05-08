@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130925,
-    "geom:area_square_m":1595177153.601859,
+    "geom:area_square_m":1595177153.601918,
     "geom:bbox":"-83.8192522605,9.4840119004,-83.3119070991,10.083643472",
     "geom:latitude":9.821754,
     "geom:longitude":-83.549232,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Turrialba Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.838636,
     "lbl:longitude":-83.503029,
     "meso:admin_1":"Cartago",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421172003,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1555037146,
     "wof:name":"Turrialba",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.959798,
     "geom:longitude":-84.547406,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "San Mateo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.964052,
     "lbl:longitude":-84.527776,
     "meso:admin_1":"Alajuela",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421169971,
-    "wof:lastmodified":1536615902,
+    "wof:lastmodified":1553717307,
     "wof:name":"San Mateo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

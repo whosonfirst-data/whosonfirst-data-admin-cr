@@ -10,6 +10,12 @@
     "geom:latitude":9.937477,
     "geom:longitude":-83.804829,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Alvarado Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.93431,
     "lbl:longitude":-83.804207,
     "meso:admin_1":"Cartago",
@@ -30,6 +36,9 @@
         "Alvarado"
     ],
     "name:eng_x_variant":[
+        "Alvarado"
+    ],
+    "name:spa_x_preferred":[
         "Alvarado"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421171707,
-    "wof:lastmodified":1536615932,
+    "wof:lastmodified":1555047424,
     "wof:name":"Alvarado",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

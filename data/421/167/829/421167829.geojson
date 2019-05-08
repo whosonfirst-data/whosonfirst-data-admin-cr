@@ -10,6 +10,12 @@
     "geom:latitude":9.744352,
     "geom:longitude":-84.137613,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Aserri Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.763321,
     "lbl:longitude":-84.132007,
     "meso:admin_1":"San Jose",
@@ -30,13 +36,16 @@
         "\u0622\u0633\u064a\u0631\u064a"
     ],
     "name:eng_x_preferred":[
-        "Aserr\u00ed"
+        "Aserri"
     ],
     "name:eng_x_variant":[
         "Aserri",
         "Aserr\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Aserr\u00ed"
+    ],
+    "name:fre_x_preferred":[
         "Aserr\u00ed"
     ],
     "name:hrv_x_preferred":[
@@ -52,6 +61,9 @@
         "\u0410\u0441\u0435\u0440\u0440\u0438"
     ],
     "name:spa_x_preferred":[
+        "Aserr\u00ed"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n de Aserr\u00ed"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":421167829,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1555047423,
     "wof:name":"Aserri",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

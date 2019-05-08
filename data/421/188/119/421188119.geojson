@@ -10,6 +10,12 @@
     "geom:latitude":10.696879,
     "geom:longitude":-85.490105,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Liberia Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.727126,
     "lbl:longitude":-85.487036,
     "meso:admin_1":"Guanacaste",
@@ -30,6 +36,9 @@
         "Liberia"
     ],
     "name:eng_x_variant":[
+        "Liberia"
+    ],
+    "name:spa_x_preferred":[
         "Liberia"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421188119,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1555047427,
     "wof:name":"Liberia",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

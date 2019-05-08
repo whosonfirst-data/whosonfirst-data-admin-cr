@@ -10,6 +10,12 @@
     "geom:latitude":10.149613,
     "geom:longitude":-84.07464,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Heredia Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.133078,
     "lbl:longitude":-84.029905,
     "meso:admin_1":"Heredia",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421183455,
-    "wof:lastmodified":1536616013,
+    "wof:lastmodified":1553717418,
     "wof:name":"Heredia",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

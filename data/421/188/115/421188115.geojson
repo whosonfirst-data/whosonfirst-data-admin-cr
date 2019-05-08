@@ -10,6 +10,12 @@
     "geom:latitude":9.914695,
     "geom:longitude":-84.14524,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Escazu Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.908129,
     "lbl:longitude":-84.142017,
     "meso:admin_1":"San Jose",
@@ -27,10 +33,13 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Escaz\u00fa"
+        "Escazu"
     ],
     "name:eng_x_variant":[
         "Escazu",
+        "Escaz\u00fa"
+    ],
+    "name:spa_x_preferred":[
         "Escaz\u00fa"
     ],
     "qs:gn_country":null,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421188115,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1555047427,
     "wof:name":"Escazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

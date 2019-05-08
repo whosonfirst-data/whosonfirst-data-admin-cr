@@ -10,6 +10,12 @@
     "geom:latitude":9.760047,
     "geom:longitude":-84.5067,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Turrubares Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.843146,
     "lbl:longitude":-84.484581,
     "meso:admin_1":"San Jose",
@@ -30,6 +36,9 @@
         "Turrubares"
     ],
     "name:eng_x_variant":[
+        "Turrubares"
+    ],
+    "name:spa_x_preferred":[
         "Turrubares"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421172005,
-    "wof:lastmodified":1536615937,
+    "wof:lastmodified":1555047424,
     "wof:name":"Turrubares",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

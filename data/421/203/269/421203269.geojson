@@ -10,6 +10,12 @@
     "geom:latitude":10.006629,
     "geom:longitude":-84.155871,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Flores Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.005186,
     "lbl:longitude":-84.157214,
     "meso:admin_1":"Heredia",
@@ -86,6 +92,9 @@
     "name:fra_x_preferred":[
         "Flor\u00e8s"
     ],
+    "name:fre_x_preferred":[
+        "Flor\u00e8s"
+    ],
     "name:glg_x_preferred":[
         "Illa de Flores"
     ],
@@ -156,6 +165,9 @@
         "Flores"
     ],
     "name:spa_x_preferred":[
+        "Flores"
+    ],
+    "name:spa_x_variant":[
         "Isla de Flores"
     ],
     "name:srp_x_preferred":[
@@ -250,7 +262,7 @@
         }
     ],
     "wof:id":421203269,
-    "wof:lastmodified":1536616152,
+    "wof:lastmodified":1555047428,
     "wof:name":"Flores",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.549269,
     "geom:longitude":-82.934257,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Corredores Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":8.540748,
     "lbl:longitude":-82.926259,
     "meso:admin_1":"Puntarenas",
@@ -30,6 +36,9 @@
         "Corredores"
     ],
     "name:eng_x_variant":[
+        "Corredores"
+    ],
+    "name:spa_x_preferred":[
         "Corredores"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421189149,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1555047427,
     "wof:name":"Corredores",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

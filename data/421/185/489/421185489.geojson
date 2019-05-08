@@ -10,6 +10,12 @@
     "geom:latitude":10.123403,
     "geom:longitude":-84.724498,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Montes De Oro Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.107631,
     "lbl:longitude":-84.738637,
     "meso:admin_1":"Puntarenas",
@@ -27,10 +33,13 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Montes de Oro"
+        "Montes De Oro"
     ],
     "name:eng_x_variant":[
         "Montes De Oro",
+        "Montes de Oro"
+    ],
+    "name:spa_x_preferred":[
         "Montes de Oro"
     ],
     "qs:gn_country":null,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421185489,
-    "wof:lastmodified":1536616031,
+    "wof:lastmodified":1555047426,
     "wof:name":"Montes De Oro",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

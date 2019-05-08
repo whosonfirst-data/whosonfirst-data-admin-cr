@@ -10,6 +10,12 @@
     "geom:latitude":9.360862,
     "geom:longitude":-83.67391,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Perez Zeledon Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.386178,
     "lbl:longitude":-83.650057,
     "meso:admin_1":"San Jose",
@@ -27,10 +33,13 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "P\u00e9rez Zeled\u00f3n"
+        "Perez Zeledon"
     ],
     "name:eng_x_variant":[
         "Perez Zeledon",
+        "P\u00e9rez Zeled\u00f3n"
+    ],
+    "name:spa_x_preferred":[
         "P\u00e9rez Zeled\u00f3n"
     ],
     "qs:gn_country":null,
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421182141,
-    "wof:lastmodified":1536615980,
+    "wof:lastmodified":1555047425,
     "wof:name":"Perez Zeledon",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

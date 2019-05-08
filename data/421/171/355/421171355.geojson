@@ -10,6 +10,12 @@
     "geom:latitude":10.465129,
     "geom:longitude":-83.678757,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Pococi Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.511052,
     "lbl:longitude":-83.674229,
     "meso:admin_1":"Limon",
@@ -33,13 +39,16 @@
         "Cant\u00f3n de Pococ\u00ed"
     ],
     "name:eng_x_preferred":[
-        "Pococ\u00ed"
+        "Pococi"
     ],
     "name:eng_x_variant":[
         "Pococi",
         "Pococ\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Pococ\u00ed"
+    ],
+    "name:fre_x_preferred":[
         "Pococ\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +64,9 @@
         "\u041f\u043e\u043a\u043e\u0441\u0438"
     ],
     "name:spa_x_preferred":[
+        "Pococ\u00ed"
+    ],
+    "name:spa_x_variant":[
         "Cant\u00f3n de Pococ\u00ed"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421171355,
-    "wof:lastmodified":1536615925,
+    "wof:lastmodified":1555047424,
     "wof:name":"Pococi",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

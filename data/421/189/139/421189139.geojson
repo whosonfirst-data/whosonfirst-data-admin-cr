@@ -10,6 +10,12 @@
     "geom:latitude":9.815265,
     "geom:longitude":-83.921036,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Cartago Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.806562,
     "lbl:longitude":-83.907981,
     "meso:admin_1":"Cartago",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421189139,
-    "wof:lastmodified":1536616075,
+    "wof:lastmodified":1553717486,
     "wof:name":"Cartago",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

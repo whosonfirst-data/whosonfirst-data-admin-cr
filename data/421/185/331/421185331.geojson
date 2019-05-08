@@ -10,6 +10,12 @@
     "geom:latitude":10.137037,
     "geom:longitude":-83.479663,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Siquirres Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.132846,
     "lbl:longitude":-83.495113,
     "meso:admin_1":"Limon",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421185331,
-    "wof:lastmodified":1536616028,
+    "wof:lastmodified":1553717436,
     "wof:name":"Siquirres",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

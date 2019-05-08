@@ -10,6 +10,12 @@
     "geom:latitude":10.105849,
     "geom:longitude":-84.240932,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Poas Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.098772,
     "lbl:longitude":-84.245243,
     "meso:admin_1":"Alajuela",
@@ -48,7 +54,7 @@
         "Po\u00e1s"
     ],
     "name:eng_x_preferred":[
-        "Po\u00e1s"
+        "Poas"
     ],
     "name:eng_x_variant":[
         "Poas",
@@ -61,6 +67,9 @@
         "Po\u00e1s"
     ],
     "name:spa_x_preferred":[
+        "Po\u00e1s"
+    ],
+    "name:spa_x_variant":[
         "Parque nacional Volc\u00e1n Po\u00e1s"
     ],
     "qs:gn_country":null,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421194119,
-    "wof:lastmodified":1536616114,
+    "wof:lastmodified":1555047427,
     "wof:name":"Poas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

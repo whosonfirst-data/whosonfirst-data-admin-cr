@@ -10,6 +10,12 @@
     "geom:latitude":9.587093,
     "geom:longitude":-83.913044,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Dota Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.586045,
     "lbl:longitude":-83.91475,
     "meso:admin_1":"San Jose",
@@ -30,6 +36,9 @@
         "Dota"
     ],
     "name:eng_x_variant":[
+        "Dota"
+    ],
+    "name:spa_x_preferred":[
         "Dota"
     ],
     "qs:gn_country":null,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421184839,
-    "wof:lastmodified":1536616024,
+    "wof:lastmodified":1555047426,
     "wof:name":"Dota",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

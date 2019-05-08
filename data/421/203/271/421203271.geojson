@@ -10,6 +10,12 @@
     "geom:latitude":10.010064,
     "geom:longitude":-84.018435,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Moravia Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.044324,
     "lbl:longitude":-84.000418,
     "meso:admin_1":"San Jose",
@@ -315,7 +321,7 @@
         }
     ],
     "wof:id":421203271,
-    "wof:lastmodified":1536616152,
+    "wof:lastmodified":1553717567,
     "wof:name":"Moravia",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

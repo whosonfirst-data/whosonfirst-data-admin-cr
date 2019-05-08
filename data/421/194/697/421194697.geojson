@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144241,
-    "geom:area_square_m":1763722697.312171,
+    "geom:area_square_m":1763722697.313577,
     "geom:bbox":"-83.6524350459,8.03962731803,-82.8861411684,8.81424833707",
     "geom:latitude":8.554012,
     "geom:longitude":-83.242624,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Golfito Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":8.690098,
     "lbl:longitude":-83.095891,
     "meso:admin_1":"Puntarenas",
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421194697,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1555037070,
     "wof:name":"Golfito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

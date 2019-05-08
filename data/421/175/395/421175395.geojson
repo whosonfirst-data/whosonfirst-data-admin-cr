@@ -10,6 +10,12 @@
     "geom:latitude":10.115196,
     "geom:longitude":-85.447434,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Nicoya Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.207507,
     "lbl:longitude":-85.384175,
     "meso:admin_1":"Guanacaste",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421175395,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1553717361,
     "wof:name":"Nicoya",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.224967,
     "geom:longitude":-84.596609,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "San Ramon Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.154399,
     "lbl:longitude":-84.568071,
     "meso:admin_1":"Alajuela",
@@ -27,10 +33,13 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "San Ram\u00f3n"
+        "San Ramon"
     ],
     "name:eng_x_variant":[
         "San Ramon",
+        "San Ram\u00f3n"
+    ],
+    "name:spa_x_preferred":[
         "San Ram\u00f3n"
     ],
     "qs:gn_country":null,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421167885,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1555047423,
     "wof:name":"San Ramon",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

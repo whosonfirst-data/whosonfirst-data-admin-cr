@@ -10,6 +10,12 @@
     "geom:latitude":9.740737,
     "geom:longitude":-84.231621,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Acosta Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.742268,
     "lbl:longitude":-84.230009,
     "meso:admin_1":"San Jose",
@@ -30,6 +36,9 @@
         "Acosta"
     ],
     "name:eng_x_variant":[
+        "Acosta"
+    ],
+    "name:spa_x_preferred":[
         "Acosta"
     ],
     "qs:gn_country":null,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421167827,
-    "wof:lastmodified":1536615894,
+    "wof:lastmodified":1555047423,
     "wof:name":"Acosta",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

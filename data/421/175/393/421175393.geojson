@@ -10,6 +10,12 @@
     "geom:latitude":10.114132,
     "geom:longitude":-84.386458,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Naranjo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.107129,
     "lbl:longitude":-84.390234,
     "meso:admin_1":"Alajuela",
@@ -61,6 +67,9 @@
         "\u041d\u0430\u0440\u0430\u043d\u0445\u043e"
     ],
     "name:spa_x_preferred":[
+        "Naranjo"
+    ],
+    "name:spa_x_variant":[
         "El Naranjo"
     ],
     "name:swe_x_preferred":[
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":421175393,
-    "wof:lastmodified":1536615951,
+    "wof:lastmodified":1555047424,
     "wof:name":"Naranjo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

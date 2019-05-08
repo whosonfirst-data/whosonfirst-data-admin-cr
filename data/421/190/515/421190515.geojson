@@ -10,6 +10,12 @@
     "geom:latitude":10.247592,
     "geom:longitude":-85.005072,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Abangares Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.255046,
     "lbl:longitude":-84.968512,
     "meso:admin_1":"Guanacaste",
@@ -30,6 +36,9 @@
         "Abangares"
     ],
     "name:eng_x_variant":[
+        "Abangares"
+    ],
+    "name:spa_x_preferred":[
         "Abangares"
     ],
     "qs:gn_country":null,
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421190515,
-    "wof:lastmodified":1536616081,
+    "wof:lastmodified":1555047427,
     "wof:name":"Abangares",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

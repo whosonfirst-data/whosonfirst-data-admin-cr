@@ -10,6 +10,12 @@
     "geom:latitude":9.94198,
     "geom:longitude":-84.018786,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Montes De Oca Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.939696,
     "lbl:longitude":-84.037042,
     "meso:admin_1":"San Jose",
@@ -36,10 +42,11 @@
         "Curridabat"
     ],
     "name:eng_x_preferred":[
-        "Montes de Oca"
+        "Montes De Oca"
     ],
     "name:eng_x_variant":[
-        "Curridabat"
+        "Curridabat",
+        "Montes De Oca"
     ],
     "name:fre_x_preferred":[
         "Curridabat"
@@ -125,7 +132,7 @@
         }
     ],
     "wof:id":421169975,
-    "wof:lastmodified":1536615903,
+    "wof:lastmodified":1555047423,
     "wof:name":"Montes De Oca",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

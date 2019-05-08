@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114638,
-    "geom:area_square_m":1391463130.787299,
+    "geom:area_square_m":1391463130.787227,
     "geom:bbox":"-85.9502513586,10.7970376503,-85.229091169,11.2197579123",
     "geom:latitude":11.002254,
     "geom:longitude":-85.579663,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "La Cruz Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":11.052805,
     "lbl:longitude":-85.555084,
     "meso:admin_1":"Guanacaste",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421170049,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1555037164,
     "wof:name":"La Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

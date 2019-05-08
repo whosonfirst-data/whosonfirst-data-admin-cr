@@ -10,6 +10,12 @@
     "geom:latitude":9.91127,
     "geom:longitude":-83.987335,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "La Union Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.911097,
     "lbl:longitude":-83.98416,
     "meso:admin_1":"Cartago",
@@ -33,13 +39,16 @@
         "La Uni\u00f3n"
     ],
     "name:eng_x_preferred":[
-        "La Uni\u00f3n"
+        "La Union"
     ],
     "name:eng_x_variant":[
         "La Union",
         "La Uni\u00f3n"
     ],
     "name:fra_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "name:fre_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:glg_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421204569,
-    "wof:lastmodified":1536616166,
+    "wof:lastmodified":1555047429,
     "wof:name":"La Union",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.459959,
     "geom:longitude":-85.60228,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Carrillo Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.491963,
     "lbl:longitude":-85.639056,
     "meso:admin_1":"Guanacaste",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421201615,
-    "wof:lastmodified":1536616141,
+    "wof:lastmodified":1553717556,
     "wof:name":"Carrillo",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":10.081776,
     "geom:longitude":-84.149988,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":10.072148,
     "lbl:longitude":-84.146052,
     "meso:admin_1":"Heredia",
@@ -51,7 +57,7 @@
         "Santa B\u00e1rbara de Heredia"
     ],
     "name:eng_x_preferred":[
-        "Santa B\u00e1rbara"
+        "Santa Barbara"
     ],
     "name:eng_x_variant":[
         "Santa Barbara",
@@ -71,6 +77,9 @@
         "Santa Barbara"
     ],
     "name:fra_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:fre_x_preferred":[
         "Santa Barbara"
     ],
     "name:hbs_x_preferred":[
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":421202609,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1555047428,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

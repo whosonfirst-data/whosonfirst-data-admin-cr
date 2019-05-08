@@ -10,6 +10,12 @@
     "geom:latitude":9.887681,
     "geom:longitude":-84.114609,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Alajuelita Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.891721,
     "lbl:longitude":-84.106415,
     "meso:admin_1":"San Jose",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421201605,
-    "wof:lastmodified":1536616140,
+    "wof:lastmodified":1553717555,
     "wof:name":"Alajuelita",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

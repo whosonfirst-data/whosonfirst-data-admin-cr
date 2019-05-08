@@ -10,6 +10,12 @@
     "geom:latitude":9.561996,
     "geom:longitude":-84.317029,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Parrita Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.564814,
     "lbl:longitude":-84.317028,
     "meso:admin_1":"Puntarenas",
@@ -33,6 +39,9 @@
         "Parrita"
     ],
     "name:nor_x_preferred":[
+        "Parrita"
+    ],
+    "name:spa_x_preferred":[
         "Parrita"
     ],
     "qs:gn_country":null,
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1536615979,
+    "wof:lastmodified":1555047425,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

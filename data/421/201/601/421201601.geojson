@@ -10,6 +10,12 @@
     "geom:latitude":9.423096,
     "geom:longitude":-84.052398,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Aguirre Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":9.430095,
     "lbl:longitude":-84.083721,
     "meso:admin_1":"Puntarenas",
@@ -39,9 +45,10 @@
         "Quepos"
     ],
     "name:eng_x_preferred":[
-        "Quepos"
+        "Aguirre"
     ],
     "name:eng_x_variant":[
+        "Aguirre",
         "Aguirre"
     ],
     "name:fas_x_preferred":[
@@ -90,6 +97,9 @@
         "Aguirre"
     ],
     "name:spa_x_preferred":[
+        "Quepos"
+    ],
+    "name:spa_x_variant":[
         "Aguirre"
     ],
     "name:swe_x_preferred":[
@@ -158,7 +168,7 @@
         }
     ],
     "wof:id":421201601,
-    "wof:lastmodified":1536616140,
+    "wof:lastmodified":1555047427,
     "wof:name":"Aguirre",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

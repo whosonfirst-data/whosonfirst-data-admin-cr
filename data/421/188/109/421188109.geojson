@@ -10,6 +10,12 @@
     "geom:latitude":8.850735,
     "geom:longitude":-83.5037,
     "iso:country":"CR",
+    "label:eng_x_preferred_longname":[
+        "Osa Canton"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "canton"
+    ],
     "lbl:latitude":8.858735,
     "lbl:longitude":-83.450476,
     "meso:admin_1":"Puntarenas",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421188109,
-    "wof:lastmodified":1536616048,
+    "wof:lastmodified":1553717463,
     "wof:name":"Osa",
     "wof:parent_id":85670385,
     "wof:placetype":"county",
