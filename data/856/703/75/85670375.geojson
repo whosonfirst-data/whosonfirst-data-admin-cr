@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219884,
-    "geom:area_square_m":2674033137.988267,
+    "geom:area_square_m":2674033137.991403,
     "geom:bbox":"-84.2000316889,9.95961570229,-83.70995568,10.792598658",
     "geom:latitude":10.42136,
     "geom:longitude":-84.013,
@@ -29,12 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u0630\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u0580\u0565\u0564\u056b\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Heredia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u0440\u044d\u0434\u0437\u0456\u044f"
     ],
@@ -44,41 +38,41 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Heredia"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u96f7\u8fea\u4e9a\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Heredia"
     ],
     "name:dan_x_preferred":[
         "Heredia"
     ],
-    "name:dut_x_preferred":[
-        "Heredia"
+    "name:deu_x_preferred":[
+        "Provinz Heredia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c1\u03ad\u03b4\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Heredia"
     ],
+    "name:eus_x_preferred":[
+        "Heredia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Heredian maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heredia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e0\u10d4\u10d3\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Heredia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c1\u03ad\u03b4\u03b9\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d3\u05d9\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Heredia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0580\u0565\u0564\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi Heredia"
@@ -89,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30c7\u30a3\u30a2\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10d4\u10d3\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ub808\ub514\uc544 \uc8fc"
     ],
@@ -98,11 +95,11 @@
     "name:nah_x_preferred":[
         "Heredia"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Heredia"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Heredia"
     ],
     "name:pol_x_preferred":[
         "Heredia"
@@ -113,7 +110,7 @@
     "name:que_x_preferred":[
         "Heredia pruwinsya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Heredia"
     ],
     "name:rus_x_preferred":[
@@ -149,6 +146,9 @@
     ],
     "name:war_x_preferred":[
         "Heredia"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u96f7\u8fea\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CRI",
@@ -273,7 +273,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814750,
+    "wof:lastmodified":1561760244,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

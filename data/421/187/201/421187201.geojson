@@ -16,20 +16,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0628\u064a\u0631\u064a\u0627\u060c \u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0562\u0565\u0580\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987\u09ac\u09c7\u09b0\u09bf\u09af\u09bc\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u5229\u97cb\u91cc\u4e9e"
     ],
     "name:dan_x_preferred":[
         "Liberia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Liberia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03b2\u03b5\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Liberia"
@@ -37,14 +34,8 @@
     "name:fin_x_preferred":[
         "Liberia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Liberia"
-    ],
-    "name:ger_x_preferred":[
-        "Liberia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03b2\u03b5\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a87\u0aac\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
@@ -60,6 +51,9 @@
     ],
     "name:hun_x_preferred":[
         "Liberia"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0562\u0565\u0580\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Liberia"
@@ -85,10 +79,13 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u092f\u092c\u0947\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Liberia"
     ],
     "name:nah_x_preferred":[
+        "Liberia"
+    ],
+    "name:nld_x_preferred":[
         "Liberia"
     ],
     "name:nob_x_preferred":[
@@ -103,7 +100,7 @@
     "name:que_x_preferred":[
         "Liberia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liberia"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +151,9 @@
     "name:war_x_preferred":[
         "Liberia"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u97cb\u91cc\u4e9e"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3623072,
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":421187201,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1561760264,
     "wof:name":"Liberia",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

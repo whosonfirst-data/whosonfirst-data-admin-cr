@@ -16,28 +16,22 @@
     "name:ceb_x_preferred":[
         "Santa Ana"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u5a1c\u5340"
-    ],
     "name:deu_x_preferred":[
-        "Santa Ana"
-    ],
-    "name:dut_x_preferred":[
         "Santa Ana"
     ],
     "name:eng_x_preferred":[
         "Santa Ana"
     ],
-    "name:fre_x_preferred":[
-        "Santa Ana"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Ana"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05e0\u05d4"
     ],
     "name:ita_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:nld_x_preferred":[
         "Santa Ana"
     ],
     "name:nob_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421169997,
-    "wof:lastmodified":1527716164,
+    "wof:lastmodified":1561760261,
     "wof:name":"Santa Ana",
     "wof:parent_id":421180919,
     "wof:placetype":"locality",

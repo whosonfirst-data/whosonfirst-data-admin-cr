@@ -44,9 +44,6 @@
     "name:fra_x_preferred":[
         "Oreamuno"
     ],
-    "name:fre_x_preferred":[
-        "Oreamuno"
-    ],
     "name:spa_x_preferred":[
         "Oreamuno"
     ],
@@ -109,7 +106,7 @@
         }
     ],
     "wof:id":421175397,
-    "wof:lastmodified":1555047424,
+    "wof:lastmodified":1561760267,
     "wof:name":"Oreamuno",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

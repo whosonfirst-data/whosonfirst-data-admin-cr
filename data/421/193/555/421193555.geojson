@@ -16,20 +16,17 @@
     "name:ceb_x_preferred":[
         "Oros\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7f85\u897f\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Oros\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Oros\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oros\u00ed"
     ],
     "name:ita_x_preferred":[
         "Orosi"
+    ],
+    "name:nld_x_preferred":[
+        "Oros\u00ed"
     ],
     "name:nob_x_preferred":[
         "Orosi"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":421193555,
-    "wof:lastmodified":1527716147,
+    "wof:lastmodified":1561760260,
     "wof:name":"Oros\u00ed",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

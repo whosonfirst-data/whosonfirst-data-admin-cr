@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n de Tilar\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u62c9\u862d\u5340"
-    ],
     "name:eng_x_preferred":[
         "Tilar\u00e1n"
     ],
@@ -54,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8482\u62c9\u862d\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u8482\u62c9\u862d\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":421183577,
-    "wof:lastmodified":1513944289,
+    "wof:lastmodified":1561760272,
     "wof:name":"Cuatro Esquinas",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

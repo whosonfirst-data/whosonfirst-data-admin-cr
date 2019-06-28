@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "V\u00e1squez de Coronado"
     ],
-    "name:fre_x_preferred":[
-        "V\u00e1squez de Coronado"
-    ],
     "name:ita_x_preferred":[
         "Cantone di V\u00e1zquez de Coronado"
     ],
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":421175409,
-    "wof:lastmodified":1555047425,
+    "wof:lastmodified":1561760267,
     "wof:name":"Vazquez De Coronado",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

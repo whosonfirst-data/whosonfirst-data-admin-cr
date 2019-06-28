@@ -14,17 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u057d\u0561\u0564\u0561"
-    ],
     "name:ceb_x_preferred":[
         "Quesada"
-    ],
-    "name:chi_x_preferred":[
-        "\u514b\u85a9\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "Ciudad Quesada"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bf\u03c5\u03b4\u03ac\u03b4 \u039a\u03b5\u03c3\u03ac\u03b4\u03b1"
@@ -34,12 +25,6 @@
     ],
     "name:fra_x_preferred":[
         "Ciudad Quesada"
-    ],
-    "name:fre_x_preferred":[
-        "Ciudad Quesada"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bf\u03c5\u03b4\u03ac\u03b4 \u039a\u03b5\u03c3\u03ac\u03b4\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d5\u05e1\u05d0\u05d3\u05d4"
@@ -220,7 +205,7 @@
         }
     ],
     "wof:id":421193173,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561760260,
     "wof:name":"Quesada",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

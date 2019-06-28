@@ -16,29 +16,26 @@
     "name:cat_x_preferred":[
         "Grecia"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u96f7\u897f\u4e9e\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Grecia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03ad\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Grecia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grecia"
-    ],
-    "name:ger_x_preferred":[
-        "Grecia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03c1\u03ad\u03c3\u03b9\u03b1"
     ],
     "name:ita_x_preferred":[
         "Grecia"
     ],
     "name:lit_x_preferred":[
         "Gresija"
+    ],
+    "name:nld_x_preferred":[
+        "Grecia"
     ],
     "name:nob_x_preferred":[
         "Grecia"
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Grecia La Argentina"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u96f7\u897f\u4e9e\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421172873,
-    "wof:lastmodified":1513944297,
+    "wof:lastmodified":1561760266,
     "wof:name":"Grecia",
     "wof:parent_id":421204089,
     "wof:placetype":"locality",

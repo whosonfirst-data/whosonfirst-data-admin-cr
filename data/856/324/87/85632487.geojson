@@ -140,9 +140,6 @@
     "name:cym_x_preferred":[
         "Costa Rica"
     ],
-    "name:cze_x_preferred":[
-        "Kostarika"
-    ],
     "name:dan_x_preferred":[
         "Costa Rica"
     ],
@@ -746,7 +743,6 @@
         "\u54e5\u65af\u8fbe\u9ece\u52a0"
     ],
     "name:zho_x_variant":[
-        "\u54e5\u65af\u8fbe\u9ece\u52a0",
         "\u54e5\u65af\u5927\u9ece\u52a0"
     ],
     "name:zho_yue_x_preferred":[
@@ -905,7 +901,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059274,
+    "wof:lastmodified":1561760243,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

@@ -16,25 +16,13 @@
     "name:bul_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e \u0425\u0438\u043c\u0435\u043d\u0435\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u95e8\u5c3c\u65af\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Jim\u00e9nez"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Jim\u00e9nez"
     ],
     "name:eng_x_preferred":[
         "Puerto Jim\u00e9nez"
     ],
     "name:fra_x_preferred":[
-        "Puerto Jim\u00e9nez"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Jim\u00e9nez"
-    ],
-    "name:ger_x_preferred":[
         "Puerto Jim\u00e9nez"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421195661,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1561760258,
     "wof:name":"Puerto Jim\u00e9nez",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

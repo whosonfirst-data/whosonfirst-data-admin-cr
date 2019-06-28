@@ -35,14 +35,11 @@
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8cf4\u7d22"
-    ],
     "name:deu_x_preferred":[
         "Para\u00edso"
     ],
-    "name:dut_x_preferred":[
-        "Para\u00edso"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03c1\u03b1\u0390\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Paraiso"
@@ -53,12 +50,6 @@
     ],
     "name:fra_x_preferred":[
         "Para\u00edso"
-    ],
-    "name:fre_x_preferred":[
-        "Para\u00edso"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u0390\u03c3\u03bf"
     ],
     "name:ita_x_preferred":[
         "Para\u00edso"
@@ -92,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Para\u00edso"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u8cf4\u7d22"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -153,7 +147,7 @@
         }
     ],
     "wof:id":421182145,
-    "wof:lastmodified":1555047426,
+    "wof:lastmodified":1561760273,
     "wof:name":"Paraiso",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

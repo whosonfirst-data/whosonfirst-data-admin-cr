@@ -13,16 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cahuita"
     ],
     "name:eng_x_preferred":[
         "Cahuita"
     ],
-    "name:fre_x_preferred":[
-        "Cahuita"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cahuita"
     ],
     "name:ita_x_preferred":[
@@ -30,6 +27,9 @@
     ],
     "name:lit_x_preferred":[
         "Kahuita"
+    ],
+    "name:nld_x_preferred":[
+        "Cahuita"
     ],
     "name:nob_x_preferred":[
         "Cahuita"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":421187213,
-    "wof:lastmodified":1513944366,
+    "wof:lastmodified":1561760264,
     "wof:name":"Puerto Cahuita",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

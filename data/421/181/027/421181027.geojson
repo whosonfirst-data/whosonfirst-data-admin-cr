@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "San Mateo"
-    ],
     "name:eng_x_preferred":[
         "San Mateo de Alajuela"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":421181027,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1561760267,
     "wof:name":"San Mateo",
     "wof:parent_id":421169971,
     "wof:placetype":"locality",

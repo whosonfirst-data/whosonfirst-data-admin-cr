@@ -42,9 +42,6 @@
     "name:fra_x_preferred":[
         "Tarraz\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Tarraz\u00fa"
-    ],
     "name:spa_x_preferred":[
         "Tarraz\u00fa"
     ],
@@ -107,7 +104,7 @@
         }
     ],
     "wof:id":421169977,
-    "wof:lastmodified":1555047423,
+    "wof:lastmodified":1561760261,
     "wof:name":"Tarrazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

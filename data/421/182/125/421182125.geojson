@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "S\u00e1mara"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u99ac\u62c9\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "S\u00e1mara"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "S\u00e1mara"
     ],
     "name:nob_x_preferred":[
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":421182125,
-    "wof:lastmodified":1527726465,
+    "wof:lastmodified":1561760273,
     "wof:name":"S\u00e1mara",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

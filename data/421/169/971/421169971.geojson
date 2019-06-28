@@ -44,9 +44,6 @@
     "name:deu_x_preferred":[
         "San Mateo"
     ],
-    "name:dut_x_preferred":[
-        "San Mateo"
-    ],
     "name:eng_x_preferred":[
         "San Mateo"
     ],
@@ -171,7 +168,7 @@
         }
     ],
     "wof:id":421169971,
-    "wof:lastmodified":1553717307,
+    "wof:lastmodified":1561760261,
     "wof:name":"San Mateo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

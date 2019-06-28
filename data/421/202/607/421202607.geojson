@@ -45,9 +45,6 @@
     "name:fra_x_preferred":[
         "Tib\u00e1s"
     ],
-    "name:fre_x_preferred":[
-        "Tib\u00e1s"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Tib\u00e1s"
     ],
@@ -135,7 +132,7 @@
         }
     ],
     "wof:id":421202607,
-    "wof:lastmodified":1555047428,
+    "wof:lastmodified":1561760263,
     "wof:name":"Tibas",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

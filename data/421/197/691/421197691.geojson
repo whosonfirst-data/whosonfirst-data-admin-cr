@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Naranjo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u862d\u970d\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Naranjo"
-    ],
     "name:eng_x_preferred":[
         "Naranjo de Alajuela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naranjo"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421197691,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1561760269,
     "wof:name":"Naranjo",
     "wof:parent_id":421175393,
     "wof:placetype":"locality",

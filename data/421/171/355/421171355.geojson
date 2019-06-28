@@ -48,9 +48,6 @@
     "name:fra_x_preferred":[
         "Pococ\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Pococ\u00ed"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Pococ\u00ed"
     ],
@@ -133,7 +130,7 @@
         }
     ],
     "wof:id":421171355,
-    "wof:lastmodified":1555047424,
+    "wof:lastmodified":1561760273,
     "wof:name":"Pococi",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

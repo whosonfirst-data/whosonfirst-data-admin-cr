@@ -92,9 +92,6 @@
     "name:fra_x_preferred":[
         "Flor\u00e8s"
     ],
-    "name:fre_x_preferred":[
-        "Flor\u00e8s"
-    ],
     "name:glg_x_preferred":[
         "Illa de Flores"
     ],
@@ -262,7 +259,7 @@
         }
     ],
     "wof:id":421203269,
-    "wof:lastmodified":1555047428,
+    "wof:lastmodified":1561760263,
     "wof:name":"Flores",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

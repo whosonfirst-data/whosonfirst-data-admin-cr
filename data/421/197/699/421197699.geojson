@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Cahuita"
     ],
-    "name:dut_x_preferred":[
-        "Cahuita"
-    ],
     "name:eng_x_preferred":[
         "Cahuita"
     ],
-    "name:fre_x_preferred":[
-        "Cahuita"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Cahuita"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421197699,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1561760269,
     "wof:name":"Cahuita",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

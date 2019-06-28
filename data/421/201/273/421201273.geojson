@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u062c\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u056f\u0578\u0575\u0561"
-    ],
     "name:ceb_x_preferred":[
         "Nicoya"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u79d1\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nicoya"
     ],
     "name:ell_x_preferred":[
@@ -36,15 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Nicoya"
-    ],
-    "name:fre_x_preferred":[
-        "Nicoya"
-    ],
-    "name:ger_x_preferred":[
-        "Nicoya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03ba\u03cc\u03b3\u03b9\u03b1"
     ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0578\u0575\u0561"
@@ -58,6 +43,9 @@
     "name:lit_x_preferred":[
         "Nikoja"
     ],
+    "name:nld_x_preferred":[
+        "Nicoya"
+    ],
     "name:nob_x_preferred":[
         "Nicoya"
     ],
@@ -65,9 +53,6 @@
         "Nicoya"
     ],
     "name:ron_x_preferred":[
-        "Nicoya"
-    ],
-    "name:rum_x_preferred":[
         "Nicoya"
     ],
     "name:spa_x_preferred":[
@@ -132,7 +117,7 @@
         }
     ],
     "wof:id":421201273,
-    "wof:lastmodified":1513944363,
+    "wof:lastmodified":1561760269,
     "wof:name":"Nicoya",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",
