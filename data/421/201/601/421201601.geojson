@@ -35,14 +35,8 @@
     "name:cat_x_preferred":[
         "Aguirre"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u6ce2\u65af\u5340"
-    ],
     "name:deu_x_preferred":[
         "Aguirre"
-    ],
-    "name:dut_x_preferred":[
-        "Quepos"
     ],
     "name:eng_x_preferred":[
         "Aguirre"
@@ -57,7 +51,7 @@
     "name:fra_x_preferred":[
         "Aguirre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Quepos"
     ],
     "name:hrv_x_preferred":[
@@ -77,6 +71,9 @@
     ],
     "name:nld_x_preferred":[
         "Aguirre"
+    ],
+    "name:nld_x_variant":[
+        "Quepos"
     ],
     "name:nob_x_preferred":[
         "Quepos"
@@ -107,6 +104,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5409\u96f7"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u6ce2\u65af\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":421201601,
-    "wof:lastmodified":1555047427,
+    "wof:lastmodified":1561760270,
     "wof:name":"Aguirre",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

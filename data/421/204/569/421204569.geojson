@@ -48,9 +48,6 @@
     "name:fra_x_preferred":[
         "La Uni\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "La Uni\u00f3n"
-    ],
     "name:glg_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -128,7 +125,7 @@
         }
     ],
     "wof:id":421204569,
-    "wof:lastmodified":1555047429,
+    "wof:lastmodified":1561760262,
     "wof:name":"La Union",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

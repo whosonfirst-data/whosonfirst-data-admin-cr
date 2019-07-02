@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u7279\u65af\u57ce\u5340"
-    ],
     "name:eng_x_preferred":[
         "Ciudad Cort\u00e9s"
     ],
@@ -28,6 +25,9 @@
     ],
     "name:unk_x_variant":[
         "Pozo"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u7279\u65af\u57ce\u5340"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Costa Rica",
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":421202809,
-    "wof:lastmodified":1513944289,
+    "wof:lastmodified":1561760263,
     "wof:name":"Ciudad Cort\u00e9s",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

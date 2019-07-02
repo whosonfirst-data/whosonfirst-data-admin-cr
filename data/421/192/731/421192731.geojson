@@ -17,9 +17,6 @@
     "name:ceb_x_preferred":[
         "Sixaola"
     ],
-    "name:dut_x_preferred":[
-        "Sixaola"
-    ],
     "name:eng_x_preferred":[
         "Sixaola"
     ],
@@ -184,7 +181,7 @@
         }
     ],
     "wof:id":421192731,
-    "wof:lastmodified":1527716108,
+    "wof:lastmodified":1561760258,
     "wof:name":"Sixaola",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

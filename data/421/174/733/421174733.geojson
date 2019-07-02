@@ -16,22 +16,13 @@
     "name:ceb_x_preferred":[
         "Jac\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u79d1\u5340"
-    ],
     "name:deu_x_preferred":[
-        "Jac\u00f3"
-    ],
-    "name:dut_x_preferred":[
         "Jac\u00f3"
     ],
     "name:eng_x_preferred":[
         "Jac\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Jac\u00f3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jac\u00f3"
     ],
     "name:hun_x_preferred":[
@@ -43,6 +34,9 @@
     "name:lit_x_preferred":[
         "Chako"
     ],
+    "name:nld_x_preferred":[
+        "Jac\u00f3"
+    ],
     "name:nob_x_preferred":[
         "Jac\u00f3"
     ],
@@ -52,14 +46,14 @@
     "name:ron_x_preferred":[
         "Jac\u00f3"
     ],
-    "name:rum_x_preferred":[
-        "Jac\u00f3"
-    ],
     "name:spa_x_preferred":[
         "Jac\u00f3"
     ],
     "name:swe_x_preferred":[
         "Jac\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u79d1\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":421174733,
-    "wof:lastmodified":1527716228,
+    "wof:lastmodified":1561760263,
     "wof:name":"Jac\u00f3",
     "wof:parent_id":421204087,
     "wof:placetype":"locality",

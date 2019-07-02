@@ -13,26 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u514b\u9b6f\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Cruz District"
+    "name:deu_x_preferred":[
+        "Santa Cruz"
     ],
     "name:eng_x_preferred":[
         "Santa Cruz"
     ],
-    "name:ger_x_preferred":[
-        "Santa Cruz"
-    ],
     "name:ita_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Cruz District"
     ],
     "name:nob_x_preferred":[
         "Santa Cruz"
     ],
     "name:spa_x_preferred":[
         "distrito de Santa Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421186389,
-    "wof:lastmodified":1513944468,
+    "wof:lastmodified":1561760266,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

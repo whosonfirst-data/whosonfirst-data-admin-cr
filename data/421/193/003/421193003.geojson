@@ -16,14 +16,11 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0627\u062b\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u5361\u8607\u5340"
+    "name:cym_x_preferred":[
+        "Escaz\u00fa District"
     ],
     "name:dan_x_preferred":[
         "Escaz\u00fa"
-    ],
-    "name:dut_x_preferred":[
-        "Escaz\u00fa District"
     ],
     "name:eng_x_preferred":[
         "Escaz\u00fa District"
@@ -34,7 +31,7 @@
     "name:fra_x_preferred":[
         "Escaz\u00fa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District d'Escaz\u00fa"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +43,9 @@
     "name:lit_x_preferred":[
         "Eskasu"
     ],
+    "name:nld_x_preferred":[
+        "Escaz\u00fa District"
+    ],
     "name:nob_x_preferred":[
         "Escaz\u00fa"
     ],
@@ -55,7 +55,7 @@
     "name:por_x_preferred":[
         "Escaz\u00fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Escaz\u00fa"
     ],
     "name:rus_x_preferred":[
@@ -76,11 +76,11 @@
     "name:vol_x_preferred":[
         "Escaz\u00fa"
     ],
-    "name:wel_x_preferred":[
-        "Escaz\u00fa District"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u5361\u8607\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u65af\u5361\u8607\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":421193003,
-    "wof:lastmodified":1513944290,
+    "wof:lastmodified":1561760260,
     "wof:name":"Escaz\u00fa",
     "wof:parent_id":421188115,
     "wof:placetype":"locality",

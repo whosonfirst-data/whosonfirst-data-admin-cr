@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Siquirres"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u57fa\u96f7\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Siquirres"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03ba\u03af\u03c1\u03c1\u03b5\u03c2"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Siquirres"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Siquirres"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03ba\u03af\u03c1\u03c1\u03b5\u03c2"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Siquirres"
     ],
     "name:nob_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421176299,
-    "wof:lastmodified":1513944469,
+    "wof:lastmodified":1561760273,
     "wof:name":"Siquirres",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Guadalupe"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u9054\u76e7\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Guadalupe"
-    ],
     "name:eng_x_preferred":[
         "Guadalupe"
     ],
     "name:fra_x_preferred":[
         "Guadalupe"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Guadalupe"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Guadalupe"
     ],
     "name:nob_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421170203,
-    "wof:lastmodified":1527716461,
+    "wof:lastmodified":1561760271,
     "wof:name":"Guadalupe",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

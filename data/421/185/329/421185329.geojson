@@ -48,9 +48,6 @@
     "name:fra_x_preferred":[
         "Sarapiqu\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Sarapiqu\u00ed"
-    ],
     "name:ita_x_preferred":[
         "Cantone di Sarapiqu\u00ed"
     ],
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":421185329,
-    "wof:lastmodified":1555047426,
+    "wof:lastmodified":1561760274,
     "wof:name":"Sarapiqui",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

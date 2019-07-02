@@ -16,9 +16,6 @@
     "name:ceb_x_preferred":[
         "Tobos\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u6c83\u897f\u5340"
-    ],
     "name:eng_x_preferred":[
         "Tobosi"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421167769,
-    "wof:lastmodified":1527716158,
+    "wof:lastmodified":1561760261,
     "wof:name":"Tobos\u00ed",
     "wof:parent_id":1108693655,
     "wof:placetype":"locality",

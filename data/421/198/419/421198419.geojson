@@ -16,12 +16,6 @@
     "name:cat_x_preferred":[
         "San Felipe"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8cbb\u5229\u4f69\u5fb7\u963f\u62c9\u80e1\u57c3\u5229\u5854\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "San Felipe"
-    ],
     "name:eng_x_preferred":[
         "San Felipe"
     ],
@@ -31,8 +25,14 @@
     "name:ita_x_preferred":[
         "San Felipe"
     ],
+    "name:nld_x_preferred":[
+        "San Felipe"
+    ],
     "name:spa_x_preferred":[
         "San Felipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8cbb\u5229\u4f69\u5fb7\u963f\u62c9\u80e1\u57c3\u5229\u5854\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421198419,
-    "wof:lastmodified":1513944444,
+    "wof:lastmodified":1561760268,
     "wof:name":"San Felipe",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",

@@ -35,10 +35,7 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u0442\u0438\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7f85\u8482\u7d0d\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Orotina"
     ],
     "name:eng_x_preferred":[
@@ -47,16 +44,16 @@
     "name:fin_x_preferred":[
         "Orotina"
     ],
-    "name:fre_x_preferred":[
-        "Orotina"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Orotina"
     ],
     "name:ita_x_preferred":[
         "Orotina"
     ],
     "name:lit_x_preferred":[
+        "Orotina"
+    ],
+    "name:nld_x_preferred":[
         "Orotina"
     ],
     "name:nob_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Orotina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7f85\u8482\u7d0d\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":421203757,
-    "wof:lastmodified":1553717575,
+    "wof:lastmodified":1561760263,
     "wof:name":"Orotina",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

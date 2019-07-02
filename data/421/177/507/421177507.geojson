@@ -13,16 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u62c9\u6590\u723e\u963f\u74e6\u970d\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "San Rafael Abajo"
-    ],
     "name:eng_x_preferred":[
         "San Rafael Abajo"
     ],
     "name:ita_x_preferred":[
+        "San Rafael Abajo"
+    ],
+    "name:nld_x_preferred":[
         "San Rafael Abajo"
     ],
     "name:pol_x_preferred":[
@@ -33,6 +30,9 @@
     ],
     "name:swe_x_preferred":[
         "San Rafael Abajo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u62c9\u6590\u723e\u963f\u74e6\u970d\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":421177507,
-    "wof:lastmodified":1513944467,
+    "wof:lastmodified":1561760272,
     "wof:name":"San Rafael Abajo",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

@@ -35,16 +35,10 @@
     "name:bul_x_preferred":[
         "\u0423\u043f\u0430\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u5e15\u62c9\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Upala"
-    ],
     "name:eng_x_preferred":[
         "Upala"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Upala"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +48,9 @@
         "\u30a6\u30d1\u30e9"
     ],
     "name:lit_x_preferred":[
+        "Upala"
+    ],
+    "name:nld_x_preferred":[
         "Upala"
     ],
     "name:nob_x_preferred":[
@@ -67,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Upala"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5e15\u62c9\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":421172007,
-    "wof:lastmodified":1555047424,
+    "wof:lastmodified":1561760266,
     "wof:name":"Upala",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

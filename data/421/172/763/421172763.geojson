@@ -17,25 +17,13 @@
     "name:ceb_x_preferred":[
         "Golfito"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u723e\u83f2\u6258\u5340"
-    ],
     "name:deu_x_preferred":[
-        "Golfito"
-    ],
-    "name:dut_x_preferred":[
         "Golfito"
     ],
     "name:eng_x_preferred":[
         "Golfito"
     ],
     "name:fra_x_preferred":[
-        "Golfito"
-    ],
-    "name:fre_x_preferred":[
-        "Golfito"
-    ],
-    "name:ger_x_preferred":[
         "Golfito"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +35,9 @@
     "name:lit_x_preferred":[
         "Golfitas"
     ],
+    "name:nld_x_preferred":[
+        "Golfito"
+    ],
     "name:nob_x_preferred":[
         "Golfito"
     ],
@@ -54,9 +45,6 @@
         "Golfito"
     ],
     "name:ron_x_preferred":[
-        "Golfito"
-    ],
-    "name:rum_x_preferred":[
         "Golfito"
     ],
     "name:spa_x_preferred":[
@@ -210,7 +198,7 @@
         }
     ],
     "wof:id":421172763,
-    "wof:lastmodified":1513944295,
+    "wof:lastmodified":1561760266,
     "wof:name":"Golfito",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

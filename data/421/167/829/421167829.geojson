@@ -45,9 +45,6 @@
     "name:fra_x_preferred":[
         "Aserr\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Aserr\u00ed"
-    ],
     "name:hrv_x_preferred":[
         "Aserr\u00ed"
     ],
@@ -130,7 +127,7 @@
         }
     ],
     "wof:id":421167829,
-    "wof:lastmodified":1555047423,
+    "wof:lastmodified":1561760260,
     "wof:name":"Aserri",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

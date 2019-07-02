@@ -16,23 +16,14 @@
     "name:ceb_x_preferred":[
         "Para\u00edso"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u8cf4\u7d22"
-    ],
-    "name:dut_x_preferred":[
-        "Para\u00edso"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03c1\u03b1\u0390\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Para\u00edso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Para\u00edso"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u0390\u03c3\u03bf"
     ],
     "name:ita_x_preferred":[
         "Para\u00edso"
@@ -42,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Paraisas"
+    ],
+    "name:nld_x_preferred":[
+        "Para\u00edso"
     ],
     "name:nob_x_preferred":[
         "Para\u00edso"
@@ -60,6 +54,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u4f0a\u7d22"
+    ],
+    "name:zho_x_variant":[
+        "\u5e15\u8cf4\u7d22"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -109,7 +106,7 @@
         }
     ],
     "wof:id":421193553,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1561760260,
     "wof:name":"Para\u00edso",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

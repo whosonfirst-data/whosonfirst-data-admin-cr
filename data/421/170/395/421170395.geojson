@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Atenas"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7279\u7d0d\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Atenas"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03b8\u03ae\u03bd\u03b1"
     ],
@@ -33,12 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Atenas"
-    ],
-    "name:fre_x_preferred":[
-        "Atenas"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b8\u03ae\u03bd\u03b1"
     ],
     "name:ita_x_preferred":[
         "Atenas"
@@ -54,9 +42,6 @@
     ],
     "name:nor_x_preferred":[
         "Atenas"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u062a\u0646\u0627\u0633"
     ],
     "name:spa_x_preferred":[
         "Atenas"
@@ -114,7 +99,7 @@
         }
     ],
     "wof:id":421170395,
-    "wof:lastmodified":1513944277,
+    "wof:lastmodified":1561760271,
     "wof:name":"Atenas",
     "wof:parent_id":421202071,
     "wof:placetype":"locality",

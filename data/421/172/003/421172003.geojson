@@ -35,11 +35,8 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0438\u0430\u043b\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u91cc\u4e9e\u723e\u74e6\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Turrialba"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03c1\u03c1\u03b9\u03ac\u03bb\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Turrialba"
@@ -47,11 +44,11 @@
     "name:est_x_preferred":[
         "Turrialba"
     ],
-    "name:fre_x_preferred":[
-        "Turrialba"
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u06cc\u0644\u0628\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03c1\u03c1\u03b9\u03ac\u03bb\u03bc\u03c0\u03b1"
+    "name:fra_x_preferred":[
+        "Turrialba"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05d9\u05d0\u05dc\u05d1\u05d4"
@@ -62,11 +59,11 @@
     "name:lit_x_preferred":[
         "Turialba"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Turrialba"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u06cc\u0644\u0628\u0627"
+    "name:nob_x_preferred":[
+        "Turrialba"
     ],
     "name:pol_x_preferred":[
         "Turrialba"
@@ -79,6 +76,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06cc\u0627\u0644\u0628\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u91cc\u4e9e\u723e\u74e6\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421172003,
-    "wof:lastmodified":1555037146,
+    "wof:lastmodified":1561760266,
     "wof:name":"Turrialba",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

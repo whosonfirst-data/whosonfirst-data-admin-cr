@@ -16,16 +16,13 @@
     "name:ceb_x_preferred":[
         "Mercedes"
     ],
-    "name:dut_x_preferred":[
-        "Mercedes"
-    ],
     "name:eng_x_preferred":[
         "Mercedes"
     ],
     "name:fra_x_preferred":[
         "Mercedes"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Mercedes"
     ],
     "name:pol_x_preferred":[
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421179401,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1561760272,
     "wof:name":"Mercedes",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

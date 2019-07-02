@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "La Cruz"
-    ],
     "name:eng_x_preferred":[
         "La Cruz"
     ],
@@ -25,6 +22,9 @@
     ],
     "name:lit_x_preferred":[
         "La Krusas"
+    ],
+    "name:nld_x_preferred":[
+        "La Cruz"
     ],
     "name:nob_x_preferred":[
         "La Cruz"
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":421201139,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561760270,
     "wof:name":"La Cruz",
     "wof:parent_id":421170049,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u0630\u064a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u0580\u0565\u0564\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09b0\u09c7\u09a6\u09bf\u09af\u09bc\u09be"
     ],
@@ -29,19 +26,13 @@
     "name:ceb_x_preferred":[
         "Heredia"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u96f7\u8fea\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Heredia"
     ],
     "name:dan_x_preferred":[
         "Heredia"
     ],
     "name:deu_x_preferred":[
-        "Heredia"
-    ],
-    "name:dut_x_preferred":[
         "Heredia"
     ],
     "name:ell_x_preferred":[
@@ -55,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Heredia"
-    ],
-    "name:fre_x_preferred":[
-        "Heredia"
-    ],
-    "name:ger_x_preferred":[
-        "Heredia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03ad\u03b4\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac7\u0ab0\u0ac7\u0aa1\u0ac0\u0aaf\u0abe"
@@ -110,10 +92,13 @@
     "name:mar_x_preferred":[
         "\u0939\u0947\u0930\u0947\u0921\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Heredia"
     ],
     "name:nah_x_preferred":[
+        "Heredia"
+    ],
+    "name:nld_x_preferred":[
         "Heredia"
     ],
     "name:nob_x_preferred":[
@@ -132,9 +117,6 @@
         "Heredia"
     ],
     "name:ron_x_preferred":[
-        "Heredia"
-    ],
-    "name:rum_x_preferred":[
         "Heredia"
     ],
     "name:rus_x_preferred":[
@@ -334,7 +316,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1553816360,
+    "wof:lastmodified":1561760271,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

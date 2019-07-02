@@ -16,16 +16,10 @@
     "name:ceb_x_preferred":[
         "Los Chiles"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u5947\u840a\u65af\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Los Chiles"
-    ],
     "name:eng_x_preferred":[
         "Los Chiles"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Chiles"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421181329,
-    "wof:lastmodified":1513944356,
+    "wof:lastmodified":1561760267,
     "wof:name":"Los Chiles",
     "wof:parent_id":421169973,
     "wof:placetype":"locality",
