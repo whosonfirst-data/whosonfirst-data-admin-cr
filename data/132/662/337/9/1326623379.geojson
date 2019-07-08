@@ -27,6 +27,69 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b0\u09bf\u0993 \u09b2\u09be\u09b0\u09cd\u0997\u09cb"
+    ],
+    "name:epo_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:eus_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:fra_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05dc\u05d0\u05e8\u05d2\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0578\u0582 \u053c\u0561\u0580\u0563\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:ita_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10e3-\u10da\u10d0\u10e0\u10d2\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u0443-\u041b\u0430\u0440\u0433\u0443"
+    ],
+    "name:mlg_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:nld_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:nno_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:nor_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:por_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:ron_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0443-\u041b\u0430\u0440\u0433\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:vol_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:war_x_preferred":[
+        "Rio Largo"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5965\u62c9\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +113,7 @@
         }
     ],
     "wof:id":1326623379,
-    "wof:lastmodified":1536851507,
+    "wof:lastmodified":1562616511,
     "wof:name":"Rio Largo",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

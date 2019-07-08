@@ -37,10 +37,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":1331,
     "wof:belongsto":[
+        85670393,
         102191575,
         85632487,
-        421204093,
-        85670393
+        421204093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":421203727,
-    "wof:lastmodified":1531858833,
+    "wof:lastmodified":1562618601,
     "wof:name":"El Solar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

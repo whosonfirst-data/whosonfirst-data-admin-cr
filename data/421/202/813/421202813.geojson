@@ -22,6 +22,9 @@
     "name:nob_x_preferred":[
         "Parrita"
     ],
+    "name:nor_x_preferred":[
+        "Parrita"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3622537,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421202813,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1562618620,
     "wof:name":"Parrita",
     "wof:parent_id":421182071,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El Zapotal"
+    ],
+    "name:spa_x_preferred":[
+        "El Zapotal"
+    ],
     "name:und_x_variant":[
         "Zapotal",
         "Hacienda El Zapotal",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242599071,
-    "wof:lastmodified":1537618866,
+    "wof:lastmodified":1562619233,
     "wof:name":"El Zapotal",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

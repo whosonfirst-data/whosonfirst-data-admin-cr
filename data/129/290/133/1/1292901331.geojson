@@ -28,8 +28,47 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Talamanca"
+    ],
+    "name:cat_x_preferred":[
+        "Talamanca"
+    ],
+    "name:ceb_x_preferred":[
+        "Talamanca"
+    ],
+    "name:deu_x_preferred":[
+        "Talamanca"
+    ],
+    "name:fra_x_preferred":[
+        "Talamanca"
+    ],
+    "name:hrv_x_preferred":[
+        "Talamanca"
+    ],
+    "name:msa_x_preferred":[
+        "Talamanca"
+    ],
+    "name:nld_x_preferred":[
+        "Talamanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043c\u0430\u043d\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Talamanca"
+    ],
+    "name:spa_x_preferred":[
+        "Talamanca"
+    ],
+    "name:swe_x_preferred":[
+        "Talamanca"
+    ],
     "name:und_x_variant":[
         "Cuabre",
+        "Talamanca"
+    ],
+    "name:vie_x_preferred":[
         "Talamanca"
     ],
     "src:geom":"geonames",
@@ -55,7 +94,7 @@
         }
     ],
     "wof:id":1292901331,
-    "wof:lastmodified":1537618849,
+    "wof:lastmodified":1562617398,
     "wof:name":"Talamanca",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

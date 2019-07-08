@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quepos"
+    ],
     "name:eng_x_preferred":[
         "Quepos"
     ],
     "name:fra_x_preferred":[
         "Quepos"
+    ],
+    "name:fra_x_variant":[
+        "Qu\u00e9pos"
     ],
     "name:ita_x_preferred":[
         "Quepos"
@@ -34,6 +40,9 @@
     "name:nob_x_preferred":[
         "Quepos"
     ],
+    "name:nor_x_preferred":[
+        "Quepos"
+    ],
     "name:rus_x_preferred":[
         "\u0584\u0565\u0578\u057a\u057d"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u6ce2\u65af\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u6ce2\u65af\u533a"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421181331,
-    "wof:lastmodified":1561760267,
+    "wof:lastmodified":1562618821,
     "wof:name":"Quepos",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

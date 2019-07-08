@@ -13,6 +13,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03c1\u03b9\u03ac"
+    ],
+    "name:fra_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u91cc\u4e9e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":421171921,
-    "wof:lastmodified":1499977323,
+    "wof:lastmodified":1562619103,
     "wof:name":"Diria",
     "wof:parent_id":1108693669,
     "wof:placetype":"localadmin",

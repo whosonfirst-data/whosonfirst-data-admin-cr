@@ -19,6 +19,9 @@
     "name:spa_x_preferred":[
         "Juan Carlos Arg\u00fcello"
     ],
+    "name:spa_x_variant":[
+        "Muelle"
+    ],
     "name:unk_x_variant":[
         "El Muelle"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421183589,
-    "wof:lastmodified":1527716492,
+    "wof:lastmodified":1562619011,
     "wof:name":"Muelle",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

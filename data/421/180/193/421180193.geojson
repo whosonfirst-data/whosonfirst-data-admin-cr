@@ -13,14 +13,56 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Arenal"
+    ],
+    "name:ceb_x_preferred":[
+        "Arenal"
+    ],
+    "name:deu_x_preferred":[
+        "Arenal"
+    ],
     "name:eng_x_preferred":[
         "Nuevo Arenal"
+    ],
+    "name:epo_x_preferred":[
+        "Arenal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0646\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Arenal"
     ],
     "name:ita_x_preferred":[
         "Arenal"
     ],
+    "name:nds_x_preferred":[
+        "Arenal"
+    ],
     "name:nld_x_preferred":[
         "Nuevo Arenal"
+    ],
+    "name:nld_x_variant":[
+        "Arenal"
+    ],
+    "name:pol_x_preferred":[
+        "Arenal"
+    ],
+    "name:por_x_preferred":[
+        "Arenal"
+    ],
+    "name:sco_x_preferred":[
+        "Arenal"
+    ],
+    "name:spa_x_preferred":[
+        "Arenal"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0435\u043d\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Arenal"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -68,7 +110,7 @@
         }
     ],
     "wof:id":421180193,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1562618641,
     "wof:name":"Arenal",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
     "name:hbs_x_preferred":[
         "San Mateo"
     ],
+    "name:ilo_x_preferred":[
+        "San Mateo"
+    ],
     "name:ita_x_preferred":[
         "San Mateo"
     ],
@@ -97,6 +100,9 @@
         "\u0421\u0430\u043d \u041c\u0430\u0442\u0435\u043e"
     ],
     "name:swe_x_preferred":[
+        "San Mateo"
+    ],
+    "name:tgl_x_preferred":[
         "San Mateo"
     ],
     "name:ukr_x_preferred":[
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421169971,
-    "wof:lastmodified":1561760261,
+    "wof:lastmodified":1562618557,
     "wof:name":"San Mateo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:als_x_preferred":[
         "Amun"
     ],
+    "name:als_x_variant":[
+        "Amon"
+    ],
     "name:amh_x_preferred":[
         "\u12a0\u1219\u1295"
     ],
@@ -52,6 +55,9 @@
     "name:cat_x_preferred":[
         "Amon"
     ],
+    "name:ceb_x_preferred":[
+        "Amon"
+    ],
     "name:ces_x_preferred":[
         "Amon"
     ],
@@ -67,8 +73,14 @@
     "name:deu_x_preferred":[
         "Amun"
     ],
+    "name:deu_x_variant":[
+        "Amon"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03bc\u03c9\u03bd"
+    ],
+    "name:epo_x_preferred":[
+        "Amon"
     ],
     "name:est_x_preferred":[
         "Amon"
@@ -109,6 +121,9 @@
     "name:ind_x_preferred":[
         "Amun"
     ],
+    "name:ind_x_variant":[
+        "Amon"
+    ],
     "name:isl_x_preferred":[
         "Amon"
     ],
@@ -118,11 +133,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30e1\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30e2\u30f3"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10db\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc544\ubb38"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ubaac"
     ],
     "name:lat_x_preferred":[
         "Ammon"
@@ -181,7 +202,13 @@
     "name:spa_x_preferred":[
         "Am\u00f3n"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
+        "Amon"
+    ],
+    "name:tgl_x_preferred":[
         "Amon"
     ],
     "name:tha_x_preferred":[
@@ -223,10 +250,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":3654,
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,7 +275,7 @@
         }
     ],
     "wof:id":421185291,
-    "wof:lastmodified":1531858582,
+    "wof:lastmodified":1562619128,
     "wof:name":"Amon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

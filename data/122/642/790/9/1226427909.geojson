@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guayabos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226427909,
-    "wof:lastmodified":1536671173,
+    "wof:lastmodified":1562619579,
     "wof:name":"Guayabos",
     "wof:parent_id":421203755,
     "wof:placetype":"locality",

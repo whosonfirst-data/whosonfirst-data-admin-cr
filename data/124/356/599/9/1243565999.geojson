@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Silencio"
+    ],
     "name:und_x_variant":[
         "El Silencio",
         "Silencio"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243565999,
-    "wof:lastmodified":1537618849,
+    "wof:lastmodified":1562619318,
     "wof:name":"Silencio",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

@@ -13,6 +13,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:ceb_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:deu_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:spa_x_preferred":[
+        "Agua Caliente"
+    ],
+    "name:swe_x_preferred":[
+        "Agua Caliente"
+    ],
     "name:unk_x_variant":[
         "Aguas Calientes"
     ],
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":421181543,
-    "wof:lastmodified":1527716325,
+    "wof:lastmodified":1562618842,
     "wof:name":"Agua Caliente",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

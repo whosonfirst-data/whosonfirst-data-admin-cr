@@ -28,6 +28,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonilla"
+    ],
+    "name:ita_x_preferred":[
+        "Bonilla"
+    ],
     "name:und_x_variant":[
         "Hacienda Bonilla",
         "Bonilla"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276679897,
-    "wof:lastmodified":1537618873,
+    "wof:lastmodified":1562617593,
     "wof:name":"Bonilla",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

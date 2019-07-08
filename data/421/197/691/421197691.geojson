@@ -16,14 +16,26 @@
     "name:ceb_x_preferred":[
         "Naranjo"
     ],
+    "name:deu_x_preferred":[
+        "Naranjo"
+    ],
     "name:eng_x_preferred":[
         "Naranjo de Alajuela"
     ],
     "name:fra_x_preferred":[
         "Naranjo"
     ],
+    "name:ind_x_preferred":[
+        "Naranjo"
+    ],
     "name:ita_x_preferred":[
         "Naranjo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e9\u30f3\u30db"
+    ],
+    "name:lit_x_preferred":[
+        "Naranchas"
     ],
     "name:nld_x_preferred":[
         "Naranjo"
@@ -34,17 +46,29 @@
     "name:nor_x_preferred":[
         "Naranjo"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u043d\u0445\u043e"
+    ],
     "name:spa_x_preferred":[
         "Naranjo"
     ],
+    "name:spa_x_variant":[
+        "El Naranjo"
+    ],
     "name:swe_x_preferred":[
         "Naranjo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u043d\u0445\u043e"
     ],
     "name:vie_x_preferred":[
         "Naranjo de Alajuela"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u862d\u970d\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u7eb3\u5170\u6c38"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -94,7 +118,7 @@
         }
     ],
     "wof:id":421197691,
-    "wof:lastmodified":1561760269,
+    "wof:lastmodified":1562618917,
     "wof:name":"Naranjo",
     "wof:parent_id":421175393,
     "wof:placetype":"locality",

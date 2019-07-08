@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Llorente"
     ],
+    "name:ceb_x_preferred":[
+        "Llorente"
+    ],
     "name:ces_x_preferred":[
         "Llorente"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:jam_x_preferred":[
         "Llorente"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30ec\u30f3\u30c6"
     ],
     "name:kab_x_preferred":[
         "Llorente"
@@ -192,6 +198,9 @@
     "name:ron_x_preferred":[
         "Llorente"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u044c\u043e\u0440\u0435\u043d\u0442\u0435"
+    ],
     "name:scn_x_preferred":[
         "Llorente"
     ],
@@ -216,6 +225,9 @@
     "name:tur_x_preferred":[
         "Llorente"
     ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044c\u043e\u0440\u0435\u043d\u0442\u0435"
+    ],
     "name:vec_x_preferred":[
         "Llorente"
     ],
@@ -236,6 +248,9 @@
     ],
     "name:wol_x_preferred":[
         "Llorente"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u862d\u8fea"
     ],
     "name:zul_x_preferred":[
         "Llorente"
@@ -272,7 +287,7 @@
         }
     ],
     "wof:id":890441925,
-    "wof:lastmodified":1561760275,
+    "wof:lastmodified":1562619138,
     "wof:name":"Llorente",
     "wof:parent_id":421203269,
     "wof:placetype":"locality",

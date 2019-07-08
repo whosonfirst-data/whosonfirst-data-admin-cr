@@ -28,6 +28,9 @@
     "name:nob_x_preferred":[
         "Nosara"
     ],
+    "name:nor_x_preferred":[
+        "Nosara"
+    ],
     "name:spa_x_preferred":[
         "Boca del Nosara"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421197947,
-    "wof:lastmodified":1561760269,
+    "wof:lastmodified":1562618908,
     "wof:name":"Nosara",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

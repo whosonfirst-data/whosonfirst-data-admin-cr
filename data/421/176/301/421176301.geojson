@@ -13,8 +13,704 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0438\u0430\u0433\u043e \u0434\u0435 \u0427\u0438\u043b\u0438"
+    ],
+    "name:ace_x_preferred":[
+        "Santiag\u00f4 de Chili"
+    ],
+    "name:ady_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:afr_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:aka_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:als_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:amh_x_preferred":[
+        "\u1233\u1295\u1272\u12eb\u130e"
+    ],
+    "name:ang_x_preferred":[
+        "Santiago"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
+    ],
+    "name:arc_x_preferred":[
+        "\u0723\u0722\u071b\u071d\u0710\u0713\u0718 \u0715\u0710 \u072c\u072b\u071d\u0720\u071d"
+    ],
+    "name:arg_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Santiagu"
+    ],
+    "name:ava_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:aym_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Santyaqo"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:bam_x_preferred":[
+        "Santiago"
+    ],
+    "name:bar_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:bcl_x_preferred":[
+        "Santiago"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u2019\u044f\u0433\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb"
+    ],
+    "name:bih_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:bis_x_preferred":[
+        "Santiago"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f71\u0f53\u0f0b\u0f4f\u0f72\u0f0b\u0f61\u0f0b\u0f42\u0f7c"
+    ],
+    "name:bos_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:bre_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:bug_x_preferred":[
+        "Santiago"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044f\u0433\u043e \u0434\u0435 \u0427\u0438\u043b\u0435"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Santiago de Xile"
+    ],
+    "name:cdo_x_preferred":[
+        "Santiago"
+    ],
+    "name:ceb_x_preferred":[
+        "Santiago"
+    ],
+    "name:ces_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:cha_x_preferred":[
+        "Santiago"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:chr_x_preferred":[
+        "\u13cc\u13c2\u13d8\u13a0\u13aa"
+    ],
+    "name:chv_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:chy_x_preferred":[
+        "Santiago"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u06c6"
+    ],
+    "name:cor_x_preferred":[
+        "Santiago"
+    ],
+    "name:cos_x_preferred":[
+        "Santiago di u Cile"
+    ],
+    "name:crh_x_preferred":[
+        "Santyago"
+    ],
+    "name:cym_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:dan_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:deu_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:diq_x_preferred":[
+        "Santiago"
+    ],
+    "name:dsb_x_preferred":[
+        "Santiago"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03bf"
+    ],
+    "name:eml_x_preferred":[
+        "Santi\u00e2g"
+    ],
+    "name:epo_x_preferred":[
+        "Santiago de \u0108ilio"
+    ],
+    "name:est_x_preferred":[
+        "Santiago"
+    ],
+    "name:eus_x_preferred":[
+        "Santiago"
+    ],
+    "name:ewe_x_preferred":[
+        "Santiago"
+    ],
+    "name:ext_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:fao_x_preferred":[
+        "Santiago"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:fij_x_preferred":[
+        "Santiago"
+    ],
+    "name:fin_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:fra_x_preferred":[
+        "Santiago"
+    ],
+    "name:frp_x_preferred":[
+        "Santiago du Ch\u00b7ili"
+    ],
+    "name:frr_x_preferred":[
+        "Santiago"
+    ],
+    "name:fry_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:fur_x_preferred":[
+        "Santiago dal Cile"
+    ],
+    "name:gag_x_preferred":[
+        "Santiago"
+    ],
+    "name:gan_x_preferred":[
+        "\u8056\u5730\u7259\u54e5"
+    ],
+    "name:gla_x_preferred":[
+        "Santiago"
+    ],
+    "name:gle_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:glg_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:glk_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u064a\u0627\u06af\u0624"
+    ],
+    "name:glv_x_preferred":[
+        "Santiago"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf43\ud800\udf30\ud800\udf3d\ud800\udf44\ud800\udf39\ud800\udf30\ud800\udf32\ud800\udf49"
+    ],
+    "name:grn_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb"
+    ],
+    "name:hak_x_preferred":[
+        "Santiago"
+    ],
+    "name:hat_x_preferred":[
+        "Santyago"
+    ],
+    "name:hau_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:haw_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d9\u05d0\u05d2\u05d5 \u05d3\u05d4 \u05e6'\u05d9\u05dc\u05d4"
+    ],
+    "name:hif_x_preferred":[
+        "Santiago"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:hsb_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:hun_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0575\u0561\u0563\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0561\u0576\u0569\u056b\u0561\u056f\u0585"
+    ],
+    "name:ido_x_preferred":[
+        "Santiago"
+    ],
+    "name:ile_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:ilo_x_preferred":[
+        "Santiago"
+    ],
+    "name:ina_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:ind_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:isl_x_preferred":[
+        "Sant\u00edag\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Santiago del Cile"
+    ],
+    "name:jam_x_preferred":[
+        "Santyaago"
+    ],
+    "name:jav_x_preferred":[
+        "Santiago"
+    ],
+    "name:jbo_x_preferred":[
+        "santiago"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30a3\u30a2\u30b4"
+    ],
+    "name:kaa_x_preferred":[
+        "Santiago"
+    ],
+    "name:kab_x_preferred":[
+        "Santiago"
+    ],
+    "name:kal_x_preferred":[
+        "Santiago"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0c82\u0c9f\u0cbf\u0caf\u0cbe\u0c97\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0438\u0430\u0433\u043e"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u1793\u17cb\u178f\u17d2\u1799\u17b6\u17a0\u17d2\u1782\u17c4"
+    ],
+    "name:kik_x_preferred":[
+        "Santiago"
+    ],
+    "name:kin_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:koi_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:kom_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:kon_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud2f0\uc544\uace0"
+    ],
+    "name:krc_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:kur_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:lad_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e8a\u0eb1\u0e99\u200b\u0e95\u0eb4\u200b\u0ead\u0eb2\u200b\u0ec2\u0e81"
+    ],
+    "name:lat_x_preferred":[
+        "Urbs Sancti Iacobi"
+    ],
+    "name:lav_x_preferred":[
+        "Santjago"
+    ],
+    "name:lfn_x_preferred":[
+        "Santiago"
+    ],
+    "name:lij_x_preferred":[
+        "Santiago do Cile"
+    ],
+    "name:lim_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:lin_x_preferred":[
+        "Santiago"
+    ],
+    "name:lit_x_preferred":[
+        "Santjagas"
+    ],
+    "name:lmo_x_preferred":[
+        "Santiago del Cile"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:ltg_x_preferred":[
+        "Santjago"
+    ],
+    "name:ltz_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:lug_x_preferred":[
+        "Santiago"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u091f\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d28\u0d4d\u0d31\u0d3f\u0d2f\u0d3e\u0d17\u0d4a"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0928\u094d\u0924\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:min_x_preferred":[
+        "Santiago"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0458\u0430\u0433\u043e"
+    ],
+    "name:mlg_x_preferred":[
+        "Santiago"
+    ],
+    "name:mlt_x_preferred":[
+        "Santiago"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044a\u044f\u0433\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "Santiago"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Santiago"
+    ],
+    "name:mwl_x_preferred":[
+        "Santiago"
+    ],
+    "name:mya_x_preferred":[
+        "\u1006\u1014\u103a\u1010\u102e\u101a\u102c\u1002\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:nap_x_preferred":[
+        "Santiago 'e Cile"
+    ],
+    "name:nau_x_preferred":[
+        "Santiago"
+    ],
+    "name:nds_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0928\u094d\u091f\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0928\u094d\u091f\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago"
+    ],
+    "name:nno_x_preferred":[
+        "Santiago"
+    ],
+    "name:nor_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:nov_x_preferred":[
+        "Santiago"
+    ],
+    "name:nrm_x_preferred":[
+        "Santiago du Chili"
+    ],
+    "name:nya_x_preferred":[
+        "Santiago"
+    ],
+    "name:oci_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:olo_x_preferred":[
+        "Santjago"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b38\u0b3e\u0b23\u0b4d\u0b1f\u0b3f\u0b06\u0b17\u0b4b"
+    ],
+    "name:orm_x_preferred":[
+        "Santiago"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:pag_x_preferred":[
+        "Santiago"
+    ],
+    "name:pam_x_preferred":[
+        "Santiago"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a38\u0a3e\u0a02\u0a24\u0a40\u0a06\u0a17\u0a4b"
+    ],
+    "name:pap_x_preferred":[
+        "Santiago di Chile"
+    ],
+    "name:pcd_x_preferred":[
+        "Santiago"
+    ],
+    "name:pdc_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:pih_x_preferred":[
+        "Santiago"
+    ],
+    "name:pms_x_preferred":[
+        "Santiago d\u00ebl Cile"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:pnt_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ac\u03b3\u03ba\u03bf"
+    ],
+    "name:pol_x_preferred":[
+        "Santiago"
+    ],
+    "name:por_x_preferred":[
+        "Santiago"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06ab\u0648"
+    ],
+    "name:que_x_preferred":[
+        "Chili Santiyayu"
+    ],
+    "name:rmy_x_preferred":[
+        "Santiago"
+    ],
+    "name:roh_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:ron_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:run_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Santiagu d\u00fb Cili"
+    ],
+    "name:sco_x_preferred":[
+        "Santiago"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0db1\u0dca\u0dad\u0dd2\u0dba\u0dcf\u0d9c\u0ddd"
+    ],
+    "name:slk_x_preferred":[
+        "Santiago"
+    ],
+    "name:slv_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:sme_x_preferred":[
+        "Santiago"
+    ],
+    "name:sna_x_preferred":[
+        "Santiago"
+    ],
+    "name:som_x_preferred":[
+        "Santiyaago"
+    ],
+    "name:sot_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:sqi_x_preferred":[
+        "Santiago"
+    ],
+    "name:srd_x_preferred":[
+        "Santiago"
+    ],
+    "name:srn_x_preferred":[
+        "Santiago"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0438\u0458\u0430\u0433\u043e \u0434\u0435 \u0427\u0438\u043b\u0435"
+    ],
+    "name:stq_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:sun_x_preferred":[
+        "Santiago"
+    ],
+    "name:swa_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:szl_x_preferred":[
+        "Santiago"
+    ],
+    "name:tah_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0b9f\u0bbf\u0baf\u0bc7\u0b95\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:tet_x_preferred":[
+        "Santiagu"
+    ],
+    "name:tgl_x_preferred":[
+        "Santiago"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01"
+    ],
+    "name:tpi_x_preferred":[
+        "Santiago"
+    ],
+    "name:tuk_x_preferred":[
+        "Santi\u00fdago"
+    ],
+    "name:tur_x_preferred":[
+        "Santiago"
+    ],
+    "name:twi_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0438\u044f\u0433\u043e"
+    ],
+    "name:udm_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:uig_x_preferred":[
+        "Santiyago"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
     "name:unk_x_variant":[
         "Puriscal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648\u060c \u0686\u0644\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Santyago"
+    ],
+    "name:vec_x_preferred":[
+        "Santiago del Ci\u0142e"
+    ],
+    "name:vep_x_preferred":[
+        "Santjago"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:vls_x_preferred":[
+        "Santiago"
+    ],
+    "name:vol_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:war_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:wln_x_preferred":[
+        "Santiago do Tchili"
+    ],
+    "name:wol_x_preferred":[
+        "Santiag"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u5730\u7259\u54e5"
+    ],
+    "name:xho_x_preferred":[
+        "Santiago"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e1\u05d0\u05e0\u05d8\u05d9\u05d0\u05d2\u05d0"
+    ],
+    "name:yor_x_preferred":[
+        "Santiago"
+    ],
+    "name:zea_x_preferred":[
+        "Santiago"
+    ],
+    "name:zha_x_preferred":[
+        "Santiago de Chile"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5"
+    ],
+    "name:zul_x_preferred":[
+        "ISantiago"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -68,7 +764,7 @@
         }
     ],
     "wof:id":421176301,
-    "wof:lastmodified":1527726468,
+    "wof:lastmodified":1562619085,
     "wof:name":"Santiago",
     "wof:parent_id":421175401,
     "wof:placetype":"localadmin",

@@ -19,6 +19,9 @@
     "name:spa_x_preferred":[
         "Roble"
     ],
+    "name:swe_x_preferred":[
+        "Roble"
+    ],
     "name:unk_x_variant":[
         "El Roble"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421192003,
-    "wof:lastmodified":1527716114,
+    "wof:lastmodified":1562618484,
     "wof:name":"Roble",
     "wof:parent_id":421202609,
     "wof:placetype":"locality",

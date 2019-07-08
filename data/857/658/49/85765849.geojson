@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":418291.344935,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.098547,9.935469,-84.098547,9.935469",
     "geom:latitude":9.935469,
     "geom:longitude":-84.098547,
@@ -64,10 +64,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":30,
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859059,
+    "wof:lastmodified":1562616805,
     "wof:name":"Mantica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

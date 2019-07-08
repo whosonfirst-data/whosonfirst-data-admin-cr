@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Heredia"
     ],
+    "name:ceb_x_preferred":[
+        "Heredia"
+    ],
     "name:ces_x_preferred":[
         "Heredia"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Provinz Heredia"
+    ],
+    "name:deu_x_variant":[
+        "Heredia"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c1\u03ad\u03b4\u03b9\u03b1"
@@ -80,6 +86,9 @@
     "name:ita_x_preferred":[
         "provincia di Heredia"
     ],
+    "name:ita_x_variant":[
+        "Heredia"
+    ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30c7\u30a3\u30a2\u5dde"
     ],
@@ -93,6 +102,9 @@
         "Heredijos provincija"
     ],
     "name:nah_x_preferred":[
+        "Heredia"
+    ],
+    "name:nds_x_preferred":[
         "Heredia"
     ],
     "name:nld_x_preferred":[
@@ -273,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760244,
+    "wof:lastmodified":1562616828,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

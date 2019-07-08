@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Talamanca"
     ],
+    "name:hrv_x_preferred":[
+        "Talamanca"
+    ],
     "name:msa_x_preferred":[
         "Talamanca"
     ],
@@ -66,6 +69,9 @@
         "Talamanca"
     ],
     "name:spa_x_preferred":[
+        "Talamanca"
+    ],
+    "name:swe_x_preferred":[
         "Talamanca"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421185333,
-    "wof:lastmodified":1553717436,
+    "wof:lastmodified":1562619114,
     "wof:name":"Talamanca",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

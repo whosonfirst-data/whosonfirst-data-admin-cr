@@ -98,6 +98,9 @@
     "name:nah_x_preferred":[
         "Heredia"
     ],
+    "name:nds_x_preferred":[
+        "Heredia"
+    ],
     "name:nld_x_preferred":[
         "Heredia"
     ],
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1561760271,
+    "wof:lastmodified":1562618973,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

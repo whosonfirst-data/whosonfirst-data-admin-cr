@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chontales"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1360007115,
-    "wof:lastmodified":1537055763,
+    "wof:lastmodified":1562618334,
     "wof:name":"Chontales",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

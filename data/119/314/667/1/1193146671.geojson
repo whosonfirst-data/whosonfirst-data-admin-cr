@@ -27,6 +27,45 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo"
+    ],
+    "name:deu_x_preferred":[
+        "Palo"
+    ],
+    "name:fin_x_preferred":[
+        "Palo"
+    ],
+    "name:fra_x_preferred":[
+        "Glossaire de la tauromachie#P"
+    ],
+    "name:ita_x_preferred":[
+        "Palo"
+    ],
+    "name:nld_x_preferred":[
+        "Palo"
+    ],
+    "name:pol_x_preferred":[
+        "Palo"
+    ],
+    "name:slk_x_preferred":[
+        "Palo"
+    ],
+    "name:spa_x_preferred":[
+        "Palo"
+    ],
+    "name:swe_x_preferred":[
+        "Palo"
+    ],
+    "name:tgl_x_preferred":[
+        "Palo"
+    ],
+    "name:vol_x_preferred":[
+        "Palo"
+    ],
+    "name:war_x_preferred":[
+        "Palo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +89,7 @@
         }
     ],
     "wof:id":1193146671,
-    "wof:lastmodified":1536382640,
+    "wof:lastmodified":1562618035,
     "wof:name":"Palo",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

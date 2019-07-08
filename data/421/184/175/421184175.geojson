@@ -34,6 +34,9 @@
     "name:kor_x_preferred":[
         "\uac08\ub9ac\uc2dc\uc544\uc758 \uad6d\uac00"
     ],
+    "name:nor_x_preferred":[
+        "Dos Pinos"
+    ],
     "name:pol_x_preferred":[
         "Hymn Galicji"
     ],
@@ -69,10 +72,10 @@
     "qs:woe_id":22723655,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421184175,
-    "wof:lastmodified":1531858515,
+    "wof:lastmodified":1562618966,
     "wof:name":"Dos Pinos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

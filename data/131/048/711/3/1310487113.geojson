@@ -27,6 +27,18 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:fra_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:ita_x_preferred":[
+        "Barbacoas"
+    ],
+    "name:swe_x_preferred":[
+        "Barbacoas"
+    ],
     "name:und_x_variant":[
         "San Isidro",
         "Barbacoas"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1310487113,
-    "wof:lastmodified":1537618874,
+    "wof:lastmodified":1562618137,
     "wof:name":"Barbacoas",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

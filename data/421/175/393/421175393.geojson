@@ -45,8 +45,14 @@
     "name:fra_x_preferred":[
         "Naranjo"
     ],
+    "name:ind_x_preferred":[
+        "Naranjo"
+    ],
     "name:ita_x_preferred":[
         "Naranjo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e9\u30f3\u30db"
     ],
     "name:lit_x_preferred":[
         "Naranchas"
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421175393,
-    "wof:lastmodified":1561760268,
+    "wof:lastmodified":1562618853,
     "wof:name":"Naranjo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

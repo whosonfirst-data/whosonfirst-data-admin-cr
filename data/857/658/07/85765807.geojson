@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3995241.98598,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.075412,9.937796,-84.075412,9.937796",
     "geom:latitude":9.937796,
     "geom:longitude":-84.075412,
@@ -39,10 +39,16 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30eb\u30ce\u30f3"
     ],
+    "name:oci_x_preferred":[
+        "Tornon"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u043d\u043e\u043d"
     ],
     "name:spa_x_preferred":[
+        "Tournon"
+    ],
+    "name:swe_x_preferred":[
         "Tournon"
     ],
     "name:unk_x_variant":[
@@ -79,10 +85,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":51,
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +111,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859052,
+    "wof:lastmodified":1562616786,
     "wof:name":"Tournon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

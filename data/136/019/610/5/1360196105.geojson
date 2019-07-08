@@ -27,6 +27,18 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mojica"
+    ],
+    "name:fra_x_preferred":[
+        "Mojica"
+    ],
+    "name:ita_x_preferred":[
+        "Mojica"
+    ],
+    "name:pol_x_preferred":[
+        "Mojica"
+    ],
     "name:und_x_variant":[
         "Hacienda Mojic",
         "Hacienda Mojica",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1360196105,
-    "wof:lastmodified":1537618859,
+    "wof:lastmodified":1562618395,
     "wof:name":"Mojica",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

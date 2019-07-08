@@ -16,7 +16,22 @@
     "name:cat_x_preferred":[
         "Sabanilla"
     ],
+    "name:ceb_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:deu_x_preferred":[
+        "Municipio Sabanilla"
+    ],
     "name:eng_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:epo_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:eus_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:fra_x_preferred":[
         "Sabanilla"
     ],
     "name:ita_x_preferred":[
@@ -31,7 +46,25 @@
     "name:por_x_preferred":[
         "Sabanilla"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043d\u0438\u043b\u044c\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Sabanilla"
+    ],
     "name:spa_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0430\u0431\u0430\u043d\u0438\u0459\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sabanilla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0646\u0644\u06c1"
+    ],
+    "name:vie_x_preferred":[
         "Sabanilla"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +116,7 @@
         }
     ],
     "wof:id":421182127,
-    "wof:lastmodified":1561760273,
+    "wof:lastmodified":1562619068,
     "wof:name":"Sabanilla",
     "wof:parent_id":421169975,
     "wof:placetype":"locality",

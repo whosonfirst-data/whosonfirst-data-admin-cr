@@ -13,10 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Potrero"
+    ],
     "name:deu_x_preferred":[
         "Potrero"
     ],
+    "name:ita_x_preferred":[
+        "Potrero"
+    ],
     "name:spa_x_preferred":[
+        "Potrero"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u0440\u0435\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Potrero"
     ],
     "name:unk_x_variant":[
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":421191995,
-    "wof:lastmodified":1527716381,
+    "wof:lastmodified":1562618890,
     "wof:name":"Potrero",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

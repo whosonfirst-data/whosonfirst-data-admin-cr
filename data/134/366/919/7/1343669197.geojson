@@ -27,9 +27,27 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Castilla de Oro"
+    ],
+    "name:cat_x_preferred":[
+        "Castella d'Or"
+    ],
+    "name:fra_x_preferred":[
+        "Castille d'Or"
+    ],
+    "name:lit_x_preferred":[
+        "Auksin\u0117 Kastilija"
+    ],
+    "name:spa_x_preferred":[
+        "Castilla de Oro"
+    ],
     "name:und_x_variant":[
         "Guacimo",
         "Castillo del Oro",
+        "Castilla de Oro"
+    ],
+    "name:vie_x_preferred":[
         "Castilla de Oro"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343669197,
-    "wof:lastmodified":1537618871,
+    "wof:lastmodified":1562616697,
     "wof:name":"Castilla de Oro",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

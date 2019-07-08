@@ -27,6 +27,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taboga"
+    ],
+    "name:spa_x_preferred":[
+        "Taboga"
+    ],
     "name:und_x_variant":[
         "Hacienda Taboga",
         "Taboga"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343663653,
-    "wof:lastmodified":1537618849,
+    "wof:lastmodified":1562616679,
     "wof:name":"Taboga",
     "wof:parent_id":421201613,
     "wof:placetype":"locality",

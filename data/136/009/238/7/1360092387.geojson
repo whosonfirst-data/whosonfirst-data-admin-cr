@@ -27,6 +27,21 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chira"
+    ],
+    "name:deu_x_preferred":[
+        "Chira"
+    ],
+    "name:ita_x_preferred":[
+        "Chira"
+    ],
+    "name:nor_x_preferred":[
+        "Chira"
+    ],
+    "name:ron_x_preferred":[
+        "Chira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1360092387,
-    "wof:lastmodified":1536935827,
+    "wof:lastmodified":1562618337,
     "wof:name":"Chira",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

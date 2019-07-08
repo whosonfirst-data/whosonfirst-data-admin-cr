@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28933032.317371,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.149881,9.948169,-84.149881,9.948169",
     "geom:latitude":9.948169,
     "geom:longitude":-84.149881,
@@ -25,10 +25,52 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:deu_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:epo_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:ita_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:nds_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:nld_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:pol_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:por_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0431\u043b\u043e-\u041d\u0443\u044d\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Pueblo Nuevo"
+    ],
     "name:spa_x_preferred":[
         "Pueblo Nuevo"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0431\u043b\u043e \u041d\u0443\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pueblo Nuevo"
+    ],
     "name:unk_x_variant":[
+        "Pueblo Nuevo"
+    ],
+    "name:vie_x_preferred":[
         "Pueblo Nuevo"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -62,10 +104,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +131,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859053,
+    "wof:lastmodified":1562616785,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,24 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:deu_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:fra_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Verde"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043e \u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Palo Verde"
+    ],
     "name:und_x_variant":[
         "Hacienda Palo Verde",
         "Palo Verde"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276549305,
-    "wof:lastmodified":1537618857,
+    "wof:lastmodified":1562617735,
     "wof:name":"Palo Verde",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

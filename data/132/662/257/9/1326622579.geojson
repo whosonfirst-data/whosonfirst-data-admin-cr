@@ -27,6 +27,45 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Olivia"
+    ],
+    "name:deu_x_preferred":[
+        "Olivia"
+    ],
+    "name:fra_x_preferred":[
+        "Olivia"
+    ],
+    "name:hun_x_preferred":[
+        "Olivia"
+    ],
+    "name:ind_x_preferred":[
+        "Olivia"
+    ],
+    "name:ita_x_preferred":[
+        "Olivia"
+    ],
+    "name:nld_x_preferred":[
+        "Olivia"
+    ],
+    "name:pol_x_preferred":[
+        "Olivia"
+    ],
+    "name:por_x_preferred":[
+        "Olivia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0438\u0432\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Olivia"
+    ],
+    "name:swe_x_preferred":[
+        "Olivia"
+    ],
+    "name:vie_x_preferred":[
+        "Olivia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +89,7 @@
         }
     ],
     "wof:id":1326622579,
-    "wof:lastmodified":1536852671,
+    "wof:lastmodified":1562616512,
     "wof:name":"Olivia",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

@@ -13,6 +13,66 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:ceb_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:ces_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:epo_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:eus_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:fin_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:hun_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:nds_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:pol_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:por_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:slk_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:tgl_x_preferred":[
+        "Col\u00f3n"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d"
+    ],
+    "name:war_x_preferred":[
+        "Col\u00f3n"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3624170,
@@ -57,7 +117,7 @@
         }
     ],
     "wof:id":421183571,
-    "wof:lastmodified":1499977303,
+    "wof:lastmodified":1562619043,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

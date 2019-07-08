@@ -13,7 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "San Marcos"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u043a\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "San Marcos"
+    ],
     "name:ceb_x_preferred":[
+        "San Marcos"
+    ],
+    "name:deu_x_preferred":[
         "San Marcos"
     ],
     "name:ell_x_preferred":[
@@ -22,14 +34,32 @@
     "name:eng_x_preferred":[
         "San Marcos"
     ],
+    "name:est_x_preferred":[
+        "San Marcos"
+    ],
+    "name:fin_x_preferred":[
+        "San Marcos"
+    ],
     "name:fra_x_preferred":[
+        "San Marcos"
+    ],
+    "name:glg_x_preferred":[
         "San Marcos"
     ],
     "name:ita_x_preferred":[
         "San Marcos"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ub9c8\ub974\ucf54\uc2a4"
+    ],
     "name:lit_x_preferred":[
         "Tarasu San Markosas"
+    ],
+    "name:lit_x_variant":[
+        "San Markosas"
+    ],
+    "name:nds_x_preferred":[
+        "San Marcos"
     ],
     "name:nld_x_preferred":[
         "San Marcos"
@@ -40,14 +70,41 @@
     "name:nor_x_preferred":[
         "San Marcos"
     ],
+    "name:pol_x_preferred":[
+        "San Marcos"
+    ],
+    "name:por_x_preferred":[
+        "San Marcos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "San Marcos"
+    ],
     "name:spa_x_preferred":[
         "San Marcos de Tarraz\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "San Marcos"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u041c\u0430\u0440\u043a\u043e\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "San Marcos"
     ],
     "name:swe_x_preferred":[
         "San Marcos"
     ],
     "name:unk_x_variant":[
         "Marcos"
+    ],
+    "name:vol_x_preferred":[
+        "San Marcos"
+    ],
+    "name:war_x_preferred":[
+        "San Marcos"
     ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u79d1\u65af\u5fb7\u5854\u62c9\u8607\u5340"
@@ -100,7 +157,7 @@
         }
     ],
     "wof:id":421201147,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1562618959,
     "wof:name":"San Marcos",
     "wof:parent_id":421169977,
     "wof:placetype":"locality",

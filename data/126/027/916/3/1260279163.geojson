@@ -28,9 +28,24 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano de Piedra"
+    ],
+    "name:ita_x_preferred":[
+        "Llano de Piedra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d0\u10dc\u10dd-\u10d3\u10d4-\u10de\u10d8\u10d4\u10d3\u10e0\u10d0"
+    ],
+    "name:spa_x_preferred":[
+        "Llano de Piedras"
+    ],
     "name:und_x_variant":[
         "Llano de la Piedra",
         "Llano de Piedra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u8afe\u5fb7\u5f7c\u5fb7\u62c9\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1260279163,
-    "wof:lastmodified":1537618860,
+    "wof:lastmodified":1562618081,
     "wof:name":"Llano de Piedra",
     "wof:parent_id":421184839,
     "wof:placetype":"locality",

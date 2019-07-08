@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Nacascolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5361\u65af\u79d1\u6d1b\u5340"
+    ],
     "qs_pg:aaroncc":"CR",
     "qs_pg:gn_country":"CR",
     "qs_pg:name":"Nacascolo",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1125303955,
-    "wof:lastmodified":1509387763,
+    "wof:lastmodified":1562619166,
     "wof:name":"Nacascolo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

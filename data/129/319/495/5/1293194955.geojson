@@ -30,11 +30,20 @@
     "name:cat_x_preferred":[
         "Boruques"
     ],
+    "name:deu_x_preferred":[
+        "Boruca"
+    ],
     "name:eng_x_preferred":[
         "Boruca people"
     ],
+    "name:hrv_x_preferred":[
+        "Boruca"
+    ],
     "name:lit_x_preferred":[
         "Borukai"
+    ],
+    "name:spa_x_preferred":[
+        "Borucas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1293194955,
-    "wof:lastmodified":1537618873,
+    "wof:lastmodified":1562617462,
     "wof:name":"Boruca",
     "wof:parent_id":1108693653,
     "wof:placetype":"locality",

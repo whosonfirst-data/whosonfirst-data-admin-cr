@@ -28,6 +28,9 @@
     "name:nob_x_preferred":[
         "Desamparados"
     ],
+    "name:nor_x_preferred":[
+        "Desamparados"
+    ],
     "name:pol_x_preferred":[
         "Desamparados"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421176647,
-    "wof:lastmodified":1561760273,
+    "wof:lastmodified":1562619088,
     "wof:name":"Desamparados",
     "wof:parent_id":421169971,
     "wof:placetype":"locality",

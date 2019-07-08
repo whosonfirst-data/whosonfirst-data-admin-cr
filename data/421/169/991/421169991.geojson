@@ -16,11 +16,20 @@
     "name:bre_x_preferred":[
         "Agua Azul"
     ],
+    "name:cat_x_preferred":[
+        "Cascades de Agua Azul"
+    ],
     "name:dan_x_preferred":[
         "Cataratas de Agua Azul"
     ],
+    "name:dan_x_variant":[
+        "Cascadas de Agua Azul"
+    ],
     "name:deu_x_preferred":[
         "Cataratas de Agua Azul"
+    ],
+    "name:deu_x_variant":[
+        "Cascadas de Agua Azul"
     ],
     "name:fra_x_preferred":[
         "Cascades de Agua Azul"
@@ -33,6 +42,9 @@
     ],
     "name:nor_x_preferred":[
         "Cataratas de Agua Azul"
+    ],
+    "name:nor_x_variant":[
+        "Cascadas de Agua Azul"
     ],
     "name:pol_x_preferred":[
         "Wodospady Agua Azul"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421169991,
-    "wof:lastmodified":1527716164,
+    "wof:lastmodified":1562618536,
     "wof:name":"Agua Azul",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

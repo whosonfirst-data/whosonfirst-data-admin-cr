@@ -26,14 +26,35 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:afr_x_preferred":[
+        "San Jose"
+    ],
+    "name:amh_x_preferred":[
+        "\u1233\u1295 \u1206\u12dc"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:aze_x_preferred":[
+        "San-Xose"
     ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d-\u0425\u0430\u0441\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u0425\u0430\u0441\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
@@ -41,10 +62,19 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de San Jos\u00e9"
     ],
+    "name:cat_x_variant":[
+        "San Jos\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Provincia de San Jos\u00e9"
     ],
+    "name:ceb_x_variant":[
+        "San Jose"
+    ],
     "name:ces_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:cym_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:dan_x_preferred":[
@@ -53,11 +83,23 @@
     "name:deu_x_preferred":[
         "Provinz San Jos\u00e9"
     ],
+    "name:deu_x_variant":[
+        "San Jos\u00e9"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad"
+    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:epo_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:est_x_preferred":[
+        "San Jose"
     ],
     "name:eus_x_preferred":[
         "San Jose"
@@ -66,12 +108,19 @@
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646 \u062e\u0648\u0632\u0647"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u062e\u0648\u0632\u0647"
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0646 \u062e\u0648\u0632\u0647",
+        "\u0633\u0627\u0646 \u062e\u0648\u0632\u0647"
     ],
     "name:fin_x_preferred":[
         "San Jos\u00e9n maakunta"
     ],
+    "name:fin_x_variant":[
+        "San Jos\u00e9"
+    ],
     "name:fra_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:glg_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:guj_x_preferred":[
@@ -86,14 +135,26 @@
     "name:hrv_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:hun_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053d\u0578\u057d\u0565"
+    ],
+    "name:ilo_x_preferred":[
+        "San Jose"
     ],
     "name:ind_x_preferred":[
         "Provinsi San Jos\u00e9"
     ],
+    "name:ind_x_variant":[
+        "San Jose"
+    ],
     "name:ita_x_preferred":[
         "provincia di San Jos\u00e9"
+    ],
+    "name:ita_x_variant":[
+        "San Jos\u00e9"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30db\u30bb"
@@ -104,14 +165,26 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
+    "name:kat_x_variant":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud638\uc138"
     ],
     "name:lav_x_preferred":[
         "Sanhos\u0113 province"
     ],
+    "name:lav_x_variant":[
+        "Sanhos\u0113"
+    ],
     "name:lit_x_preferred":[
         "San Chos\u0117 provincija"
+    ],
+    "name:lit_x_variant":[
+        "San Chos\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u091c\u094b\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -122,14 +195,32 @@
     "name:nah_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:nds_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:nld_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:nld_x_variant":[
+        "San Jose"
+    ],
+    "name:nno_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:nob_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:nor_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
     "name:pol_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:pol_x_variant":[
+        "San Jose"
     ],
     "name:por_x_preferred":[
         "San Jos\u00e9"
@@ -137,14 +228,26 @@
     "name:que_x_preferred":[
         "San Jos\u00e9 pruwinsya"
     ],
+    "name:ron_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
     ],
     "name:sco_x_preferred":[
         "San Jos\u00e9 Province"
     ],
+    "name:sco_x_variant":[
+        "San Jos\u00e9"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0ddc\u0dc3\u0dda \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:sme_x_preferred":[
         "San Jos\u00e9"
@@ -156,10 +259,14 @@
     "name:spa_x_variant":[
         "S Jose",
         "S. Jose",
-        "Sanjose"
+        "Sanjose",
+        "San Jos\u00e9"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
+    ],
+    "name:stq_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:swe_x_preferred":[
         "San Jos\u00e9"
@@ -167,14 +274,23 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd  \u0b9c\u0bcb\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb9\u0bca\u0b9a\u0bc7"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d \u0c1c\u0c4b\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e42\u0e2e\u0e40\u0e0b\u0e48"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e42\u0e06\u0e40\u0e0b"
+    ],
     "name:tur_x_preferred":[
         "San soze Province"
+    ],
+    "name:tur_x_variant":[
+        "San Jose"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
@@ -185,8 +301,14 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0632\u06d2 \u0635\u0648\u0628\u06c1"
     ],
+    "name:vep_x_preferred":[
+        "San Hose"
+    ],
     "name:vie_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:vol_x_preferred":[
+        "San Jose"
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9"
@@ -320,7 +442,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760244,
+    "wof:lastmodified":1562616833,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

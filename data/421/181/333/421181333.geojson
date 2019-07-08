@@ -22,6 +22,9 @@
     "name:deu_x_preferred":[
         "San Ram\u00f3n de Alajuela"
     ],
+    "name:deu_x_variant":[
+        "San Ram\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:ron_x_preferred":[
         "San Ram\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "San Ram\u00f3n"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421181333,
-    "wof:lastmodified":1561760267,
+    "wof:lastmodified":1562618844,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":421167885,
     "wof:placetype":"locality",

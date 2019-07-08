@@ -17,23 +17,44 @@
     "name:ceb_x_preferred":[
         "Quesada"
     ],
+    "name:deu_x_preferred":[
+        "Quesada"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bf\u03c5\u03b4\u03ac\u03b4 \u039a\u03b5\u03c3\u03ac\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Quesada"
     ],
+    "name:eus_x_preferred":[
+        "Quesada"
+    ],
+    "name:fin_x_preferred":[
+        "Quesada"
+    ],
     "name:fra_x_preferred":[
         "Ciudad Quesada"
     ],
+    "name:fra_x_variant":[
+        "Quesada"
+    ],
+    "name:glg_x_preferred":[
+        "Quesada"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d5\u05e1\u05d0\u05d3\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05e1\u05d3\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u057d\u0561\u0564\u0561"
     ],
     "name:ita_x_preferred":[
         "Quesada"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\uc0ac\ub2e4"
     ],
     "name:lit_x_preferred":[
         "Kesada"
@@ -58,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Ciudad Quesada"
+    ],
+    "name:swe_x_variant":[
+        "Quesada"
     ],
     "name:unk_x_variant":[
         "Villa Quesada"
@@ -205,7 +229,7 @@
         }
     ],
     "wof:id":421193173,
-    "wof:lastmodified":1561760260,
+    "wof:lastmodified":1562618513,
     "wof:name":"Quesada",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

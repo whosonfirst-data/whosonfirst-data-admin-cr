@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Upala"
     ],
+    "name:fra_x_preferred":[
+        "Upala"
+    ],
     "name:ita_x_preferred":[
         "Upala"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421194125,
-    "wof:lastmodified":1505340739,
+    "wof:lastmodified":1562618510,
     "wof:name":"Upala",
     "wof:parent_id":421172007,
     "wof:placetype":"localadmin",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.7,10.56667,-85.7,10.56667",
     "geom:latitude":10.56667,
     "geom:longitude":-85.7,
@@ -14,6 +15,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Kasik"
+    ],
+    "name:aze_x_variant":[
+        "Kasike"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u0456\u043a"
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421204145,
-    "wof:lastmodified":1527716182,
+    "wof:lastmodified":1562618571,
     "wof:name":"Cacique",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

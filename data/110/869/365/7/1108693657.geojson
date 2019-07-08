@@ -31,12 +31,18 @@
     "mps:longitude":-84.013722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Goicoechea"
+    ],
     "name:eng_x_preferred":[
         "Goicoechea"
     ],
     "name:eng_x_variant":[
         "Montes De Oca",
         "Montes de Oca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0439\u043a\u043e\u044d\u0447\u0435\u0430"
     ],
     "name:spa_x_preferred":[
         "Goicoechea"
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1108693657,
-    "wof:lastmodified":1555047429,
+    "wof:lastmodified":1562618113,
     "wof:name":"Goicoechea",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

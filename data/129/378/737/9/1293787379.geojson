@@ -27,6 +27,36 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Gato"
+    ],
+    "name:ceb_x_preferred":[
+        "Gato"
+    ],
+    "name:deu_x_preferred":[
+        "Gato"
+    ],
+    "name:glg_x_preferred":[
+        "Gato"
+    ],
+    "name:ita_x_preferred":[
+        "Gato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30c8\u30fc"
+    ],
+    "name:por_x_preferred":[
+        "Gato"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Gato"
+    ],
+    "name:swe_x_preferred":[
+        "Gato"
+    ],
     "name:und_x_variant":[
         "El Gato",
         "Gato"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1293787379,
-    "wof:lastmodified":1537618866,
+    "wof:lastmodified":1562617093,
     "wof:name":"Gato",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

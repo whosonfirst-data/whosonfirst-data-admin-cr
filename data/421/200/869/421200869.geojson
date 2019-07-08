@@ -13,8 +13,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:deu_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:epo_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:ita_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:nds_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:nld_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:pol_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:por_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0431\u043b\u043e-\u041d\u0443\u044d\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0431\u043b\u043e \u041d\u0443\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pueblo Nuevo"
+    ],
     "name:unk_x_variant":[
         "Puerto Nuevo"
+    ],
+    "name:vie_x_preferred":[
+        "Pueblo Nuevo"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -60,7 +105,7 @@
         }
     ],
     "wof:id":421200869,
-    "wof:lastmodified":1501268155,
+    "wof:lastmodified":1562618934,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

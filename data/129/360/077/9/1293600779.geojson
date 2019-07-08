@@ -27,10 +27,19 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "San Pablo Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "San Pablo Viejo"
+    ],
     "name:und_x_variant":[
         "Puerto San Pablo",
         "San Pablo",
         "San Pablo Viejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u5723\u4fdd\u7f57"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293600779,
-    "wof:lastmodified":1537618850,
+    "wof:lastmodified":1562617369,
     "wof:name":"San Pablo Viejo",
     "wof:parent_id":1108693661,
     "wof:placetype":"locality",

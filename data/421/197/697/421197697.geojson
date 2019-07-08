@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bejuco"
+    ],
+    "name:ita_x_preferred":[
+        "Bejuco"
+    ],
+    "name:spa_x_preferred":[
+        "Bejuco"
+    ],
+    "name:swe_x_preferred":[
+        "Bejuco"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3624725,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":421197697,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1562618916,
     "wof:name":"Bejuco",
     "wof:parent_id":1108693661,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Golfito"
+    ],
     "name:deu_x_preferred":[
         "Golfito"
     ],
@@ -58,6 +61,9 @@
         "Golfito"
     ],
     "name:nob_x_preferred":[
+        "Golfito"
+    ],
+    "name:nor_x_preferred":[
         "Golfito"
     ],
     "name:ron_x_preferred":[
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421194697,
-    "wof:lastmodified":1561760259,
+    "wof:lastmodified":1562618508,
     "wof:name":"Golfito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

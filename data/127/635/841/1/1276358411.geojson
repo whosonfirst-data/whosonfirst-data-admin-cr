@@ -27,6 +27,15 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Puerto Viejo de Talamanca"
+    ],
+    "name:lit_x_preferred":[
+        "Talamankos Puerto Vjechas"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Viejo"
+    ],
     "name:spa_x_preferred":[
         "Puerto Viejo de Talamanca"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276358411,
-    "wof:lastmodified":1537503899,
+    "wof:lastmodified":1562617598,
     "wof:name":"Puerto Viejo de Talamanca",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

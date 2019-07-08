@@ -67,6 +67,9 @@
     "name:vol_x_preferred":[
         "Nicoya"
     ],
+    "name:war_x_preferred":[
+        "Nicoya"
+    ],
     "name:zho_x_preferred":[
         "\u5c3c\u79d1\u4e9e"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421201273,
-    "wof:lastmodified":1561760269,
+    "wof:lastmodified":1562618937,
     "wof:name":"Nicoya",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

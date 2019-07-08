@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Desamparados"
     ],
+    "name:fra_x_preferred":[
+        "Desamparados"
+    ],
     "name:ita_x_preferred":[
         "Desamparados"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1553717492,
+    "wof:lastmodified":1562618898,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

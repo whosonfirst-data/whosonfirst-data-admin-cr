@@ -28,6 +28,30 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Avance"
+    ],
+    "name:dan_x_preferred":[
+        "Avance"
+    ],
+    "name:deu_x_preferred":[
+        "Avance"
+    ],
+    "name:fra_x_preferred":[
+        "Avance"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30f3\u30bb"
+    ],
+    "name:pol_x_preferred":[
+        "Avance"
+    ],
+    "name:spa_x_preferred":[
+        "Avance"
+    ],
+    "name:swe_x_preferred":[
+        "Avance"
+    ],
     "name:und_x_variant":[
         "Sitio de Avance",
         "Avance"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1310510323,
-    "wof:lastmodified":1537618875,
+    "wof:lastmodified":1562618314,
     "wof:name":"Avance",
     "wof:parent_id":421189139,
     "wof:placetype":"locality",

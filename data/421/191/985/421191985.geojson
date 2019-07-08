@@ -16,6 +16,9 @@
     "name:ita_x_preferred":[
         "Carate"
     ],
+    "name:lat_x_preferred":[
+        "Carate"
+    ],
     "name:por_x_preferred":[
         "Carate"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421191985,
-    "wof:lastmodified":1527716379,
+    "wof:lastmodified":1562618889,
     "wof:name":"Carate",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

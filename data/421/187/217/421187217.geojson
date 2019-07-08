@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Viejo"
+    ],
     "name:eng_x_preferred":[
         "Puerto Viejo de Sarapiqu\u00ed"
     ],
@@ -35,6 +38,9 @@
         "Puerto Viejo"
     ],
     "name:spa_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:swe_x_preferred":[
         "Puerto Viejo"
     ],
     "qs:gn_country":"CR",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421187217,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1562618662,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":421185329,
     "wof:placetype":"locality",

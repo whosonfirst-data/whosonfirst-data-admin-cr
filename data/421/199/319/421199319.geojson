@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Barbadine"
     ],
+    "name:fra_x_variant":[
+        "Granadilla"
+    ],
     "name:hrv_x_preferred":[
         "Granadilla"
     ],
@@ -35,6 +38,9 @@
         "\u0413\u0440\u0430\u043d\u0430\u0434\u0438\u043b\u044c\u044f"
     ],
     "name:spa_x_preferred":[
+        "Granadilla"
+    ],
+    "name:swe_x_preferred":[
         "Granadilla"
     ],
     "qs:gn_country":"CR",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421199319,
-    "wof:lastmodified":1527716419,
+    "wof:lastmodified":1562618921,
     "wof:name":"Granadilla",
     "wof:parent_id":421203755,
     "wof:placetype":"locality",

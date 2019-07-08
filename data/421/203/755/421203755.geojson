@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Curridabat"
+    ],
     "name:eng_x_preferred":[
         "Curridabat"
     ],
@@ -45,6 +48,9 @@
         "Curridabat"
     ],
     "name:nob_x_preferred":[
+        "Curridabat"
+    ],
+    "name:nor_x_preferred":[
         "Curridabat"
     ],
     "name:pol_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421203755,
-    "wof:lastmodified":1561760262,
+    "wof:lastmodified":1562618584,
     "wof:name":"Curridabat",
     "wof:parent_id":85670391,
     "wof:placetype":"county",
