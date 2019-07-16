@@ -13,19 +13,235 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Paquita"
+    ],
+    "name:arg_x_preferred":[
+        "Paquita"
+    ],
+    "name:ast_x_preferred":[
+        "Paquita"
+    ],
+    "name:bam_x_preferred":[
+        "Paquita"
+    ],
+    "name:bar_x_preferred":[
+        "Paquita"
+    ],
+    "name:bre_x_preferred":[
+        "Paquita"
+    ],
     "name:cat_x_preferred":[
+        "Paquita"
+    ],
+    "name:ces_x_preferred":[
+        "Paquita"
+    ],
+    "name:cos_x_preferred":[
+        "Paquita"
+    ],
+    "name:cym_x_preferred":[
+        "Paquita"
+    ],
+    "name:dan_x_preferred":[
+        "Paquita"
+    ],
+    "name:deu_x_preferred":[
+        "Paquita"
+    ],
+    "name:eng_x_preferred":[
+        "Paquita"
+    ],
+    "name:epo_x_preferred":[
+        "Paquita"
+    ],
+    "name:est_x_preferred":[
+        "Paquita"
+    ],
+    "name:eus_x_preferred":[
+        "Paquita"
+    ],
+    "name:fin_x_preferred":[
         "Paquita"
     ],
     "name:fra_x_preferred":[
         "Paquita"
     ],
+    "name:frc_x_preferred":[
+        "Paquita"
+    ],
+    "name:frp_x_preferred":[
+        "Paquita"
+    ],
+    "name:fur_x_preferred":[
+        "Paquita"
+    ],
+    "name:gla_x_preferred":[
+        "Paquita"
+    ],
+    "name:gle_x_preferred":[
+        "Paquita"
+    ],
+    "name:glg_x_preferred":[
+        "Paquita"
+    ],
+    "name:gsw_x_preferred":[
+        "Paquita"
+    ],
+    "name:hrv_x_preferred":[
+        "Paquita"
+    ],
+    "name:hun_x_preferred":[
+        "Paquita"
+    ],
+    "name:ido_x_preferred":[
+        "Paquita"
+    ],
+    "name:ile_x_preferred":[
+        "Paquita"
+    ],
+    "name:ina_x_preferred":[
+        "Paquita"
+    ],
+    "name:ind_x_preferred":[
+        "Paquita"
+    ],
     "name:ita_x_preferred":[
+        "Paquita"
+    ],
+    "name:jam_x_preferred":[
         "Paquita"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ad\u30fc\u30bf"
     ],
+    "name:kab_x_preferred":[
+        "Paquita"
+    ],
+    "name:kon_x_preferred":[
+        "Paquita"
+    ],
+    "name:lav_x_preferred":[
+        "Paquita"
+    ],
+    "name:lij_x_preferred":[
+        "Paquita"
+    ],
+    "name:lim_x_preferred":[
+        "Paquita"
+    ],
+    "name:lit_x_preferred":[
+        "Paquita"
+    ],
+    "name:ltz_x_preferred":[
+        "Paquita"
+    ],
+    "name:min_x_preferred":[
+        "Paquita"
+    ],
+    "name:mlg_x_preferred":[
+        "Paquita"
+    ],
+    "name:msa_x_preferred":[
+        "Paquita"
+    ],
+    "name:nap_x_preferred":[
+        "Paquita"
+    ],
+    "name:nds_x_preferred":[
+        "Paquita"
+    ],
+    "name:nld_x_preferred":[
+        "Paquita"
+    ],
+    "name:nno_x_preferred":[
+        "Paquita"
+    ],
+    "name:nob_x_preferred":[
+        "Paquita"
+    ],
+    "name:nrm_x_preferred":[
+        "Paquita"
+    ],
+    "name:oci_x_preferred":[
+        "Paquita"
+    ],
+    "name:pap_x_preferred":[
+        "Paquita"
+    ],
+    "name:pcd_x_preferred":[
+        "Paquita"
+    ],
+    "name:pms_x_preferred":[
+        "Paquita"
+    ],
+    "name:pol_x_preferred":[
+        "Paquita"
+    ],
     "name:por_x_preferred":[
+        "Paquita"
+    ],
+    "name:prg_x_preferred":[
+        "Paquita"
+    ],
+    "name:rgn_x_preferred":[
+        "Paquita"
+    ],
+    "name:roh_x_preferred":[
+        "Paquita"
+    ],
+    "name:ron_x_preferred":[
+        "Paquita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0445\u0438\u0442\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Paquita"
+    ],
+    "name:sco_x_preferred":[
+        "Paquita"
+    ],
+    "name:slk_x_preferred":[
+        "Paquita"
+    ],
+    "name:spa_x_preferred":[
+        "Paquita"
+    ],
+    "name:srd_x_preferred":[
+        "Paquita"
+    ],
+    "name:swa_x_preferred":[
+        "Paquita"
+    ],
+    "name:swe_x_preferred":[
+        "Paquita"
+    ],
+    "name:tur_x_preferred":[
+        "Paquita"
+    ],
+    "name:vec_x_preferred":[
+        "Paquita"
+    ],
+    "name:vie_x_preferred":[
+        "Paquita"
+    ],
+    "name:vls_x_preferred":[
+        "Paquita"
+    ],
+    "name:vmf_x_preferred":[
+        "Paquita"
+    ],
+    "name:vol_x_preferred":[
+        "Paquita"
+    ],
+    "name:wln_x_preferred":[
+        "Paquita"
+    ],
+    "name:wol_x_preferred":[
+        "Paquita"
+    ],
+    "name:zul_x_preferred":[
         "Paquita"
     ],
     "qs:gn_country":"CR",
@@ -74,7 +290,7 @@
         }
     ],
     "wof:id":421181021,
-    "wof:lastmodified":1527716328,
+    "wof:lastmodified":1563318690,
     "wof:name":"Paquita",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

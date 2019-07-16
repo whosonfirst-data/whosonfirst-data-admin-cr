@@ -13,10 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "San Ram\u00f3n"
     ],
     "name:ceb_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:cym_x_preferred":[
+        "San Ram\u00f3n"
+    ],
+    "name:dan_x_preferred":[
         "San Ram\u00f3n"
     ],
     "name:deu_x_preferred":[
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421181333,
-    "wof:lastmodified":1561760267,
+    "wof:lastmodified":1563318689,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":421167885,
     "wof:placetype":"locality",

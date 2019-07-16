@@ -12,14 +12,29 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aeropuertu La Managua"
+    ],
     "name:ceb_x_preferred":[
+        "Quepos La Managua Airport"
+    ],
+    "name:eng_x_preferred":[
         "Quepos La Managua Airport"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0626\u067e\u0648\u0633 \u0645\u0627\u0646\u0627\u06af\u0648\u0627"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30dd\u30b9\u30fb\u30de\u30ca\u30b0\u30a2\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang La Managua"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Quepos Managua"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Quepos La Managua"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto La Managua"
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":102537541,
-    "wof:lastmodified":1543792156,
+    "wof:lastmodified":1563318096,
     "wof:name":"Quepos Managua Airport",
     "wof:parent_id":85670385,
     "wof:placetype":"campus",

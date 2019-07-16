@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004614,
-    "geom:area_square_m":56197902.924447,
+    "geom:area_square_m":56197902.924434,
     "geom:bbox":"-84.2329480671,9.90804505521,-84.0539370841,9.9733290088",
     "geom:latitude":9.94244,
     "geom:longitude":-84.132089,
@@ -16,6 +16,9 @@
     "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
     "name:ace_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:arg_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "San Xos\u00e9"
     ],
     "name:aym_x_preferred":[
         "San Jusiy"
@@ -46,17 +55,38 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f53\u0f0b\u0f47\u0f7c\u0f0b\u0f66\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "San Jose"
     ],
+    "name:bre_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
     ],
+    "name:cat_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:cdo_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:ces_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:cym_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:dan_x_preferred":[
         "San Jos\u00e9"
@@ -79,6 +109,9 @@
     "name:eus_x_preferred":[
         "San Jose"
     ],
+    "name:eus_x_variant":[
+        "San Jos\u00e9"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0632\u0647"
     ],
@@ -88,8 +121,26 @@
     "name:fra_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:fry_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:gla_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:glg_x_preferred":[
         "San Xos\u00e9"
+    ],
+    "name:gsw_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0ab9\u0acb\u0ab8\u0ac7"
+    ],
+    "name:hak_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:hat_x_preferred":[
         "San Joz\u00e9"
@@ -100,11 +151,20 @@
     "name:heb_x_variant":[
         "\u05e1\u05df \u05d7\u05d5\u05e1\u05d4"
     ],
+    "name:hif_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0928 \u0939\u094b\u091c\u093c\u0947"
     ],
+    "name:hrv_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:hun_x_preferred":[
         "San Jos\u00e9 de Costa Rica"
+    ],
+    "name:hun_x_variant":[
+        "San Jos\u00e9"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053d\u0578\u057d\u0565"
@@ -112,11 +172,23 @@
     "name:ido_x_preferred":[
         "San Jose"
     ],
+    "name:ile_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:ilo_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:ind_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:isl_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:ita_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:jam_x_preferred":[
+        "San Ose"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30db\u30bb"
@@ -124,11 +196,20 @@
     "name:kaa_x_preferred":[
         "San Xose"
     ],
+    "name:kab_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u200d\u0cb9\u0ccb\u0cb8\u0cc6"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud638\uc138"
+    ],
+    "name:lad_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:lat_x_preferred":[
         "Urbs Sancti Iosephi in Costarica"
@@ -136,8 +217,20 @@
     "name:lav_x_preferred":[
         "Sanhos\u0113"
     ],
+    "name:lij_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:lin_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:lit_x_preferred":[
         "San Chos\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d7b \u0d39\u0d4b\u0d38\u0d46"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u0939\u094b\u091c\u0947"
@@ -145,14 +238,41 @@
     "name:mkd_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0437\u0435"
     ],
+    "name:mlg_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:nah_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:nld_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:nno_x_preferred":[
         "San Jos\u00e9 i Costa Rica"
     ],
+    "name:nob_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:nor_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:nov_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:oci_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:olo_x_preferred":[
+        "San-Hose"
     ],
     "name:oss_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
@@ -163,6 +283,9 @@
     "name:pap_x_preferred":[
         "San Jose"
     ],
+    "name:pms_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646 \u062c\u0648\u0632"
     ],
@@ -170,6 +293,9 @@
         "San Jos\u00e9"
     ],
     "name:por_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:que_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:ron_x_preferred":[
@@ -181,10 +307,28 @@
     "name:sah_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
     ],
+    "name:sco_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0da2\u0ddc\u0dc3\u0dda"
+    ],
     "name:slk_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:slv_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:sme_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:sna_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:sqi_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -196,11 +340,29 @@
     "name:swe_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:szl_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0ba9\u0bcd \u0bb9\u0bca\u0b9a\u0bc7"
     ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c28\u0c4d \u0c39\u0c4b\u0c38\u0c46"
+    ],
+    "name:tgl_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e19\u0e42\u0e2e\u0e40\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e32\u0e19\u0e42\u0e2e\u0e40\u0e0b"
+    ],
+    "name:tuk_x_preferred":[
+        "San Hose"
+    ],
+    "name:tur_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:uig_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0633\u06d0"
@@ -211,10 +373,28 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0632\u06d2\u060c \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u06c1\u0648\u0632\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "San Xose"
+    ],
     "name:vep_x_preferred":[
         "San Hose"
     ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:vol_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u4f55\u585e"
+    ],
+    "name:yor_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:yue_x_preferred":[
@@ -267,7 +447,7 @@
     },
     "wof:country":"CR",
     "wof:created":1459008912,
-    "wof:geomhash":"b7cf249f34d9433f9fee2983ed45011e",
+    "wof:geomhash":"56f6e8f447e004d9634620d8afd90c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -278,7 +458,7 @@
         }
     ],
     "wof:id":421171925,
-    "wof:lastmodified":1552519482,
+    "wof:lastmodified":1563318779,
     "wof:name":"San Jose",
     "wof:parent_id":85670391,
     "wof:placetype":"locality",
@@ -291,7 +471,7 @@
 },
   "bbox": [
     -84.23294806707206,
-    9.908045055209962,
+    9.90804505520996,
     -84.05393708407956,
     9.97332900880462
 ],

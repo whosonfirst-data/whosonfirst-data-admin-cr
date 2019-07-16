@@ -35,6 +35,9 @@
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u0987\u09b8\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Para\u00edso"
+    ],
     "name:deu_x_preferred":[
         "Para\u00edso"
     ],
@@ -45,11 +48,13 @@
         "Paraiso"
     ],
     "name:eng_x_variant":[
-        "Paraiso",
         "Para\u00edso"
     ],
     "name:fra_x_preferred":[
         "Para\u00edso"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d9\u05e1\u05d5"
     ],
     "name:ita_x_preferred":[
         "Para\u00edso"
@@ -147,7 +152,7 @@
         }
     ],
     "wof:id":421182145,
-    "wof:lastmodified":1561760273,
+    "wof:lastmodified":1563318769,
     "wof:name":"Paraiso",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

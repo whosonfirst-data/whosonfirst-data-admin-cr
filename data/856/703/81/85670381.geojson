@@ -53,6 +53,12 @@
     "name:eng_x_preferred":[
         "Lim\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Lim\u00f3n Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Limono"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0645\u0648\u0646"
     ],
@@ -60,6 +66,9 @@
         "Lim\u00f3nin maakunta"
     ],
     "name:fra_x_preferred":[
+        "Lim\u00f3n"
+    ],
+    "name:frr_x_preferred":[
         "Lim\u00f3n"
     ],
     "name:heb_x_preferred":[
@@ -85,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ubaac \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Limon"
     ],
     "name:lit_x_preferred":[
         "Limono provincija"
@@ -117,11 +129,20 @@
         "Limon",
         "Provincia de Lim\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "Lim\u00f3n"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043c\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Lim\u00f3n"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e34\u0e21\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Lim\u00f3n ili"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043c\u043e\u043d"
@@ -266,7 +287,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760244,
+    "wof:lastmodified":1563318177,
     "wof:name":"Lim\u00f3n",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

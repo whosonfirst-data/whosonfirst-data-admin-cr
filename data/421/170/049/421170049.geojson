@@ -50,6 +50,9 @@
     "name:spa_x_preferred":[
         "La Cruz"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af\u5340"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421170049,
-    "wof:lastmodified":1561760271,
+    "wof:lastmodified":1563318736,
     "wof:name":"La Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

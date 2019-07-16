@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
     ],
+    "name:bar_x_preferred":[
+        "Provinz San Jos\u00e9"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043d-\u0425\u0430\u0441\u044d"
     ],
@@ -59,6 +62,12 @@
     "name:eng_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:eng_x_variant":[
+        "San Jos\u00e9 Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco San-Joseo"
+    ],
     "name:eus_x_preferred":[
         "San Jose"
     ],
@@ -72,6 +81,9 @@
         "San Jos\u00e9n maakunta"
     ],
     "name:fra_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:guj_x_preferred":[
@@ -98,6 +110,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30db\u30bb"
     ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30db\u30bb\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c9c\u0ccb\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -106,6 +121,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud638\uc138"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud638\uc138 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "San Jos\u00e9"
     ],
     "name:lav_x_preferred":[
         "Sanhos\u0113 province"
@@ -172,6 +193,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e42\u0e2e\u0e40\u0e0b\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e32\u0e19\u0e42\u0e2e\u0e40\u0e0b"
     ],
     "name:tur_x_preferred":[
         "San soze Province"
@@ -320,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760244,
+    "wof:lastmodified":1563318179,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

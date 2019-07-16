@@ -19,6 +19,9 @@
     "name:nld_x_preferred":[
         "Parismina"
     ],
+    "name:ukr_x_preferred":[
+        "La Suiza"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3622540,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421179981,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1563318766,
     "wof:name":"Parismina",
     "wof:parent_id":421204091,
     "wof:placetype":"locality",

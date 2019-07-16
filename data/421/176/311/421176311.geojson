@@ -13,6 +13,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u062e\u0648\u064a\u0644\u064a\u062a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:deu_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:eng_x_preferred":[
+        "Alajuelita Canton"
+    ],
+    "name:fra_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:hrv_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:nld_x_preferred":[
+        "Alajuelita Canton"
+    ],
+    "name:nob_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0445\u0443\u044d\u043b\u0438\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:swe_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:vie_x_preferred":[
+        "Alajuelita"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u80e1\u57c3\u5229\u5854\u7e23"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3624951,
@@ -60,7 +99,7 @@
         }
     ],
     "wof:id":421176311,
-    "wof:lastmodified":1505340627,
+    "wof:lastmodified":1563318774,
     "wof:name":"Alajuelita",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",

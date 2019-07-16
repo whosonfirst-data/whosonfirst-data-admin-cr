@@ -82,6 +82,9 @@
     "name:ita_x_preferred":[
         "Santa Barbara"
     ],
+    "name:ita_x_variant":[
+        "Santa B\u00e1rbara"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d1\u10d0\u10e0\u10d1\u10d0\u10e0\u10d0"
     ],
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421202609,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318623,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

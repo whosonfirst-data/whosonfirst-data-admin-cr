@@ -31,6 +31,9 @@
     "name:spa_x_preferred":[
         "Playa Dominical"
     ],
+    "name:spa_x_variant":[
+        "Dominical"
+    ],
     "name:unk_x_variant":[
         "Puerto Dominical"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421195483,
-    "wof:lastmodified":1561760258,
+    "wof:lastmodified":1563318576,
     "wof:name":"Dominical",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

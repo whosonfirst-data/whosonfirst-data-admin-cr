@@ -28,6 +28,12 @@
     "name:arz_x_preferred":[
         "\u0627\u0645\u0648\u0646"
     ],
+    "name:arz_x_variant":[
+        "\u0623\u0645\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Am\u00f3n"
+    ],
     "name:aze_x_preferred":[
         "Amon"
     ],
@@ -40,6 +46,9 @@
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f58\u0f7c\u0f53\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f0b\u0f58\u0f7c\u0f53\u200b\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "Amon"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:cat_x_preferred":[
         "Amon"
+    ],
+    "name:cat_x_variant":[
+        "Ammon"
     ],
     "name:ces_x_preferred":[
         "Amon"
@@ -67,8 +79,17 @@
     "name:deu_x_preferred":[
         "Amun"
     ],
+    "name:diq_x_preferred":[
+        "Amon"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03bc\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Amun"
+    ],
+    "name:epo_x_preferred":[
+        "Amon-Reo"
     ],
     "name:est_x_preferred":[
         "Amon"
@@ -87,6 +108,9 @@
     ],
     "name:glg_x_preferred":[
         "Am\u00f3n"
+    ],
+    "name:gsw_x_preferred":[
+        "Amun"
     ],
     "name:hbs_x_preferred":[
         "Amon"
@@ -133,6 +157,9 @@
     "name:lit_x_preferred":[
         "Amonas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2e\u0d41\u0d7b"
+    ],
     "name:mar_x_preferred":[
         "\u0905\u092e\u0941\u0928 \u0930\u093e"
     ],
@@ -148,6 +175,9 @@
     "name:nno_x_preferred":[
         "Amon"
     ],
+    "name:nob_x_preferred":[
+        "Amon"
+    ],
     "name:nor_x_preferred":[
         "Amon"
     ],
@@ -160,8 +190,14 @@
     "name:por_x_preferred":[
         "\u00c1mon"
     ],
+    "name:por_x_variant":[
+        "Amon"
+    ],
     "name:ron_x_preferred":[
         "Amon"
+    ],
+    "name:ron_x_variant":[
+        "Ammon"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u043e\u043d"
@@ -181,8 +217,17 @@
     "name:spa_x_preferred":[
         "Am\u00f3n"
     ],
+    "name:srp_x_preferred":[
+        "Amon"
+    ],
     "name:swe_x_preferred":[
         "Amon"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041e\u043c\u0443\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Amun-Re"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e1e\u0e2d\u0e32\u0e21\u0e2d\u0e19"
@@ -198,6 +243,12 @@
     ],
     "name:vie_x_preferred":[
         "Amun"
+    ],
+    "name:war_x_preferred":[
+        "Amon"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10db\u10dd\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8499"
@@ -223,10 +274,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":3654,
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -248,7 +299,7 @@
         }
     ],
     "wof:id":421185291,
-    "wof:lastmodified":1531858582,
+    "wof:lastmodified":1563318789,
     "wof:name":"Amon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

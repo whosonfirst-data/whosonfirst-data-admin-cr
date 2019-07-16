@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Guanacaste"
     ],
+    "name:eng_x_variant":[
+        "Guanacaste Province"
+    ],
     "name:epo_x_preferred":[
         "Guanacaste"
     ],
@@ -63,6 +66,9 @@
         "Guanacasten maakunta"
     ],
     "name:fra_x_preferred":[
+        "Guanacaste"
+    ],
+    "name:frr_x_preferred":[
         "Guanacaste"
     ],
     "name:guj_x_preferred":[
@@ -97,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uacfc\ub098\uce74\uc2a4\ud14c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Guanacaste"
     ],
     "name:lav_x_preferred":[
         "Gvanakastes province"
@@ -161,11 +170,17 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e27\u0e19\u0e32\u0e04\u0e32\u0e2a\u0e40\u0e15\u0e49"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e31\u0e27\u0e19\u0e32\u0e01\u0e31\u0e2a\u0e40\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Guanacaste Province"
     ],
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0430\u043d\u0430\u043a\u0430\u0441\u0442\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0413\u0443\u0430\u043d\u0430\u043a\u0430\u0441\u0442\u0435"
     ],
     "name:unk_x_variant":[
         "Guanacasti"
@@ -302,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760245,
+    "wof:lastmodified":1563318180,
     "wof:name":"Guanacaste",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

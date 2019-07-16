@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Santa Cruz"
     ],
+    "name:eng_x_variant":[
+        "Santa Cruz District"
+    ],
     "name:ita_x_preferred":[
         "Santa Cruz"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421186389,
-    "wof:lastmodified":1561760266,
+    "wof:lastmodified":1563318680,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

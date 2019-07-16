@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Heredia"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Heredia"
+    ],
     "name:ces_x_preferred":[
         "Heredia"
     ],
@@ -53,6 +56,9 @@
     "name:eng_x_preferred":[
         "Heredia"
     ],
+    "name:eng_x_variant":[
+        "Heredia Province"
+    ],
     "name:eus_x_preferred":[
         "Heredia"
     ],
@@ -65,11 +71,17 @@
     "name:fra_x_preferred":[
         "Heredia"
     ],
+    "name:frr_x_preferred":[
+        "Heredia"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d3\u05d9\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Heredia"
+    ],
+    "name:hun_x_preferred":[
+        "Heredia tartom\u00e1ny"
     ],
     "name:hye_x_preferred":[
         "\u0537\u0580\u0565\u0564\u056b\u0561"
@@ -88,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ub808\ub514\uc544 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Heredia"
     ],
     "name:lit_x_preferred":[
         "Heredijos provincija"
@@ -131,6 +146,12 @@
     ],
     "name:swe_x_preferred":[
         "Heredia"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e40\u0e23\u0e40\u0e14\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Heredia ili"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0435\u0434\u0456\u044f"
@@ -273,7 +294,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760244,
+    "wof:lastmodified":1563318176,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

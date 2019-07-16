@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043f\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Upala"
+    ],
     "name:eng_x_preferred":[
         "Upala"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421172007,
-    "wof:lastmodified":1561760266,
+    "wof:lastmodified":1563318670,
     "wof:name":"Upala",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

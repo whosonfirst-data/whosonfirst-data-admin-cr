@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Pedro"
+    ],
     "name:eng_x_preferred":[
         "San Pedro"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421177449,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1563318743,
     "wof:name":"San Pedro",
     "wof:parent_id":421175409,
     "wof:placetype":"locality",

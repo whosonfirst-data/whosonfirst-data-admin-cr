@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u0442\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Orotina"
+    ],
     "name:deu_x_preferred":[
         "Orotina"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421203757,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318612,
     "wof:name":"Orotina",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
     "name:ron_x_preferred":[
         "Nicoya"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u044f"
+    ],
     "name:spa_x_preferred":[
         "Nicoya"
     ],
@@ -65,6 +68,9 @@
         "\u041d\u0456\u043a\u043e\u044f"
     ],
     "name:vol_x_preferred":[
+        "Nicoya"
+    ],
+    "name:war_x_preferred":[
         "Nicoya"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421201273,
-    "wof:lastmodified":1561760269,
+    "wof:lastmodified":1563318723,
     "wof:name":"Nicoya",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

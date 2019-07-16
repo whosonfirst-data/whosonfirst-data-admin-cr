@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n de Gu\u00e1cimo"
     ],
+    "name:ceb_x_variant":[
+        "Gu\u00e1cimo"
+    ],
     "name:eng_x_preferred":[
         "Gu\u00e1cimo"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Cantone di Gu\u00e1cimo"
+    ],
+    "name:ita_x_variant":[
+        "Gu\u00e1cimo"
     ],
     "name:nld_x_preferred":[
         "Gu\u00e1cimo"
@@ -46,8 +52,14 @@
     "name:spa_x_preferred":[
         "Cant\u00f3n de Gu\u00e1cimo"
     ],
+    "name:spa_x_variant":[
+        "Gu\u00e1cimo"
+    ],
     "name:swe_x_preferred":[
         "Cant\u00f3n de Gu\u00e1cimo"
+    ],
+    "name:swe_x_variant":[
+        "Gu\u00e1cimo"
     ],
     "name:unk_x_variant":[
         "Pocora West"
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":421179395,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1563318764,
     "wof:name":"Pocora",
     "wof:parent_id":421204091,
     "wof:placetype":"locality",

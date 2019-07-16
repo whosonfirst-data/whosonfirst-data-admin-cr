@@ -19,6 +19,9 @@
     "name:ceb_x_preferred":[
         "Cant\u00f3n de Tilar\u00e1n"
     ],
+    "name:ceb_x_variant":[
+        "Tilar\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Tilar\u00e1n"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Cantone di Tilar\u00e1n"
+    ],
+    "name:ita_x_variant":[
+        "Tilar\u00e1n"
     ],
     "name:nob_x_preferred":[
         "Tilar\u00e1n"
@@ -43,8 +49,14 @@
     "name:spa_x_preferred":[
         "Cant\u00f3n de Tilar\u00e1n"
     ],
+    "name:spa_x_variant":[
+        "Tilar\u00e1n"
+    ],
     "name:swe_x_preferred":[
         "Cant\u00f3n de Tilar\u00e1n"
+    ],
+    "name:swe_x_variant":[
+        "Tilar\u00e1n"
     ],
     "name:vie_x_preferred":[
         "Tilar\u00e1n"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421183577,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1563318761,
     "wof:name":"Cuatro Esquinas",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

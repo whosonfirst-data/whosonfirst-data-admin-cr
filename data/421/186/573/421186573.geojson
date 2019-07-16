@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Puntarenas"
     ],
+    "name:ceb_x_preferred":[
+        "Puntarenas"
+    ],
     "name:cym_x_preferred":[
         "Puntarenas"
     ],
@@ -35,6 +38,9 @@
         "\u03a0\u03bf\u03c5\u03bd\u03c4\u03b1\u03c1\u03ad\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Puntarenas"
+    ],
+    "name:eus_x_preferred":[
         "Puntarenas"
     ],
     "name:fin_x_preferred":[
@@ -75,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud47c\ud0c0\ub808\ub098\uc2a4"
+    ],
+    "name:lad_x_preferred":[
+        "Puntarenas"
     ],
     "name:lav_x_preferred":[
         "Puntarenasa"
@@ -135,6 +144,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e31\u0e19\u0e15\u0e32\u0e40\u0e23\u0e19\u0e19\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e38\u0e19\u0e15\u0e32\u0e40\u0e23\u0e19\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Puntarenas"
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":421186573,
-    "wof:lastmodified":1561760266,
+    "wof:lastmodified":1563318678,
     "wof:name":"Puntarenas",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

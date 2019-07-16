@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Tilaran"
     ],
+    "name:eng_x_variant":[
+        "Tilar\u00e1n"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05dc\u05e8\u05d0\u05df"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421182485,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1563318767,
     "wof:name":"Tilar\u00e1n",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Para\u00edso"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d9\u05e1\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Para\u00edso"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421193553,
-    "wof:lastmodified":1561760260,
+    "wof:lastmodified":1563318585,
     "wof:name":"Para\u00edso",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

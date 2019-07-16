@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "La Fortuna"
     ],
+    "name:fin_x_preferred":[
+        "La Fortuna"
+    ],
     "name:fra_x_preferred":[
         "La Fortuna"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421174731,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318625,
     "wof:name":"Fortuna",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",
