@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0440\u0435\u0434\u0438\u044f"
     ],
+    "name:cat_x_preferred":[
+        "Heredia"
+    ],
     "name:ceb_x_preferred":[
         "Heredia"
     ],
@@ -41,10 +44,16 @@
     "name:eng_x_preferred":[
         "Heredia"
     ],
+    "name:eus_x_preferred":[
+        "Heredia"
+    ],
     "name:fin_x_preferred":[
         "Heredia"
     ],
     "name:fra_x_preferred":[
+        "Heredia"
+    ],
+    "name:glg_x_preferred":[
         "Heredia"
     ],
     "name:guj_x_preferred":[
@@ -149,6 +158,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e2e\u0e40\u0e23\u0e40\u0e14\u0e35\u0e22"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e40\u0e23\u0e40\u0e14\u0e35\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Heredia"
     ],
@@ -160,6 +172,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0631\u06cc\u062f\u06cc\u0627\u060c \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0631\u06cc\u062f\u06cc\u0627"
     ],
     "name:vie_x_preferred":[
         "Heredia"
@@ -316,7 +331,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1561760271,
+    "wof:lastmodified":1563318736,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

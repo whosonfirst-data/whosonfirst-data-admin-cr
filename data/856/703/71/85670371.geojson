@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Cartago"
     ],
+    "name:epo_x_preferred":[
+        "Provinco Kartago"
+    ],
     "name:eus_x_preferred":[
         "Cartago"
     ],
@@ -60,6 +63,9 @@
         "Cartagon maakunta"
     ],
     "name:fra_x_preferred":[
+        "Cartago"
+    ],
+    "name:frr_x_preferred":[
         "Cartago"
     ],
     "name:heb_x_preferred":[
@@ -85,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub974\ud0c0\uace0 \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Kartago"
     ],
     "name:lit_x_preferred":[
         "Kartago provincija"
@@ -127,6 +136,12 @@
     ],
     "name:swe_x_preferred":[
         "Cartago"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e23\u0e4c\u0e15\u0e32\u0e42\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Cartago ili"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0430\u0433\u043e"
@@ -269,7 +284,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760248,
+    "wof:lastmodified":1563318185,
     "wof:name":"Cartago",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

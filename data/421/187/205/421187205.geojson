@@ -25,6 +25,9 @@
     "name:unk_x_variant":[
         "Nacascola"
     ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5361\u65af\u79d1\u6d1b\u5340"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3622771,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421187205,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1563318636,
     "wof:name":"Nacascolo",
     "wof:parent_id":421188119,
     "wof:placetype":"locality",

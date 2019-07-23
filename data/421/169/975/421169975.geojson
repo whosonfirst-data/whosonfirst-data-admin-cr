@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Curridabat"
+    ],
     "name:deu_x_preferred":[
         "Montes de Oca"
     ],
@@ -39,8 +42,7 @@
         "Montes De Oca"
     ],
     "name:eng_x_variant":[
-        "Curridabat",
-        "Montes De Oca"
+        "Curridabat"
     ],
     "name:fra_x_preferred":[
         "Curridabat"
@@ -62,6 +64,9 @@
     ],
     "name:spa_x_preferred":[
         "Montes de Oca"
+    ],
+    "name:spa_x_variant":[
+        "Curridabat"
     ],
     "name:swe_x_preferred":[
         "Curridabat"
@@ -132,7 +137,7 @@
         }
     ],
     "wof:id":421169975,
-    "wof:lastmodified":1561760262,
+    "wof:lastmodified":1563318603,
     "wof:name":"Montes De Oca",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

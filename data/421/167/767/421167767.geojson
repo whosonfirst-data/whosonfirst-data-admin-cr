@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Cab\u00e9car"
     ],
+    "name:ceb_x_preferred":[
+        "Tucurrique"
+    ],
     "name:eng_x_preferred":[
         "Tucurrique"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Idioma cab\u00e9car"
+    ],
+    "name:spa_x_variant":[
+        "Tucurrique"
     ],
     "name:swe_x_preferred":[
         "Tucurrique"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421167767,
-    "wof:lastmodified":1561760260,
+    "wof:lastmodified":1563318592,
     "wof:name":"Tucurrique",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:spa_x_preferred":[
         "La Sierpe"
     ],
+    "name:spa_x_variant":[
+        "Sierpe"
+    ],
     "name:zho_x_preferred":[
         "\u897f\u57c3\u723e\u4f69\u5340"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421202819,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318619,
     "wof:name":"Sierpe",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

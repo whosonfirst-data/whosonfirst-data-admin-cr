@@ -39,14 +39,17 @@
         "Tibas"
     ],
     "name:eng_x_variant":[
-        "Tibas",
-        "Tib\u00e1s"
+        "Tib\u00e1s",
+        "Tib\u00e1s Canton"
     ],
     "name:fra_x_preferred":[
         "Tib\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Cantone di Tib\u00e1s"
+    ],
+    "name:nob_x_preferred":[
+        "Tib\u00e1s"
     ],
     "name:nor_x_preferred":[
         "Tib\u00e1s"
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421202607,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318623,
     "wof:name":"Tibas",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

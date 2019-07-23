@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Siquirres"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e7\u05d9\u05e8\u05e1"
+    ],
     "name:ita_x_preferred":[
         "Siquirres"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421176299,
-    "wof:lastmodified":1561760273,
+    "wof:lastmodified":1563318774,
     "wof:name":"Siquirres",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

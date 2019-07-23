@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Palmar Sur"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Palmar Sur"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Palmar Sur"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":102537523,
-    "wof:lastmodified":1561760239,
+    "wof:lastmodified":1563318097,
     "wof:name":"Palmar Sur Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

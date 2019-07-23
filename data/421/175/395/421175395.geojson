@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u062c\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Nicoya"
+    ],
     "name:deu_x_preferred":[
         "Nicoya"
     ],
@@ -68,6 +71,9 @@
     "name:ron_x_preferred":[
         "Nicoya"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u044f"
+    ],
     "name:spa_x_preferred":[
         "Nicoya"
     ],
@@ -78,6 +84,9 @@
         "\u041d\u0456\u043a\u043e\u044f"
     ],
     "name:vol_x_preferred":[
+        "Nicoya"
+    ],
+    "name:war_x_preferred":[
         "Nicoya"
     ],
     "name:zho_x_preferred":[
@@ -143,7 +152,7 @@
         }
     ],
     "wof:id":421175395,
-    "wof:lastmodified":1561760268,
+    "wof:lastmodified":1563318692,
     "wof:name":"Nicoya",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

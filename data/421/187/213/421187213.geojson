@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cahuita"
+    ],
     "name:deu_x_preferred":[
         "Cahuita"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421187213,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1563318641,
     "wof:name":"Puerto Cahuita",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

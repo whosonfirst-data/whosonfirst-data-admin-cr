@@ -32,6 +32,9 @@
     "name:spa_x_preferred":[
         "La Cruz"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af\u5340"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Costa Rica",
     "ne:ADM0_A3":"CRI",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421201139,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1563318727,
     "wof:name":"La Cruz",
     "wof:parent_id":421170049,
     "wof:placetype":"locality",

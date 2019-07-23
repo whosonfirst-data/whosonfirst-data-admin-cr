@@ -35,7 +35,7 @@
     "name:eng_x_preferred":[
         "Desamparados"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Desamparados"
     ],
     "name:ita_x_preferred":[
@@ -44,11 +44,17 @@
     "name:lit_x_preferred":[
         "Desamparadosas"
     ],
+    "name:nob_x_preferred":[
+        "Desamparados"
+    ],
     "name:nor_x_preferred":[
         "Desamparados"
     ],
     "name:pol_x_preferred":[
         "Desamparados"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0441\u0430\u043c\u043f\u0430\u0440\u0430\u0434\u043e\u0441"
     ],
     "name:spa_x_preferred":[
         "Desamparados"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1553717492,
+    "wof:lastmodified":1563318708,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

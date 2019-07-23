@@ -35,7 +35,10 @@
     "name:eng_x_preferred":[
         "Parrita"
     ],
-    "name:eng_x_variant":[
+    "name:nld_x_preferred":[
+        "Parrita"
+    ],
+    "name:nob_x_preferred":[
         "Parrita"
     ],
     "name:nor_x_preferred":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1555047425,
+    "wof:lastmodified":1563318769,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

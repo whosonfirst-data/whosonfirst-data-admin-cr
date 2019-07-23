@@ -31,6 +31,9 @@
     "name:ita_x_preferred":[
         "Jac\u00f3"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30b3"
+    ],
     "name:lit_x_preferred":[
         "Chako"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421174733,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1563318625,
     "wof:name":"Jac\u00f3",
     "wof:parent_id":421204087,
     "wof:placetype":"locality",

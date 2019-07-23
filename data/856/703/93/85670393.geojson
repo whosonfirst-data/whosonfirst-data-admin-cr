@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062e\u0648\u064a\u0644\u0627"
     ],
+    "name:bar_x_preferred":[
+        "Provinz Alajuela"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2\u09be\u099c\u09c1\u09af\u09bc\u09c7\u09b2\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alajuela"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Alajuela"
     ],
     "name:ces_x_preferred":[
         "Alajuela"
@@ -53,6 +59,9 @@
     "name:eng_x_preferred":[
         "Alajuela"
     ],
+    "name:eng_x_variant":[
+        "Alajuela Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Alajuela"
     ],
@@ -66,6 +75,9 @@
         "Alajuelan maakunta"
     ],
     "name:fra_x_preferred":[
+        "Alajuela"
+    ],
+    "name:frr_x_preferred":[
         "Alajuela"
     ],
     "name:guj_x_preferred":[
@@ -100,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub77c\ud6c4\uc5d8\ub77c \uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Alajuela"
     ],
     "name:lav_x_preferred":[
         "Alahvelas province"
@@ -146,6 +161,9 @@
     "name:sme_x_preferred":[
         "Alajuela"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u0644\u0627\u062e\u0648\u064a\u0644\u0627"
+    ],
     "name:spa_x_preferred":[
         "Alajuela"
     ],
@@ -163,6 +181,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e25\u0e32\u0e04\u0e39\u0e40\u0e2d\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e25\u0e32\u0e2e\u0e39\u0e40\u0e2d\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Alajuela Province"
@@ -308,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561760243,
+    "wof:lastmodified":1563318175,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

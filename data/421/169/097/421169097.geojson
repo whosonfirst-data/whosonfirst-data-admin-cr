@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u0627\u062e\u0648\u064a\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Alajuela"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u0430\u0445\u0443\u044d\u043b\u0430"
     ],
@@ -24,6 +27,9 @@
         "\u0986\u09b2\u09be\u099c\u09c1\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
+        "Alajuela"
+    ],
+    "name:ceb_x_preferred":[
         "Alajuela"
     ],
     "name:ces_x_preferred":[
@@ -42,6 +48,9 @@
         "\u0391\u03bb\u03b1\u03c7\u03bf\u03c5\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Alajuela"
+    ],
+    "name:eus_x_preferred":[
         "Alajuela"
     ],
     "name:fas_x_preferred":[
@@ -94,6 +103,9 @@
     ],
     "name:lit_x_preferred":[
         "Alachuela"
+    ],
+    "name:ltz_x_preferred":[
+        "Alajuela"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u093e\u091c\u0941\u0932\u093e"
@@ -149,11 +161,17 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb2\u0bbe\u0b9c\u0bc2\u0baf\u0bc7\u0bb2\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0430\u0445\u0432\u0435\u043b\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c1c\u0c4d\u0c2f\u0c47\u0c32\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e25\u0e32\u0e08\u0e39\u0e25\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e25\u0e32\u0e2e\u0e39\u0e40\u0e2d\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Alajuela"
@@ -318,7 +336,7 @@
         }
     ],
     "wof:id":421169097,
-    "wof:lastmodified":1561760261,
+    "wof:lastmodified":1563318597,
     "wof:name":"Alajuela",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

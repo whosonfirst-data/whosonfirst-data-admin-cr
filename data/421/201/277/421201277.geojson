@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Paquera"
+    ],
     "name:eng_x_preferred":[
         "Paquera"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:por_x_preferred":[
         "Ascens\u00e3o e Queda de um Paquera"
+    ],
+    "name:por_x_variant":[
+        "Paquera"
     ],
     "name:spa_x_preferred":[
         "Paquera"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421201277,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1563318728,
     "wof:name":"Paquera",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",
