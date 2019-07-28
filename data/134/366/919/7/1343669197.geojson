@@ -27,6 +27,15 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Castella d'Or"
+    ],
+    "name:fra_x_preferred":[
+        "Castille d'Or"
+    ],
+    "name:lit_x_preferred":[
+        "Auksin\u0117 Kastilija"
+    ],
     "name:und_x_variant":[
         "Guacimo",
         "Castillo del Oro",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343669197,
-    "wof:lastmodified":1537618871,
+    "wof:lastmodified":1564311875,
     "wof:name":"Castilla de Oro",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

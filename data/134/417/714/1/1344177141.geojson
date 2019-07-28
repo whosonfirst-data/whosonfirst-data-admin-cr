@@ -27,6 +27,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Bustamante"
+    ],
+    "name:spa_x_preferred":[
+        "Bustamante"
+    ],
     "name:und_x_variant":[
         "Alcira",
         "Bustamante"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344177141,
-    "wof:lastmodified":1537618873,
+    "wof:lastmodified":1564311885,
     "wof:name":"Bustamante",
     "wof:parent_id":421190519,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:por_x_preferred":[
         "Nuevo Col\u00f3n"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u044d\u0432\u043e-\u041a\u043e\u043b\u043e\u043d"
+    ],
     "name:sco_x_preferred":[
         "Nuevo Col\u00f3n"
     ],
@@ -42,6 +45,18 @@
     ],
     "name:swe_x_preferred":[
         "Nuevo Col\u00f3n"
+    ],
+    "name:tgl_x_preferred":[
+        "Nuevo Col\u00f3n"
+    ],
+    "name:vie_x_preferred":[
+        "Nuevo Col\u00f3n"
+    ],
+    "name:war_x_preferred":[
+        "Nuevo Col\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u79d1\u9686"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":421187209,
-    "wof:lastmodified":1499977329,
+    "wof:lastmodified":1564312413,
     "wof:name":"Nuevo Col\u00f3n",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

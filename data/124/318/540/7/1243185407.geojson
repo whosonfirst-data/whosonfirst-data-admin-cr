@@ -27,6 +27,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sitio"
+    ],
+    "name:ilo_x_preferred":[
+        "Sitio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1243185407,
-    "wof:lastmodified":1536684787,
+    "wof:lastmodified":1564312613,
     "wof:name":"Sitio",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

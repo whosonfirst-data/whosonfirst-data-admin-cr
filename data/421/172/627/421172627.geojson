@@ -13,6 +13,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bagaces"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d2\u05e1\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Bagaces"
+    ],
+    "name:ita_x_preferred":[
+        "Bagaces"
+    ],
+    "name:nor_x_preferred":[
+        "Bagaces"
+    ],
+    "name:spa_x_preferred":[
+        "Bagaces"
+    ],
+    "name:swe_x_preferred":[
+        "Bagaces"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u52a0\u585e\u65af\u5340"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":421172627,
-    "wof:lastmodified":1499977323,
+    "wof:lastmodified":1564312440,
     "wof:name":"Bagaces",
     "wof:parent_id":421171711,
     "wof:placetype":"localadmin",

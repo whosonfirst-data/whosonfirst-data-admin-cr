@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:nor_x_preferred":[
+        "Parrita"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421189157,
-    "wof:lastmodified":1497044479,
+    "wof:lastmodified":1564312419,
     "wof:name":"Parrita",
     "wof:parent_id":421182071,
     "wof:placetype":"localadmin",

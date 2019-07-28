@@ -27,6 +27,18 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tigra"
+    ],
+    "name:ita_x_preferred":[
+        "Tigra"
+    ],
+    "name:por_x_preferred":[
+        "Tigresa"
+    ],
+    "name:spa_x_preferred":[
+        "Tigra"
+    ],
     "name:und_x_variant":[
         "La Tigra",
         "Tigra"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1360079689,
-    "wof:lastmodified":1537618848,
+    "wof:lastmodified":1564312305,
     "wof:name":"Tigra",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

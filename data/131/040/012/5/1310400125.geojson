@@ -27,6 +27,15 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e1\u10dd-\u10d9\u10d0\u10dc\u10dd\u10d0\u10e1\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "Paso Canoas"
+    ],
+    "name:spa_x_preferred":[
+        "Paso Canoas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310400125,
-    "wof:lastmodified":1537503899,
+    "wof:lastmodified":1564312254,
     "wof:name":"Paso Canoas",
     "wof:parent_id":421189149,
     "wof:placetype":"locality",

@@ -27,6 +27,60 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Canet"
+    ],
+    "name:cat_x_preferred":[
+        "Canet"
+    ],
+    "name:ceb_x_preferred":[
+        "Canet"
+    ],
+    "name:deu_x_preferred":[
+        "Canet"
+    ],
+    "name:fin_x_preferred":[
+        "Canet"
+    ],
+    "name:fra_x_preferred":[
+        "Canet"
+    ],
+    "name:ita_x_preferred":[
+        "Canet"
+    ],
+    "name:nds_x_preferred":[
+        "Canet"
+    ],
+    "name:nld_x_preferred":[
+        "Canet"
+    ],
+    "name:oci_x_preferred":[
+        "Canet"
+    ],
+    "name:pol_x_preferred":[
+        "Canet"
+    ],
+    "name:por_x_preferred":[
+        "Canet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Canet"
+    ],
+    "name:spa_x_preferred":[
+        "Canet"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Canet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +104,7 @@
         }
     ],
     "wof:id":1293903525,
-    "wof:lastmodified":1536684496,
+    "wof:lastmodified":1564311933,
     "wof:name":"Canet",
     "wof:parent_id":421169977,
     "wof:placetype":"locality",

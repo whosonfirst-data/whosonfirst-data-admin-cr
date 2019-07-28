@@ -27,6 +27,147 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:asm_x_preferred":[
+        "\u09a4\u09ac\u09b2\u09be"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09ac\u09b2\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u0924\u092c\u0932\u093e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0431\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Tabla"
+    ],
+    "name:ces_x_preferred":[
+        "Tabla"
+    ],
+    "name:dan_x_preferred":[
+        "Tabla"
+    ],
+    "name:deu_x_preferred":[
+        "Tabla"
+    ],
+    "name:est_x_preferred":[
+        "Tabla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0628\u0644\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Tabla"
+    ],
+    "name:fra_x_preferred":[
+        "Tabla"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0aac\u0ab2\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d1\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u092c\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Tabl\u00e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0562\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Tabla"
+    ],
+    "name:ita_x_preferred":[
+        "Tabla"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d6\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cac\u0cb2\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ube14\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Tabla"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d2c\u0d32"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u092c\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Tabla"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u092c\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Tabla"
+    ],
+    "name:nno_x_preferred":[
+        "Tabla"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b24\u0b2c\u0b32\u0b3e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a2c\u0a32\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Tabla"
+    ],
+    "name:por_x_preferred":[
+        "Tabla"
+    ],
+    "name:pus_x_preferred":[
+        "\u0637\u0628\u0644\u0647"
+    ],
+    "name:que_x_preferred":[
+        "Tabla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0431\u043b\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u0924\u092c\u0932\u093e"
+    ],
+    "name:scn_x_preferred":[
+        "Tabbella"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dad\u0db6\u0dca\u0dbd\u0dcf\u0dc0"
+    ],
+    "name:swe_x_preferred":[
+        "Tabla"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc8\u0bae\u0bcd\u0bae\u0bc1\u0bb0\u0b9a\u0bc1 \u0b87\u0ba3\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c2c\u0c32\u0c3e"
+    ],
+    "name:tur_x_preferred":[
+        "Tabla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0431\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0628\u0644\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Tabla"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e03\u62c9\u9f13"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +191,7 @@
         }
     ],
     "wof:id":1343962003,
-    "wof:lastmodified":1537016988,
+    "wof:lastmodified":1564311833,
     "wof:name":"Tabla",
     "wof:parent_id":421204089,
     "wof:placetype":"locality",

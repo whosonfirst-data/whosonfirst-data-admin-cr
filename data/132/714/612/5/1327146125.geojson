@@ -27,10 +27,16 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Curuband\u00e9"
+    ],
     "name:und_x_variant":[
         "Curaband\u00ed",
         "Hacienda Curubande",
         "Curuband\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u9b6f\u73ed\u5fb7\u5fb7\u5229\u97cb\u91cc\u4e9e\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1327146125,
-    "wof:lastmodified":1537618869,
+    "wof:lastmodified":1564311758,
     "wof:name":"Curubande",
     "wof:parent_id":421188119,
     "wof:placetype":"locality",

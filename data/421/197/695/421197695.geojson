@@ -16,6 +16,9 @@
     "name:fra_x_preferred":[
         "Cabuya"
     ],
+    "name:ita_x_preferred":[
+        "Cabuya"
+    ],
     "name:spa_x_preferred":[
         "Cabuya"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421197695,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1564312472,
     "wof:name":"Cabuya",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

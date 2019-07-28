@@ -27,6 +27,36 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Samin"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101men"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Samen"
+    ],
+    "name:mlg_x_preferred":[
+        "Samen"
+    ],
+    "name:msa_x_preferred":[
+        "Samen"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0101men"
+    ],
+    "name:tur_x_preferred":[
+        "Samen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1327347673,
-    "wof:lastmodified":1536803047,
+    "wof:lastmodified":1564311774,
     "wof:name":"Samen",
     "wof:parent_id":421204093,
     "wof:placetype":"locality",

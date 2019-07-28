@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7174437.583701,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.044355,9.922013,-84.044355,9.922013",
     "geom:latitude":9.922013,
     "geom:longitude":-84.044355,
@@ -24,11 +24,50 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Pradera"
+    ],
+    "name:deu_x_preferred":[
+        "Pradera"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u062f\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pradera"
+    ],
+    "name:ita_x_preferred":[
+        "Pradera"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d0\u10d3\u10d4\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Pradera"
+    ],
+    "name:nld_x_preferred":[
+        "Pradera"
+    ],
+    "name:sco_x_preferred":[
+        "Pradera"
+    ],
     "name:spa_x_preferred":[
+        "Pradera"
+    ],
+    "name:swe_x_preferred":[
         "Pradera"
     ],
     "name:unk_x_variant":[
         "Pradera"
+    ],
+    "name:vie_x_preferred":[
+        "Pradera"
+    ],
+    "name:war_x_preferred":[
+        "Pradera"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5fb7\u62c9"
     ],
     "qs:gn_adm0_cc":"CR",
     "qs:gn_id":0,
@@ -60,10 +99,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421203755,
-        85670391
+        421203755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +125,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859046,
+    "wof:lastmodified":1564311912,
     "wof:name":"Pradera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

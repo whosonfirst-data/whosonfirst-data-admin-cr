@@ -27,6 +27,21 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pavones"
+    ],
+    "name:epo_x_preferred":[
+        "Pavono"
+    ],
+    "name:eus_x_preferred":[
+        "Pavones"
+    ],
+    "name:por_x_preferred":[
+        "Pavones"
+    ],
+    "name:spa_x_preferred":[
+        "Pavones"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1225846729,
-    "wof:lastmodified":1537011522,
+    "wof:lastmodified":1564312765,
     "wof:name":"Pavones",
     "wof:parent_id":1108693661,
     "wof:placetype":"locality",

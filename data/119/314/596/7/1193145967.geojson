@@ -27,6 +27,30 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palmital"
+    ],
+    "name:ita_x_preferred":[
+        "Palmital"
+    ],
+    "name:nld_x_preferred":[
+        "Palmital"
+    ],
+    "name:nor_x_preferred":[
+        "Palmital"
+    ],
+    "name:por_x_preferred":[
+        "Palmital"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u0442\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Palmital"
+    ],
+    "name:vol_x_preferred":[
+        "Palmital"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1193145967,
-    "wof:lastmodified":1536383354,
+    "wof:lastmodified":1564312198,
     "wof:name":"Palmital",
     "wof:parent_id":1108693655,
     "wof:placetype":"locality",

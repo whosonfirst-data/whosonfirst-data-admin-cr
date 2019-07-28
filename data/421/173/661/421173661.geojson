@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "S\u00e1balo"
+    ],
     "name:spa_x_preferred":[
+        "S\u00e1balo"
+    ],
+    "name:swe_x_preferred":[
         "S\u00e1balo"
     ],
     "qs:gn_country":"CR",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":421173661,
-    "wof:lastmodified":1527716256,
+    "wof:lastmodified":1564312415,
     "wof:name":"S\u00e1balo",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

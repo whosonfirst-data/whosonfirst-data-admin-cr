@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242779681,
-    "wof:lastmodified":1537503899,
+    "wof:lastmodified":1564312605,
     "wof:name":"Playa Grande",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

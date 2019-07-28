@@ -15,6 +15,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tejar"
+    ],
+    "name:swe_x_preferred":[
+        "Tejar"
+    ],
     "qs:name":"Tejar",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":890441009,
-    "wof:lastmodified":1527727228,
+    "wof:lastmodified":1564312535,
     "wof:name":"Tejar",
     "wof:parent_id":421167827,
     "wof:placetype":"locality",
