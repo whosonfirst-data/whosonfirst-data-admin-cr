@@ -28,6 +28,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La flor"
+    ],
     "name:und_x_variant":[
         "Hacienda La Flor",
         "La Flor"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327440445,
-    "wof:lastmodified":1537618862,
+    "wof:lastmodified":1564311819,
     "wof:name":"La Flor",
     "wof:parent_id":421172003,
     "wof:placetype":"locality",

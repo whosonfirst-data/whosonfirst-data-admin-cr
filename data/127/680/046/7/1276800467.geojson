@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Muelle"
+    ],
     "name:und_x_variant":[
         "El Muelle",
         "Muelle"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276800467,
-    "wof:lastmodified":1537618858,
+    "wof:lastmodified":1564312041,
     "wof:name":"Muelle",
     "wof:parent_id":421185329,
     "wof:placetype":"locality",

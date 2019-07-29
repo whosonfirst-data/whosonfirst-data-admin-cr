@@ -27,17 +27,32 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tamarindo"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0574\u0561\u0580\u056b\u0576\u0564\u0578"
     ],
+    "name:ita_x_preferred":[
+        "Tamarindo"
+    ],
     "name:lit_x_preferred":[
         "Tamarindas"
+    ],
+    "name:nor_x_preferred":[
+        "Tamarindo"
     ],
     "name:por_x_preferred":[
         "Playa Tamarindo"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0440\u0438\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tamarindo"
+    ],
+    "name:vie_x_preferred":[
+        "Tamarindo"
     ],
     "name:zho_x_preferred":[
         "\u5854\u99ac\u6797\u591a\u5340"
@@ -66,7 +81,7 @@
         }
     ],
     "wof:id":1226344201,
-    "wof:lastmodified":1537618877,
+    "wof:lastmodified":1564312704,
     "wof:name":"Tamarindo",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

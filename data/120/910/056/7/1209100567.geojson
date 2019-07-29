@@ -27,6 +27,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ario"
+    ],
+    "name:swe_x_preferred":[
+        "Ario"
+    ],
     "name:und_x_variant":[
         "Boca de Ario",
         "Ario Oeste",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209100567,
-    "wof:lastmodified":1537618875,
+    "wof:lastmodified":1564312183,
     "wof:name":"Ario",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

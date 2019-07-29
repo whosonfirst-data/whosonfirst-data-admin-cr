@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2332622.683967,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.138892,9.956891,-84.138892,9.956891",
     "geom:latitude":9.956891,
     "geom:longitude":-84.138892,
@@ -24,6 +24,48 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:glg_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u053f\u0561\u057f\u0561\u056c\u056b\u0576\u0561"
+    ],
+    "name:ilo_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\uce74\ud0c8\ub9ac\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Catalina"
+    ],
     "name:spa_x_preferred":[
         "Santa Catalina"
     ],
@@ -31,7 +73,16 @@
         "Sta Catalina",
         "Sta. Catalina"
     ],
+    "name:swe_x_preferred":[
+        "Santa Catalina"
+    ],
     "name:unk_x_variant":[
+        "Santa Catalina"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:war_x_preferred":[
         "Santa Catalina"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -64,10 +115,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +141,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859054,
+    "wof:lastmodified":1564311911,
     "wof:name":"Santa Catalina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -28,6 +28,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Chorro"
+    ],
+    "name:spa_x_preferred":[
+        "Chorro"
+    ],
     "name:und_x_variant":[
         "El Chorro",
         "Chorro"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360192199,
-    "wof:lastmodified":1537618871,
+    "wof:lastmodified":1564312330,
     "wof:name":"Chorro",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

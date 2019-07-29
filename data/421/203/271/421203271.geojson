@@ -44,6 +44,9 @@
     "name:arg_x_preferred":[
         "Moravia"
     ],
+    "name:ast_x_preferred":[
+        "Moravia"
+    ],
     "name:aze_x_preferred":[
         "Moraviya"
     ],
@@ -51,9 +54,6 @@
         "M\u00e4hrn"
     ],
     "name:bel_x_preferred":[
-        "\u041c\u0430\u0440\u0430\u0432\u0456\u044f"
-    ],
-    "name:bel_x_variant":[
         "\u041c\u0430\u0440\u0430\u0432\u0456\u044f"
     ],
     "name:ben_x_preferred":[
@@ -173,6 +173,9 @@
     "name:lit_x_preferred":[
         "Moravija"
     ],
+    "name:lmo_x_preferred":[
+        "Muravia"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0438\u0458\u0430"
     ],
@@ -206,8 +209,14 @@
     "name:por_x_preferred":[
         "Mor\u00e1via"
     ],
+    "name:que_x_preferred":[
+        "Murawya"
+    ],
     "name:ron_x_preferred":[
         "Moravia"
+    ],
+    "name:rue_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u0430"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0430\u0432\u0438\u044f"
@@ -239,6 +248,9 @@
     "name:tgl_x_preferred":[
         "Morabya"
     ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e2d\u0e40\u0e23\u0e40\u0e27\u0e35\u0e22"
+    ],
     "name:tur_x_preferred":[
         "Moravya"
     ],
@@ -250,6 +262,9 @@
     ],
     "name:uzb_x_preferred":[
         "Moraviya"
+    ],
+    "name:vec_x_preferred":[
+        "Moravia"
     ],
     "name:vie_x_preferred":[
         "Morava"
@@ -321,7 +336,7 @@
         }
     ],
     "wof:id":421203271,
-    "wof:lastmodified":1553717567,
+    "wof:lastmodified":1564312392,
     "wof:name":"Moravia",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:nor_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Viejo"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3622239,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":421173659,
-    "wof:lastmodified":1527716256,
+    "wof:lastmodified":1564312415,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

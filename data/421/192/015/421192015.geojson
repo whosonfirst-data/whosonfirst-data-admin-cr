@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Zapat\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "Zapat\u00f3n"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3621019,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":421192015,
-    "wof:lastmodified":1499977154,
+    "wof:lastmodified":1564312358,
     "wof:name":"Zapat\u00f3n",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

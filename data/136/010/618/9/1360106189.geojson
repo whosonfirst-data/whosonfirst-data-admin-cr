@@ -27,6 +27,18 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Volcan"
+    ],
+    "name:deu_x_preferred":[
+        "Volcan"
+    ],
+    "name:spa_x_preferred":[
+        "Volc\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Volcan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1360106189,
-    "wof:lastmodified":1536915706,
+    "wof:lastmodified":1564312329,
     "wof:name":"Volcan",
     "wof:parent_id":1108693653,
     "wof:placetype":"locality",

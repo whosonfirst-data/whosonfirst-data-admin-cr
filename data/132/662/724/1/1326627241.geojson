@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0442\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1326627241,
-    "wof:lastmodified":1536845960,
+    "wof:lastmodified":1564311811,
     "wof:name":"Dantas",
     "wof:parent_id":421179213,
     "wof:placetype":"locality",

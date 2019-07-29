@@ -13,6 +13,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u062c\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Nicoya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03ba\u03cc\u03b3\u03b9\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Nicoya"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u0575\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Nicoya"
+    ],
+    "name:lit_x_preferred":[
+        "Nikoja"
+    ],
+    "name:nor_x_preferred":[
+        "Nicoya"
+    ],
+    "name:ron_x_preferred":[
+        "Nicoya"
+    ],
+    "name:spa_x_preferred":[
+        "Nicoya"
+    ],
+    "name:swe_x_preferred":[
+        "Nicoya"
+    ],
+    "name:vol_x_preferred":[
+        "Nicoya"
+    ],
+    "name:war_x_preferred":[
+        "Nicoya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u79d1\u4e9e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +98,7 @@
         }
     ],
     "wof:id":421195577,
-    "wof:lastmodified":1499977324,
+    "wof:lastmodified":1564312367,
     "wof:name":"Nicoya",
     "wof:parent_id":421175395,
     "wof:placetype":"localadmin",

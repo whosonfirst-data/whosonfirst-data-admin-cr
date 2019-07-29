@@ -28,6 +28,18 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Erretana"
+    ],
+    "name:eus_x_preferred":[
+        "Erretana"
+    ],
+    "name:fra_x_preferred":[
+        "Erretana"
+    ],
+    "name:spa_x_preferred":[
+        "Retana"
+    ],
     "name:und_x_variant":[
         "Hacienda F. Retana",
         "Retana"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276964723,
-    "wof:lastmodified":1537618853,
+    "wof:lastmodified":1564312089,
     "wof:name":"Retana",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

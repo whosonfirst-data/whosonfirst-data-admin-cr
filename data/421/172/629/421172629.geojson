@@ -13,6 +13,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cahuita"
+    ],
+    "name:deu_x_preferred":[
+        "Cahuita"
+    ],
+    "name:ita_x_preferred":[
+        "Cahuita"
+    ],
+    "name:lit_x_preferred":[
+        "Kahuita"
+    ],
+    "name:nld_x_preferred":[
+        "Cahuita"
+    ],
+    "name:nor_x_preferred":[
+        "Cahuita"
+    ],
+    "name:swe_x_preferred":[
+        "Cahuita"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":421172629,
-    "wof:lastmodified":1499976260,
+    "wof:lastmodified":1564312440,
     "wof:name":"Cahuita",
     "wof:parent_id":421185333,
     "wof:placetype":"localadmin",

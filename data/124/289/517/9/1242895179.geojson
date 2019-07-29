@@ -27,6 +27,87 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062a\u064a\u062f\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Artieda"
+    ],
+    "name:ast_x_preferred":[
+        "Artieda"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u062f\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Artieda"
+    ],
+    "name:ceb_x_preferred":[
+        "Artieda"
+    ],
+    "name:deu_x_preferred":[
+        "Artieda"
+    ],
+    "name:eus_x_preferred":[
+        "Artieda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Artieda"
+    ],
+    "name:glg_x_preferred":[
+        "Artieda"
+    ],
+    "name:hun_x_preferred":[
+        "Artieda"
+    ],
+    "name:ita_x_preferred":[
+        "Artieda"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0440\u0442\u044c\u0435\u0434\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Artieda"
+    ],
+    "name:nld_x_preferred":[
+        "Artieda"
+    ],
+    "name:oci_x_preferred":[
+        "Artieda"
+    ],
+    "name:pol_x_preferred":[
+        "Artieda"
+    ],
+    "name:por_x_preferred":[
+        "Artieda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u044c\u0435\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Artieda"
+    ],
+    "name:swe_x_preferred":[
+        "Artieda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0442\u044c\u0454\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Artieda"
+    ],
+    "name:vie_x_preferred":[
+        "Artieda"
+    ],
+    "name:war_x_preferred":[
+        "Artieda"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u94c1\u8fbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1242895179,
-    "wof:lastmodified":1536603176,
+    "wof:lastmodified":1564312560,
     "wof:name":"Artieda",
     "wof:parent_id":421188117,
     "wof:placetype":"locality",

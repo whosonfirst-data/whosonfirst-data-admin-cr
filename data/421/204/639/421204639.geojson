@@ -16,13 +16,22 @@
     "name:cat_x_preferred":[
         "Corredor"
     ],
+    "name:ceb_x_preferred":[
+        "Corredor"
+    ],
     "name:glg_x_preferred":[
         "Corredor"
     ],
     "name:ita_x_preferred":[
         "Corredor"
     ],
+    "name:por_x_preferred":[
+        "Corredor"
+    ],
     "name:spa_x_preferred":[
+        "Corredor"
+    ],
+    "name:swe_x_preferred":[
         "Corredor"
     ],
     "qs:gn_country":"CR",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":421204639,
-    "wof:lastmodified":1527716186,
+    "wof:lastmodified":1564312384,
     "wof:name":"Corredor",
     "wof:parent_id":421189149,
     "wof:placetype":"locality",

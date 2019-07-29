@@ -27,6 +27,15 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Frailes"
+    ],
+    "name:ita_x_preferred":[
+        "Frailes"
+    ],
+    "name:swe_x_preferred":[
+        "Frailes"
+    ],
     "name:und_x_variant":[
         "Los Frailes",
         "Frailes"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310402635,
-    "wof:lastmodified":1537618866,
+    "wof:lastmodified":1564312255,
     "wof:name":"Frailes",
     "wof:parent_id":421190519,
     "wof:placetype":"locality",

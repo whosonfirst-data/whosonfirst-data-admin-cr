@@ -27,9 +27,21 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pavas"
+    ],
+    "name:nor_x_preferred":[
+        "Pavas"
+    ],
+    "name:spa_x_preferred":[
+        "Pavas"
+    ],
     "name:und_x_variant":[
         "Las Pavas",
         "Pavas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u74e6\u65af\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1260268563,
-    "wof:lastmodified":1537618856,
+    "wof:lastmodified":1564312224,
     "wof:name":"Pavas",
     "wof:parent_id":421199285,
     "wof:placetype":"locality",

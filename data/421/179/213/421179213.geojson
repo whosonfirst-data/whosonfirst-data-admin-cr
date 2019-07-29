@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Mora"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mora"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:hbs_x_preferred":[
         "Mora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d4"
     ],
     "name:hun_x_preferred":[
         "Mora"
@@ -137,6 +143,9 @@
     "name:vol_x_preferred":[
         "Mora"
     ],
+    "name:zho_x_preferred":[
+        "Mora"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":421179213,
-    "wof:lastmodified":1553717374,
+    "wof:lastmodified":1564312513,
     "wof:name":"Mora",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

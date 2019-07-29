@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pital"
+    ],
     "name:fra_x_preferred":[
         "El Pital"
     ],
@@ -33,6 +36,12 @@
     ],
     "name:spa_x_preferred":[
         "El Pital"
+    ],
+    "name:spa_x_variant":[
+        "Pital"
+    ],
+    "name:swe_x_preferred":[
+        "Pital"
     ],
     "name:tgl_x_preferred":[
         "Pital"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421193557,
-    "wof:lastmodified":1527716139,
+    "wof:lastmodified":1564312370,
     "wof:name":"Pital",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

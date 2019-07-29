@@ -28,6 +28,12 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Inocentes"
+    ],
+    "name:por_x_preferred":[
+        "Inocentes"
+    ],
     "name:und_x_variant":[
         "Hacienda Los Inocentes",
         "Los Inocentes",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343773783,
-    "wof:lastmodified":1537618863,
+    "wof:lastmodified":1564311850,
     "wof:name":"Inocentes",
     "wof:parent_id":421170049,
     "wof:placetype":"locality",

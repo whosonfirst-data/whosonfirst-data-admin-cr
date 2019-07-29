@@ -27,6 +27,9 @@
     "iso:country":"CR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Birri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1276156415,
-    "wof:lastmodified":1537015139,
+    "wof:lastmodified":1564312075,
     "wof:name":"Birri",
     "wof:parent_id":421202609,
     "wof:placetype":"locality",
