@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HE"
+    ],
     "lbl:latitude":10.444949,
     "lbl:longitude":-84.016703,
     "meso:name_local":"Heredia",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85670375,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318176,
+    "wof:lastmodified":1565670765,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

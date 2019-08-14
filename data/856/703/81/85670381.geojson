@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":9.627224,
     "lbl:longitude":-83.159816,
     "meso:name_local":"Lim\u00f3n",
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85670381,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318177,
+    "wof:lastmodified":1565670765,
     "wof:name":"Lim\u00f3n",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PU"
+    ],
     "lbl:latitude":8.991904,
     "lbl:longitude":-83.244295,
     "meso:name_local":"Puntarenas",
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85670385,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318182,
+    "wof:lastmodified":1565670767,
     "wof:name":"Puntarenas",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

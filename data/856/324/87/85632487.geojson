@@ -15,6 +15,9 @@
     "itu:country_code":[
         "506"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":10.068183,
     "lbl:longitude":-84.028584,
     "mps:latitude":10.068183,
@@ -956,16 +959,13 @@
         }
     ],
     "wof:id":85632487,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318174,
+    "wof:lastmodified":1565670764,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

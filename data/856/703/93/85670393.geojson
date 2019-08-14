@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":10.633955,
     "lbl:longitude":-84.496991,
     "meso:name_local":"Alajuela",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85670393,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318175,
+    "wof:lastmodified":1565670764,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

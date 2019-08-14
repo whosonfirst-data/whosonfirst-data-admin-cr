@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":10.538902,
     "lbl:longitude":-85.293648,
     "meso:name_local":"Guanacaste",
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85670399,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318180,
+    "wof:lastmodified":1565670766,
     "wof:name":"Guanacaste",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

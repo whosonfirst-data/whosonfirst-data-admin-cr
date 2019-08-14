@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SJ"
+    ],
     "lbl:latitude":9.784326,
     "lbl:longitude":-84.233914,
     "meso:name_local":"San Jos\u00e9",
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85670391,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318179,
+    "wof:lastmodified":1565670765,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

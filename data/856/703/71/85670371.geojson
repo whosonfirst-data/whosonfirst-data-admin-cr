@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":9.790708,
     "lbl:longitude":-83.677246,
     "meso:name_local":"Cartago",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85670371,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563318185,
+    "wof:lastmodified":1565670769,
     "wof:name":"Cartago",
     "wof:parent_id":85632487,
     "wof:placetype":"region",
