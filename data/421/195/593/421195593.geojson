@@ -10,8 +10,12 @@
     "geom:latitude":9.979369,
     "geom:longitude":-84.16951,
     "iso:country":"CR",
+    "lbl:bbox":"-84.26951,9.879369,-84.06951,10.079369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Rafael"
@@ -113,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809238,
-        "qs:id":115786
+        "qs_pg:id":115786
     },
     "wof:country":"CR",
     "wof:created":1459009853,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421195593,
-    "wof:lastmodified":1564312363,
+    "wof:lastmodified":1566708848,
     "wof:name":"San Rafael",
     "wof:parent_id":421197833,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":10.21588,
     "geom:longitude":-83.78661,
     "iso:country":"CR",
+    "lbl:bbox":"-83.80661,10.19588,-83.76661,10.23588",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gu\u00e1piles"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3623580,
         "gp:id":58405,
-        "qs:id":488988,
+        "qs_pg:id":488988,
         "wd:id":"Q3780111"
     },
     "wof:country":"CR",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421173025,
-    "wof:lastmodified":1563318646,
+    "wof:lastmodified":1566708865,
     "wof:name":"Gu\u00e1piles",
     "wof:parent_id":421171355,
     "wof:placetype":"locality",

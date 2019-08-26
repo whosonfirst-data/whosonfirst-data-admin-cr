@@ -10,8 +10,12 @@
     "geom:latitude":10.34511,
     "geom:longitude":-85.73394,
     "iso:country":"CR",
+    "lbl:bbox":"-85.75394,10.32511,-85.71394,10.36511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3622310,
         "gp:id":59093,
-        "qs:id":1095782
+        "qs_pg:id":1095782
     },
     "wof:country":"CR",
     "wof:created":1459009548,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421188375,
-    "wof:lastmodified":1499977330,
+    "wof:lastmodified":1566708871,
     "wof:name":"Portegolpe",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

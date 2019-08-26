@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2078404.23031,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.10759,9.937057,-84.10759,9.937057",
     "geom:latitude":9.937057,
     "geom:longitude":-84.10759,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.11259,9.932057,-84.10259,9.942057",
     "lbl:latitude":9.937057,
     "lbl:longitude":-84.10759,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.935493,
     "mps:longitude":-84.111163,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Rohrmoser"
-    ],
-    "name:unk_x_variant":[
         "Rohrmoser"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723816,
-        "qs:id":986127
+        "qs_pg:id":986127
     },
     "wof:country":"CR",
     "wof:geomhash":"cbaaf4abe5ab59e1d1a8097b6a36ca45",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859056,
+    "wof:lastmodified":1566708751,
     "wof:name":"Rohrmoser",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

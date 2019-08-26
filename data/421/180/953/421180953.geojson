@@ -10,8 +10,12 @@
     "geom:latitude":10.49557,
     "geom:longitude":-84.55206,
     "iso:country":"CR",
+    "lbl:bbox":"-84.57206,10.47557,-84.53206,10.51557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "San Crist\u00f3bal"
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":3621933,
         "gp:id":59351,
-        "qs:id":468282
+        "qs_pg:id":468282
     },
     "wof:country":"CR",
     "wof:created":1459009277,
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":421180953,
-    "wof:lastmodified":1564312402,
+    "wof:lastmodified":1566708862,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

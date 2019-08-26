@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.80649,10.41095,-85.76649,10.45095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Playa Flamingo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327439049,
-    "wof:lastmodified":1537618877,
+    "wof:lastmodified":1566708733,
     "wof:name":"Playa Flamingo",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

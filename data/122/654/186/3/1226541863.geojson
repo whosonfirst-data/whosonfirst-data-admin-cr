@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.57,11.06333,-85.53,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Garita"
     ],
@@ -38,8 +42,7 @@
         "Garita"
     ],
     "name:und_x_variant":[
-        "La Garita",
-        "Garita"
+        "La Garita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1226541863,
-    "wof:lastmodified":1564312760,
+    "wof:lastmodified":1566708943,
     "wof:name":"Garita",
     "wof:parent_id":421170049,
     "wof:placetype":"locality",

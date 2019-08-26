@@ -10,8 +10,12 @@
     "geom:latitude":10.45422,
     "geom:longitude":-84.95488,
     "iso:country":"CR",
+    "lbl:bbox":"-84.97488,10.43422,-84.93488,10.47422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Pedro Lombardia"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3623020,
         "gp:id":58697,
-        "qs:id":211043,
+        "qs_pg:id":211043,
         "wd:id":"Q6069330"
     },
     "wof:country":"CR",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421169545,
-    "wof:lastmodified":1563318600,
+    "wof:lastmodified":1566708854,
     "wof:name":"Lombard\u00eda",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

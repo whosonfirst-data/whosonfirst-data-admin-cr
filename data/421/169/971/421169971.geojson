@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.964052,
     "lbl:longitude":-84.527776,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alajuela",
     "meso:dissme":"SAN MATEOALAJUELA",
     "meso:gadm_admin":"San Mateo",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.527776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0442\u0435\u043e"
@@ -130,9 +133,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"126",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Mateo",
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gp:id":26808845,
         "hasc:id":"CR.AL.SM",
-        "qs:id":772731,
+        "qs_pg:id":772731,
         "wd:id":"Q3029861"
     },
     "wof:country":"CR",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421169971,
-    "wof:lastmodified":1561760261,
+    "wof:lastmodified":1566708854,
     "wof:name":"San Mateo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

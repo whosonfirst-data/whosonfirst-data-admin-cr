@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.072148,
     "lbl:longitude":-84.146052,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"SANTA BARBARAHEREDIA",
     "meso:gadm_admin":"Santa B\u00e1rbara",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.146052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
@@ -167,9 +170,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"53",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Santa B\u00e1rbara",
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gp:id":26808850,
         "hasc:id":"CR.HE.SB",
-        "qs:id":224851,
+        "qs_pg:id":224851,
         "wd:id":"Q3948934"
     },
     "wof:country":"CR",
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421202609,
-    "wof:lastmodified":1563318623,
+    "wof:lastmodified":1566708861,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

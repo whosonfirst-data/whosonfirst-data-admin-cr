@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.36893,9.83838,-84.32893,9.87838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Barbacoas"
     ],
@@ -40,8 +44,7 @@
         "Barbacoas"
     ],
     "name:und_x_variant":[
-        "San Isidro",
-        "Barbacoas"
+        "San Isidro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310487113,
-    "wof:lastmodified":1564312237,
+    "wof:lastmodified":1566708822,
     "wof:name":"Barbacoas",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

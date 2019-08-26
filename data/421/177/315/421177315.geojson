@@ -10,8 +10,12 @@
     "geom:latitude":8.82079,
     "geom:longitude":-82.97092,
     "iso:country":"CR",
+    "lbl:bbox":"-82.99092,8.80079,-82.95092,8.84079",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Vito"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "San Vito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciudad San Vito"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3621501,
         "gp:id":59602,
-        "qs:id":1174544,
+        "qs_pg:id":1174544,
         "wd:id":"Q3948042"
     },
     "wof:country":"CR",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421177315,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1566708891,
     "wof:name":"San Vito",
     "wof:parent_id":421171715,
     "wof:placetype":"locality",

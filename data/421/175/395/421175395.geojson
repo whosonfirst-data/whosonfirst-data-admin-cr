@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.207507,
     "lbl:longitude":-85.384175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guanacaste",
     "meso:dissme":"NICOYAGUANACASTE",
     "meso:gadm_admin":"Nicoya",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.384175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u062c\u0627"
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"1,334",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Nicoya",
@@ -137,7 +140,7 @@
     "wof:concordances":{
         "gp:id":26808830,
         "hasc:id":"CR.GU.NI",
-        "qs:id":368961,
+        "qs_pg:id":368961,
         "wd:id":"Q2486629"
     },
     "wof:country":"CR",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421175395,
-    "wof:lastmodified":1563318692,
+    "wof:lastmodified":1566708877,
     "wof:name":"Nicoya",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

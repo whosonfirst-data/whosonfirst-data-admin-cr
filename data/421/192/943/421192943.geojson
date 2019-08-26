@@ -10,8 +10,11 @@
     "geom:latitude":9.925735,
     "geom:longitude":-84.078025,
     "iso:country":"CR",
+    "lbl:bbox":"-84.083025,9.920735,-84.073025,9.930735",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Cleto Gonz\u00e1lez V\u00edquez"
@@ -51,15 +54,15 @@
     "qs:woe_id":22723649,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723649,
-        "qs:id":1184242
+        "qs_pg:id":1184242
     },
     "wof:country":"CR",
     "wof:created":1459009754,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421192943,
-    "wof:lastmodified":1531858707,
+    "wof:lastmodified":1566708848,
     "wof:name":"Gonzalez Viquez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

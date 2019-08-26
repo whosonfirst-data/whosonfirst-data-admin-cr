@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.154399,
     "lbl:longitude":-84.568071,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alajuela",
     "meso:dissme":"SAN RAMONALAJUELA",
     "meso:gadm_admin":"San Ram\u00f3n",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.568071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Ram\u00f3n"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"1,019",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Ram\u00f3n",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":26808848,
         "hasc:id":"CR.AL.SR",
-        "qs:id":467306,
+        "qs_pg:id":467306,
         "wd:id":"Q347769"
     },
     "wof:country":"CR",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421167885,
-    "wof:lastmodified":1563318592,
+    "wof:lastmodified":1566708852,
     "wof:name":"San Ramon",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

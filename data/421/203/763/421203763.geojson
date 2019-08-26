@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.043767,
     "lbl:longitude":-84.436549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alajuela",
     "meso:dissme":"PALMARESALAJUELA",
     "meso:gadm_admin":"Palmares",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.436549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Palmares"
@@ -100,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"38",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Palmares",
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gp:id":26808834,
         "hasc:id":"CR.AL.PA",
-        "qs:id":115577,
+        "qs_pg:id":115577,
         "wd:id":"Q1759264"
     },
     "wof:country":"CR",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421203763,
-    "wof:lastmodified":1561760262,
+    "wof:lastmodified":1566708858,
     "wof:name":"Palmares",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

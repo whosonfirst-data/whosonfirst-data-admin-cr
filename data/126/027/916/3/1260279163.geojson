@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.00333,9.63,-83.96333,9.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10d0\u10dc\u10dd-\u10d3\u10d4-\u10de\u10d8\u10d4\u10d3\u10e0\u10d0"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260279163,
-    "wof:lastmodified":1564312215,
+    "wof:lastmodified":1566708816,
     "wof:name":"Llano de Piedra",
     "wof:parent_id":421184839,
     "wof:placetype":"locality",

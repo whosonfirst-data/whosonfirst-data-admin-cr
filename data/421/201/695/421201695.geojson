@@ -10,8 +10,12 @@
     "geom:latitude":9.91163,
     "geom:longitude":-84.17835,
     "iso:country":"CR",
+    "lbl:bbox":"-84.19835,9.89163,-84.15835,9.93163",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Salitral"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Salitral"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Salitral"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3622005,
         "gp:id":59303,
-        "qs:id":214135,
+        "qs_pg:id":214135,
         "wd:id":"Q3945548"
     },
     "wof:country":"CR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421201695,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1566708885,
     "wof:name":"Salitral",
     "wof:parent_id":421180919,
     "wof:placetype":"locality",

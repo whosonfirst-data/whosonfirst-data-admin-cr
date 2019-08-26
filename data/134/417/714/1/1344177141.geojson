@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.09168,9.73362,-84.05168,9.77362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Bustamante"
     ],
@@ -34,8 +38,7 @@
         "Bustamante"
     ],
     "name:und_x_variant":[
-        "Alcira",
-        "Bustamante"
+        "Alcira"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1344177141,
-    "wof:lastmodified":1564311885,
+    "wof:lastmodified":1566708747,
     "wof:name":"Bustamante",
     "wof:parent_id":421190519,
     "wof:placetype":"locality",

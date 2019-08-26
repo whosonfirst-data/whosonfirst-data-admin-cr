@@ -10,8 +10,12 @@
     "geom:latitude":10.475678,
     "geom:longitude":-85.000877,
     "iso:country":"CR",
+    "lbl:bbox":"-85.100877,10.375678,-84.900877,10.575678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Rosa"
@@ -137,7 +141,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809266,
-        "qs:id":1017812,
         "qs_pg:id":1017812
     },
     "wof:country":"CR",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421185073,
-    "wof:lastmodified":1564312528,
+    "wof:lastmodified":1566708902,
     "wof:name":"Santa Rosa",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",

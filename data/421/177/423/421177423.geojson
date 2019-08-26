@@ -10,8 +10,12 @@
     "geom:latitude":10.07609,
     "geom:longitude":-83.28953,
     "iso:country":"CR",
+    "lbl:bbox":"-83.38953,9.97609,-83.18953,10.17609",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u099f\u09bf\u09a8\u09be"
@@ -58,7 +62,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matino"
     ],
     "name:vol_x_preferred":[
@@ -103,7 +107,6 @@
     "wof:concordances":{
         "gn:id":3622895,
         "gp:id":26809054,
-        "qs:id":1197931,
         "qs_pg:id":1197931
     },
     "wof:country":"CR",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421177423,
-    "wof:lastmodified":1564312493,
+    "wof:lastmodified":1566708890,
     "wof:name":"Matina",
     "wof:parent_id":421170303,
     "wof:placetype":"localadmin",

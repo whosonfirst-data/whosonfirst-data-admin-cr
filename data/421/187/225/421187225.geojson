@@ -10,8 +10,12 @@
     "geom:latitude":9.66452,
     "geom:longitude":-85.17238,
     "iso:country":"CR",
+    "lbl:bbox":"-85.19238,9.64452,-85.15238,9.68452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
@@ -519,7 +523,7 @@
     "wof:concordances":{
         "gn:id":3621525,
         "gp:id":59692,
-        "qs:id":1082587
+        "qs_pg:id":1082587
     },
     "wof:country":"CR",
     "wof:created":1459009505,
@@ -534,7 +538,7 @@
         }
     ],
     "wof:id":421187225,
-    "wof:lastmodified":1564312412,
+    "wof:lastmodified":1566708864,
     "wof:name":"Santiago",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

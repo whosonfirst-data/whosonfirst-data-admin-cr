@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.133078,
     "lbl:longitude":-84.029905,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"HEREDIAHEREDIA",
     "meso:gadm_admin":"Heredia",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.029905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Heredia"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"283",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Heredia",
@@ -119,7 +122,7 @@
     "wof:concordances":{
         "gp:id":26808814,
         "hasc:id":"CR.HE.HE",
-        "qs:id":978243
+        "qs_pg:id":978243
     },
     "wof:country":"CR",
     "wof:created":1459009370,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421183455,
-    "wof:lastmodified":1564312498,
+    "wof:lastmodified":1566708892,
     "wof:name":"Heredia",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

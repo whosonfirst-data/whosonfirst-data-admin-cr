@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.10538,9.96617,-84.06538,10.00617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Quintana"
     ],
@@ -70,8 +74,7 @@
         "Quintana"
     ],
     "name:und_x_variant":[
-        "La Quintana",
-        "Quintana"
+        "La Quintana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1293099203,
-    "wof:lastmodified":1564311918,
+    "wof:lastmodified":1566708761,
     "wof:name":"Quintana",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

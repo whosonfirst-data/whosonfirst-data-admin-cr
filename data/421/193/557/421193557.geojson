@@ -10,8 +10,12 @@
     "geom:latitude":10.45056,
     "geom:longitude":-84.27406,
     "iso:country":"CR",
+    "lbl:bbox":"-84.29406,10.43056,-84.25406,10.47056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pital"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3622382,
         "gp:id":59053,
-        "qs:id":1340682
+        "qs_pg:id":1340682
     },
     "wof:country":"CR",
     "wof:created":1459009775,
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421193557,
-    "wof:lastmodified":1564312370,
+    "wof:lastmodified":1566708851,
     "wof:name":"Pital",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

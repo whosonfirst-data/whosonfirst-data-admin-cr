@@ -11,8 +11,10 @@
     "geom:longitude":-84.101909,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.106909,9.931889,-84.096909,9.941889",
     "lbl:latitude":9.936889,
     "lbl:longitude":-84.101909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.937137,
     "mps:longitude":-84.102446,
     "mz:hierarchy_label":0,
@@ -577,9 +579,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0435\u0440\u0438\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Americas"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0631\u06cc\u06a9\u06cc\u0646"
     ],
@@ -662,7 +661,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":8517,
     "wof:belongsto":[
         85670391,
@@ -673,7 +672,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723811,
-        "qs:id":237728
+        "qs_pg:id":237728
     },
     "wof:country":"CR",
     "wof:geomhash":"cc2de84f87ff71999720d63d25772bc4",
@@ -691,7 +690,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564311911,
+    "wof:lastmodified":1566708752,
     "wof:name":"Americas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

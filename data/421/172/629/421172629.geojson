@@ -10,8 +10,12 @@
     "geom:latitude":9.658546,
     "geom:longitude":-82.779235,
     "iso:country":"CR",
+    "lbl:bbox":"-82.879235,9.558546,-82.679235,9.758546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cahuita"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26808911,
-        "qs:id":1314887
+        "qs_pg:id":1314887
     },
     "wof:country":"CR",
     "wof:created":1459008949,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421172629,
-    "wof:lastmodified":1564312440,
+    "wof:lastmodified":1566708872,
     "wof:name":"Cahuita",
     "wof:parent_id":421185333,
     "wof:placetype":"localadmin",

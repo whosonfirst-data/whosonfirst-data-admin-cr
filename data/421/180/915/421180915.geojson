@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.994276,
     "lbl:longitude":-84.099281,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"SAN PABLOHEREDIA",
     "meso:gadm_admin":"San Pablo",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.099281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Pablo"
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"8",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Pablo",
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gp:id":26808846,
         "hasc:id":"CR.HE.SP",
-        "qs:id":467302,
+        "qs_pg:id":467302,
         "wd:id":"Q295411"
     },
     "wof:country":"CR",
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421180915,
-    "wof:lastmodified":1563318630,
+    "wof:lastmodified":1566708862,
     "wof:name":"San Pablo",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

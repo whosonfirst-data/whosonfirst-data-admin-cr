@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.69489,10.36256,-85.65489,10.40256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0627\u062c\u0646\u0629"
     ],
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":1226054411,
-    "wof:lastmodified":1564312706,
+    "wof:lastmodified":1566708935,
     "wof:name":"Cartagena",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

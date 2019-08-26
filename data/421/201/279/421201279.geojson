@@ -10,8 +10,12 @@
     "geom:latitude":8.95248,
     "geom:longitude":-83.46661,
     "iso:country":"CR",
+    "lbl:bbox":"-83.48661,8.93248,-83.44661,8.97248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Palmar Sur"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Palmar Sur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Palmar"
     ],
     "qs:gn_country":"CR",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3622606,
         "gp:id":58921,
-        "qs:id":211047,
+        "qs_pg:id":211047,
         "wd:id":"Q7128132",
         "wk:page":"Palmar Sur"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421201279,
-    "wof:lastmodified":1563318728,
+    "wof:lastmodified":1566708885,
     "wof:name":"Palmar Sur",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

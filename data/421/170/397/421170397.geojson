@@ -10,6 +10,9 @@
     "geom:latitude":10.00236,
     "geom:longitude":-84.11651,
     "iso:country":"CR",
+    "lbl:bbox":"-84.13651,9.98236,-84.09651,10.02236",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
@@ -167,7 +170,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0435\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Heridia"
     ],
     "name:urd_x_preferred":[
@@ -313,10 +316,12 @@
     "wof:concordances":{
         "gn:id":3621911,
         "gp:id":58468,
-        "qs:id":489000,
-        "qs_pg:id":1200232,
+        "qs_pg:id":489000,
         "wd:id":"Q30616",
         "wk:page":"Heredia, Costa Rica"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1200232
     },
     "wof:country":"CR",
     "wof:created":1459008851,
@@ -331,7 +336,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1563318736,
+    "wof:lastmodified":1566708888,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

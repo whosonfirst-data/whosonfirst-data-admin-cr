@@ -10,8 +10,12 @@
     "geom:latitude":10.4505,
     "geom:longitude":-84.75599,
     "iso:country":"CR",
+    "lbl:bbox":"-84.77599,10.4305,-84.73599,10.4705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Pueblo Nuevo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Nuevo"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3622269,
         "gp:id":59120,
-        "qs:id":898500
+        "qs_pg:id":898500
     },
     "wof:country":"CR",
     "wof:created":1459010044,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421200869,
-    "wof:lastmodified":1564312479,
+    "wof:lastmodified":1566708883,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

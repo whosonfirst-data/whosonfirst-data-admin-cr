@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.844311,
     "lbl:longitude":-84.045525,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Jose",
     "meso:dissme":"DESAMPARADOSSAN JOSE",
     "meso:gadm_admin":"Desamparados",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.045525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Desamparados"
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"118",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Desamparados",
@@ -107,7 +110,7 @@
     "wof:concordances":{
         "gp:id":26808802,
         "hasc:id":"CR.SJ.DE",
-        "qs:id":1119685,
+        "qs_pg:id":1119685,
         "wd:id":"Q14108797"
     },
     "wof:country":"CR",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1563318708,
+    "wof:lastmodified":1566708880,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

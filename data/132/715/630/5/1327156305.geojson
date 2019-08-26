@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.62336,10.22673,-83.58336,10.26673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00edo Jim\u00e9nez"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327156305,
-    "wof:lastmodified":1537618853,
+    "wof:lastmodified":1566708725,
     "wof:name":"Rio Jimenez",
     "wof:parent_id":421204091,
     "wof:placetype":"locality",

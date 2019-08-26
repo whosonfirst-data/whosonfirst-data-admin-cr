@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.42311,9.87845,-84.38311,9.91845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cacao"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1209205345,
-    "wof:lastmodified":1564312164,
+    "wof:lastmodified":1566708805,
     "wof:name":"Cacao",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

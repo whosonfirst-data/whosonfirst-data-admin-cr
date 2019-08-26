@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.31369,10.07546,-84.27369,10.11546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Meson"
     ],
@@ -211,8 +215,7 @@
         "\u041c\u0435\u0437\u043e\u043d\u0438"
     ],
     "name:und_x_variant":[
-        "El Mes\u00f3n",
-        "Mes\u00f3n"
+        "El Mes\u00f3n"
     ],
     "name:vie_x_preferred":[
         "Meson"
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":1209628993,
-    "wof:lastmodified":1564312107,
+    "wof:lastmodified":1566708793,
     "wof:name":"Meson",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

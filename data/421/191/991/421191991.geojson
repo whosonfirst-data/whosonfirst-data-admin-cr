@@ -10,8 +10,12 @@
     "geom:latitude":9.81603,
     "geom:longitude":-85.29733,
     "iso:country":"CR",
+    "lbl:bbox":"-85.31733,9.79603,-85.27733,9.83603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03bd\u03b9\u03b1\u03c2"
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3623379,
         "gp:id":58510,
-        "qs:id":1165008
+        "qs_pg:id":1165008
     },
     "wof:country":"CR",
     "wof:created":1459009722,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421191991,
-    "wof:lastmodified":1499977330,
+    "wof:lastmodified":1566708878,
     "wof:name":"Jabilla",
     "wof:parent_id":1108693661,
     "wof:placetype":"locality",

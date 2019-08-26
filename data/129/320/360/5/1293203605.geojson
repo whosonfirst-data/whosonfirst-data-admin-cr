@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.72,9.89667,-83.68,9.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Aragonien"
     ],
@@ -386,7 +390,7 @@
         }
     ],
     "wof:id":1293203605,
-    "wof:lastmodified":1564311994,
+    "wof:lastmodified":1566708773,
     "wof:name":"Aragon",
     "wof:parent_id":421172003,
     "wof:placetype":"locality",

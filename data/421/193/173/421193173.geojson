@@ -10,6 +10,9 @@
     "geom:latitude":10.32381,
     "geom:longitude":-84.42714,
     "iso:country":"CR",
+    "lbl:bbox":"-84.44714,10.30381,-84.40714,10.34381",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u041a\u0435\u0441\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Quesada"
     ],
     "name:zho_x_preferred":[
@@ -194,7 +197,7 @@
     "wof:concordances":{
         "gn:id":3622190,
         "gp:id":59184,
-        "qs:id":489024,
+        "qs_pg:id":489024,
         "wd:id":"Q787675",
         "wk:page":"Quesada, Costa Rica"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421193173,
-    "wof:lastmodified":1563318584,
+    "wof:lastmodified":1566708851,
     "wof:name":"Quesada",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

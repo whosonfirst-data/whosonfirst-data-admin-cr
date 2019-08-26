@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.07373,9.96102,-84.03373,10.00102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Montero"
     ],
@@ -94,8 +98,7 @@
         "\u041c\u043e\u043d\u0442\u0435\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Montoro",
-        "Montero"
+        "Montoro"
     ],
     "name:vol_x_preferred":[
         "Montero"
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1327231969,
-    "wof:lastmodified":1564311767,
+    "wof:lastmodified":1566708725,
     "wof:name":"Montero",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

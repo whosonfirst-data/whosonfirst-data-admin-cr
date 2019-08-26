@@ -10,8 +10,12 @@
     "geom:latitude":9.94611,
     "geom:longitude":-84.05279,
     "iso:country":"CR",
+    "lbl:bbox":"-84.07279,9.92611,-84.03279,9.96611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guadalupe"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Guadalupe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goicoechea"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3623593,
         "gp:id":58399,
-        "qs:id":228531,
+        "qs_pg:id":228531,
         "wd:id":"Q3778059",
         "wk:page":"Guadalupe, Costa Rica"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421170203,
-    "wof:lastmodified":1561760271,
+    "wof:lastmodified":1566708889,
     "wof:name":"Guadalupe",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

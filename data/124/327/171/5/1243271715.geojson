@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.76121,10.01439,-85.72121,10.05439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerto San Juanillo",
         "San Juanillo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243271715,
-    "wof:lastmodified":1537618851,
+    "wof:lastmodified":1566708918,
     "wof:name":"San Juanillo",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

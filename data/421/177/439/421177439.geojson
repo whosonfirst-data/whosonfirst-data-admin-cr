@@ -10,8 +10,12 @@
     "geom:latitude":10.36131,
     "geom:longitude":-84.47496,
     "iso:country":"CR",
+    "lbl:bbox":"-84.49496,10.34131,-84.45496,10.38131",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Florencia"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3623726,
         "gp:id":58336,
-        "qs:id":1340610,
+        "qs_pg:id":1340610,
         "wd:id":"Q3746694"
     },
     "wof:country":"CR",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421177439,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1566708890,
     "wof:name":"Florencia",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

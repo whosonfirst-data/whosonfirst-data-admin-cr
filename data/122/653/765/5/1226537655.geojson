@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.73119,9.97019,-84.69119,10.01019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Barranca"
     ],
@@ -54,8 +58,7 @@
         "Barranca"
     ],
     "name:und_x_variant":[
-        "La Barranca",
-        "Barranca"
+        "La Barranca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1226537655,
-    "wof:lastmodified":1564312755,
+    "wof:lastmodified":1566708943,
     "wof:name":"Barranca",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

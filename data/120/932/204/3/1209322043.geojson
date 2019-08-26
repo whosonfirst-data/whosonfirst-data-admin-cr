@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.65333,11.06333,-85.61333,11.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Palmar"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209322043,
-    "wof:lastmodified":1564312152,
+    "wof:lastmodified":1566708801,
     "wof:name":"Palmar",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

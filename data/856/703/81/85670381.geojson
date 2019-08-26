@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.627224,
     "lbl:longitude":-83.159816,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lim\u00f3n",
     "mps:latitude":9.630196,
     "mps:longitude":-83.156813,
@@ -150,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043c\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Provincia de Lim\u00f3n"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0645\u0648\u0646 \u0635\u0648\u0628\u06c1"
     ],
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"9,189",
     "statoids:area_mi":"3,548",
     "statoids:as_of_date":"2011-05-30",
@@ -266,7 +264,7 @@
         "gp:id":2345086,
         "hasc:id":"CR.LI",
         "iso:id":"CR-L",
-        "qs:id":569320,
+        "qs_pg:id":569320,
         "unlc:id":"CR-L",
         "wd:id":"Q642644",
         "wk:page":"Lim\u00f3n Province"
@@ -287,11 +285,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670765,
+    "wof:lastmodified":1566708754,
     "wof:name":"Lim\u00f3n",
     "wof:parent_id":85632487,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":386862,
     "wof:population_rank":10,

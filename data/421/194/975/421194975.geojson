@@ -10,8 +10,12 @@
     "geom:latitude":9.973161,
     "geom:longitude":-84.0913,
     "iso:country":"CR",
+    "lbl:bbox":"-84.1113,9.9531615,-84.0713,9.9931615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u064a\u0633\u0648\u0633 \u062e\u064a\u0645\u064a\u0646\u064a\u0632"
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723764,
-        "qs:id":74252,
+        "qs_pg:id":74252,
         "wd:id":"Q3808196"
     },
     "wof:country":"CR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421194975,
-    "wof:lastmodified":1563318583,
+    "wof:lastmodified":1566708850,
     "wof:name":"Jesus Jimenez",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

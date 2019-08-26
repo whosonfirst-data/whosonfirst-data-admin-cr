@@ -10,8 +10,12 @@
     "geom:latitude":10.08802,
     "geom:longitude":-84.47022,
     "iso:country":"CR",
+    "lbl:bbox":"-84.49022,10.06802,-84.45022,10.10802",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Ram\u00f3n"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3621644,
         "gp:id":59585,
-        "qs:id":489048,
+        "qs_pg:id":489048,
         "wd:id":"Q535835",
         "wk:page":"San Ram\u00f3n, Costa Rica"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421181333,
-    "wof:lastmodified":1563318689,
+    "wof:lastmodified":1566708875,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":421167885,
     "wof:placetype":"locality",

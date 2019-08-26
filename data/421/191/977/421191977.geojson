@@ -10,8 +10,12 @@
     "geom:latitude":8.61131,
     "geom:longitude":-83.42688,
     "iso:country":"CR",
+    "lbl:bbox":"-83.44688,8.59131,-83.40688,8.63131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3624748,
         "gp:id":57798,
-        "qs:id":1164988
+        "qs_pg:id":1164988
     },
     "wof:country":"CR",
     "wof:created":1459009716,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421191977,
-    "wof:lastmodified":1499977076,
+    "wof:lastmodified":1566708878,
     "wof:name":"Barrigones",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

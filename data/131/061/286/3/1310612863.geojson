@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.31226,10.56926,-85.27226,10.60926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Monteverde",
         "Hacienda Monteverde"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310612863,
-    "wof:lastmodified":1537618865,
+    "wof:lastmodified":1566708831,
     "wof:name":"Hacienda Monteverde",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

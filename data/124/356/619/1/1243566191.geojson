@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.72667,10.33917,-85.68667,10.37917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Lorena"
     ],
@@ -73,8 +77,7 @@
         "Lorena"
     ],
     "name:und_x_variant":[
-        "Zopilote",
-        "Lorena"
+        "Zopilote"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1243566191,
-    "wof:lastmodified":1564312600,
+    "wof:lastmodified":1566708914,
     "wof:name":"Lorena",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

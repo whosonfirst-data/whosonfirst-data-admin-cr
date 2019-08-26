@@ -11,8 +11,10 @@
     "geom:longitude":-84.072746,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.077746,9.926732,-84.067746,9.936732",
     "lbl:latitude":9.931732,
     "lbl:longitude":-84.072746,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.930772,
     "mps:longitude":-84.072461,
     "mz:hierarchy_label":0,
@@ -66,9 +68,6 @@
     "name:swe_x_preferred":[
         "Soledad"
     ],
-    "name:unk_x_variant":[
-        "Soledad"
-    ],
     "name:vol_x_preferred":[
         "Soledad"
     ],
@@ -103,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670391,
         102191575,
@@ -113,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723689,
-        "qs:id":346804
+        "qs_pg:id":346804
     },
     "wof:country":"CR",
     "wof:geomhash":"bf5a19910a95cabea00b7d7cdb3eea15",
@@ -131,7 +130,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564311913,
+    "wof:lastmodified":1566708752,
     "wof:name":"Soledad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

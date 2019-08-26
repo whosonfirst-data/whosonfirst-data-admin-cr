@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.37595,10.11606,-83.33595,10.15606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0629"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1327355669,
-    "wof:lastmodified":1564311777,
+    "wof:lastmodified":1566708727,
     "wof:name":"Sara",
     "wof:parent_id":421170303,
     "wof:placetype":"locality",

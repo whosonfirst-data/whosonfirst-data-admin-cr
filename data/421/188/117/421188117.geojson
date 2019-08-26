@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.993773,
     "lbl:longitude":-84.632107,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puntarenas",
     "meso:dissme":"ESPARZAPUNTARENAS",
     "meso:gadm_admin":"Esparza",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.632107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Esparza"
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"217",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Esparza",
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gp:id":26808806,
         "hasc:id":"CR.PU.ES",
-        "qs:id":1087909
+        "qs_pg:id":1087909
     },
     "wof:country":"CR",
     "wof:created":1459009534,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421188117,
-    "wof:lastmodified":1553717463,
+    "wof:lastmodified":1566708870,
     "wof:name":"Esparza",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

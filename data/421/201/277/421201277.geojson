@@ -10,8 +10,12 @@
     "geom:latitude":9.82005,
     "geom:longitude":-84.93513,
     "iso:country":"CR",
+    "lbl:bbox":"-84.95513,9.80005,-84.91513,9.84005",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Paquera"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3622561,
         "gp:id":58947,
-        "qs:id":211046,
+        "qs_pg:id":211046,
         "wd:id":"Q3894943"
     },
     "wof:country":"CR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421201277,
-    "wof:lastmodified":1563318728,
+    "wof:lastmodified":1566708885,
     "wof:name":"Paquera",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

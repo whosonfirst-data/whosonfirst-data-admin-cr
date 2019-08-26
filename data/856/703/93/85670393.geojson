@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.633955,
     "lbl:longitude":-84.496991,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Alajuela",
     "mps:latitude":10.624595,
     "mps:longitude":-84.495754,
@@ -194,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0430\u0445\u0443\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Alajuela"
     ],
     "name:urd_x_preferred":[
@@ -281,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"9,754",
     "statoids:area_mi":"3,766",
     "statoids:as_of_date":"2011-05-30",
@@ -308,7 +309,7 @@
         "gp:id":2345082,
         "hasc:id":"CR.AL",
         "iso:id":"CR-A",
-        "qs:id":913482,
+        "qs_pg:id":913482,
         "unlc:id":"CR-A",
         "wd:id":"Q502188",
         "wk:page":"Alajuela Province"
@@ -329,11 +330,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670764,
+    "wof:lastmodified":1566708754,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":848146,
     "wof:population_rank":11,

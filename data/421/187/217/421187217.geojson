@@ -10,8 +10,12 @@
     "geom:latitude":10.46142,
     "geom:longitude":-84.00558,
     "iso:country":"CR",
+    "lbl:bbox":"-84.02558,10.44142,-83.98558,10.48142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Puerto Viejo de Sarapiqu\u00ed"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3622238,
         "gp:id":59153,
-        "qs:id":1082583,
+        "qs_pg:id":1082583,
         "wd:id":"Q2618087"
     },
     "wof:country":"CR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421187217,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1566708863,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":421185329,
     "wof:placetype":"locality",

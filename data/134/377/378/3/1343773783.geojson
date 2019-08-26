@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.52,11.01333,-85.48,11.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Inocentes"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Hacienda Los Inocentes",
         "Los Inocentes",
-        "Hacienda Inocentes",
-        "Inocentes"
+        "Hacienda Inocentes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343773783,
-    "wof:lastmodified":1564311850,
+    "wof:lastmodified":1566708740,
     "wof:name":"Inocentes",
     "wof:parent_id":421170049,
     "wof:placetype":"locality",

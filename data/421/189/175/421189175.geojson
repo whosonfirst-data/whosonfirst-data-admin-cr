@@ -10,8 +10,12 @@
     "geom:latitude":10.003666,
     "geom:longitude":-84.156024,
     "iso:country":"CR",
+    "lbl:bbox":"-84.256024,9.903666,-84.056024,10.103666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Joaquin"
@@ -74,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809189,
-        "qs:id":1110250,
         "qs_pg:id":1110250
     },
     "wof:country":"CR",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421189175,
-    "wof:lastmodified":1564312425,
+    "wof:lastmodified":1566708868,
     "wof:name":"San Joaquin",
     "wof:parent_id":421203269,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.34397,9.89337,-84.30397,9.93337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Piedras Negras"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1292925759,
-    "wof:lastmodified":1564311935,
+    "wof:lastmodified":1566708764,
     "wof:name":"Piedras Negras",
     "wof:parent_id":421179213,
     "wof:placetype":"locality",

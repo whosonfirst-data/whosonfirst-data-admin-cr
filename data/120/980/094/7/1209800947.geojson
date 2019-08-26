@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.59181,9.31396,-83.55181,9.35396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1209800947,
-    "wof:lastmodified":1564312170,
+    "wof:lastmodified":1566708806,
     "wof:name":"Santa Teresa",
     "wof:parent_id":421182141,
     "wof:placetype":"locality",

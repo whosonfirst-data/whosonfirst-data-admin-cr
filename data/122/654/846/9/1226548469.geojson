@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.8473,9.74496,-83.8073,9.78496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":1226548469,
-    "wof:lastmodified":1564312761,
+    "wof:lastmodified":1566708944,
     "wof:name":"San Rafael",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

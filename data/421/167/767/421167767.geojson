@@ -10,8 +10,12 @@
     "geom:latitude":9.85336,
     "geom:longitude":-83.72273,
     "iso:country":"CR",
+    "lbl:bbox":"-83.74273,9.83336,-83.70273,9.87336",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Cab\u00e9car"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3621200,
         "gp:id":59852,
-        "qs:id":149485,
+        "qs_pg:id":149485,
         "wd:id":"Q4000174"
     },
     "wof:country":"CR",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421167767,
-    "wof:lastmodified":1563318592,
+    "wof:lastmodified":1566708852,
     "wof:name":"Tucurrique",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

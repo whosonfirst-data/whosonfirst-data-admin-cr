@@ -10,8 +10,12 @@
     "geom:latitude":10.315932,
     "geom:longitude":-84.816703,
     "iso:country":"CR",
+    "lbl:bbox":"-84.916703,10.215932,-84.716703,10.415932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Monte Verde"
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809065,
-        "qs:id":1314902
+        "qs_pg:id":1314902
     },
     "wof:country":"CR",
     "wof:created":1459008949,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421172635,
-    "wof:lastmodified":1564312441,
+    "wof:lastmodified":1566708872,
     "wof:name":"Monte Verde",
     "wof:parent_id":1108693663,
     "wof:placetype":"localadmin",

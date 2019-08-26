@@ -10,8 +10,12 @@
     "geom:latitude":9.55392,
     "geom:longitude":-82.89257,
     "iso:country":"CR",
+    "lbl:bbox":"-82.91257,9.53392,-82.87257,9.57392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bratsi"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Bratsi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bralsi"
     ],
     "qs:gn_country":"CR",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3624627,
         "gp:id":57862,
-        "qs:id":238560,
+        "qs_pg:id":238560,
         "wd:id":"Q23980804"
     },
     "wof:country":"CR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421204143,
-    "wof:lastmodified":1513944279,
+    "wof:lastmodified":1566708856,
     "wof:name":"Bratsi",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

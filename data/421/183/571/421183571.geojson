@@ -10,8 +10,12 @@
     "geom:latitude":10.30643,
     "geom:longitude":-84.41006,
     "iso:country":"CR",
+    "lbl:bbox":"-84.43006,10.28643,-84.39006,10.32643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Col\u00f3n"
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3624170,
         "gp:id":58105,
-        "qs:id":982491
+        "qs_pg:id":982491
     },
     "wof:country":"CR",
     "wof:created":1459009374,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421183571,
-    "wof:lastmodified":1564312509,
+    "wof:lastmodified":1566708894,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

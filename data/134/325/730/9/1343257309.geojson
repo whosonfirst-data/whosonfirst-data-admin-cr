@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.18127,10.05586,-83.14127,10.09586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doce Millas",
         "Swamp Mouth"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343257309,
-    "wof:lastmodified":1537618849,
+    "wof:lastmodified":1566708742,
     "wof:name":"Swamp Mouth",
     "wof:parent_id":421170303,
     "wof:placetype":"locality",

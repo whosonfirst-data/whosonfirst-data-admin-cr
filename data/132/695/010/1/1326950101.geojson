@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.37311,9.68565,-84.33311,9.72565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alto Concepci\u00f3n",
         "Concepci\u00f3n"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326950101,
-    "wof:lastmodified":1537618869,
+    "wof:lastmodified":1566708723,
     "wof:name":"Concepcion",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.38481,10.53741,-84.34481,10.57741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vasconia",
         "Chambac\u00fa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344071215,
-    "wof:lastmodified":1537618871,
+    "wof:lastmodified":1566708739,
     "wof:name":"Chambacu",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

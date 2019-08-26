@@ -10,8 +10,12 @@
     "geom:latitude":9.89898,
     "geom:longitude":-84.00287,
     "iso:country":"CR",
+    "lbl:bbox":"-84.02287,9.87898,-83.98287,9.91898",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Diego"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3621926,
         "gp:id":59354,
-        "qs:id":1200418,
+        "qs_pg:id":1200418,
         "wd:id":"Q26760326"
     },
     "wof:country":"CR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421193075,
-    "wof:lastmodified":1563318588,
+    "wof:lastmodified":1566708851,
     "wof:name":"San Diego",
     "wof:parent_id":421204569,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.858735,
     "lbl:longitude":-83.450476,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puntarenas",
     "meso:dissme":"OSAPUNTARENAS",
     "meso:gadm_admin":"Osa",
@@ -31,6 +33,7 @@
     "mps:longitude":-83.450476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u0412\u043e\u0441\u0430"
@@ -132,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"1,930",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Puerto Cort\u00e9s",
@@ -155,7 +158,7 @@
     "wof:concordances":{
         "gp:id":26808833,
         "hasc:id":"CR.PU.OS",
-        "qs:id":1087912
+        "qs_pg:id":1087912
     },
     "wof:country":"CR",
     "wof:created":1459009534,
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421188109,
-    "wof:lastmodified":1564312437,
+    "wof:lastmodified":1566708870,
     "wof:name":"Osa",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

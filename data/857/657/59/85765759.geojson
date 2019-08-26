@@ -11,8 +11,10 @@
     "geom:longitude":-84.044355,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.049355,9.917013,-84.039355,9.927013",
     "lbl:latitude":9.922013,
     "lbl:longitude":-84.044355,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.91745,
     "mps:longitude":-84.037978,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:swe_x_preferred":[
         "Pradera"
     ],
-    "name:unk_x_variant":[
-        "Pradera"
-    ],
     "name:vie_x_preferred":[
         "Pradera"
     ],
@@ -97,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670391,
         102191575,
@@ -107,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723622,
-        "qs:id":986126
+        "qs_pg:id":986126
     },
     "wof:country":"CR",
     "wof:geomhash":"82c6364be78ca60594db65940197f924",
@@ -125,7 +124,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564311912,
+    "wof:lastmodified":1566708752,
     "wof:name":"Pradera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

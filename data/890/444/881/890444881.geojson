@@ -11,10 +11,14 @@
     "geom:longitude":-84.13722,
     "gn:country":"CR",
     "gn:fcode":"PPL",
-    "gn:pop":25410,
+    "gn:population":25410,
     "iso:country":"CR",
+    "lbl:bbox":"-84.15722,9.90787,-84.11722,9.94787",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "San Rafael"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3621689,
         "gp:id":58298,
-        "qs:id":1045752,
+        "qs_pg:id":1045752,
         "wd:id":"Q3947871",
         "wk:page":"San Rafael"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890444881,
-    "wof:lastmodified":1561760275,
+    "wof:lastmodified":1566708904,
     "wof:name":"San Rafael",
     "wof:parent_id":421188115,
     "wof:placetype":"locality",

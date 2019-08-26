@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.76709,10.02615,-85.72709,10.06615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Playa Azul"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276235657,
-    "wof:lastmodified":1564312072,
+    "wof:lastmodified":1566708786,
     "wof:name":"Playa Azul",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

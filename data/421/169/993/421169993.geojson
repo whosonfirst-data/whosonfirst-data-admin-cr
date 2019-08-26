@@ -10,8 +10,12 @@
     "geom:latitude":10.49555,
     "geom:longitude":-85.00104,
     "iso:country":"CR",
+    "lbl:bbox":"-85.02104,10.47555,-84.98104,10.51555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Aguilares"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Aguilares"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Las Aguilares"
     ],
     "qs:gn_country":"CR",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3624971,
         "gp:id":57664,
-        "qs:id":211028
+        "qs_pg:id":211028
     },
     "wof:country":"CR",
     "wof:created":1459008832,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421169993,
-    "wof:lastmodified":1564312381,
+    "wof:lastmodified":1566708854,
     "wof:name":"Aguilares",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

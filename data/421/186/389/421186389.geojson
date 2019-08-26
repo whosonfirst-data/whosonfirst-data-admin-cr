@@ -10,8 +10,12 @@
     "geom:latitude":10.26053,
     "geom:longitude":-85.5851,
     "iso:country":"CR",
+    "lbl:bbox":"-85.6051,10.24053,-85.5651,10.28053",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Santa Cruz"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3621607,
         "gp:id":59623,
-        "qs:id":1340723,
+        "qs_pg:id":1340723,
         "wd:id":"Q3948982"
     },
     "wof:country":"CR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421186389,
-    "wof:lastmodified":1563318680,
+    "wof:lastmodified":1566708874,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

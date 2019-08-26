@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.21258,10.74117,-85.17258,10.78117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guayabal"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209120261,
-    "wof:lastmodified":1564312127,
+    "wof:lastmodified":1566708796,
     "wof:name":"Guayabal",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

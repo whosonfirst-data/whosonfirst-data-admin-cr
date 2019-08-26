@@ -10,8 +10,12 @@
     "geom:latitude":9.991833,
     "geom:longitude":-83.03763,
     "iso:country":"CR",
+    "lbl:bbox":"-83.13763,9.891833,-82.93763,10.091833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Limon"
@@ -86,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809040,
-        "qs:id":224853,
         "qs_pg:id":224853
     },
     "wof:country":"CR",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421202611,
-    "wof:lastmodified":1564312396,
+    "wof:lastmodified":1566708860,
     "wof:name":"Limon",
     "wof:parent_id":421188065,
     "wof:placetype":"localadmin",

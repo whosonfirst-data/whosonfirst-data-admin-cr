@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.847516,
     "lbl:longitude":-85.257336,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guanacaste",
     "meso:dissme":"NANDAYUREGUANACASTE",
     "meso:gadm_admin":"Nandayure",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.257336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nandayure"
     ],
@@ -41,9 +44,9 @@
         "Nandayure"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"566",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Carmona",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108693661,
-    "wof:lastmodified":1555047429,
+    "wof:lastmodified":1566708819,
     "wof:name":"Nandayure",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":9.98333,
     "geom:longitude":-84.18333,
     "iso:country":"CR",
+    "lbl:bbox":"-84.20333,9.96333,-84.16333,10.00333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Antonio"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "San Antonio de Bel\u00e9n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Antonio de Belen"
     ],
     "qs:gn_country":"CR",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3621967,
         "gp:id":59326,
-        "qs:id":1214169,
+        "qs_pg:id":1214169,
         "wd:id":"Q3946712"
     },
     "wof:country":"CR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421180737,
-    "wof:lastmodified":1561760263,
+    "wof:lastmodified":1566708862,
     "wof:name":"San Antonio",
     "wof:parent_id":421197833,
     "wof:placetype":"locality",

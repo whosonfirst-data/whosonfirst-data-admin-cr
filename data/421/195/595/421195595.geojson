@@ -10,8 +10,12 @@
     "geom:latitude":9.886334,
     "geom:longitude":-84.085922,
     "iso:country":"CR",
+    "lbl:bbox":"-84.185922,9.786334,-83.985922,9.986334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809233,
-        "qs:id":115787
+        "qs_pg:id":115787
     },
     "wof:country":"CR",
     "wof:created":1459009853,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421195595,
-    "wof:lastmodified":1499977149,
+    "wof:lastmodified":1566708848,
     "wof:name":"San Rafael Arriba",
     "wof:parent_id":421201605,
     "wof:placetype":"localadmin",

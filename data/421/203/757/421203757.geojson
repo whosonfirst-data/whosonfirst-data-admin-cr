@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.893394,
     "lbl:longitude":-84.579646,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alajuela",
     "meso:dissme":"OROTINAALAJUELA",
     "meso:gadm_admin":"Orotina",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.579646,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u0442\u0438\u043d\u0430"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"142",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Orotina",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26808832,
         "hasc:id":"CR.AL.OR",
-        "qs:id":115566,
+        "qs_pg:id":115566,
         "wd:id":"Q1179301"
     },
     "wof:country":"CR",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421203757,
-    "wof:lastmodified":1563318612,
+    "wof:lastmodified":1566708859,
     "wof:name":"Orotina",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

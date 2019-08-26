@@ -10,8 +10,12 @@
     "geom:latitude":10.346347,
     "geom:longitude":-85.416306,
     "iso:country":"CR",
+    "lbl:bbox":"-85.516306,10.246347,-85.316306,10.446347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:nno_x_preferred":[
         "Bolson"
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26808899,
-        "qs:id":772736
+        "qs_pg:id":772736
     },
     "wof:country":"CR",
     "wof:created":1459008832,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421169979,
-    "wof:lastmodified":1564312378,
+    "wof:lastmodified":1566708854,
     "wof:name":"Bolson",
     "wof:parent_id":1108693669,
     "wof:placetype":"localadmin",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.43698,9.84278,-84.39698,9.88278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Pita"
     ],
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":1242673179,
-    "wof:lastmodified":1564312577,
+    "wof:lastmodified":1566708912,
     "wof:name":"Pita",
     "wof:parent_id":421172005,
     "wof:placetype":"locality",

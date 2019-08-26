@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-82.88703,9.57977,-82.84703,9.61977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chase"
     ],
@@ -85,8 +89,7 @@
         "\u0e40\u0e0a\u0e2a"
     ],
     "name:und_x_variant":[
-        "Chasse",
-        "Chase"
+        "Chasse"
     ],
     "name:vol_x_preferred":[
         "Chase"
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1310403173,
-    "wof:lastmodified":1564312256,
+    "wof:lastmodified":1566708824,
     "wof:name":"Chase",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

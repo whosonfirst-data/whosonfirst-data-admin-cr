@@ -10,8 +10,12 @@
     "geom:latitude":9.49446,
     "geom:longitude":-84.21296,
     "iso:country":"CR",
+    "lbl:bbox":"-84.23296,9.47446,-84.19296,9.51446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Damas"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3623968,
         "gp:id":58199,
-        "qs:id":211032
+        "qs_pg:id":211032
     },
     "wof:country":"CR",
     "wof:created":1459010067,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421201265,
-    "wof:lastmodified":1527716440,
+    "wof:lastmodified":1566708886,
     "wof:name":"Damas",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

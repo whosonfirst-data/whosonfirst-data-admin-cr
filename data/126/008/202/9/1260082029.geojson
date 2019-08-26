@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.7405,10.30441,-85.7005,10.34441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rincon"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1260082029,
-    "wof:lastmodified":1564312208,
+    "wof:lastmodified":1566708814,
     "wof:name":"Rincon",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.0925,
     "geom:longitude":-84.72978,
     "iso:country":"CR",
+    "lbl:bbox":"-84.74978,10.0725,-84.70978,10.1125",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0645\u0627\u0631"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3622854,
         "gp:id":58796,
-        "qs:id":149505
+        "qs_pg:id":149505
     },
     "wof:country":"CR",
     "wof:created":1459009921,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421197693,
-    "wof:lastmodified":1564312471,
+    "wof:lastmodified":1566708881,
     "wof:name":"Miramar",
     "wof:parent_id":421185489,
     "wof:placetype":"locality",

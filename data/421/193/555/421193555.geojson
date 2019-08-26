@@ -10,8 +10,12 @@
     "geom:latitude":9.79617,
     "geom:longitude":-83.85383,
     "iso:country":"CR",
+    "lbl:bbox":"-83.87383,9.77617,-83.83383,9.81617",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Oros\u00ed"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3622663,
         "gp:id":58893,
-        "qs:id":1340674,
+        "qs_pg:id":1340674,
         "wd:id":"Q1757497",
         "wk:page":"Oros\u00ed"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421193555,
-    "wof:lastmodified":1561760260,
+    "wof:lastmodified":1566708851,
     "wof:name":"Oros\u00ed",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

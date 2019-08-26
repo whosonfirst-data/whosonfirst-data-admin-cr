@@ -10,8 +10,12 @@
     "geom:latitude":8.44348,
     "geom:longitude":-83.46203,
     "iso:country":"CR",
+    "lbl:bbox":"-83.48203,8.42348,-83.44203,8.46348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Carate"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3624408,
         "gp:id":57977,
-        "qs:id":1164998
+        "qs_pg:id":1164998
     },
     "wof:country":"CR",
     "wof:created":1459009722,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421191985,
-    "wof:lastmodified":1564312466,
+    "wof:lastmodified":1566708879,
     "wof:name":"Carate",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

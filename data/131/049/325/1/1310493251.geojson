@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.15643,9.63391,-85.11643,9.67391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1310493251,
-    "wof:lastmodified":1564312254,
+    "wof:lastmodified":1566708823,
     "wof:name":"San Isidro",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

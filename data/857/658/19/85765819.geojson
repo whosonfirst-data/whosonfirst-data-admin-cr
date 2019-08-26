@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13493330.185708,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.09384,9.973977,-84.09384,9.973977",
     "geom:latitude":9.973977,
     "geom:longitude":-84.09384,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.09884,9.968977,-84.08884,9.978977",
     "lbl:latitude":9.973977,
     "lbl:longitude":-84.09384,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.981441,
     "mps:longitude":-84.094383,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Virilla"
-    ],
-    "name:unk_x_variant":[
         "Virilla"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670375,
         102191575,
         85632487,
-        421185327,
-        85670375
+        421185327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723800,
-        "qs:id":237727
+        "qs_pg:id":237727
     },
     "wof:country":"CR",
     "wof:geomhash":"15fe7c2e1362c3fe0749a3855b379b44",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859054,
+    "wof:lastmodified":1566708751,
     "wof:name":"Virilla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.46324,10.08896,-84.42324,10.12896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0628\u0629 \u062d\u0631\u0634\u064a\u0629"
     ],
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1326934331,
-    "wof:lastmodified":1564311750,
+    "wof:lastmodified":1566708722,
     "wof:name":"Chaparral",
     "wof:parent_id":421167885,
     "wof:placetype":"locality",

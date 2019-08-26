@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.18298,10.19997,-85.14298,10.23997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Platanar"
     ],
@@ -44,8 +48,7 @@
     ],
     "name:und_x_variant":[
         "Finca Platanar",
-        "Platanal",
-        "Platanar"
+        "Platanal"
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u5854\u7d0d\u723e\u706b\u5c71"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1310509015,
-    "wof:lastmodified":1564312286,
+    "wof:lastmodified":1566708832,
     "wof:name":"Platanar",
     "wof:parent_id":421190515,
     "wof:placetype":"locality",

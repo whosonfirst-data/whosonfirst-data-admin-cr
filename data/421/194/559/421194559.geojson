@@ -10,8 +10,12 @@
     "geom:latitude":9.96746,
     "geom:longitude":-84.01326,
     "iso:country":"CR",
+    "lbl:bbox":"-84.03326,9.94746,-83.99326,9.98746",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ip\u00eds de Goicoechea"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3623394,
         "gp:id":58503,
-        "qs:id":1260503,
+        "qs_pg:id":1260503,
         "wd:id":"Q1751694"
     },
     "wof:country":"CR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421194559,
-    "wof:lastmodified":1561760259,
+    "wof:lastmodified":1566708849,
     "wof:name":"Ip\u00eds",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

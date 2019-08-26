@@ -10,8 +10,12 @@
     "geom:latitude":9.98457,
     "geom:longitude":-84.33844,
     "iso:country":"CR",
+    "lbl:bbox":"-84.35844,9.96457,-84.31844,10.00457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Garita"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "La Garita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Garita"
     ],
     "qs:gn_country":"CR",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":3623238,
         "gp:id":58585,
-        "qs:id":474562,
+        "qs_pg:id":474562,
         "wd:id":"Q3820871"
     },
     "wof:country":"CR",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421199355,
-    "wof:lastmodified":1561760269,
+    "wof:lastmodified":1566708883,
     "wof:name":"La Garita",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

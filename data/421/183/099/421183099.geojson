@@ -10,8 +10,12 @@
     "geom:latitude":10.3406,
     "geom:longitude":-84.58084,
     "iso:country":"CR",
+    "lbl:bbox":"-84.60084,10.3206,-84.56084,10.3606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tigra"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3621295,
         "gp:id":59802,
-        "qs:id":962127,
+        "qs_pg:id":962127,
         "wd:id":"Q2532716"
     },
     "wof:country":"CR",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421183099,
-    "wof:lastmodified":1563318749,
+    "wof:lastmodified":1566708892,
     "wof:name":"Tigra",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

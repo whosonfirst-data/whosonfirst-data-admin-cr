@@ -10,8 +10,12 @@
     "geom:latitude":8.52944,
     "geom:longitude":-83.40173,
     "iso:country":"CR",
+    "lbl:bbox":"-83.42173,8.50944,-83.38173,8.54944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3623896,
         "gp:id":58236,
-        "qs:id":982496
+        "qs_pg:id":982496
     },
     "wof:country":"CR",
     "wof:created":1459009374,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183579,
-    "wof:lastmodified":1499977073,
+    "wof:lastmodified":1566708894,
     "wof:name":"Dos Brazos",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

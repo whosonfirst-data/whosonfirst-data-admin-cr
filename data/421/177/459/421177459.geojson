@@ -10,8 +10,12 @@
     "geom:latitude":9.65378,
     "geom:longitude":-83.96946,
     "iso:country":"CR",
+    "lbl:bbox":"-83.98946,9.63378,-83.94946,9.67378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3621571,
         "gp:id":59651,
-        "qs:id":1340728
+        "qs_pg:id":1340728
     },
     "wof:country":"CR",
     "wof:created":1459009145,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421177459,
-    "wof:lastmodified":1499977151,
+    "wof:lastmodified":1566708891,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":421184839,
     "wof:placetype":"locality",

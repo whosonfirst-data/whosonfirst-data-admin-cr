@@ -11,11 +11,14 @@
     "geom:longitude":-83.98845,
     "gn:country":"CR",
     "gn:fcode":"AREA",
-    "gn:pop":4050,
+    "gn:population":4050,
     "iso:country":"CR",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Nuestra casa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6942049,
         "gp:id":59813,
-        "qs:id":653114
+        "qs_pg:id":653114
     },
     "wof:country":"CR",
     "wof:created":1469052366,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890442541,
-    "wof:lastmodified":1505343588,
+    "wof:lastmodified":1566708905,
     "wof:name":"Nuestra casa",
     "wof:parent_id":1108693655,
     "wof:placetype":"locality",

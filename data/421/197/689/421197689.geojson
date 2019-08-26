@@ -10,8 +10,12 @@
     "geom:latitude":10.24138,
     "geom:longitude":-84.27933,
     "iso:country":"CR",
+    "lbl:bbox":"-84.29933,10.22138,-84.25933,10.26138",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "R\u00edo Segundo"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3622074,
         "gp:id":59257,
-        "qs:id":149498
+        "qs_pg:id":149498
     },
     "wof:country":"CR",
     "wof:created":1459009921,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421197689,
-    "wof:lastmodified":1564312471,
+    "wof:lastmodified":1566708881,
     "wof:name":"R\u00edo Segundo",
     "wof:parent_id":421175407,
     "wof:placetype":"locality",

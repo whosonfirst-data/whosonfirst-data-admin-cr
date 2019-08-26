@@ -10,8 +10,12 @@
     "geom:latitude":10.191729,
     "geom:longitude":-83.48173,
     "iso:country":"CR",
+    "lbl:bbox":"-83.58173,10.091729,-83.38173,10.291729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Al-Qahirah"
@@ -605,7 +609,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26808912,
-        "qs:id":392755,
         "qs_pg:id":392755
     },
     "wof:country":"CR",
@@ -621,7 +624,7 @@
         }
     ],
     "wof:id":421198139,
-    "wof:lastmodified":1564312459,
+    "wof:lastmodified":1566708877,
     "wof:name":"Cairo",
     "wof:parent_id":421185331,
     "wof:placetype":"localadmin",

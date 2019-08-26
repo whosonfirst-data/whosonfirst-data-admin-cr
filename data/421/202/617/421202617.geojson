@@ -10,8 +10,12 @@
     "geom:latitude":10.250904,
     "geom:longitude":-84.310197,
     "iso:country":"CR",
+    "lbl:bbox":"-84.410197,10.150904,-84.210197,10.350904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809304,
-        "qs:id":224862,
         "qs_pg:id":224862
     },
     "wof:country":"CR",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421202617,
-    "wof:lastmodified":1497048919,
+    "wof:lastmodified":1566708859,
     "wof:name":"Toro Amarillo",
     "wof:parent_id":421175407,
     "wof:placetype":"localadmin",

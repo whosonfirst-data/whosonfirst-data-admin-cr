@@ -10,8 +10,12 @@
     "geom:latitude":9.791956,
     "geom:longitude":-84.923286,
     "iso:country":"CR",
+    "lbl:bbox":"-85.023286,9.691956,-84.823286,9.891956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809087,
-        "qs:id":1311487,
         "qs_pg:id":1311487
     },
     "wof:country":"CR",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421197121,
-    "wof:lastmodified":1509390565,
+    "wof:lastmodified":1566708882,
     "wof:name":"Paquera",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

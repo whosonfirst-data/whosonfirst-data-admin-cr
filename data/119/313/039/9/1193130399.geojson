@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.42099,10.26355,-83.38099,10.30355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193130399,
-    "wof:lastmodified":1536376417,
+    "wof:lastmodified":1566708811,
     "wof:name":"Suerre",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

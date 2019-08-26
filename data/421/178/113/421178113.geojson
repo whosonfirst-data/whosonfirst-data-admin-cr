@@ -10,8 +10,12 @@
     "geom:latitude":9.33066,
     "geom:longitude":-83.95808,
     "iso:country":"CR",
+    "lbl:bbox":"-83.97808,9.31066,-83.93808,9.35066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aym_x_preferred":[
         "Matapalu jisk'a t'aqa suyu"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3622904,
         "gp:id":58763,
-        "qs:id":277679
+        "qs_pg:id":277679
     },
     "wof:country":"CR",
     "wof:created":1459009171,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421178113,
-    "wof:lastmodified":1527717729,
+    "wof:lastmodified":1566708895,
     "wof:name":"Matapalo",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

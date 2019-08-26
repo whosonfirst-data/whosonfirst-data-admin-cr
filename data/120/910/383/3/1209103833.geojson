@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.47726,10.10861,-83.43726,10.14861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632487
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209103833,
-    "wof:lastmodified":1536297644,
+    "wof:lastmodified":1566708807,
     "wof:name":"Indiana Tres",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

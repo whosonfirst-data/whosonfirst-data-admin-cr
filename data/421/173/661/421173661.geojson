@@ -10,8 +10,12 @@
     "geom:latitude":9.42967,
     "geom:longitude":-84.06024,
     "iso:country":"CR",
+    "lbl:bbox":"-84.08024,9.40967,-84.04024,9.44967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "S\u00e1balo"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3622032,
         "gp:id":59286,
-        "qs:id":295248
+        "qs_pg:id":295248
     },
     "wof:country":"CR",
     "wof:created":1459008998,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421173661,
-    "wof:lastmodified":1564312415,
+    "wof:lastmodified":1566708865,
     "wof:name":"S\u00e1balo",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

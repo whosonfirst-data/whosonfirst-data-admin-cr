@@ -10,8 +10,12 @@
     "geom:latitude":9.617252,
     "geom:longitude":-84.632835,
     "iso:country":"CR",
+    "lbl:bbox":"-84.732835,9.517252,-84.532835,9.717252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jaco"
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809017,
-        "qs:id":219087
+        "qs_pg:id":219087
     },
     "wof:country":"CR",
     "wof:created":1459010104,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421202073,
-    "wof:lastmodified":1564312398,
+    "wof:lastmodified":1566708860,
     "wof:name":"Jaco",
     "wof:parent_id":421204087,
     "wof:placetype":"localadmin",

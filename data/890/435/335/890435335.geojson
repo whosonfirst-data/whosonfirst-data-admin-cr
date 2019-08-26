@@ -11,10 +11,14 @@
     "geom:longitude":-84.0488,
     "gn:country":"CR",
     "gn:fcode":"PPL",
-    "gn:pop":34447,
+    "gn:population":34447,
     "iso:country":"CR",
+    "lbl:bbox":"-84.0688,9.94164,-84.0288,9.98164",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "San Vicente"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":6612154,
         "gp:id":59598,
-        "qs:id":160915,
+        "qs_pg:id":160915,
         "wd:id":"Q3211297",
         "wk:page":"San Vicente, Moravia"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890435335,
-    "wof:lastmodified":1563318798,
+    "wof:lastmodified":1566708905,
     "wof:name":"San Vicente de Moravia",
     "wof:parent_id":421203271,
     "wof:placetype":"locality",

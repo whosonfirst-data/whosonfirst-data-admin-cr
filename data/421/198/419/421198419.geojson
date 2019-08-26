@@ -10,8 +10,12 @@
     "geom:latitude":9.90488,
     "geom:longitude":-84.10551,
     "iso:country":"CR",
+    "lbl:bbox":"-84.12551,9.88488,-84.08551,9.92488",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Felipe"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3621922,
         "gp:id":59357,
-        "qs:id":1200417,
+        "qs_pg:id":1200417,
         "wd:id":"Q3947040"
     },
     "wof:country":"CR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421198419,
-    "wof:lastmodified":1561760268,
+    "wof:lastmodified":1566708877,
     "wof:name":"San Felipe",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":9.936091,
     "geom:longitude":-84.099225,
     "iso:country":"CR",
+    "lbl:bbox":"-84.104225,9.931091,-84.094225,9.941091",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30dd\u30fb\u30a8\u30ea\u30a2\u30b9\u30fb\u30c7\u30eb\u30ac\u30fc\u30c9"
@@ -39,15 +42,15 @@
     "qs:woe_id":22723810,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723810,
-        "qs:id":1000753
+        "qs_pg:id":1000753
     },
     "wof:country":"CR",
     "wof:created":1459009413,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421184507,
-    "wof:lastmodified":1531858533,
+    "wof:lastmodified":1566708887,
     "wof:name":"Rincon de Cubillos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

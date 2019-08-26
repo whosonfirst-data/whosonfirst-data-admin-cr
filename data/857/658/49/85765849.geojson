@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":418291.344935,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.098547,9.935469,-84.098547,9.935469",
     "geom:latitude":9.935469,
     "geom:longitude":-84.098547,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.103547,9.930469,-84.093547,9.940469",
     "lbl:latitude":9.935469,
     "lbl:longitude":-84.098547,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.93627,
     "mps:longitude":-84.097663,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
         "Mantica horni"
     ],
     "name:spa_x_preferred":[
-        "Mantica"
-    ],
-    "name:unk_x_variant":[
         "Mantica"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -61,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":30,
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723838,
-        "qs:id":1087512
+        "qs_pg:id":1087512
     },
     "wof:country":"CR",
     "wof:geomhash":"6d4224b39df76d5a1ec8dd4f676e0494",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859059,
+    "wof:lastmodified":1566708752,
     "wof:name":"Mantica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
