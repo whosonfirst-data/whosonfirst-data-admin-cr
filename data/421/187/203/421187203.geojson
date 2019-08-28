@@ -10,8 +10,12 @@
     "geom:latitude":9.6551,
     "geom:longitude":-85.06791,
     "iso:country":"CR",
+    "lbl:bbox":"-85.08791,9.6351,-85.04791,9.6751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Montezuma"
@@ -34,7 +38,7 @@
     "name:nob_x_preferred":[
         "Montezuma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moctezuma"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3622810,
         "gp:id":58826,
-        "qs:id":1082576,
+        "qs_pg:id":1082576,
         "wd:id":"Q633703",
         "wk:page":"Montezuma, Costa Rica"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421187203,
-    "wof:lastmodified":1561760264,
+    "wof:lastmodified":1566708863,
     "wof:name":"Montezuma",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.9959,
     "geom:longitude":-84.05126,
     "iso:country":"CR",
+    "lbl:bbox":"-84.07126,9.9759,-84.03126,10.0159",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3624908,
         "gp:id":57705,
-        "qs:id":1200102
+        "qs_pg:id":1200102
     },
     "wof:country":"CR",
     "wof:created":1459009947,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421198413,
-    "wof:lastmodified":1505340755,
+    "wof:lastmodified":1566708877,
     "wof:name":"\u00c1ngeles",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

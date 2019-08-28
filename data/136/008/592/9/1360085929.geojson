@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.10748,10.03089,-84.06748,10.07089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Uvita",
         "Uvita"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360085929,
-    "wof:lastmodified":1537618847,
+    "wof:lastmodified":1566708837,
     "wof:name":"Uvita",
     "wof:parent_id":421180917,
     "wof:placetype":"locality",

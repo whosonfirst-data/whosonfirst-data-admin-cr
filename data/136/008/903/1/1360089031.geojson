@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.46524,9.95302,-84.42524,9.99302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360089031,
-    "wof:lastmodified":1536940605,
+    "wof:lastmodified":1566708838,
     "wof:name":"Alto del Monte",
     "wof:parent_id":421202071,
     "wof:placetype":"locality",

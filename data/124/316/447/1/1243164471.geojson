@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-82.81759,9.63894,-82.77759,9.67894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243164471,
-    "wof:lastmodified":1536715460,
+    "wof:lastmodified":1566708918,
     "wof:name":"Hone Creek",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

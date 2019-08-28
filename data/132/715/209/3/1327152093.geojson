@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.35975,10.06447,-84.31975,10.10447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327152093,
-    "wof:lastmodified":1537082359,
+    "wof:lastmodified":1566708725,
     "wof:name":"Sarchi Sur",
     "wof:parent_id":421175407,
     "wof:placetype":"locality",

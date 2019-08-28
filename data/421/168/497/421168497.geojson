@@ -10,10 +10,14 @@
     "geom:latitude":9.64548,
     "geom:longitude":-83.91777,
     "iso:country":"CR",
+    "lbl:bbox":"-83.93777,9.62548,-83.89777,9.66548",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Copey"
     ],
     "qs:gn_country":"CR",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":3624098,
         "gp:id":58146,
-        "qs:id":923634
+        "qs_pg:id":923634
     },
     "wof:country":"CR",
     "wof:created":1459008767,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421168497,
-    "wof:lastmodified":1527716093,
+    "wof:lastmodified":1566708846,
     "wof:name":"Copey",
     "wof:parent_id":421184839,
     "wof:placetype":"locality",

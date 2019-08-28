@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.564814,
     "lbl:longitude":-84.317028,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Puntarenas",
     "meso:dissme":"PARRITAPUNTARENAS",
     "meso:gadm_admin":"Parrita",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.317028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Parrita"
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"479",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Parrita",
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gp:id":26808836,
         "hasc:id":"CR.PU.PA",
-        "qs:id":890667,
+        "qs_pg:id":890667,
         "wd:id":"Q7139824"
     },
     "wof:country":"CR",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1563318769,
+    "wof:lastmodified":1566708896,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.12646,9.95291,-84.08646,9.99291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Rinconada"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1344263165,
-    "wof:lastmodified":1564311885,
+    "wof:lastmodified":1566708747,
     "wof:name":"Rinconada",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

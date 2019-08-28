@@ -10,8 +10,12 @@
     "geom:latitude":9.42357,
     "geom:longitude":-84.16522,
     "iso:country":"CR",
+    "lbl:bbox":"-84.18522,9.40357,-84.14522,9.44357",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quepos"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Quepos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Quepos"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3622193,
         "gp:id":59182,
-        "qs:id":489033,
+        "qs_pg:id":489033,
         "wd:id":"Q2776723",
         "wk:page":"Quepos"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421181331,
-    "wof:lastmodified":1563318681,
+    "wof:lastmodified":1566708874,
     "wof:name":"Quepos",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.207488,
     "geom:longitude":-83.793411,
     "iso:country":"CR",
+    "lbl:bbox":"-83.893411,10.107488,-83.693411,10.307488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809006,
-        "qs:id":1264123,
         "qs_pg:id":1264123
     },
     "wof:country":"CR",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421201621,
-    "wof:lastmodified":1497044465,
+    "wof:lastmodified":1566708884,
     "wof:name":"Guapiles",
     "wof:parent_id":421171355,
     "wof:placetype":"localadmin",

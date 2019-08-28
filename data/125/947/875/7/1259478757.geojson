@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.962,9.67862,-83.922,9.71862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Chonta",
         "Chonta"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259478757,
-    "wof:lastmodified":1537618871,
+    "wof:lastmodified":1566708926,
     "wof:name":"Chonta",
     "wof:parent_id":1108693655,
     "wof:placetype":"locality",

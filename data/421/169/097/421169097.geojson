@@ -10,6 +10,9 @@
     "geom:latitude":10.01625,
     "geom:longitude":-84.21163,
     "iso:country":"CR",
+    "lbl:bbox":"-84.23163,9.99625,-84.19163,10.03625",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -319,7 +322,7 @@
     "wof:concordances":{
         "gn:id":3624955,
         "gp:id":57669,
-        "qs:id":1284740,
+        "qs_pg:id":1284740,
         "wd:id":"Q37104",
         "wk:page":"Alajuela"
     },
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":421169097,
-    "wof:lastmodified":1563318597,
+    "wof:lastmodified":1566708853,
     "wof:name":"Alajuela",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

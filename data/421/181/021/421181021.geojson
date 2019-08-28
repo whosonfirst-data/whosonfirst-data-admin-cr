@@ -10,8 +10,12 @@
     "geom:latitude":9.45911,
     "geom:longitude":-84.17913,
     "iso:country":"CR",
+    "lbl:bbox":"-84.19913,9.43911,-84.15913,9.47911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Paquita"
@@ -274,7 +278,7 @@
     "wof:concordances":{
         "gn:id":3622558,
         "gp:id":58948,
-        "qs:id":474577,
+        "qs_pg:id":474577,
         "wd:id":"Q2718748"
     },
     "wof:country":"CR",
@@ -290,7 +294,7 @@
         }
     ],
     "wof:id":421181021,
-    "wof:lastmodified":1563318690,
+    "wof:lastmodified":1566708875,
     "wof:name":"Paquita",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.24574,10.68788,-85.20574,10.72788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Guayabos"
     ],
     "name:und_x_variant":[
-        "Hacienda Guayabo",
-        "Guayabos"
+        "Hacienda Guayabo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1344258781,
-    "wof:lastmodified":1564311842,
+    "wof:lastmodified":1566708738,
     "wof:name":"Guayabos",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

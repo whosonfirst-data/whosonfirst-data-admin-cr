@@ -10,8 +10,12 @@
     "geom:latitude":9.57925,
     "geom:longitude":-84.60857,
     "iso:country":"CR",
+    "lbl:bbox":"-84.62857,9.55925,-84.58857,9.59925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3622333,
         "gp:id":59079,
-        "qs:id":910191
+        "qs_pg:id":910191
     },
     "wof:country":"CR",
     "wof:created":1459009818,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421194759,
-    "wof:lastmodified":1499977077,
+    "wof:lastmodified":1566708850,
     "wof:name":"Pochotal",
     "wof:parent_id":421204087,
     "wof:placetype":"locality",

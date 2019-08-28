@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.440296,
     "lbl:longitude":-85.093477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guanacaste",
     "meso:dissme":"CA\u00d1ASGUANACASTE",
     "meso:gadm_admin":"Ca\u00f1as",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.093477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Canas"
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"682",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Ca\u00f1as",
@@ -128,7 +131,7 @@
     "wof:concordances":{
         "gp:id":26808796,
         "hasc:id":"CR.GU.CN",
-        "qs:id":1264088,
+        "qs_pg:id":1264088,
         "wd:id":"Q1706524"
     },
     "wof:country":"CR",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421201613,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1566708885,
     "wof:name":"Canas",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.01693,10.52916,-84.97693,10.56916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Hacienda Montecristo"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209517367,
-    "wof:lastmodified":1537618859,
+    "wof:lastmodified":1566708803,
     "wof:name":"HDA Montecristo",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

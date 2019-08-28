@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.83714,9.83845,-83.79714,9.87845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yas"
     ],
@@ -55,8 +59,7 @@
         "\u0401\u0441"
     ],
     "name:und_x_variant":[
-        "El Yas",
-        "Yas"
+        "El Yas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1276771775,
-    "wof:lastmodified":1564312078,
+    "wof:lastmodified":1566708788,
     "wof:name":"Yas",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

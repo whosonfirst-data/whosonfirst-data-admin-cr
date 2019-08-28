@@ -10,8 +10,12 @@
     "geom:latitude":9.95974,
     "geom:longitude":-84.08165,
     "iso:country":"CR",
+    "lbl:bbox":"-84.10165,9.93974,-84.06165,9.97974",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
@@ -196,7 +200,7 @@
     "wof:concordances":{
         "gn:id":3621819,
         "gp:id":59445,
-        "qs:id":193078
+        "qs_pg:id":193078
     },
     "wof:country":"CR",
     "wof:created":1459009985,
@@ -211,7 +215,7 @@
         }
     ],
     "wof:id":421199321,
-    "wof:lastmodified":1564312476,
+    "wof:lastmodified":1566708883,
     "wof:name":"San Juan",
     "wof:parent_id":421202607,
     "wof:placetype":"locality",

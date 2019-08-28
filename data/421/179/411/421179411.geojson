@@ -10,8 +10,12 @@
     "geom:latitude":9.95,
     "geom:longitude":-84.06667,
     "iso:country":"CR",
+    "lbl:bbox":"-84.08667,9.93,-84.04667,9.97",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Calle Blancos"
@@ -25,7 +29,7 @@
     "name:spa_x_preferred":[
         "Calle Blancos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blancos"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3624509,
         "gp:id":57922,
-        "qs:id":149523,
+        "qs_pg:id":149523,
         "wd:id":"Q3650836"
     },
     "wof:country":"CR",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421179411,
-    "wof:lastmodified":1561760272,
+    "wof:lastmodified":1566708895,
     "wof:name":"Calle Blancos",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.95808,
     "geom:longitude":-84.0305,
     "iso:country":"CR",
+    "lbl:bbox":"-84.0505,9.93808,-84.0105,9.97808",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3622217,
         "gp:id":59162,
-        "qs:id":1200376
+        "qs_pg:id":1200376
     },
     "wof:country":"CR",
     "wof:created":1459009947,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421198417,
-    "wof:lastmodified":1505340755,
+    "wof:lastmodified":1566708878,
     "wof:name":"Purral",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

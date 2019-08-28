@@ -10,13 +10,17 @@
     "geom:latitude":9.8237,
     "geom:longitude":-83.89185,
     "iso:country":"CR",
+    "lbl:bbox":"-83.91185,9.8037,-83.87185,9.8437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Deyanira \u00c1frica Melo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barra Mocado"
     ],
     "qs:gn_country":"CR",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3624738,
         "gp:id":57805,
-        "qs:id":222177
+        "qs_pg:id":222177
     },
     "wof:country":"CR",
     "wof:created":1459010117,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421202415,
-    "wof:lastmodified":1501268180,
+    "wof:lastmodified":1566708860,
     "wof:name":"Barro Morado",
     "wof:parent_id":421189139,
     "wof:placetype":"locality",

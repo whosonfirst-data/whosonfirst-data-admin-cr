@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.67188,10.01043,-83.63188,10.05043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Alto",
         "Altos Pascua"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343953237,
-    "wof:lastmodified":1537618876,
+    "wof:lastmodified":1566708743,
     "wof:name":"Altos Pascua",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

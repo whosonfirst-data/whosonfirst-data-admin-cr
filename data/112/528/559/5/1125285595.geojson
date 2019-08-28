@@ -9,12 +9,16 @@
     "geom:bbox":"-84.200216,9.996132,-84.200216,9.996132",
     "geom:latitude":9.996132,
     "geom:longitude":-84.200216,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CR",
+    "lbl:bbox":"-84.300216,9.896132,-84.100216,10.096132",
     "lbl:latitude":9.996132,
     "lbl:longitude":-84.200216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Ribera"
@@ -76,7 +80,7 @@
     "qs_pg:woe_adm0":23424791,
     "qs_pg:woe_id":26809135,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424791,
     "woe:name_adm0":"Costa Rica",
     "woe:name_adm1":"Heredia",
@@ -90,7 +94,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809135,
-        "qs:id":1264141,
         "qs_pg:id":1264141
     },
     "wof:country":"CR",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125285595,
-    "wof:lastmodified":1564312544,
+    "wof:lastmodified":1566708906,
     "wof:name":"Ribera",
     "wof:parent_id":421201603,
     "wof:placetype":"localadmin",

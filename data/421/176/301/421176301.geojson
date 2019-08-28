@@ -10,8 +10,12 @@
     "geom:latitude":9.84636,
     "geom:longitude":-84.31428,
     "iso:country":"CR",
+    "lbl:bbox":"-84.41428,9.74636,-84.21428,9.94636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a\u0633\u0643\u0627\u0644"
@@ -32,9 +36,6 @@
         "\u041f\u0443\u0440\u0438\u0441\u043a\u0430\u043b\u044c"
     ],
     "name:spa_x_preferred":[
-        "Puriscal"
-    ],
-    "name:unk_x_variant":[
         "Puriscal"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3621524,
         "gp:id":26809272,
-        "qs:id":1045750,
         "qs_pg:id":1045750,
         "wd:id":"Q196298",
         "wk:page":"Santiago de Puriscal"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":421176301,
-    "wof:lastmodified":1563318772,
+    "wof:lastmodified":1566708897,
     "wof:name":"Santiago",
     "wof:parent_id":421175401,
     "wof:placetype":"localadmin",

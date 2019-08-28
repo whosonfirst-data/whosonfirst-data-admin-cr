@@ -10,8 +10,12 @@
     "geom:latitude":9.9326,
     "geom:longitude":-84.18254,
     "iso:country":"CR",
+    "lbl:bbox":"-84.20254,9.9126,-84.16254,9.9526",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Ana"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3621630,
         "gp:id":59609,
-        "qs:id":211053,
+        "qs_pg:id":211053,
         "wd:id":"Q3948919",
         "wk:page":"Santa Ana, Costa Rica"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421169997,
-    "wof:lastmodified":1561760261,
+    "wof:lastmodified":1566708853,
     "wof:name":"Santa Ana",
     "wof:parent_id":421180919,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.03751,9.86732,-82.99751,9.90732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u0430"
     ],
@@ -704,7 +708,7 @@
         }
     ],
     "wof:id":1243261235,
-    "wof:lastmodified":1564312627,
+    "wof:lastmodified":1566708921,
     "wof:name":"Bolivia",
     "wof:parent_id":421188065,
     "wof:placetype":"locality",

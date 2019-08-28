@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.77416,10.26203,-85.73416,10.30203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193017791,
-    "wof:lastmodified":1536376592,
+    "wof:lastmodified":1566708811,
     "wof:name":"Tieso",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

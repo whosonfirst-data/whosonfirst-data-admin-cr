@@ -10,8 +10,12 @@
     "geom:latitude":10.184596,
     "geom:longitude":-84.391822,
     "iso:country":"CR",
+    "lbl:bbox":"-84.491822,10.084596,-84.291822,10.284596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0644\u0641\u0627\u0631\u0648 \u0631\u0648\u064a\u0633"
@@ -68,7 +72,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809333,
-        "qs:id":1311503
+        "qs_pg:id":1311503
     },
     "wof:country":"CR",
     "wof:created":1459008944,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421172477,
-    "wof:lastmodified":1564312439,
+    "wof:lastmodified":1566708871,
     "wof:name":"Zarcero",
     "wof:parent_id":1108693671,
     "wof:placetype":"localadmin",

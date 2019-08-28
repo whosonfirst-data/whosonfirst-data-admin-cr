@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.08177,8.60234,-83.04177,8.64234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259574909,
-    "wof:lastmodified":1536727624,
+    "wof:lastmodified":1566708927,
     "wof:name":"Coto Independiente",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.13824,9.98995,-84.09824,10.02995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carbonal",
         "El Carbonal"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293907661,
-    "wof:lastmodified":1537618868,
+    "wof:lastmodified":1566708763,
     "wof:name":"El Carbonal",
     "wof:parent_id":421180917,
     "wof:placetype":"locality",

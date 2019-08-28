@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.843146,
     "lbl:longitude":-84.484581,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Jose",
     "meso:dissme":"TURRUBARESSAN JOSE",
     "meso:gadm_admin":"Turrubares",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.484581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Turrubares"
@@ -63,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"415",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Pablo",
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gp:id":26808860,
         "hasc:id":"CR.SJ.TU",
-        "qs:id":1289866
+        "qs_pg:id":1289866
     },
     "wof:country":"CR",
     "wof:created":1459008915,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421172005,
-    "wof:lastmodified":1555047424,
+    "wof:lastmodified":1566708873,
     "wof:name":"Turrubares",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

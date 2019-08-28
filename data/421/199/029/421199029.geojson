@@ -10,6 +10,9 @@
     "geom:latitude":10.4294,
     "geom:longitude":-85.09311,
     "iso:country":"CR",
+    "lbl:bbox":"-85.11311,10.4094,-85.07311,10.4494",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -20,7 +23,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Las Ca\u00f1as"
     ],
     "ne:ADM0CAP":0.0,
@@ -145,7 +148,7 @@
     "wof:concordances":{
         "gn:id":3624468,
         "gp:id":57943,
-        "qs:id":1214064
+        "qs_pg:id":1214064
     },
     "wof:country":"CR",
     "wof:created":1459009975,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421199029,
-    "wof:lastmodified":1505340761,
+    "wof:lastmodified":1566708883,
     "wof:name":"Ca\u00f1as",
     "wof:parent_id":421201613,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.39689,9.92062,-84.35689,9.96062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Balsa",
         "Balsa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326844149,
-    "wof:lastmodified":1537618874,
+    "wof:lastmodified":1566708729,
     "wof:name":"Balsa",
     "wof:parent_id":421202071,
     "wof:placetype":"locality",

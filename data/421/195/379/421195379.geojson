@@ -10,8 +10,12 @@
     "geom:latitude":10.67217,
     "geom:longitude":-84.82139,
     "iso:country":"CR",
+    "lbl:bbox":"-84.92139,10.57217,-84.72139,10.77217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "San Rafael"
@@ -22,7 +26,7 @@
     "name:spa_x_preferred":[
         "San Rafael de Guatuso"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael Guatuso"
     ],
     "name:zho_x_preferred":[
@@ -61,10 +65,12 @@
     "wof:concordances":{
         "gn:id":3621670,
         "gp:id":26809241,
-        "qs:id":149489,
-        "qs_pg:id":232634,
+        "qs_pg:id":149489,
         "wd:id":"Q920624",
         "wk:page":"San Rafael de Guatuso"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":232634
     },
     "wof:country":"CR",
     "wof:created":1459009841,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421195379,
-    "wof:lastmodified":1527716121,
+    "wof:lastmodified":1566708848,
     "wof:name":"San Rafael",
     "wof:parent_id":421204093,
     "wof:placetype":"localadmin",

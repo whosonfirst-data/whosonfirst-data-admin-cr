@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.25956,10.6568,-85.21956,10.6968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ese",
         "La Ese"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293100629,
-    "wof:lastmodified":1537618862,
+    "wof:lastmodified":1566708775,
     "wof:name":"La Ese",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

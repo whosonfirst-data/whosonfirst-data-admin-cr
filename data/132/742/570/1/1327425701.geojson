@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.39454,8.5206,-83.35454,8.5606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Tigre"
     ],
@@ -94,8 +98,7 @@
         "\u0422\u0438\u0433\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "El Tigre",
-        "Tigre"
+        "El Tigre"
     ],
     "name:uzb_x_preferred":[
         "Tigre"
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1327425701,
-    "wof:lastmodified":1564311827,
+    "wof:lastmodified":1566708734,
     "wof:name":"Tigre",
     "wof:parent_id":421194697,
     "wof:placetype":"locality",

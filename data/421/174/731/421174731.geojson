@@ -10,8 +10,12 @@
     "geom:latitude":10.47089,
     "geom:longitude":-84.64535,
     "iso:country":"CR",
+    "lbl:bbox":"-84.66535,10.45089,-84.62535,10.49089",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Fortuna"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "La Fortuna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Bur\u00edo"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3623716,
         "gp:id":58343,
-        "qs:id":897989,
+        "qs_pg:id":897989,
         "wd:id":"Q3209157",
         "wk:page":"La Fortuna, Costa Rica"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421174731,
-    "wof:lastmodified":1563318625,
+    "wof:lastmodified":1566708861,
     "wof:name":"Fortuna",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.93333,
     "geom:longitude":-84.95,
     "iso:country":"CR",
+    "lbl:bbox":"-84.97,9.91333,-84.93,9.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Naranjo"
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0430\u043d\u0445\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hacienda Naranjo"
     ],
     "name:zho_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3622752,
         "gp:id":58859,
-        "qs:id":1340663
+        "qs_pg:id":1340663
     },
     "wof:country":"CR",
     "wof:created":1459009904,
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421197161,
-    "wof:lastmodified":1564312471,
+    "wof:lastmodified":1566708881,
     "wof:name":"Naranjo",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

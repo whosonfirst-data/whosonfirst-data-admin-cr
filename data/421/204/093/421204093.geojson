@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.698786,
     "lbl:longitude":-84.844185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alajuela",
     "meso:dissme":"GUATUSOALAJUELA",
     "meso:gadm_admin":"Guatuso",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.844185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Guatuso"
@@ -63,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"758",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Rafael",
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gp:id":26808813,
         "hasc:id":"CR.AL.GU",
-        "qs:id":237822
+        "qs_pg:id":237822
     },
     "wof:country":"CR",
     "wof:created":1459010173,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421204093,
-    "wof:lastmodified":1555047429,
+    "wof:lastmodified":1566708857,
     "wof:name":"Guatuso",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

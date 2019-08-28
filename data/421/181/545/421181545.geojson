@@ -10,8 +10,12 @@
     "geom:latitude":10.09648,
     "geom:longitude":-84.18533,
     "iso:country":"CR",
+    "lbl:bbox":"-84.20533,10.07648,-84.16533,10.11648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3624299,
         "gp:id":58040,
-        "qs:id":494580
+        "qs_pg:id":494580
     },
     "wof:country":"CR",
     "wof:created":1459009299,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421181545,
-    "wof:lastmodified":1499977303,
+    "wof:lastmodified":1566708875,
     "wof:name":"Cerrillal",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.85014,
     "geom:longitude":-85.32924,
     "iso:country":"CR",
+    "lbl:bbox":"-85.34924,9.83014,-85.30924,9.87014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bejuco"
@@ -241,7 +245,7 @@
     "wof:concordances":{
         "gn:id":3624725,
         "gp:id":57813,
-        "qs:id":149527,
+        "qs_pg:id":149527,
         "wd:id":"Q20996879"
     },
     "wof:country":"CR",
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":421197697,
-    "wof:lastmodified":1563318715,
+    "wof:lastmodified":1566708882,
     "wof:name":"Bejuco",
     "wof:parent_id":1108693661,
     "wof:placetype":"locality",

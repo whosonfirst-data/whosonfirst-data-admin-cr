@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.3227,9.94441,-84.2827,9.98441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430"
     ],
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":1276876685,
-    "wof:lastmodified":1564312043,
+    "wof:lastmodified":1566708781,
     "wof:name":"Santa Rita",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

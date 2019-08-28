@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.7,10.14817,-84.66,10.18817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260386033,
-    "wof:lastmodified":1537068627,
+    "wof:lastmodified":1566708813,
     "wof:name":"Zapotal",
     "wof:parent_id":421185489,
     "wof:placetype":"locality",

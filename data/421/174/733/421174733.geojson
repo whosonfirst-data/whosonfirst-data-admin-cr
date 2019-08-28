@@ -10,8 +10,12 @@
     "geom:latitude":9.61497,
     "geom:longitude":-84.62975,
     "iso:country":"CR",
+    "lbl:bbox":"-84.64975,9.59497,-84.60975,9.63497",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jac\u00f3"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3623369,
         "gp:id":58519,
-        "qs:id":898010,
+        "qs_pg:id":898010,
         "wd:id":"Q1463601",
         "wk:page":"Jac\u00f3, Costa Rica"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421174733,
-    "wof:lastmodified":1563318625,
+    "wof:lastmodified":1566708861,
     "wof:name":"Jac\u00f3",
     "wof:parent_id":421204087,
     "wof:placetype":"locality",

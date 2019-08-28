@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.742268,
     "lbl:longitude":-84.230009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Jose",
     "meso:dissme":"ACOSTASAN JOSE",
     "meso:gadm_admin":"Acosta",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.230009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Acosta"
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"342",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Ignacio",
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gp:id":26808784,
         "hasc:id":"CR.SJ.AC",
-        "qs:id":421488
+        "qs_pg:id":421488
     },
     "wof:country":"CR",
     "wof:created":1459008744,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421167827,
-    "wof:lastmodified":1564312372,
+    "wof:lastmodified":1566708852,
     "wof:name":"Acosta",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":9.99858,
     "geom:longitude":-83.08375,
     "iso:country":"CR",
+    "lbl:bbox":"-83.10375,9.97858,-83.06375,10.01858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3622850,
         "gp:id":58800,
-        "qs:id":211044
+        "qs_pg:id":211044
     },
     "wof:country":"CR",
     "wof:created":1459009234,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421179833,
-    "wof:lastmodified":1499976263,
+    "wof:lastmodified":1566708894,
     "wof:name":"Mo\u00edn",
     "wof:parent_id":421188065,
     "wof:placetype":"locality",

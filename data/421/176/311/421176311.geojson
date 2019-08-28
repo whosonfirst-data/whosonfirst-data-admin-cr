@@ -10,8 +10,12 @@
     "geom:latitude":9.90163,
     "geom:longitude":-84.10042,
     "iso:country":"CR",
+    "lbl:bbox":"-84.12042,9.88163,-84.08042,9.92163",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062e\u0648\u064a\u0644\u064a\u062a\u0627"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3624951,
         "gp:id":57670,
-        "qs:id":1045760,
+        "qs_pg:id":1045760,
         "wd:id":"Q200703",
         "wk:page":"Alajuelita (canton)"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421176311,
-    "wof:lastmodified":1563318774,
+    "wof:lastmodified":1566708898,
     "wof:name":"Alajuelita",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",

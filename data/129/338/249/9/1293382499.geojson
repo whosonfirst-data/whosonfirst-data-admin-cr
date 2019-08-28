@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.15982,9.97071,-83.11982,10.01071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "9 Millas",
         "Nueve Millas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293382499,
-    "wof:lastmodified":1537618858,
+    "wof:lastmodified":1566708760,
     "wof:name":"Nueve Millas",
     "wof:parent_id":421188065,
     "wof:placetype":"locality",

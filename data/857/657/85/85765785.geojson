@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":399586.941958,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.077778,9.933698,-84.077778,9.933698",
     "geom:latitude":9.933698,
     "geom:longitude":-84.077778,
     "iso:country":"CR",
+    "lbl:bbox":"-84.082778,9.928698,-84.072778,9.938698",
     "lbl:latitude":9.933698,
     "lbl:longitude":-84.077778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.934075,
     "mps:longitude":-84.077205,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Morazan"
-    ],
-    "name:unk_x_variant":[
         "Morazan"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859050,
+    "wof:lastmodified":1566708753,
     "wof:name":"Morazan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

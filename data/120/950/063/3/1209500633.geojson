@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.53527,9.28791,-83.49527,9.32791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0637\u0645\u0629"
     ],
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1209500633,
-    "wof:lastmodified":1564312143,
+    "wof:lastmodified":1566708800,
     "wof:name":"Fatima",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

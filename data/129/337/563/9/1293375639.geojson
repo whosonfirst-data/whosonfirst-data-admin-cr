@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.81084,9.23752,-83.77084,9.27752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Salvador"
     ],
@@ -365,7 +369,7 @@
         }
     ],
     "wof:id":1293375639,
-    "wof:lastmodified":1564311926,
+    "wof:lastmodified":1566708762,
     "wof:name":"San Salvador",
     "wof:parent_id":421182141,
     "wof:placetype":"locality",

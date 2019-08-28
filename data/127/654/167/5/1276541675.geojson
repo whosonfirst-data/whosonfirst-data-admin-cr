@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.54828,10.09372,-83.50828,10.13372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Junta"
     ],
@@ -79,8 +83,7 @@
         "\u0425\u0443\u043d\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "La Junta",
-        "Junta"
+        "La Junta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1276541675,
-    "wof:lastmodified":1564312094,
+    "wof:lastmodified":1566708790,
     "wof:name":"Junta",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

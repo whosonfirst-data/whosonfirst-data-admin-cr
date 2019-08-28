@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.985444,
     "lbl:longitude":-84.177749,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"BELENHEREDIA",
     "meso:gadm_admin":"Bel\u00e9n",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.177749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Belen"
@@ -309,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"12",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Antonio",
@@ -332,7 +335,7 @@
     "wof:concordances":{
         "gp:id":26808794,
         "hasc:id":"CR.HE.BE",
-        "qs:id":421504,
+        "qs_pg:id":421504,
         "wd:id":"Q816332"
     },
     "wof:country":"CR",
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":421197833,
-    "wof:lastmodified":1563318711,
+    "wof:lastmodified":1566708881,
     "wof:name":"Belen",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.15454,9.92333,-84.11454,9.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Pavas"
     ],
@@ -37,8 +41,7 @@
         "Pavas"
     ],
     "name:und_x_variant":[
-        "Las Pavas",
-        "Pavas"
+        "Las Pavas"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u74e6\u65af\u5340"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1260268563,
-    "wof:lastmodified":1564312224,
+    "wof:lastmodified":1566708818,
     "wof:name":"Pavas",
     "wof:parent_id":421199285,
     "wof:placetype":"locality",

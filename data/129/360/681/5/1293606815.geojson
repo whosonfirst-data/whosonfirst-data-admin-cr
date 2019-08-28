@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.27204,10.23233,-84.23204,10.27233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Delicias"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1293606815,
-    "wof:lastmodified":1564311981,
+    "wof:lastmodified":1566708771,
     "wof:name":"Delicias",
     "wof:parent_id":421204089,
     "wof:placetype":"locality",

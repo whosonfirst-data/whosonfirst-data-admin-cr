@@ -10,8 +10,12 @@
     "geom:latitude":10.07404,
     "geom:longitude":-84.21551,
     "iso:country":"CR",
+    "lbl:bbox":"-84.23551,10.05404,-84.19551,10.09404",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Sabanilla"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Sabanilla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sabanilla de Pampas"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3622022,
         "gp:id":59295,
-        "qs:id":1340681,
+        "qs_pg:id":1340681,
         "wd:id":"Q3944213"
     },
     "wof:country":"CR",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421201141,
-    "wof:lastmodified":1561760270,
+    "wof:lastmodified":1566708887,
     "wof:name":"Sabanilla",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

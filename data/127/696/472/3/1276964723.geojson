@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.43667,9.68,-84.39667,9.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Erretana"
     ],
@@ -41,8 +45,7 @@
         "Retana"
     ],
     "name:und_x_variant":[
-        "Hacienda F. Retana",
-        "Retana"
+        "Hacienda F. Retana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276964723,
-    "wof:lastmodified":1564312089,
+    "wof:lastmodified":1566708789,
     "wof:name":"Retana",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

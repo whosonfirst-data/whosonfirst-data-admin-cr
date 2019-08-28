@@ -10,8 +10,12 @@
     "geom:latitude":10.0897,
     "geom:longitude":-84.34752,
     "iso:country":"CR",
+    "lbl:bbox":"-84.36752,10.0697,-84.32752,10.1097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sarch\u00ed District"
@@ -39,9 +43,6 @@
     ],
     "name:spa_x_preferred":[
         "Sarch\u00ed"
-    ],
-    "name:unk_x_variant":[
-        "Sarch\u00ed Norte"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u723e\u5947\u5340"
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3621495,
         "gp:id":59705,
-        "qs:id":228536,
+        "qs_pg:id":228536,
         "wd:id":"Q290882",
         "wk:page":"Sarch\u00ed"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421169651,
-    "wof:lastmodified":1561760261,
+    "wof:lastmodified":1566708853,
     "wof:name":"Sarch\u00ed",
     "wof:parent_id":421175407,
     "wof:placetype":"locality",

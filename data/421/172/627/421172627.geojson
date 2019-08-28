@@ -10,8 +10,12 @@
     "geom:latitude":10.501315,
     "geom:longitude":-85.254249,
     "iso:country":"CR",
+    "lbl:bbox":"-85.354249,10.401315,-85.154249,10.601315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bagaces"
@@ -65,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26808880,
-        "qs:id":1314886
+        "qs_pg:id":1314886
     },
     "wof:country":"CR",
     "wof:created":1459008949,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421172627,
-    "wof:lastmodified":1564312440,
+    "wof:lastmodified":1566708872,
     "wof:name":"Bagaces",
     "wof:parent_id":421171711,
     "wof:placetype":"localadmin",

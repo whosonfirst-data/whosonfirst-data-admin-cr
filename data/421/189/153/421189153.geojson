@@ -9,10 +9,14 @@
     "geom:bbox":"-84.894942,10.549837,-84.894942,10.549837",
     "geom:latitude":10.549837,
     "geom:longitude":-84.894942,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"CR",
+    "lbl:bbox":"-84.994942,10.449837,-84.794942,10.649837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -62,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809031,
-        "qs:id":1110232,
         "qs_pg:id":1110219
     },
     "wof:concordances_alt":{
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421189153,
-    "wof:lastmodified":1534379263,
+    "wof:lastmodified":1566708868,
     "wof:name":"Laguna de Arenal",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",

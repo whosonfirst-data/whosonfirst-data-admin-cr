@@ -10,8 +10,11 @@
     "geom:latitude":10.66626,
     "geom:longitude":-84.80225,
     "iso:country":"CR",
+    "lbl:bbox":"-84.80725,10.66126,-84.79725,10.67126",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Solar"
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":3623803,
         "gp:id":22723793,
-        "qs:id":234922,
+        "qs_pg:id":234922,
         "wd:id":"Q19928867"
     },
     "wof:country":"CR",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421203727,
-    "wof:lastmodified":1563318616,
+    "wof:lastmodified":1566708859,
     "wof:name":"El Solar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

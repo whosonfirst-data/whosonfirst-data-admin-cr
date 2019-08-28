@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.20144,9.79021,-84.16144,9.83021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Agua Blanca"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1225929487,
-    "wof:lastmodified":1564312685,
+    "wof:lastmodified":1566708931,
     "wof:name":"Agua Blanca",
     "wof:parent_id":421167827,
     "wof:placetype":"locality",

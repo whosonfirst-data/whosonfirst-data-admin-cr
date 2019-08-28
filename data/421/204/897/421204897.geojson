@@ -10,8 +10,12 @@
     "geom:latitude":10.00268,
     "geom:longitude":-84.63994,
     "iso:country":"CR",
+    "lbl:bbox":"-84.65994,9.98268,-84.61994,10.02268",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3622974,
         "gp:id":58725,
-        "qs:id":251342
+        "qs_pg:id":251342
     },
     "wof:country":"CR",
     "wof:created":1459010202,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421204897,
-    "wof:lastmodified":1505340790,
+    "wof:lastmodified":1566708858,
     "wof:name":"Macacona",
     "wof:parent_id":421188117,
     "wof:placetype":"locality",

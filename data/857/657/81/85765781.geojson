@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1917731.7183,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.081206,9.930219,-84.081206,9.930219",
     "geom:latitude":9.930219,
     "geom:longitude":-84.081206,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.086206,9.925219,-84.076206,9.935219",
     "lbl:latitude":9.930219,
     "lbl:longitude":-84.081206,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.927532,
     "mps:longitude":-84.08206,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Dolorosa"
-    ],
-    "name:unk_x_variant":[
         "Dolorosa"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723690,
-        "qs:id":889892
+        "qs_pg:id":889892
     },
     "wof:country":"CR",
     "wof:geomhash":"953d8f2500092954e79a1c5d21867d8e",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859050,
+    "wof:lastmodified":1566708752,
     "wof:name":"Dolorosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.47126,10.22626,-83.43126,10.26626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0440\u0443\u0442\u0435\u0430"
     ],
@@ -85,8 +89,7 @@
         "\u0414\u043e\u0440\u043e\u0442\u0435\u0430"
     ],
     "name:und_x_variant":[
-        "Dorothea",
-        "Dorotea"
+        "Dorothea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1293879233,
-    "wof:lastmodified":1564312002,
+    "wof:lastmodified":1566708774,
     "wof:name":"Dorotea",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

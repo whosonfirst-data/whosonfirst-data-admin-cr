@@ -10,8 +10,12 @@
     "geom:latitude":10.673597,
     "geom:longitude":-85.201721,
     "iso:country":"CR",
+    "lbl:bbox":"-85.301721,10.573597,-85.101721,10.773597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Mogot"
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809063,
-        "qs:id":115728
+        "qs_pg:id":115728
     },
     "wof:country":"CR",
     "wof:created":1459009852,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421195583,
-    "wof:lastmodified":1564312367,
+    "wof:lastmodified":1566708849,
     "wof:name":"Mogote",
     "wof:parent_id":421171711,
     "wof:placetype":"localadmin",

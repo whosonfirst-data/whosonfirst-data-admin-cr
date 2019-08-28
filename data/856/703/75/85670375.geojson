@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.444949,
     "lbl:longitude":-84.016703,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Heredia",
     "mps:latitude":10.428272,
     "mps:longitude":-84.015336,
@@ -159,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0435\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincia de Heredia"
     ],
     "name:urd_x_preferred":[
@@ -246,9 +247,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"2,657",
     "statoids:area_mi":"1,026",
     "statoids:as_of_date":"2011-05-30",
@@ -273,7 +274,7 @@
         "gp:id":2345085,
         "hasc:id":"CR.HE",
         "iso:id":"CR-H",
-        "qs:id":891519,
+        "qs_pg:id":891519,
         "unlc:id":"CR-H",
         "wd:id":"Q502192",
         "wk:page":"Heredia Province"
@@ -294,11 +295,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670765,
+    "wof:lastmodified":1566708754,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":433677,
     "wof:population_rank":10,

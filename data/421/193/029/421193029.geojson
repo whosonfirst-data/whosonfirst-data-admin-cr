@@ -10,8 +10,12 @@
     "geom:latitude":10.03727,
     "geom:longitude":-84.24016,
     "iso:country":"CR",
+    "lbl:bbox":"-84.34016,9.93727,-84.14016,10.13727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tambor"
@@ -65,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809290,
-        "qs:id":969560,
         "qs_pg:id":969560
     },
     "wof:country":"CR",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421193029,
-    "wof:lastmodified":1564312371,
+    "wof:lastmodified":1566708851,
     "wof:name":"Tambor",
     "wof:parent_id":421201603,
     "wof:placetype":"localadmin",

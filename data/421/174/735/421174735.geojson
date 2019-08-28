@@ -10,8 +10,12 @@
     "geom:latitude":10.08384,
     "geom:longitude":-85.76243,
     "iso:country":"CR",
+    "lbl:bbox":"-85.78243,10.06384,-85.74243,10.10384",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0631\u0628\u0644\u0629"
@@ -227,7 +231,7 @@
     "wof:concordances":{
         "gn:id":3622931,
         "gp:id":58745,
-        "qs:id":898028
+        "qs_pg:id":898028
     },
     "wof:country":"CR",
     "wof:created":1459009042,
@@ -242,7 +246,7 @@
         }
     ],
     "wof:id":421174735,
-    "wof:lastmodified":1564312401,
+    "wof:lastmodified":1566708861,
     "wof:name":"Marbella",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

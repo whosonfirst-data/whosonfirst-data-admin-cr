@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.30003,9.93475,-85.26003,9.97475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bellavista"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1209011911,
-    "wof:lastmodified":1564312111,
+    "wof:lastmodified":1566708793,
     "wof:name":"Bellavista",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

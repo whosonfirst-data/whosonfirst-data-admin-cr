@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.34925,10.09178,-84.30925,10.13178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1309919619,
-    "wof:lastmodified":1564312334,
+    "wof:lastmodified":1566708841,
     "wof:name":"San Pedro",
     "wof:parent_id":421175407,
     "wof:placetype":"locality",

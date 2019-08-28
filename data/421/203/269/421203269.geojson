@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.005186,
     "lbl:longitude":-84.157214,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"FLORESHEREDIA",
     "meso:gadm_admin":"Flores",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.157214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
@@ -249,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"7",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Joaqu\u00edn",
@@ -272,7 +275,7 @@
     "wof:concordances":{
         "gp:id":26808807,
         "hasc:id":"CR.HE.FL",
-        "qs:id":230565
+        "qs_pg:id":230565
     },
     "wof:country":"CR",
     "wof:created":1459010145,
@@ -286,7 +289,7 @@
         }
     ],
     "wof:id":421203269,
-    "wof:lastmodified":1564312388,
+    "wof:lastmodified":1566708858,
     "wof:name":"Flores",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

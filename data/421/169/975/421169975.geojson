@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.939696,
     "lbl:longitude":-84.037042,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"San Jose",
     "meso:dissme":"MONTES DE OCASAN JOSE",
     "meso:gadm_admin":"Curridabat",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.037042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Curridabat"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"15",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"San Pedro",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":26808824,
         "hasc:id":"CR.SJ.MO",
-        "qs:id":772733,
+        "qs_pg:id":772733,
         "wd:id":"Q2569193"
     },
     "wof:country":"CR",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421169975,
-    "wof:lastmodified":1563318603,
+    "wof:lastmodified":1566708855,
     "wof:name":"Montes De Oca",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

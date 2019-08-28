@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.41583,9.77137,-84.37583,9.81137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Palma"
     ],
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":1226133241,
-    "wof:lastmodified":1564312728,
+    "wof:lastmodified":1566708938,
     "wof:name":"La Palma",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

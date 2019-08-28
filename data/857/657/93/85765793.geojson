@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":410871.505749,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.086609,9.944504,-84.086609,9.944504",
     "geom:latitude":9.944504,
     "geom:longitude":-84.086609,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.091609,9.939504,-84.081609,9.949504",
     "lbl:latitude":9.944504,
     "lbl:longitude":-84.086609,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.944503,
     "mps:longitude":-84.086253,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Juarez"
-    ],
-    "name:unk_x_variant":[
         "Juarez"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723697,
-        "qs:id":1268078
+        "qs_pg:id":1268078
     },
     "wof:country":"CR",
     "wof:geomhash":"b5ecefd38f8e05bb163d2c66d32c6e4b",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859052,
+    "wof:lastmodified":1566708752,
     "wof:name":"Juarez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

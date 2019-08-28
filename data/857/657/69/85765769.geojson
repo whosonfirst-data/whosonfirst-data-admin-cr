@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5548344.316938,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.074518,9.923819,-84.074518,9.923819",
     "geom:latitude":9.923819,
     "geom:longitude":-84.074518,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.079518,9.918819,-84.069518,9.928819",
     "lbl:latitude":9.923819,
     "lbl:longitude":-84.074518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.916977,
     "mps:longitude":-84.070147,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Ujarraz"
-    ],
-    "name:unk_x_variant":[
         "Ujarraz"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723662,
-        "qs:id":896299
+        "qs_pg:id":896299
     },
     "wof:country":"CR",
     "wof:geomhash":"ddc650e811554ba2fa95006a3f590b1f",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859048,
+    "wof:lastmodified":1566708752,
     "wof:name":"Ujarraz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":10.06388,
     "geom:longitude":-84.15499,
     "iso:country":"CR",
+    "lbl:bbox":"-84.17499,10.04388,-84.13499,10.08388",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Santo Domingo"
@@ -350,7 +354,7 @@
     "wof:concordances":{
         "gn:id":3621515,
         "gp:id":59696,
-        "qs:id":193096
+        "qs_pg:id":193096
     },
     "wof:country":"CR",
     "wof:created":1459008821,
@@ -365,7 +369,7 @@
         }
     ],
     "wof:id":421169709,
-    "wof:lastmodified":1564312377,
+    "wof:lastmodified":1566708853,
     "wof:name":"Santo Domingo",
     "wof:parent_id":421202609,
     "wof:placetype":"locality",

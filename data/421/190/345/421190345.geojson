@@ -10,8 +10,12 @@
     "geom:latitude":9.95539,
     "geom:longitude":-84.06781,
     "iso:country":"CR",
+    "lbl:bbox":"-84.08781,9.93539,-84.04781,9.97539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Llorente"
@@ -220,7 +224,7 @@
     "name:tur_x_preferred":[
         "Llorente"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calle de los Rodr\u00edguez"
     ],
     "name:vec_x_preferred":[
@@ -280,7 +284,7 @@
     "wof:concordances":{
         "gn:id":3623033,
         "gp:id":58691,
-        "qs:id":53427,
+        "qs_pg:id":53427,
         "wd:id":"Q3835738"
     },
     "wof:country":"CR",
@@ -296,7 +300,7 @@
         }
     ],
     "wof:id":421190345,
-    "wof:lastmodified":1561760268,
+    "wof:lastmodified":1566708880,
     "wof:name":"Llorente",
     "wof:parent_id":421202607,
     "wof:placetype":"locality",

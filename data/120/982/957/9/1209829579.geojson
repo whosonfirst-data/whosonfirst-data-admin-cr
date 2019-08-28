@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.80597,10.60806,-84.76597,10.64806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tonjive",
         "Tonjibe"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209829579,
-    "wof:lastmodified":1537618848,
+    "wof:lastmodified":1566708798,
     "wof:name":"Tonjibe",
     "wof:parent_id":421204093,
     "wof:placetype":"locality",

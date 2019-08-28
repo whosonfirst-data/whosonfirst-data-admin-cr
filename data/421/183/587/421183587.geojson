@@ -10,8 +10,12 @@
     "geom:latitude":10.5368,
     "geom:longitude":-84.65941,
     "iso:country":"CR",
+    "lbl:bbox":"-84.67941,10.5168,-84.63941,10.5568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Monterrey"
@@ -279,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3622815,
         "gp:id":58824,
-        "qs:id":982516
+        "qs_pg:id":982516
     },
     "wof:country":"CR",
     "wof:created":1459009374,
@@ -294,7 +298,7 @@
         }
     ],
     "wof:id":421183587,
-    "wof:lastmodified":1564312500,
+    "wof:lastmodified":1566708892,
     "wof:name":"Monterrey",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

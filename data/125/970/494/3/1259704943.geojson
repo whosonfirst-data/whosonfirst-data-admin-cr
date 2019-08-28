@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.87093,10.21359,-84.83093,10.25359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259704943,
-    "wof:lastmodified":1537034707,
+    "wof:lastmodified":1566708924,
     "wof:name":"Guaria",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

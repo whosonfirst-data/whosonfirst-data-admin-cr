@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.31523,9.22937,-83.27523,9.26937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ujarr\u00e1z",
         "Ujarr\u00e1s"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344148661,
-    "wof:lastmodified":1537618848,
+    "wof:lastmodified":1566708738,
     "wof:name":"Ujarras",
     "wof:parent_id":1108693653,
     "wof:placetype":"locality",

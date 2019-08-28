@@ -10,8 +10,12 @@
     "geom:latitude":10.89792,
     "geom:longitude":-85.01454,
     "iso:country":"CR",
+    "lbl:bbox":"-85.11454,10.79792,-84.91454,10.99792",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0423\u043f\u0430\u043b\u0430"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3621153,
         "gp:id":26809315,
-        "qs:id":957556,
+        "qs_pg:id":957556,
         "wd:id":"Q691346",
         "wk:page":"Upala"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421194125,
-    "wof:lastmodified":1563318583,
+    "wof:lastmodified":1566708850,
     "wof:name":"Upala",
     "wof:parent_id":421172007,
     "wof:placetype":"localadmin",

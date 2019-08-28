@@ -10,10 +10,14 @@
     "geom:latitude":10.54937,
     "geom:longitude":-85.59003,
     "iso:country":"CR",
+    "lbl:bbox":"-85.61003,10.52937,-85.57003,10.56937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Comunidad"
     ],
     "qs:gn_country":"CR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3624147,
         "gp:id":58119,
-        "qs:id":1321619
+        "qs_pg:id":1321619
     },
     "wof:country":"CR",
     "wof:created":1459008985,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421173521,
-    "wof:lastmodified":1501268179,
+    "wof:lastmodified":1566708865,
     "wof:name":"Comunidad",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

@@ -10,8 +10,11 @@
     "geom:latitude":9.926873,
     "geom:longitude":-84.073047,
     "iso:country":"CR",
+    "lbl:bbox":"-84.078047,9.9218735,-84.068047,9.9318735",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":22723651,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723651,
-        "qs:id":972901
+        "qs_pg:id":972901
     },
     "wof:country":"CR",
     "wof:created":1459009337,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421182665,
-    "wof:lastmodified":1531858489,
+    "wof:lastmodified":1566708896,
     "wof:name":"Lujan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12374739.909587,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.065881,9.937376,-84.065881,9.937376",
     "geom:latitude":9.937376,
     "geom:longitude":-84.065881,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.070881,9.932376,-84.060881,9.942376",
     "lbl:latitude":9.937376,
     "lbl:longitude":-84.065881,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.95481,
     "mps:longitude":-84.057474,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Seguro Social"
-    ],
-    "name:unk_x_variant":[
         "Seguro Social"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723685,
-        "qs:id":896294
+        "qs_pg:id":896294
     },
     "wof:country":"CR",
     "wof:geomhash":"3bddf1e1f85c930fcc0372d5ac20c9a2",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859048,
+    "wof:lastmodified":1566708753,
     "wof:name":"Seguro Social",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

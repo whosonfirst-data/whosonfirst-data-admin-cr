@@ -10,8 +10,12 @@
     "geom:latitude":10.62518,
     "geom:longitude":-85.05884,
     "iso:country":"CR",
+    "lbl:bbox":"-85.07884,10.60518,-85.03884,10.64518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Martirio"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3622921,
         "gp:id":58752,
-        "qs:id":53428,
+        "qs_pg:id":53428,
         "wd:id":"Q454150"
     },
     "wof:country":"CR",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421190347,
-    "wof:lastmodified":1563318708,
+    "wof:lastmodified":1566708880,
     "wof:name":"Martirio",
     "wof:parent_id":421201613,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.07,9.93,-84.03,9.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Escalante",
         "Barrio Escalante"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243089851,
-    "wof:lastmodified":1537618874,
+    "wof:lastmodified":1566708908,
     "wof:name":"Barrio Escalante",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

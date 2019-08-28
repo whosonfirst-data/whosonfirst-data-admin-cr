@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.92,10.21333,-83.88,10.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "\u00c8l Salvador"
     ],
@@ -544,10 +548,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:und_x_variant":[
-        "Salvador",
-        "El Salvador"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
     ],
@@ -622,7 +622,7 @@
         }
     ],
     "wof:id":1242583787,
-    "wof:lastmodified":1564312583,
+    "wof:lastmodified":1566708912,
     "wof:name":"El Salvador",
     "wof:parent_id":421185329,
     "wof:placetype":"locality",

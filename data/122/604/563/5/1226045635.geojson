@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-83.78476,9.87319,-83.74476,9.91319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Naranjo"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1226045635,
-    "wof:lastmodified":1564312710,
+    "wof:lastmodified":1566708936,
     "wof:name":"Naranjo",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

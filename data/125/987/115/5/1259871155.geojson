@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-82.92742,8.42267,-82.88742,8.46267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0440\u044a\u043b"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1259871155,
-    "wof:lastmodified":1564312676,
+    "wof:lastmodified":1566708929,
     "wof:name":"Laurel",
     "wof:parent_id":421189149,
     "wof:placetype":"locality",

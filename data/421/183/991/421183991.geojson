@@ -10,8 +10,12 @@
     "geom:latitude":9.87199,
     "geom:longitude":-83.00378,
     "iso:country":"CR",
+    "lbl:bbox":"-83.02378,9.85199,-82.98378,9.89199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3624781,
         "gp:id":57782,
-        "qs:id":988296
+        "qs_pg:id":988296
     },
     "wof:country":"CR",
     "wof:created":1459009397,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183991,
-    "wof:lastmodified":1499976264,
+    "wof:lastmodified":1566708891,
     "wof:name":"Bananito Sur",
     "wof:parent_id":421188065,
     "wof:placetype":"locality",

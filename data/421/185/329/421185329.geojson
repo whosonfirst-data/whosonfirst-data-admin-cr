@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.513569,
     "lbl:longitude":-83.999027,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Heredia",
     "meso:dissme":"SARAPIQUIHEREDIA",
     "meso:gadm_admin":"Sarapiqu\u00ed",
@@ -31,6 +33,7 @@
     "mps:longitude":-83.999027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0628\u064a\u0643\u064a"
@@ -91,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-30",
+    "src:population_date":"2011-05-30",
     "statoids:area_km":"2,141",
     "statoids:as_of_date":"2011-05-30",
     "statoids:capital":"Puerto Viejo",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26808853,
         "hasc:id":"CR.HE.SA",
-        "qs:id":890671
+        "qs_pg:id":890671
     },
     "wof:country":"CR",
     "wof:created":1459009439,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421185329,
-    "wof:lastmodified":1561760274,
+    "wof:lastmodified":1566708903,
     "wof:name":"Sarapiqui",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

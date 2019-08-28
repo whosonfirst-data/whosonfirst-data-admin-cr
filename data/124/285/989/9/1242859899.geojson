@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-84.38767,9.87805,-84.34767,9.91805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Potrerillos"
     ],
@@ -55,8 +59,7 @@
         "Potrerillos"
     ],
     "name:und_x_variant":[
-        "Hacienda Potrerillos",
-        "Potrerillos"
+        "Hacienda Potrerillos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1242859899,
-    "wof:lastmodified":1564312609,
+    "wof:lastmodified":1566708916,
     "wof:name":"Potrerillos",
     "wof:parent_id":421179213,
     "wof:placetype":"locality",

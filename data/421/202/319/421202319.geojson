@@ -10,8 +10,12 @@
     "geom:latitude":10.422313,
     "geom:longitude":-84.881572,
     "iso:country":"CR",
+    "lbl:bbox":"-84.981572,10.322313,-84.781572,10.522313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Tronadora"
@@ -47,7 +51,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809307,
-        "qs:id":221119,
         "qs_pg:id":221119
     },
     "wof:country":"CR",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421202319,
-    "wof:lastmodified":1564312398,
+    "wof:lastmodified":1566708861,
     "wof:name":"Tronadora",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":9.54762,
     "geom:longitude":-83.812637,
     "iso:country":"CR",
+    "lbl:bbox":"-83.912637,9.44762,-83.712637,9.64762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jardin"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":26809018,
-        "qs:id":262762
+        "qs_pg:id":262762
     },
     "wof:country":"CR",
     "wof:created":1459010222,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421205369,
-    "wof:lastmodified":1564312399,
+    "wof:lastmodified":1566708861,
     "wof:name":"Jardin",
     "wof:parent_id":421184839,
     "wof:placetype":"localadmin",

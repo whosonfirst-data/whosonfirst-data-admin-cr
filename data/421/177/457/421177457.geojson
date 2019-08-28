@@ -10,8 +10,12 @@
     "geom:latitude":9.99255,
     "geom:longitude":-83.10068,
     "iso:country":"CR",
+    "lbl:bbox":"-83.12068,9.97255,-83.08068,10.01255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d3\u05d5\u05d1\u05dc"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":3621924,
         "gp:id":59606,
-        "qs:id":1340727
+        "qs_pg:id":1340727
     },
     "wof:country":"CR",
     "wof:created":1459009145,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421177457,
-    "wof:lastmodified":1564312496,
+    "wof:lastmodified":1566708891,
     "wof:name":"Sandoval",
     "wof:parent_id":421188065,
     "wof:placetype":"locality",

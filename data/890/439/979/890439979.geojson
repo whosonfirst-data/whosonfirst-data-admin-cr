@@ -11,8 +11,11 @@
     "geom:longitude":-83.91944,
     "gn:country":"CR",
     "gn:fcode":"PPLA",
-    "gn:pop":26594,
+    "gn:population":26594,
     "iso:country":"CR",
+    "lbl:bbox":"-83.93944,9.84444,-83.89944,9.88444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -292,7 +295,7 @@
     "wof:concordances":{
         "gn:id":3624370,
         "gp:id":57999,
-        "qs:id":279823,
+        "qs_pg:id":279823,
         "wd:id":"Q30617",
         "wk:page":"Cartago"
     },
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":890439979,
-    "wof:lastmodified":1563318793,
+    "wof:lastmodified":1566708904,
     "wof:name":"Cartago",
     "wof:parent_id":421189139,
     "wof:placetype":"locality",

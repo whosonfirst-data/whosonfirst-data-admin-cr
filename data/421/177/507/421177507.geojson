@@ -10,8 +10,12 @@
     "geom:latitude":9.831,
     "geom:longitude":-84.29008,
     "iso:country":"CR",
+    "lbl:bbox":"-84.31008,9.811,-84.27008,9.851",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Rafael Abajo"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3621659,
         "gp:id":59570,
-        "qs:id":1200467,
+        "qs_pg:id":1200467,
         "wd:id":"Q3947880"
     },
     "wof:country":"CR",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421177507,
-    "wof:lastmodified":1563318745,
+    "wof:lastmodified":1566708891,
     "wof:name":"San Rafael Abajo",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

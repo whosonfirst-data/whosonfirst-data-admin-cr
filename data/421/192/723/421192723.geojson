@@ -10,10 +10,14 @@
     "geom:latitude":9.9295,
     "geom:longitude":-84.71331,
     "iso:country":"CR",
+    "lbl:bbox":"-84.73331,9.9095,-84.69331,9.9495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mata Lim\u00f3n"
     ],
     "qs:gn_country":"CR",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3622913,
         "gp:id":58757,
-        "qs:id":1174512
+        "qs_pg:id":1174512
     },
     "wof:country":"CR",
     "wof:created":1459009746,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421192723,
-    "wof:lastmodified":1501268156,
+    "wof:lastmodified":1566708847,
     "wof:name":"Mata de Lim\u00f3n",
     "wof:parent_id":421188117,
     "wof:placetype":"locality",

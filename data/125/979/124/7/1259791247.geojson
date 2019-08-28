@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
+    "lbl:bbox":"-85.05016,10.29667,-85.01016,10.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0418\u0435\u0441\u0443\u0430 \u049a\u044c\u044b\u0440\u0441\u0430"
     ],
@@ -686,7 +690,7 @@
         }
     ],
     "wof:id":1259791247,
-    "wof:lastmodified":1564312652,
+    "wof:lastmodified":1566708924,
     "wof:name":"Jesus",
     "wof:parent_id":421190515,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8381006.177342,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.103088,9.914563,-84.103088,9.914563",
     "geom:latitude":9.914563,
     "geom:longitude":-84.103088,
     "gn:id":"",
     "iso:country":"CR",
+    "lbl:bbox":"-84.108088,9.909563,-84.098088,9.919563",
     "lbl:latitude":9.914563,
     "lbl:longitude":-84.103088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":9.910487,
     "mps:longitude":-84.097902,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Hatillo No.3"
-    ],
-    "name:unk_x_variant":[
         "Hatillo No.3"
     ],
     "qs:gn_adm0_cc":"CR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670391,
         102191575,
         85632487,
-        421199285,
-        85670391
+        421199285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723860,
-        "qs:id":264773
+        "qs_pg:id":264773
     },
     "wof:country":"CR",
     "wof:geomhash":"385a887b9c8433ad90db4ccdf27bde23",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531859061,
+    "wof:lastmodified":1566708752,
     "wof:name":"Hatillo No.3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

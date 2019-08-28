@@ -10,8 +10,12 @@
     "geom:latitude":9.25483,
     "geom:longitude":-83.86135,
     "iso:country":"CR",
+    "lbl:bbox":"-83.88135,9.23483,-83.84135,9.27483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dominical"
@@ -34,7 +38,7 @@
     "name:spa_x_variant":[
         "Dominical"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Dominical"
     ],
     "qs:gn_country":"CR",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3623905,
         "gp:id":58231,
-        "qs:id":488991,
+        "qs_pg:id":488991,
         "wd:id":"Q5290721",
         "wk:page":"Dominical, Puntarenas"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421195483,
-    "wof:lastmodified":1563318576,
+    "wof:lastmodified":1566708848,
     "wof:name":"Dominical",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",
