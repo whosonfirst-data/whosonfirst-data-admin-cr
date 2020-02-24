@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d85bf63cd6ea51768583f76efe17b81",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171727,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"Puente de Piedra",
     "wof:parent_id":421204089,
     "wof:placetype":"localadmin",

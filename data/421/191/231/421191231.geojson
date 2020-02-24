@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009685,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bf095a840cd7840fdbbd18881e13390",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421191231,
-    "wof:lastmodified":1566708879,
+    "wof:lastmodified":1582381948,
     "wof:name":"Tures",
     "wof:parent_id":1108693667,
     "wof:placetype":"localadmin",

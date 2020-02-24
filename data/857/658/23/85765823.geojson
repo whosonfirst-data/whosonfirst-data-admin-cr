@@ -675,6 +675,9 @@
         "qs_pg:id":237728
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc2de84f87ff71999720d63d25772bc4",
     "wof:hierarchy":[
         {
@@ -690,7 +693,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Americas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

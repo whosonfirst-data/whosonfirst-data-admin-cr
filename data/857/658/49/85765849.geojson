@@ -74,6 +74,9 @@
         "qs_pg:id":1087512
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d4224b39df76d5a1ec8dd4f676e0494",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Mantica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

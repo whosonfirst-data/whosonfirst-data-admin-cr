@@ -127,6 +127,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009755,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9dc67fb6c7202eb10864dcbee819fc7",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421192973,
-    "wof:lastmodified":1566708848,
+    "wof:lastmodified":1582381940,
     "wof:name":"Filadelfia",
     "wof:parent_id":1108693669,
     "wof:placetype":"localadmin",

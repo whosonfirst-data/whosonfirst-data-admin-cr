@@ -74,6 +74,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009841,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b89f51a409768b68058d525ec510fa8a",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421195379,
-    "wof:lastmodified":1566708848,
+    "wof:lastmodified":1582381940,
     "wof:name":"San Rafael",
     "wof:parent_id":421204093,
     "wof:placetype":"localadmin",

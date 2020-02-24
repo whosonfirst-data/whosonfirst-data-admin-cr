@@ -70,6 +70,9 @@
         "qs_pg:id":896294
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bddf1e1f85c930fcc0372d5ac20c9a2",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708753,
+    "wof:lastmodified":1582381931,
     "wof:name":"Seguro Social",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -123,6 +123,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008890,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7210ae208ba6a67182ed50aa9a77a66d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421171355,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1582381953,
     "wof:name":"Pococi",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

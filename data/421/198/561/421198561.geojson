@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009952,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b03d77e247fc8960dfe8040daed2ec57",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421198561,
-    "wof:lastmodified":1566708877,
+    "wof:lastmodified":1582381948,
     "wof:name":"Curubande",
     "wof:parent_id":421188119,
     "wof:placetype":"localadmin",

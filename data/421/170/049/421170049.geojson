@@ -105,6 +105,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008835,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27f6bcb5e077d43835d38bb5bd059515",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421170049,
-    "wof:lastmodified":1566708888,
+    "wof:lastmodified":1582381950,
     "wof:name":"La Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

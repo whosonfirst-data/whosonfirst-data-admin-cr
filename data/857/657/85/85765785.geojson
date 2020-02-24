@@ -69,6 +69,9 @@
         "gp:id":22723693
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a42573641234a1ee8d133866dff11b04",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708753,
+    "wof:lastmodified":1582381931,
     "wof:name":"Morazan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009852,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64ad3152e31af6689bf5d88fbda64ac0",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421195559,
-    "wof:lastmodified":1566708848,
+    "wof:lastmodified":1582381940,
     "wof:name":"Bratsi",
     "wof:parent_id":421185333,
     "wof:placetype":"localadmin",

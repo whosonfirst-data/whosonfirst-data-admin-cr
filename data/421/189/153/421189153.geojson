@@ -74,6 +74,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009612,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3008bb3aa643dae14191c6de9d4860c5",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421189153,
-    "wof:lastmodified":1566708868,
+    "wof:lastmodified":1582381945,
     "wof:name":"Laguna de Arenal",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",

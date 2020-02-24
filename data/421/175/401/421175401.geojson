@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b587753d3d7c1abee989201cce9d0f9e",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421175401,
-    "wof:lastmodified":1566708876,
+    "wof:lastmodified":1582381947,
     "wof:name":"Puriscal",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

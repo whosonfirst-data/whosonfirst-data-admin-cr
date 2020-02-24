@@ -450,6 +450,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008912,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"56f6e8f447e004d9634620d8afd90c8f",
     "wof:hierarchy":[
         {
@@ -461,7 +464,7 @@
         }
     ],
     "wof:id":421171925,
-    "wof:lastmodified":1566708899,
+    "wof:lastmodified":1582381953,
     "wof:name":"San Jose",
     "wof:parent_id":85670391,
     "wof:placetype":"locality",

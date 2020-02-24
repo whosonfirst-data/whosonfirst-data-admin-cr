@@ -103,6 +103,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008847,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0a9226a93d930a256f18b06dc69dcfd",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421170303,
-    "wof:lastmodified":1566708889,
+    "wof:lastmodified":1582381951,
     "wof:name":"Matina",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

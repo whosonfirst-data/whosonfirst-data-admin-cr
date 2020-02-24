@@ -315,6 +315,9 @@
         "wk:page":"Alajuela Province"
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8d762bba6841c113f3c5cec1b33ef74",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708754,
+    "wof:lastmodified":1582381933,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

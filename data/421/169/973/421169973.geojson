@@ -115,6 +115,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008831,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a37ac453044c2a7a2ef8e532ede9d5e9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421169973,
-    "wof:lastmodified":1566708855,
+    "wof:lastmodified":1582381942,
     "wof:name":"Los Chiles",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

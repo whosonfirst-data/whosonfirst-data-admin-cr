@@ -115,6 +115,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f364901b8c36f38ecf9ce4bffc25dcb",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1566708880,
+    "wof:lastmodified":1582381949,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

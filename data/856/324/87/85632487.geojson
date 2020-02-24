@@ -950,6 +950,11 @@
     },
     "wof:country":"CR",
     "wof:country_alpha3":"CRI",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"b8ca0d65a4667d13f1ed83ddc9ea0224",
     "wof:hierarchy":[
         {
@@ -964,7 +969,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708753,
+    "wof:lastmodified":1582381932,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

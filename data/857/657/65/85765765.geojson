@@ -80,6 +80,9 @@
         "qs_pg:id":224732
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b677292e90fe4f1a18c96a48a34034b7",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Yoses Sur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

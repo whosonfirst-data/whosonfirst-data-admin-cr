@@ -126,6 +126,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db13b5a0d0999987dcf998e5900e4df0",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421201615,
-    "wof:lastmodified":1566708886,
+    "wof:lastmodified":1582381950,
     "wof:name":"Carrillo",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

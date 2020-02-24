@@ -71,6 +71,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"087378cdc290884da96f65918395b1d9",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421188735,
-    "wof:lastmodified":1566708871,
+    "wof:lastmodified":1582381946,
     "wof:name":"Llano Grande",
     "wof:parent_id":421189139,
     "wof:placetype":"localadmin",

@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010173,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e52b2566d5b16f46d4cf8a657ea96c58",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421204093,
-    "wof:lastmodified":1566708857,
+    "wof:lastmodified":1582381943,
     "wof:name":"Guatuso",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -108,6 +108,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efc15be02a04016c0633ebb4da888640",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421188117,
-    "wof:lastmodified":1566708870,
+    "wof:lastmodified":1582381946,
     "wof:name":"Esparza",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

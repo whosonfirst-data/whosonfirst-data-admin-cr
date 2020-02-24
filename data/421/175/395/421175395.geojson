@@ -145,6 +145,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e090d9e2c2ff5848561c5af4ae4f364e",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421175395,
-    "wof:lastmodified":1566708877,
+    "wof:lastmodified":1582381948,
     "wof:name":"Nicoya",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

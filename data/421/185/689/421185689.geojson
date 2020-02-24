@@ -55,6 +55,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009451,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a51a542e0ccababbb9014ce388df154",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421185689,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"Zapote",
     "wof:parent_id":1108693671,
     "wof:placetype":"localadmin",

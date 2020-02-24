@@ -115,6 +115,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fdab3d0bb76b55294ba96adeb3fca575",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421201623,
-    "wof:lastmodified":1566708886,
+    "wof:lastmodified":1582381950,
     "wof:name":"San Isidro",
     "wof:parent_id":421175409,
     "wof:placetype":"localadmin",

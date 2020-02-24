@@ -303,6 +303,9 @@
         "wk:page":"Guanacaste Province"
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfec01ae8d660616bc0fffd58f1a8934",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708756,
+    "wof:lastmodified":1582381934,
     "wof:name":"Guanacaste",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

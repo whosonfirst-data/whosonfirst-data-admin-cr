@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f7e350f4d7691fe12d1ebd98cefeb5d",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421201617,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1582381949,
     "wof:name":"Concepcion",
     "wof:parent_id":421180917,
     "wof:placetype":"localadmin",

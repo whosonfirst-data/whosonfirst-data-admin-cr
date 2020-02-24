@@ -115,6 +115,9 @@
         "qs_pg:id":346804
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf5a19910a95cabea00b7d7cdb3eea15",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Soledad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

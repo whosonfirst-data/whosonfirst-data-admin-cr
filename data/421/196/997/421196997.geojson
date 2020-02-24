@@ -97,6 +97,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"474d9d204ca9323fb3efc6d580190c83",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421196997,
-    "wof:lastmodified":1566708878,
+    "wof:lastmodified":1582381948,
     "wof:name":"Rivas",
     "wof:parent_id":421182141,
     "wof:placetype":"localadmin",

@@ -70,6 +70,9 @@
         "qs_pg:id":366561
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d365432e133fd1a55a5fe81c9e7ea546",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Paseo Colon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

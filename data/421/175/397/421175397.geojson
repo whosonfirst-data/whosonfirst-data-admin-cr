@@ -99,6 +99,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e7214c1928f2fe5360fbeb3d1d00296",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421175397,
-    "wof:lastmodified":1566708876,
+    "wof:lastmodified":1582381947,
     "wof:name":"Oreamuno",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008915,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"293eab128658ceb538872002bb55d1f3",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421172005,
-    "wof:lastmodified":1566708873,
+    "wof:lastmodified":1582381947,
     "wof:name":"Turrubares",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

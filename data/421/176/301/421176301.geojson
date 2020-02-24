@@ -84,6 +84,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009104,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f858c99f64bddfa3c1de28798936e034",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421176301,
-    "wof:lastmodified":1566708897,
+    "wof:lastmodified":1582381953,
     "wof:name":"Santiago",
     "wof:parent_id":421175401,
     "wof:placetype":"localadmin",

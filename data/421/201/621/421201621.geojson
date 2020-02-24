@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e920297a3613466a2ea357b271e5af5",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421201621,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1582381949,
     "wof:name":"Guapiles",
     "wof:parent_id":421171355,
     "wof:placetype":"localadmin",

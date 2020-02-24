@@ -198,6 +198,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009208,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0eebfe64ee6a0149367ee9309c2151c",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421179213,
-    "wof:lastmodified":1566708895,
+    "wof:lastmodified":1582381952,
     "wof:name":"Mora",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

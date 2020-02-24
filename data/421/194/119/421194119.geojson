@@ -123,6 +123,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009794,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b023722c6cabab053ef9ff65d87a746a",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421194119,
-    "wof:lastmodified":1566708849,
+    "wof:lastmodified":1582381940,
     "wof:name":"Poas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

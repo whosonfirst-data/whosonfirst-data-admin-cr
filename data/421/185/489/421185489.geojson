@@ -93,6 +93,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009444,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"958f4b6e9c518cd7514426745cd9f44f",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421185489,
-    "wof:lastmodified":1566708903,
+    "wof:lastmodified":1582381954,
     "wof:name":"Montes De Oro",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

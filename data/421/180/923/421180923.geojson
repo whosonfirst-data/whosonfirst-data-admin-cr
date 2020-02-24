@@ -82,6 +82,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f3ad05c0e6442a901916bebe33c6ce6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421180923,
-    "wof:lastmodified":1566708862,
+    "wof:lastmodified":1582381944,
     "wof:name":"Naranjo",
     "wof:parent_id":421175393,
     "wof:placetype":"localadmin",

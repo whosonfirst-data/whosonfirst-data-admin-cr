@@ -166,6 +166,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"968393f7bc061ca54b258ce99d8b1bd8",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421180917,
-    "wof:lastmodified":1566708863,
+    "wof:lastmodified":1582381944,
     "wof:name":"San Rafael",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

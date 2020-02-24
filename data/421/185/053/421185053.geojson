@@ -151,6 +151,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a82703c4de3f887b958a173262c16e72",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421185053,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"San Pedro",
     "wof:parent_id":421169975,
     "wof:placetype":"localadmin",

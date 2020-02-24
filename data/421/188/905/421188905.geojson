@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009587,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bcbeb81b8fc7804d3b6ce20d9ac07cc",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421188905,
-    "wof:lastmodified":1566708871,
+    "wof:lastmodified":1582381947,
     "wof:name":"Calle Blancos",
     "wof:parent_id":421202607,
     "wof:placetype":"localadmin",

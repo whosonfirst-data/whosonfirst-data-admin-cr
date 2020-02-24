@@ -50,6 +50,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f56772c809fbd5e0dd33a5df90e1a07",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421202615,
-    "wof:lastmodified":1566708860,
+    "wof:lastmodified":1582381944,
     "wof:name":"Tamarindo",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

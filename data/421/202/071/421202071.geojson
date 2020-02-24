@@ -121,6 +121,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010104,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2478c158352dfe5a979d61864220c4c",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421202071,
-    "wof:lastmodified":1566708860,
+    "wof:lastmodified":1582381944,
     "wof:name":"Atenas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

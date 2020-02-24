@@ -50,6 +50,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"786e84f084797efc44ac63b21d2fd080",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421197121,
-    "wof:lastmodified":1566708882,
+    "wof:lastmodified":1582381949,
     "wof:name":"Paquera",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

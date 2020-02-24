@@ -130,6 +130,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008746,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee0c07b3f8135695701184a469266353",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421167885,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1582381942,
     "wof:name":"San Ramon",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

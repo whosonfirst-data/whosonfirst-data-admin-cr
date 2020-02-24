@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009853,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"718e924f7707bd40b185c84ed59b1953",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421195587,
-    "wof:lastmodified":1566708848,
+    "wof:lastmodified":1582381940,
     "wof:name":"Paramo",
     "wof:parent_id":421182141,
     "wof:placetype":"localadmin",

@@ -325,6 +325,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008851,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80163ad450ee91f545313b979ad07029",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1566708888,
+    "wof:lastmodified":1582381950,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

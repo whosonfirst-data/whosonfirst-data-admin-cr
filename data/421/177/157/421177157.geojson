@@ -160,6 +160,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009135,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfd18d0e499288c6483b69093bd29d78",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421177157,
-    "wof:lastmodified":1566708890,
+    "wof:lastmodified":1582381951,
     "wof:name":"Guadalupe",
     "wof:parent_id":421167885,
     "wof:placetype":"localadmin",

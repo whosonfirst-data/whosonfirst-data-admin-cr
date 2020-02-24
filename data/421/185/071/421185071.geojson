@@ -127,6 +127,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009431,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19bba3f9551624f2ea29d018814eb1db",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421185071,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"San Vicente",
     "wof:parent_id":421203271,
     "wof:placetype":"localadmin",

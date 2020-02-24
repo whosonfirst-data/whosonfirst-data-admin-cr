@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009612,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8af84963ba98cfa8a8405676d80c5de",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189159,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381945,
     "wof:name":"Potrero Cerrado",
     "wof:parent_id":421175397,
     "wof:placetype":"localadmin",

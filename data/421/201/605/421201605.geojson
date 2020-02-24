@@ -105,6 +105,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d221985ec8bd88d63811abd18bf385ea",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421201605,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1582381949,
     "wof:name":"Alajuelita",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -109,6 +109,9 @@
         "qs_pg:id":986126
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82c6364be78ca60594db65940197f924",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708752,
+    "wof:lastmodified":1582381931,
     "wof:name":"Pradera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

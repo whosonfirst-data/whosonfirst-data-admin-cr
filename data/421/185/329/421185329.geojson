@@ -120,6 +120,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f00f6532ff5c19c427bd544b2c54093",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421185329,
-    "wof:lastmodified":1566708903,
+    "wof:lastmodified":1582381955,
     "wof:name":"Sarapiqui",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

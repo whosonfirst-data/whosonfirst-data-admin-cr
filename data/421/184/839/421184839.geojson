@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009424,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48aedbb68adcfe51a9ee28e5149bbc99",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421184839,
-    "wof:lastmodified":1566708887,
+    "wof:lastmodified":1582381950,
     "wof:name":"Dota",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

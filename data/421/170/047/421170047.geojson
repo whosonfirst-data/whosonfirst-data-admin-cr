@@ -101,6 +101,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008835,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80cc6244a0cde4e0f8cb628078466a78",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421170047,
-    "wof:lastmodified":1566708888,
+    "wof:lastmodified":1582381951,
     "wof:name":"Jimenez",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

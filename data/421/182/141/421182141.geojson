@@ -94,6 +94,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2449a06759b9118a4e3f01b07c249f3",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421182141,
-    "wof:lastmodified":1566708897,
+    "wof:lastmodified":1582381952,
     "wof:name":"Perez Zeledon",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

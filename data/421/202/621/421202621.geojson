@@ -58,6 +58,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b79e209a221323b4f287ced9c5c0c8d",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421202621,
-    "wof:lastmodified":1566708859,
+    "wof:lastmodified":1582381944,
     "wof:name":"Vara Blanca",
     "wof:parent_id":421201603,
     "wof:placetype":"localadmin",

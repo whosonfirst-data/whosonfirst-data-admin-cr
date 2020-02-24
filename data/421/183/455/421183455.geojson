@@ -126,6 +126,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009370,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2591330db3eaf7fa6b1edeeb2470377f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421183455,
-    "wof:lastmodified":1566708892,
+    "wof:lastmodified":1582381951,
     "wof:name":"Heredia",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

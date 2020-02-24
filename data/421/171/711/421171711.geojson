@@ -118,6 +118,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cec16b71693ae7a53c75367043d525f7",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421171711,
-    "wof:lastmodified":1566708900,
+    "wof:lastmodified":1582381953,
     "wof:name":"Bagaces",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

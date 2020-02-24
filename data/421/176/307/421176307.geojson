@@ -98,6 +98,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009104,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"78b91f25e02d6480d938311771a957d1",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421176307,
-    "wof:lastmodified":1566708897,
+    "wof:lastmodified":1582381953,
     "wof:name":"Orotina",
     "wof:parent_id":421203757,
     "wof:placetype":"localadmin",

@@ -86,6 +86,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5b9bc620da0033dde9657761c239235",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188737,
-    "wof:lastmodified":1566708869,
+    "wof:lastmodified":1582381946,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":421189139,
     "wof:placetype":"localadmin",

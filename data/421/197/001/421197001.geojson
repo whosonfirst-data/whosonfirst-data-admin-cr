@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009899,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a6f8babfc11c92b54bef62f85fcd439",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421197001,
-    "wof:lastmodified":1566708881,
+    "wof:lastmodified":1582381949,
     "wof:name":"Rio Blanco",
     "wof:parent_id":421188065,
     "wof:placetype":"localadmin",

@@ -94,6 +94,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"999c1e71e5c1cc34727ab023dfa2f756",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421202611,
-    "wof:lastmodified":1566708860,
+    "wof:lastmodified":1582381944,
     "wof:name":"Limon",
     "wof:parent_id":421188065,
     "wof:placetype":"localadmin",

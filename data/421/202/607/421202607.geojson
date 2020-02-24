@@ -128,6 +128,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9248d40e30facedba1cfebc08f3adb8e",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421202607,
-    "wof:lastmodified":1566708861,
+    "wof:lastmodified":1582381944,
     "wof:name":"Tibas",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

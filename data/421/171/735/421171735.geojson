@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7746f0c6bb5e2f3476e97c172fad76f",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171735,
-    "wof:lastmodified":1566708899,
+    "wof:lastmodified":1582381953,
     "wof:name":"Patarra",
     "wof:parent_id":421190519,
     "wof:placetype":"localadmin",

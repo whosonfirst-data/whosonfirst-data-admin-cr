@@ -79,6 +79,9 @@
         "qs_pg:id":228529
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"09316540920309ca1d219e22c96137ba",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708753,
+    "wof:lastmodified":1582381932,
     "wof:name":"M\u00e9xico",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

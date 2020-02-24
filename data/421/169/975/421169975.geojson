@@ -130,6 +130,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008831,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c564d552945752b6063e5792cf347bb",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421169975,
-    "wof:lastmodified":1566708855,
+    "wof:lastmodified":1582381942,
     "wof:name":"Montes De Oca",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

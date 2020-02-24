@@ -67,6 +67,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010127,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f93ea09554fb8128b3fc71dd9aa421f2",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421202711,
-    "wof:lastmodified":1566708861,
+    "wof:lastmodified":1582381944,
     "wof:name":"Bejuco",
     "wof:parent_id":1108693661,
     "wof:placetype":"localadmin",

@@ -198,6 +198,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67d00777ab435d42ba3da5f78a532225",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421202609,
-    "wof:lastmodified":1566708861,
+    "wof:lastmodified":1582381944,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

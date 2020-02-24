@@ -279,6 +279,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7774032f46d6c70887388d4bc1d71b6",
     "wof:hierarchy":[
         {
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421203269,
-    "wof:lastmodified":1566708858,
+    "wof:lastmodified":1582381943,
     "wof:name":"Flores",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

@@ -131,6 +131,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d3be9030eef37e2e241998055e93532",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421203763,
-    "wof:lastmodified":1566708858,
+    "wof:lastmodified":1582381943,
     "wof:name":"Palmares",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -88,6 +88,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50b01a65a9c9912b94e8a1fdf6574027",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421201619,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1582381949,
     "wof:name":"Esquipulas",
     "wof:parent_id":421203763,
     "wof:placetype":"localadmin",

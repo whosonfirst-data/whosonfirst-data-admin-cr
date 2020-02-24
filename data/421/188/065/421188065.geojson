@@ -135,6 +135,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009533,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59537e6e66dd16de5767a0d6d1183d46",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421188065,
-    "wof:lastmodified":1566708869,
+    "wof:lastmodified":1582381946,
     "wof:name":"Limon",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

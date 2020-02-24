@@ -220,6 +220,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010190,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a26545d18aaef507f8709e9b861c8f7f",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":421204569,
-    "wof:lastmodified":1566708856,
+    "wof:lastmodified":1582381943,
     "wof:name":"La Union",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

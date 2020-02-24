@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aabcf60f25ccc01180a77c9276fac878",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171739,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1582381953,
     "wof:name":"Tierras Morenas",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",
