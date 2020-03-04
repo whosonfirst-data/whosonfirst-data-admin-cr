@@ -168,6 +168,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009611,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a198a525462d1b224fffdfe432a2a8d6",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421189139,
-    "wof:lastmodified":1566708868,
+    "wof:lastmodified":1582381945,
     "wof:name":"Cartago",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

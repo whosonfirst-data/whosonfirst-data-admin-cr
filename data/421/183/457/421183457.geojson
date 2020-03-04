@@ -184,6 +184,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009370,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7cefd8a1c21b1cbcf32c9335f7e1a9a",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":421183457,
-    "wof:lastmodified":1566708893,
+    "wof:lastmodified":1582381951,
     "wof:name":"San Carlos",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

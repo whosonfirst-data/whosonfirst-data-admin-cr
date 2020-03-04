@@ -103,6 +103,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a77b252167fe31478af948fe1cb83835",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191481,
-    "wof:lastmodified":1566708879,
+    "wof:lastmodified":1582381948,
     "wof:name":"Florencia",
     "wof:parent_id":421183457,
     "wof:placetype":"localadmin",

@@ -148,6 +148,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"033b8e1e7a66a415e90923c3d28e2bf6",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421189199,
-    "wof:lastmodified":1566708868,
+    "wof:lastmodified":1582381945,
     "wof:name":"Santa Rosa",
     "wof:parent_id":421175397,
     "wof:placetype":"localadmin",

@@ -70,6 +70,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"112121f25488d60d760e05481bf10427",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421189195,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381945,
     "wof:name":"Sixaola",
     "wof:parent_id":421185333,
     "wof:placetype":"localadmin",

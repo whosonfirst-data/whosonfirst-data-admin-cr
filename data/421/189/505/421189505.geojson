@@ -82,6 +82,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9bdfee6e37a4516d8b866a773e29627",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421189505,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381945,
     "wof:name":"Llorente",
     "wof:parent_id":421197833,
     "wof:placetype":"localadmin",

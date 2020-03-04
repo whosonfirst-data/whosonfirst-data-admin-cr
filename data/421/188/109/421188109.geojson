@@ -162,6 +162,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3375539b0398e632dc775861e1ca3ae5",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421188109,
-    "wof:lastmodified":1566708870,
+    "wof:lastmodified":1582381946,
     "wof:name":"Osa",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

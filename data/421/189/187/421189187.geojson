@@ -79,6 +79,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d995e31cd82048bfee702de14aa0a88",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421189187,
-    "wof:lastmodified":1566708867,
+    "wof:lastmodified":1582381945,
     "wof:name":"Santo Tomas",
     "wof:parent_id":421185327,
     "wof:placetype":"localadmin",

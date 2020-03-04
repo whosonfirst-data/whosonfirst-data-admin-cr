@@ -58,6 +58,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009769,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1e7ae21de538d3a7676be164ae149bd",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421193373,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1582381941,
     "wof:name":"San Isidro de El General",
     "wof:parent_id":421182141,
     "wof:placetype":"localadmin",

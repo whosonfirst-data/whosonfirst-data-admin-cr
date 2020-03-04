@@ -199,6 +199,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b103a8f3563b357479666b0125095d41",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":421171723,
-    "wof:lastmodified":1566708899,
+    "wof:lastmodified":1582381953,
     "wof:name":"Fortuna",
     "wof:parent_id":421183457,
     "wof:placetype":"localadmin",

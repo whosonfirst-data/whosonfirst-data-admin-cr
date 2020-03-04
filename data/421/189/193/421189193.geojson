@@ -115,6 +115,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bd31597fd245c49b8b0fdc4f73b166b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421189193,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381945,
     "wof:name":"Sierra",
     "wof:parent_id":421190515,
     "wof:placetype":"localadmin",

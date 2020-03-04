@@ -327,6 +327,9 @@
         "wk:page":"San Jos\u00e9 Province"
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7177bdce3b2e24663e86a3e8ded8c9b2",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708755,
+    "wof:lastmodified":1582381934,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

@@ -120,6 +120,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008745,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"689e493f823709c1c3a9f35a67008b55",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421167829,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1582381941,
     "wof:name":"Aserri",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

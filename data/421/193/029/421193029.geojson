@@ -73,6 +73,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009757,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e055aa8dc25e7e75fca002da30a34c6",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421193029,
-    "wof:lastmodified":1566708851,
+    "wof:lastmodified":1582381941,
     "wof:name":"Tambor",
     "wof:parent_id":421201603,
     "wof:placetype":"localadmin",

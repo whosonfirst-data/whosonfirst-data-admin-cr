@@ -137,6 +137,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009066,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"44f55e53eacf728f323cc9a8c573df4e",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421175393,
-    "wof:lastmodified":1566708877,
+    "wof:lastmodified":1582381948,
     "wof:name":"Naranjo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -102,6 +102,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d4737a81c99ea510e1c624f2c9bf739",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421171717,
-    "wof:lastmodified":1566708900,
+    "wof:lastmodified":1582381953,
     "wof:name":"Hojancha",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

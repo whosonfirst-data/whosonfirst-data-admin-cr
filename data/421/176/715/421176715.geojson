@@ -76,6 +76,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009117,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66945a1031b42eb3f0dad446baadae12",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421176715,
-    "wof:lastmodified":1566708897,
+    "wof:lastmodified":1582381953,
     "wof:name":"Cachi",
     "wof:parent_id":421182145,
     "wof:placetype":"localadmin",

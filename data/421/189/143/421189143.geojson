@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009611,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e884fbf8c2bf728b990076d9c864cc28",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189143,
-    "wof:lastmodified":1566708867,
+    "wof:lastmodified":1582381945,
     "wof:name":"Guacimo",
     "wof:parent_id":421204091,
     "wof:placetype":"localadmin",

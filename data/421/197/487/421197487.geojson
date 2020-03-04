@@ -73,6 +73,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009915,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5475397dd5c74292d1c2140359af7ed2",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":421197487,
-    "wof:lastmodified":1566708882,
+    "wof:lastmodified":1582381949,
     "wof:name":"Guabito",
     "wof:parent_id":421185333,
     "wof:placetype":"localadmin",

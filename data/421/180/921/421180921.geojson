@@ -79,6 +79,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009276,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c713c73f32cda4ffa1571aa13b70b2b",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421180921,
-    "wof:lastmodified":1566708863,
+    "wof:lastmodified":1582381944,
     "wof:name":"Naranjito",
     "wof:parent_id":421201601,
     "wof:placetype":"localadmin",

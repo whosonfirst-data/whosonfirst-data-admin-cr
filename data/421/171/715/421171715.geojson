@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efc4bdd3022591a0a0a0078a8e09985b",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421171715,
-    "wof:lastmodified":1566708899,
+    "wof:lastmodified":1582381953,
     "wof:name":"Coto Brus",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

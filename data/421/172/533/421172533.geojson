@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008946,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"024ac52419ffd5084ea422faa9429756",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421172533,
-    "wof:lastmodified":1566708871,
+    "wof:lastmodified":1582381947,
     "wof:name":"Chomes",
     "wof:parent_id":1108693663,
     "wof:placetype":"localadmin",

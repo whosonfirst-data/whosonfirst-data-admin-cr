@@ -67,6 +67,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010124,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1fe1f4d0b04f97c39cc6aaf7bac6dc7",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421202623,
-    "wof:lastmodified":1566708860,
+    "wof:lastmodified":1582381944,
     "wof:name":"Venado",
     "wof:parent_id":421183457,
     "wof:placetype":"localadmin",

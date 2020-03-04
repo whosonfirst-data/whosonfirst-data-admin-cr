@@ -110,6 +110,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010173,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1507e8465dbff80f19a5e6adf8b29ec0",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421204091,
-    "wof:lastmodified":1566708856,
+    "wof:lastmodified":1582381943,
     "wof:name":"Guacimo",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

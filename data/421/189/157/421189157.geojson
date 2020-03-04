@@ -55,6 +55,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009612,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9888e14147d19a5253a4b56786855224",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421189157,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381944,
     "wof:name":"Parrita",
     "wof:parent_id":421182071,
     "wof:placetype":"localadmin",

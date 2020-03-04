@@ -124,6 +124,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008915,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"873e106107b73244300057163745872e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421172007,
-    "wof:lastmodified":1566708872,
+    "wof:lastmodified":1582381947,
     "wof:name":"Upala",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

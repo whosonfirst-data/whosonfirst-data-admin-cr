@@ -82,6 +82,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009612,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14c1288d3f53ab238b364c3309cc7aac",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421189175,
-    "wof:lastmodified":1566708868,
+    "wof:lastmodified":1582381945,
     "wof:name":"San Joaquin",
     "wof:parent_id":421203269,
     "wof:placetype":"localadmin",

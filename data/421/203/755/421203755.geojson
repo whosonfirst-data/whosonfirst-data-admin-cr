@@ -121,6 +121,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010162,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d5c0ad1ae1c792693e88a733eb505eb",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421203755,
-    "wof:lastmodified":1566708858,
+    "wof:lastmodified":1582381943,
     "wof:name":"Curridabat",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

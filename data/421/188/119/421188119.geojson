@@ -683,6 +683,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"904a341fb478f7f68f7616a317add470",
     "wof:hierarchy":[
         {
@@ -693,7 +696,7 @@
         }
     ],
     "wof:id":421188119,
-    "wof:lastmodified":1566708870,
+    "wof:lastmodified":1582381946,
     "wof:name":"Liberia",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

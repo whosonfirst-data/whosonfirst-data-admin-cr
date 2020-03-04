@@ -58,6 +58,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010011,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d02ceb760f6ca9310d94e08a94d9f80",
     "wof:hierarchy":[
         {
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421200095,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1582381949,
     "wof:name":"Carrandi",
     "wof:parent_id":421170303,
     "wof:placetype":"localadmin",

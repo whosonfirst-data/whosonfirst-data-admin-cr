@@ -121,6 +121,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009784,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1b25600f91b453730d3c08d89474e6a",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421193823,
-    "wof:lastmodified":1566708851,
+    "wof:lastmodified":1582381941,
     "wof:name":"Barva",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

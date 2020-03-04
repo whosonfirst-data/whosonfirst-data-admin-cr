@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009178,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fba542dede0b36a068af5463b158726a",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421178325,
-    "wof:lastmodified":1566708895,
+    "wof:lastmodified":1582381952,
     "wof:name":"Santa Eulalia",
     "wof:parent_id":421202071,
     "wof:placetype":"localadmin",

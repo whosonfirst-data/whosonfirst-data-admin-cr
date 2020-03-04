@@ -150,6 +150,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008744,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98255a54faa9c7c6a0982ab131bf9275",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421167827,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1582381941,
     "wof:name":"Acosta",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

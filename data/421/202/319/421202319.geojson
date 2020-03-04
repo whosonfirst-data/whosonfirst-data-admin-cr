@@ -55,6 +55,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010113,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5b9f3a4a233a19dcdc9f3dae3c6d5aed",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421202319,
-    "wof:lastmodified":1566708861,
+    "wof:lastmodified":1582381944,
     "wof:name":"Tronadora",
     "wof:parent_id":421170251,
     "wof:placetype":"localadmin",

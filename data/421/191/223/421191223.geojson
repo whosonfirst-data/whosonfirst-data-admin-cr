@@ -115,6 +115,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009684,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20664e536c8413ec9ee618880d73a8bb",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191223,
-    "wof:lastmodified":1566708879,
+    "wof:lastmodified":1582381948,
     "wof:name":"Santa Elena",
     "wof:parent_id":421170049,
     "wof:placetype":"localadmin",

@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008817,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61fec438db2dc608fedb19438a7ef171",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421169623,
-    "wof:lastmodified":1566708855,
+    "wof:lastmodified":1582381942,
     "wof:name":"Tarcoles",
     "wof:parent_id":421204087,
     "wof:placetype":"localadmin",

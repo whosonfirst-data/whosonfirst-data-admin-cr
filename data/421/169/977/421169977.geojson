@@ -97,6 +97,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008831,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9af9436eb9e95318b0c004b0822cbd53",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421169977,
-    "wof:lastmodified":1566708854,
+    "wof:lastmodified":1582381942,
     "wof:name":"Tarrazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

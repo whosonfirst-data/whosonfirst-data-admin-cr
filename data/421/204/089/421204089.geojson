@@ -121,6 +121,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010173,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ded3939e71f5006f608ee6a429bf3d0",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421204089,
-    "wof:lastmodified":1566708856,
+    "wof:lastmodified":1582381943,
     "wof:name":"Grecia",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

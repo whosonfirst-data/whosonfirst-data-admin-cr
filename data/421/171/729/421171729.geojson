@@ -100,6 +100,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2dd21a09ec5eeac2ad1a99b04a8cc0b",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421171729,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"Palmera",
     "wof:parent_id":421183457,
     "wof:placetype":"localadmin",

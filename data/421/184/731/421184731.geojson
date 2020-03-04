@@ -382,6 +382,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009420,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a720da2d7205e5c284858052d4743f7",
     "wof:hierarchy":[
         {
@@ -393,7 +396,7 @@
         }
     ],
     "wof:id":421184731,
-    "wof:lastmodified":1566708887,
+    "wof:lastmodified":1582381950,
     "wof:name":"San Antonio",
     "wof:parent_id":421175401,
     "wof:placetype":"localadmin",

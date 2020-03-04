@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c770dd8651b866fadf89894392db6f3d",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421189203,
-    "wof:lastmodified":1566708867,
+    "wof:lastmodified":1582381945,
     "wof:name":"Ventisiete de Abril",
     "wof:parent_id":1108693669,
     "wof:placetype":"localadmin",

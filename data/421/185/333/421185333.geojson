@@ -129,6 +129,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f974e624d83ef787341996f3981c8d6e",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421185333,
-    "wof:lastmodified":1566708902,
+    "wof:lastmodified":1582381954,
     "wof:name":"Talamanca",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

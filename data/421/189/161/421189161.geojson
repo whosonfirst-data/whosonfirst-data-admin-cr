@@ -64,6 +64,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009612,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85e4b4bf8a7c7934c920a9e4d1736134",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421189161,
-    "wof:lastmodified":1566708866,
+    "wof:lastmodified":1582381945,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":421185329,
     "wof:placetype":"localadmin",

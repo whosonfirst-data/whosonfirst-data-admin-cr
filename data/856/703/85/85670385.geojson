@@ -300,6 +300,9 @@
         "wk:page":"Puntarenas Province"
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f091360896830ea75d74fb3678dc53c",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708757,
+    "wof:lastmodified":1582381935,
     "wof:name":"Puntarenas",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

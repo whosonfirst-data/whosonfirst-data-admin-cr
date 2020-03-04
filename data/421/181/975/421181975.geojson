@@ -109,6 +109,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009314,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f5f462ed0ac28163eeb8af078036bfa1",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421181975,
-    "wof:lastmodified":1566708875,
+    "wof:lastmodified":1582381947,
     "wof:name":"Colon",
     "wof:parent_id":421179213,
     "wof:placetype":"localadmin",

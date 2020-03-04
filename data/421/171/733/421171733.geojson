@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008905,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07934b67f83375700de4bed1d7285191",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421171733,
-    "wof:lastmodified":1566708899,
+    "wof:lastmodified":1582381953,
     "wof:name":"Puraba",
     "wof:parent_id":421202609,
     "wof:placetype":"localadmin",

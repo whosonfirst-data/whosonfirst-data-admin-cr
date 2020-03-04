@@ -613,6 +613,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009938,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4980ab61037f468a1ee48d31c85625b7",
     "wof:hierarchy":[
         {
@@ -624,7 +627,7 @@
         }
     ],
     "wof:id":421198139,
-    "wof:lastmodified":1566708877,
+    "wof:lastmodified":1582381948,
     "wof:name":"Cairo",
     "wof:parent_id":421185331,
     "wof:placetype":"localadmin",

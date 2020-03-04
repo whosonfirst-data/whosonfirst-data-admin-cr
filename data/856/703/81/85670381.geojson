@@ -270,6 +270,9 @@
         "wk:page":"Lim\u00f3n Province"
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"952b16b4d170e447ad371ffa2e5e90dc",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566708754,
+    "wof:lastmodified":1582381933,
     "wof:name":"Lim\u00f3n",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

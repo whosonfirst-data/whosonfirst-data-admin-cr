@@ -206,6 +206,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca934e0c00368a9a1755d99c0abac1de",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421201603,
-    "wof:lastmodified":1566708885,
+    "wof:lastmodified":1582381950,
     "wof:name":"Alajuela",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

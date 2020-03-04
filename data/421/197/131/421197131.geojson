@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af5465ba04178f8253202bd6ced7e5a1",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421197131,
-    "wof:lastmodified":1566708882,
+    "wof:lastmodified":1582381949,
     "wof:name":"Puerto Jimenez",
     "wof:parent_id":421194697,
     "wof:placetype":"localadmin",

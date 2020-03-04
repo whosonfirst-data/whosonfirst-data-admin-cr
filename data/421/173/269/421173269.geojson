@@ -193,6 +193,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"019dea60ddb6eb8e06d4877cf6dcb4cb",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421173269,
-    "wof:lastmodified":1566708865,
+    "wof:lastmodified":1582381944,
     "wof:name":"Santa Cruz",
     "wof:parent_id":421172003,
     "wof:placetype":"localadmin",

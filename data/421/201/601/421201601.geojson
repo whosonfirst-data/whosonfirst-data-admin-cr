@@ -173,6 +173,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9c083dae2985e930229144ed1613a70",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":421201601,
-    "wof:lastmodified":1566708886,
+    "wof:lastmodified":1582381950,
     "wof:name":"Aguirre",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

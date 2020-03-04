@@ -85,6 +85,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1778ae93a942782afb4010f312f2ad18",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421185335,
-    "wof:lastmodified":1566708902,
+    "wof:lastmodified":1582381954,
     "wof:name":"Atenas",
     "wof:parent_id":421202071,
     "wof:placetype":"localadmin",

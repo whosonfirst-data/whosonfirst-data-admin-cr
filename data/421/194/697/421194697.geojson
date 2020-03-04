@@ -125,6 +125,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009816,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ac3920ce41fd5d967a344e77e870e47",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421194697,
-    "wof:lastmodified":1566708850,
+    "wof:lastmodified":1582381941,
     "wof:name":"Golfito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

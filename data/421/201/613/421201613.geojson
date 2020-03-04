@@ -136,6 +136,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010078,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4811fad5a2a1f85835e6db325c204a85",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421201613,
-    "wof:lastmodified":1566708885,
+    "wof:lastmodified":1582381950,
     "wof:name":"Canas",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -208,6 +208,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009417,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31dc02bb2f5765681797188d89d67289",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421184625,
-    "wof:lastmodified":1566708887,
+    "wof:lastmodified":1582381950,
     "wof:name":"San Juan",
     "wof:parent_id":421185327,
     "wof:placetype":"localadmin",

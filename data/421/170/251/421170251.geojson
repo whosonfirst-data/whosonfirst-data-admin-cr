@@ -110,6 +110,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008845,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2ebba6f0a25f59167ffe56db8e84da5",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421170251,
-    "wof:lastmodified":1566708889,
+    "wof:lastmodified":1582381951,
     "wof:name":"Tilaran",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

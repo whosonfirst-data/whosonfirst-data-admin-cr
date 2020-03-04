@@ -100,6 +100,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009317,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cda15d53497c0474c9c54a60c774a652",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1566708896,
+    "wof:lastmodified":1582381952,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

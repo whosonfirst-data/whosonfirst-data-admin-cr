@@ -73,6 +73,9 @@
         "gp:id":22723840
     },
     "wof:country":"CR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa53b5cffdbb39250f0d1278fc8f0a4a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566708751,
+    "wof:lastmodified":1582381931,
     "wof:name":"San Bosco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -145,6 +145,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009320,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4aae59b7786fae0648c6dcbcdf3cc02f",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421182145,
-    "wof:lastmodified":1566708896,
+    "wof:lastmodified":1582381952,
     "wof:name":"Paraiso",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

@@ -93,6 +93,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009534,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f7a3b4250d8e9959cf81d27dbba9cdc",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421188115,
-    "wof:lastmodified":1566708871,
+    "wof:lastmodified":1582381947,
     "wof:name":"Escazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

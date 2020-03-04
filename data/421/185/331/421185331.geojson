@@ -118,6 +118,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009439,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dbb93d377c7443bc24bf56235843957",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421185331,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"Siquirres",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

@@ -91,6 +91,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d903907ab6660e47c51d9ec074534e67",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421189205,
-    "wof:lastmodified":1566708867,
+    "wof:lastmodified":1582381945,
     "wof:name":"Ulloa",
     "wof:parent_id":421183455,
     "wof:placetype":"localadmin",

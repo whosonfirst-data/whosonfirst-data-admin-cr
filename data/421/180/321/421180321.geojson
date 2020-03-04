@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009252,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a96aca193896bc5189ccdfbbc2ae4a02",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421180321,
-    "wof:lastmodified":1566708863,
+    "wof:lastmodified":1582381944,
     "wof:name":"Hojancha",
     "wof:parent_id":421171717,
     "wof:placetype":"localadmin",

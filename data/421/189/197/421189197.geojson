@@ -94,6 +94,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009613,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69ef8bf59d11b53c427da3566b501091",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421189197,
-    "wof:lastmodified":1566708868,
+    "wof:lastmodified":1582381945,
     "wof:name":"Turrialba",
     "wof:parent_id":421172003,
     "wof:placetype":"localadmin",

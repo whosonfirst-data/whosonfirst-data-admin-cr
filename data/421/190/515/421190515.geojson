@@ -93,6 +93,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009660,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a77f73cc2bd75ff56e234a7ce9bec0ab",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421190515,
-    "wof:lastmodified":1566708880,
+    "wof:lastmodified":1582381949,
     "wof:name":"Abangares",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

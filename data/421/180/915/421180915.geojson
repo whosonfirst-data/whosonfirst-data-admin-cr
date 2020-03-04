@@ -169,6 +169,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009275,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ced38c789e93bc3455d3783526ab4f2",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421180915,
-    "wof:lastmodified":1566708862,
+    "wof:lastmodified":1582381944,
     "wof:name":"San Pablo",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

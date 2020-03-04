@@ -182,6 +182,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009722,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc3dec03a0a7f601cbc9dcb6a73d0735",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":421191987,
-    "wof:lastmodified":1566708879,
+    "wof:lastmodified":1582381948,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":1108693667,
     "wof:placetype":"locality",

@@ -103,6 +103,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009437,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"692024d16d31b7164e07eda825df723f",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421185269,
-    "wof:lastmodified":1566708901,
+    "wof:lastmodified":1582381954,
     "wof:name":"San Ignacio",
     "wof:parent_id":421167827,
     "wof:placetype":"localadmin",

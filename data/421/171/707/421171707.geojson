@@ -140,6 +140,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459008904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aefa2dbd56036ebd893e72c135e70307",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421171707,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1582381953,
     "wof:name":"Alvarado",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

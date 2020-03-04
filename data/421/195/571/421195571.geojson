@@ -91,6 +91,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009852,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f26e767090b0856e2badfa556324a7d",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421195571,
-    "wof:lastmodified":1566708849,
+    "wof:lastmodified":1582381940,
     "wof:name":"Granja",
     "wof:parent_id":421203763,
     "wof:placetype":"localadmin",

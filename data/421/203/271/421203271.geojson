@@ -329,6 +329,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010145,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"84d222f174977c8bdf8906fdab3efb63",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":421203271,
-    "wof:lastmodified":1566708859,
+    "wof:lastmodified":1582381944,
     "wof:name":"Moravia",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

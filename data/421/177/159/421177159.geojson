@@ -52,6 +52,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459009135,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"643230c8dfc7b86cca26b2d2f3c2f4c6",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421177159,
-    "wof:lastmodified":1566708890,
+    "wof:lastmodified":1582381951,
     "wof:name":"Sarchi Sur",
     "wof:parent_id":421175407,
     "wof:placetype":"localadmin",

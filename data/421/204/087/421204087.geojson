@@ -92,6 +92,9 @@
     },
     "wof:country":"CR",
     "wof:created":1459010173,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"755b499927606bae7677aeeb2327cb8a",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421204087,
-    "wof:lastmodified":1566708857,
+    "wof:lastmodified":1582381943,
     "wof:name":"Garabito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",
