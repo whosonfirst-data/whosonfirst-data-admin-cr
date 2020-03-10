@@ -926,9 +926,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Costa_Rica",
-        "digitalenvoy:country_code":[
-            188
-        ],
+        "digitalenvoy:country_code":188,
         "fb:id":"en.costa_rica",
         "fifa:id":"CRC",
         "fips:code":"CS",
@@ -972,7 +970,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529113,
+    "wof:lastmodified":1583797317,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
