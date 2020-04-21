@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.234517,
-    "geom:area_square_m":51566291662.587479,
+    "geom:area_square_m":51566292161.009125,
     "geom:bbox":"-87.097473,5.501444,-82.552657,11.219681",
     "geom:latitude":9.971356,
     "geom:longitude":-84.197567,
@@ -54,6 +54,9 @@
     ],
     "name:arg_x_preferred":[
         "Costa Rica"
+    ],
+    "name:ary_x_preferred":[
+        "\u0643\u0648\u0633\u0637\u0627 \u0631\u064a\u0643\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0648\u0633\u062a\u0627 \u0631\u064a\u0643\u0627"
@@ -154,6 +157,12 @@
     "name:dan_x_preferred":[
         "Costa Rica"
     ],
+    "name:deu_at_x_preferred":[
+        "Costa Rica"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Costa Rica"
+    ],
     "name:deu_x_preferred":[
         "Costa Rica"
     ],
@@ -171,6 +180,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c3\u03c4\u03b1 \u03a1\u03af\u03ba\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Costa Rica"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Costa Rica"
     ],
     "name:eng_x_preferred":[
         "Costa Rica"
@@ -229,6 +244,9 @@
     ],
     "name:gag_x_preferred":[
         "Kosta Rika"
+    ],
+    "name:gcr_x_preferred":[
+        "Costa Rica"
     ],
     "name:ger_x_variant":[
         "Republik Costa Rica"
@@ -468,6 +486,9 @@
     "name:mon_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Koto Rika"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
     ],
@@ -573,6 +594,9 @@
     "name:pol_x_preferred":[
         "Kostaryka"
     ],
+    "name:por_br_x_preferred":[
+        "Costa Rica"
+    ],
     "name:por_x_preferred":[
         "Costa Rica"
     ],
@@ -609,6 +633,9 @@
     "name:san_x_preferred":[
         "\u0915\u094b\u0938\u094d\u091f\u093e \u0930\u0940\u0915\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c73\u1c65\u1c74\u1c5f\u1c68\u1c64\u1c60\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Costa Rica"
     ],
@@ -639,6 +666,9 @@
     "name:sna_x_variant":[
         "Kostarika"
     ],
+    "name:snd_x_preferred":[
+        "\u06aa\u0648\u0633\u067d\u0627\u0631\u064a\u06aa\u0627"
+    ],
     "name:som_x_preferred":[
         "Kosta Rika"
     ],
@@ -653,6 +683,15 @@
     ],
     "name:sqi_x_preferred":[
         "Kosta Rika"
+    ],
+    "name:srd_x_preferred":[
+        "Costa Rica"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430\u0440\u0438\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Kostarika"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u0440\u0438\u043a\u0430"
@@ -677,6 +716,9 @@
     ],
     "name:szl_x_preferred":[
         "Kostaryka"
+    ],
+    "name:szy_x_preferred":[
+        "Costa Riga"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bb8\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bbe"
@@ -719,6 +761,9 @@
     ],
     "name:tur_x_preferred":[
         "Kosta Rika"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0643\u0648\u0633\u062a\u0627\u0631\u0649\u0643\u0627"
@@ -802,8 +847,17 @@
     "name:zha_x_preferred":[
         "Costa Rica"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u54e5\u65af\u8fbe\u9ece\u52a0"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u54e5\u65af\u9054\u9ece\u52a0"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Costa Rica"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u54e5\u65af\u5927\u9ece\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u54e5\u65af\u8fbe\u9ece\u52a0"
@@ -970,7 +1024,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583797317,
+    "wof:lastmodified":1587428700,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
