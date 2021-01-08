@@ -17,7 +17,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
-    "mz:min_zoom":6.0,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:abk_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
@@ -446,6 +446,7 @@
     "wof:concordances":{
         "gn:id":3621849,
         "gp:id":59426,
+        "ne:id":1159150849,
         "qs_pg:id":1284751,
         "wd:id":"Q3070",
         "wk:page":"San Jos\u00e9, Costa Rica"
@@ -466,7 +467,8 @@
         }
     ],
     "wof:id":421171925,
-    "wof:lastmodified":1607390884,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"San Jose",
     "wof:parent_id":85670391,
     "wof:placetype":"locality",
