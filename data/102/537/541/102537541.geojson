@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.1297222222,9.44305555556,-84.1297222222,9.44305555556",
+    "geom:bbox":"-84.129722,9.443056,-84.129722,9.443056",
     "geom:latitude":9.443056,
     "geom:longitude":-84.129722,
     "iso:country":"CR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Quepos La Managua Airport"
+    ],
+    "name:eng_x_variant":[
+        "XQP",
+        "MRQP"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u0648\u0626\u067e\u0648\u0633 \u0645\u0627\u0646\u0627\u06af\u0648\u0627"
@@ -71,7 +75,7 @@
         "wd:id":"Q7271312"
     },
     "wof:country":"CR",
-    "wof:geomhash":"c56a8dd3b0aaf78222c86e23353e67f1",
+    "wof:geomhash":"2865586c28e4f53a9a9cd6052704682d",
     "wof:hierarchy":[
         {
             "campus_id":102537541,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102537541,
-    "wof:lastmodified":1566708734,
+    "wof:lastmodified":1631755703,
     "wof:name":"Quepos Managua Airport",
     "wof:parent_id":85670385,
     "wof:placetype":"campus",
@@ -92,10 +96,10 @@
     ]
 },
   "bbox": [
-    -84.129722222222,
-    9.4430555555556,
-    -84.129722222222,
-    9.4430555555556
+    -84.129722,
+    9.443056,
+    -84.129722,
+    9.443056
 ],
-  "geometry": {"coordinates":[-84.129722222222,9.4430555555556],"type":"Point"}
+  "geometry": {"coordinates":[-84.129722,9.443056],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.3,8.53333333333,-83.3,8.53333333333",
+    "geom:bbox":"-83.3,8.533333,-83.3,8.533333",
     "geom:latitude":8.533333,
     "geom:longitude":-83.3,
     "iso:country":"CR",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Puerto Jim\u00e9nez Airport"
+    ],
+    "name:eng_x_variant":[
+        "PJM",
+        "MRPJ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0631\u062a\u0648 \u0647\u06cc\u0645\u0646\u0632"
@@ -71,7 +75,7 @@
         "wd:id":"Q3497696"
     },
     "wof:country":"CR",
-    "wof:geomhash":"b9a14b3f24e46caebc4b61dd8c714522",
+    "wof:geomhash":"c73dcc38a68eec79a02dbbd34d078ccc",
     "wof:hierarchy":[
         {
             "campus_id":102537579,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":102537579,
-    "wof:lastmodified":1566708734,
+    "wof:lastmodified":1631755703,
     "wof:name":"Puerto Jimenez Airport",
     "wof:parent_id":85670385,
     "wof:placetype":"campus",
@@ -93,9 +97,9 @@
 },
   "bbox": [
     -83.3,
-    8.5333333333333,
+    8.533333,
     -83.3,
-    8.5333333333333
+    8.533333
 ],
-  "geometry": {"coordinates":[-83.3,8.5333333333333],"type":"Point"}
+  "geometry": {"coordinates":[-83.3,8.533333],"type":"Point"}
 }
