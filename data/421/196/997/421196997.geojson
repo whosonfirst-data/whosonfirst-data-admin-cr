@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ad\u09be\u09b8"
+    ],
     "name:cat_x_preferred":[
         "Rivas"
     ],
@@ -30,6 +33,15 @@
         "Rivas"
     ],
     "name:fra_x_preferred":[
+        "Rivas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5\u05d5\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0935\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
         "Rivas"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +66,9 @@
         "Rivas"
     ],
     "name:swe_x_preferred":[
+        "Rivas"
+    ],
+    "name:tur_x_preferred":[
         "Rivas"
     ],
     "name:ukr_x_preferred":[
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":421196997,
-    "wof:lastmodified":1582381948,
+    "wof:lastmodified":1636505111,
     "wof:name":"Rivas",
     "wof:parent_id":421182141,
     "wof:placetype":"localadmin",

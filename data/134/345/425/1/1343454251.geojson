@@ -46,6 +46,9 @@
     "name:bel_x_preferred":[
         "\u0422\u044d\u0440\u0443\u044d\u043b\u044c"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c7\u09b0\u09c1\u09af\u09bc\u09c7\u09b2"
+    ],
     "name:bos_x_preferred":[
         "Teruel"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d5\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u0930\u0941\u090f\u0932"
     ],
     "name:hrv_x_preferred":[
         "Teruel"
@@ -225,7 +231,7 @@
         }
     ],
     "wof:id":1343454251,
-    "wof:lastmodified":1566708749,
+    "wof:lastmodified":1636505064,
     "wof:name":"Teruel",
     "wof:parent_id":421167827,
     "wof:placetype":"locality",

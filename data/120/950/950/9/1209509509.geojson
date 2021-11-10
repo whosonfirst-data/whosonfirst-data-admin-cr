@@ -130,16 +130,32 @@
         "Rio Negro"
     ],
     "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e-\u041d\u0435\u0433\u0440\u0443"
+    ],
+    "name:ukr_x_variant":[
         "\u0420\u0456\u043e-\u041d\u0435\u0433\u0440\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u0646\u06cc\u06af\u0631\u0648"
+    ],
     "name:vie_x_preferred":[
-        "R\u00edo Negro"
+        "S\u00f4ng R\u00edo Negro"
+    ],
+    "name:vie_x_variant":[
+        "R\u00edo Negro",
+        "Rio Negro"
     ],
     "name:vol_x_preferred":[
         "Rio Negro"
     ],
     "name:war_x_preferred":[
         "Rio Negro"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u91cc\u5965\u5185\u683c\u7f57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u91cc\u5967\u5167\u683c\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u5185\u683c\u7f57\u6cb3"
@@ -153,7 +169,7 @@
         "gn:id":3622091
     },
     "wof:country":"CR",
-    "wof:geomhash":"f76c24f2ac7c12312cc621419534fa58",
+    "wof:geomhash":"1b814c89d3bfaa1ecc0ce105fffa4079",
     "wof:hierarchy":[
         {
             "country_id":85632487,
@@ -161,7 +177,7 @@
         }
     ],
     "wof:id":1209509509,
-    "wof:lastmodified":1566708800,
+    "wof:lastmodified":1636505086,
     "wof:name":"Rio Negro",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",
@@ -171,10 +187,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.36473000000002,
+    -84.36473,
     9.63244,
-    -84.36473000000002,
+    -84.36473,
     9.63244
 ],
-  "geometry": {"coordinates":[-84.36473000000002,9.63244],"type":"Point"}
+  "geometry": {"coordinates":[-84.36472999999999,9.63244],"type":"Point"}
 }

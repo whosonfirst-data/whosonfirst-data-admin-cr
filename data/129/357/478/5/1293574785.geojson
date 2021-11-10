@@ -68,6 +68,9 @@
     "name:hrv_x_preferred":[
         "Durazno"
     ],
+    "name:hun_x_preferred":[
+        "Durazno"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0580\u0561\u057d\u0576\u0578"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1293574785,
-    "wof:lastmodified":1566708771,
+    "wof:lastmodified":1636505073,
     "wof:name":"Durazno",
     "wof:parent_id":421175409,
     "wof:placetype":"locality",

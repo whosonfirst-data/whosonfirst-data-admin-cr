@@ -17,17 +17,56 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e8\u05e4\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0930\u093e\u092b\u093c\u0947\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ind_x_preferred":[
+        "San Rafael"
+    ],
     "name:ita_x_preferred":[
         "San Rafael"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30e9\u30d5\u30a1\u30a8\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ub77c\ud30c\uc5d8"
     ],
     "name:nor_x_preferred":[
         "San Rafael"
     ],
+    "name:por_x_preferred":[
+        "San Rafael"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u044d\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
+        "San Rafael"
+    ],
+    "name:spa_x_variant":[
         "San Rafael de Guatuso"
+    ],
+    "name:tur_x_preferred":[
+        "San Rafael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u0444\u0430\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
         "San Rafael Guatuso"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "San Rafael"
     ],
     "name:zho_x_preferred":[
         "\u8056\u62c9\u6590\u723e"
@@ -88,7 +127,7 @@
         }
     ],
     "wof:id":421195379,
-    "wof:lastmodified":1582381940,
+    "wof:lastmodified":1636505101,
     "wof:name":"San Rafael",
     "wof:parent_id":421204093,
     "wof:placetype":"localadmin",

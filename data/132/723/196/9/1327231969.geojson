@@ -55,6 +55,12 @@
     "name:fra_x_preferred":[
         "Montero"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Montero"
+    ],
     "name:ita_x_preferred":[
         "Montero"
     ],
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":1327231969,
-    "wof:lastmodified":1566708725,
+    "wof:lastmodified":1636505056,
     "wof:name":"Montero",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",

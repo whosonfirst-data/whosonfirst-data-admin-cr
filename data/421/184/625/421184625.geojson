@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.0913,9.9731615,-84.0913,9.9731615",
+    "geom:bbox":"-84.0913,9.973161,-84.0913,9.973161",
     "geom:latitude":9.973161,
     "geom:longitude":-84.0913,
     "iso:country":"CR",
@@ -162,10 +162,22 @@
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062c\u0648\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan"
     ],
     "name:war_x_preferred":[
         "San Juan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u80e1\u5b89\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u80e1\u5b89"
     ],
     "name:zho_x_preferred":[
         "\u5723\u80e1\u5b89"
@@ -211,7 +223,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"31dc02bb2f5765681797188d89d67289",
+    "wof:geomhash":"8c1c509c6e2c426d3ac63797e6dca23e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -222,7 +234,7 @@
         }
     ],
     "wof:id":421184625,
-    "wof:lastmodified":1582381950,
+    "wof:lastmodified":1636505114,
     "wof:name":"San Juan",
     "wof:parent_id":421185327,
     "wof:placetype":"localadmin",
@@ -233,9 +245,9 @@
 },
   "bbox": [
     -84.0913,
-    9.9731615,
+    9.973161,
     -84.0913,
-    9.9731615
+    9.973161
 ],
-  "geometry": {"coordinates":[-84.0913,9.9731615],"type":"Point"}
+  "geometry": {"coordinates":[-84.0913,9.973161],"type":"Point"}
 }

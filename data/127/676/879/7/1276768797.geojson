@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ben_x_preferred":[
+        "\u09b9\u09c7\u09b0\u09c7\u09a6\u09bf\u09df\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0440\u0435\u0434\u0438\u044f"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d3\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0947\u0930\u0947\u0921\u093f\u092f\u093e"
     ],
     "name:hye_x_preferred":[
         "\u0537\u0580\u0565\u0564\u056b\u0561"
@@ -112,7 +118,7 @@
         "wk:page":"Heredia"
     },
     "wof:country":"CR",
-    "wof:geomhash":"ff864a7570acafa8f188b6808c8a803e",
+    "wof:geomhash":"80163ad450ee91f545313b979ad07029",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1276768797,
-    "wof:lastmodified":1566708785,
+    "wof:lastmodified":1636505079,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",
@@ -135,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.11650999999998,
+    -84.11651,
     10.00236,
-    -84.11650999999998,
+    -84.11651,
     10.00236
 ],
-  "geometry": {"coordinates":[-84.11650999999998,10.00236],"type":"Point"}
+  "geometry": {"coordinates":[-84.11651000000001,10.00236],"type":"Point"}
 }

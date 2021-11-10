@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "San Mateo de Alajuela"
     ],
+    "name:hun_x_preferred":[
+        "San Mateo"
+    ],
     "name:ita_x_preferred":[
         "San Mateo"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421181027,
-    "wof:lastmodified":1566708875,
+    "wof:lastmodified":1636505111,
     "wof:name":"San Mateo",
     "wof:parent_id":421169971,
     "wof:placetype":"locality",

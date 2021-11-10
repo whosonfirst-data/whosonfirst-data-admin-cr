@@ -134,10 +134,22 @@
         "Castro"
     ],
     "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0440\u0443"
+    ],
+    "name:ukr_x_variant":[
         "\u041a\u0430\u0441\u0442\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0633\u0679\u0631\u0648"
     ],
     "name:vol_x_preferred":[
         "Castro"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u65af\u7279\u9c81"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u65af\u7279\u7f85"
     ],
     "name:zho_x_preferred":[
         "\u5361\u65af\u7279\u7f57"
@@ -154,7 +166,7 @@
         "gn:id":3624348
     },
     "wof:country":"CR",
-    "wof:geomhash":"02299dd1f6cdba8f9369f7cc39cb871e",
+    "wof:geomhash":"a0bab01e5f7dd378c3a736df1163511d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -165,7 +177,7 @@
         }
     ],
     "wof:id":1242795377,
-    "wof:lastmodified":1566708916,
+    "wof:lastmodified":1636505123,
     "wof:name":"Castro",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",
@@ -175,10 +187,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.51666999999998,
+    -84.51667,
     10.36667,
-    -84.51666999999998,
+    -84.51667,
     10.36667
 ],
-  "geometry": {"coordinates":[-84.51666999999998,10.36667],"type":"Point"}
+  "geometry": {"coordinates":[-84.51667,10.36667],"type":"Point"}
 }

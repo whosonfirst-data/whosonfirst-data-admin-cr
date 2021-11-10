@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.5982285,10.273169,-85.5982285,10.273169",
+    "geom:bbox":"-85.598229,10.273169,-85.598229,10.273169",
     "geom:latitude":10.273169,
     "geom:longitude":-85.598229,
     "iso:country":"CR",
@@ -123,6 +123,9 @@
         "Santa Cruz"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:sco_x_preferred":[
@@ -146,7 +149,13 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Santa Cruz"
+    ],
+    "name:vie_x_variant":[
         "Santa Cruz"
     ],
     "name:vol_x_preferred":[
@@ -154,6 +163,12 @@
     ],
     "name:war_x_preferred":[
         "Santa Cruz"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u514b\u9c81\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u514b\u9b6f\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8056\u514b\u9b6f\u65af"
@@ -196,7 +211,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"8fd6876d5e341001a775f5bc9fe12d20",
+    "wof:geomhash":"005c7f522381dcb37a6215b26603ca92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -207,7 +222,7 @@
         }
     ],
     "wof:id":421188907,
-    "wof:lastmodified":1582381945,
+    "wof:lastmodified":1636505109,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108693669,
     "wof:placetype":"localadmin",
@@ -217,10 +232,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.5982285,
+    -85.598229,
     10.273169,
-    -85.5982285,
+    -85.598229,
     10.273169
 ],
-  "geometry": {"coordinates":[-85.5982285,10.273169],"type":"Point"}
+  "geometry": {"coordinates":[-85.598229,10.273169],"type":"Point"}
 }

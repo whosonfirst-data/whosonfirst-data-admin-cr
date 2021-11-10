@@ -21,6 +21,9 @@
         "\u0625\u064a\u0631\u064a\u0630\u064a\u0627"
     ],
     "name:ben_x_preferred":[
+        "\u09b9\u09c7\u09b0\u09c7\u09a6\u09bf\u09df\u09be"
+    ],
+    "name:ben_x_variant":[
         "\u09b9\u09c7\u09b0\u09c7\u09a6\u09bf\u09af\u09bc\u09be"
     ],
     "name:bul_x_preferred":[
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1582381950,
+    "wof:lastmodified":1636505114,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

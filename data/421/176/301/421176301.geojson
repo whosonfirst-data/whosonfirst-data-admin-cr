@@ -39,7 +39,16 @@
         "Puriscal"
     ],
     "name:vie_x_preferred":[
+        "Santiago"
+    ],
+    "name:vie_x_variant":[
         "Puriscal"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5730\u7259\u54e5"
     ],
     "name:zho_x_preferred":[
         "\u666e\u91cc\u65af\u5361\u723e\u7e23"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421176301,
-    "wof:lastmodified":1582381953,
+    "wof:lastmodified":1636505117,
     "wof:name":"Santiago",
     "wof:parent_id":421175401,
     "wof:placetype":"localadmin",

@@ -20,6 +20,12 @@
     "name:eng_x_preferred":[
         "San Antonio"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05e0\u05d8\u05d5\u05e0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Antonio"
+    ],
     "name:ita_x_preferred":[
         "San Antonio"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421180737,
-    "wof:lastmodified":1566708862,
+    "wof:lastmodified":1636505105,
     "wof:name":"San Antonio",
     "wof:parent_id":421197833,
     "wof:placetype":"locality",

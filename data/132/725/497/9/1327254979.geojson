@@ -494,6 +494,9 @@
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e14\u0e2d\u0e21\u0e34\u0e19\u0e35\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
+        "Dominica"
+    ],
+    "name:tur_x_variant":[
         "Dominika"
     ],
     "name:uig_x_preferred":[
@@ -519,6 +522,9 @@
         "Dominik"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Dominica"
+    ],
+    "name:vie_x_variant":[
         "Dominica"
     ],
     "name:vol_x_preferred":[
@@ -551,6 +557,12 @@
     "name:zha_x_preferred":[
         "Dominica"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u591a\u7c73\u5c3c\u52a0\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b\u5cf6"
+    ],
     "name:zho_x_preferred":[
         "\u591a\u7c73\u5c3c\u514b"
     ],
@@ -577,7 +589,7 @@
         }
     ],
     "wof:id":1327254979,
-    "wof:lastmodified":1566708723,
+    "wof:lastmodified":1636505055,
     "wof:name":"Dominica",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

@@ -23,6 +23,12 @@
     "name:fra_x_preferred":[
         "Filadelfia"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05d3\u05dc\u05e4\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Filadelfia"
+    ],
     "name:hye_x_preferred":[
         "\u0556\u056b\u056c\u0561\u0564\u0565\u056c\u0586\u056b\u0561"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421177433,
-    "wof:lastmodified":1566708891,
+    "wof:lastmodified":1636505115,
     "wof:name":"Filadelfia",
     "wof:parent_id":421201615,
     "wof:placetype":"locality",

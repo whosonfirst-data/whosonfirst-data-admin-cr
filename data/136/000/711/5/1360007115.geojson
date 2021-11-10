@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u062a\u0627\u0644\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e0\u05d8\u05d0\u05dc\u05e1"
+    ],
     "name:spa_x_preferred":[
         "Chontales"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1360007115,
-    "wof:lastmodified":1566708836,
+    "wof:lastmodified":1636505097,
     "wof:name":"Chontales",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:est_x_preferred":[
         "Lola"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lola"
     ],
@@ -94,7 +97,7 @@
         "gn:id":9256782
     },
     "wof:country":"CR",
-    "wof:geomhash":"4bbf023967dd2e98760c0d284d3ccc5b",
+    "wof:geomhash":"35b11c939ead75342bdaa9712ea488ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1242896061,
-    "wof:lastmodified":1566708909,
+    "wof:lastmodified":1636505120,
     "wof:name":"Lola",
     "wof:parent_id":421170303,
     "wof:placetype":"locality",
@@ -115,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.38949000000002,
+    -83.38949,
     10.09491,
-    -83.38949000000002,
+    -83.38949,
     10.09491
 ],
-  "geometry": {"coordinates":[-83.38949000000002,10.09491],"type":"Point"}
+  "geometry": {"coordinates":[-83.38949,10.09491],"type":"Point"}
 }

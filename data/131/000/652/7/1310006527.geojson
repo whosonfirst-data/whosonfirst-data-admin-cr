@@ -80,7 +80,13 @@
         "Socorro"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0440\u0440\u043e"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u043e\u043a\u043e\u0440\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0631\u0648"
     ],
     "name:vol_x_preferred":[
         "Socorro"
@@ -103,7 +109,7 @@
         "gn:id":3621425
     },
     "wof:country":"CR",
-    "wof:geomhash":"aa204105b151663e07d2f7fdb7e3bf39",
+    "wof:geomhash":"692cd46477a687b78f9ecd83f2e6484e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1310006527,
-    "wof:lastmodified":1566708825,
+    "wof:lastmodified":1636505093,
     "wof:name":"Socorro",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",
@@ -124,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.06503000000002,
+    -84.06503,
     9.97234,
-    -84.06503000000002,
+    -84.06503,
     9.97234
 ],
-  "geometry": {"coordinates":[-84.06503000000002,9.97234],"type":"Point"}
+  "geometry": {"coordinates":[-84.06502999999999,9.97234],"type":"Point"}
 }

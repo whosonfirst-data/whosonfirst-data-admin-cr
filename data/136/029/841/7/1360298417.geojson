@@ -494,6 +494,9 @@
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e14\u0e2d\u0e21\u0e34\u0e19\u0e35\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
+        "Dominica"
+    ],
+    "name:tur_x_variant":[
         "Dominika"
     ],
     "name:uig_x_preferred":[
@@ -515,6 +518,9 @@
         "Dominik"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Dominica"
+    ],
+    "name:vie_x_variant":[
         "Dominica"
     ],
     "name:vol_x_preferred":[
@@ -547,6 +553,12 @@
     "name:zha_x_preferred":[
         "Dominica"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u591a\u7c73\u5c3c\u52a0\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u591a\u7c73\u5c3c\u514b\u5cf6"
+    ],
     "name:zho_x_preferred":[
         "\u591a\u7c73\u5c3c\u514b"
     ],
@@ -562,7 +574,7 @@
         "gn:id":3623907
     },
     "wof:country":"CR",
-    "wof:geomhash":"9735f5a5a4ce373ee6efe29820310a98",
+    "wof:geomhash":"56e2eb3cb28aebcd75bdeb7a13a8d4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -573,7 +585,7 @@
         }
     ],
     "wof:id":1360298417,
-    "wof:lastmodified":1566708839,
+    "wof:lastmodified":1636505098,
     "wof:name":"Dominica",
     "wof:parent_id":421172003,
     "wof:placetype":"locality",
@@ -583,10 +595,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.67983000000002,
+    -83.67983,
     9.91641,
-    -83.67983000000002,
+    -83.67983,
     9.91641
 ],
-  "geometry": {"coordinates":[-83.67983000000002,9.91641],"type":"Point"}
+  "geometry": {"coordinates":[-83.67983,9.91641],"type":"Point"}
 }

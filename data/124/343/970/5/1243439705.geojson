@@ -31,6 +31,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u09ad\u09be\u09b8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5\u05d5\u05d0\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093f\u0935\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Rivas"
+    ],
+    "name:tur_x_preferred":[
+        "Rivas"
+    ],
+    "name:vie_x_preferred":[
+        "Rivas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243439705,
-    "wof:lastmodified":1566708921,
+    "wof:lastmodified":1636505124,
     "wof:name":"Rivas",
     "wof:parent_id":421182141,
     "wof:placetype":"locality",

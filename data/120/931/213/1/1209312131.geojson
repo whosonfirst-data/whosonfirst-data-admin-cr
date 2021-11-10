@@ -257,6 +257,9 @@
         "Virginia"
     ],
     "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2"
+    ],
+    "name:jpn_x_variant":[
         "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
     ],
     "name:kab_x_preferred":[
@@ -546,7 +549,7 @@
         }
     ],
     "wof:id":1209312131,
-    "wof:lastmodified":1566708791,
+    "wof:lastmodified":1636505082,
     "wof:name":"Virginia",
     "wof:parent_id":85632487,
     "wof:placetype":"locality",

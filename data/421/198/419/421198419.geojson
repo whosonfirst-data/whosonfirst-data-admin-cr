@@ -20,10 +20,22 @@
     "name:cat_x_preferred":[
         "San Felipe"
     ],
+    "name:deu_x_preferred":[
+        "San Felipe"
+    ],
     "name:eng_x_preferred":[
         "San Felipe"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u06cc\u0644\u06cc\u067e\u0647"
+    ],
     "name:glg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05dc\u05d9\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "San Felipe"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421198419,
-    "wof:lastmodified":1566708877,
+    "wof:lastmodified":1636505111,
     "wof:name":"San Felipe",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",
