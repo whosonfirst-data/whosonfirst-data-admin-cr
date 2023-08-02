@@ -92,6 +92,9 @@
     "name:gsw_x_preferred":[
         "Paquita"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e7\u05d9\u05d8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Paquita"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421181021,
-    "wof:lastmodified":1566708875,
+    "wof:lastmodified":1690868469,
     "wof:name":"Paquita",
     "wof:parent_id":421201601,
     "wof:placetype":"locality",

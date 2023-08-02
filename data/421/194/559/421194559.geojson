@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ip\u00eds"
+    ],
+    "name:ceb_x_preferred":[
+        "Ip\u00eds"
+    ],
     "name:eng_x_preferred":[
         "Ip\u00eds de Goicoechea"
+    ],
+    "name:eng_x_variant":[
+        "Ip\u00eds"
     ],
     "name:ita_x_preferred":[
         "Ip\u00eds"
@@ -30,6 +39,9 @@
         "Ip\u00eds"
     ],
     "name:spa_x_preferred":[
+        "Ip\u00eds"
+    ],
+    "name:swe_x_preferred":[
         "Ip\u00eds"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":421194559,
-    "wof:lastmodified":1566708849,
+    "wof:lastmodified":1690868451,
     "wof:name":"Ip\u00eds",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

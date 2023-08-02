@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Barva"
+    ],
+    "name:avk_x_preferred":[
+        "Barva"
+    ],
     "name:dan_x_preferred":[
         "Barva"
     ],
@@ -51,6 +57,9 @@
         "Barva"
     ],
     "name:spa_x_preferred":[
+        "Barva"
+    ],
+    "name:swe_x_preferred":[
         "Barva"
     ],
     "name:und_x_variant":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421170199,
-    "wof:lastmodified":1566708889,
+    "wof:lastmodified":1690868480,
     "wof:name":"Barva",
     "wof:parent_id":421193823,
     "wof:placetype":"locality",

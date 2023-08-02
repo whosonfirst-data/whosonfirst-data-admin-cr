@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Marcos"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
     ],
     "name:ceb_x_preferred":[
+        "San Marcos"
+    ],
+    "name:deu_x_preferred":[
         "San Marcos"
     ],
     "name:ell_x_preferred":[
@@ -67,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "San Marcos de Tarraz\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "San Marcos"
     ],
     "name:swe_x_preferred":[
         "San Marcos"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":421201147,
-    "wof:lastmodified":1636505114,
+    "wof:lastmodified":1690868478,
     "wof:name":"San Marcos",
     "wof:parent_id":421169977,
     "wof:placetype":"locality",

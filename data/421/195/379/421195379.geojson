@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Rafael"
+    ],
+    "name:eng_x_preferred":[
+        "San Rafael"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05e8\u05e4\u05d0\u05dc"
     ],
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421195379,
-    "wof:lastmodified":1636505101,
+    "wof:lastmodified":1690868450,
     "wof:name":"San Rafael",
     "wof:parent_id":421204093,
     "wof:placetype":"localadmin",

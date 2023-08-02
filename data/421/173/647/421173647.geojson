@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Monte Verde"
+    ],
     "name:eng_x_preferred":[
         "Monteverde"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:fra_x_preferred":[
         "Monteverde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d8\u05d5\u05d5\u05e8\u05d3\u05d4"
     ],
     "name:ind_x_preferred":[
         "Monteverde"
@@ -45,6 +51,9 @@
         "Monteverde"
     ],
     "name:srp_x_preferred":[
+        "Monteverde"
+    ],
+    "name:tgl_x_preferred":[
         "Monteverde"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421173647,
-    "wof:lastmodified":1566708865,
+    "wof:lastmodified":1690868465,
     "wof:name":"Monte Verde",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

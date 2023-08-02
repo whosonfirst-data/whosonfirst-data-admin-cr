@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Parrita"
+    ],
+    "name:ceb_x_preferred":[
+        "Parrita"
+    ],
     "name:eng_x_preferred":[
         "Parrita"
     ],
@@ -50,7 +56,13 @@
     "name:nor_x_preferred":[
         "Parrita"
     ],
+    "name:pol_x_preferred":[
+        "Parrita"
+    ],
     "name:spa_x_preferred":[
+        "Parrita"
+    ],
+    "name:swe_x_preferred":[
         "Parrita"
     ],
     "qs:gn_country":null,
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1690868485,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

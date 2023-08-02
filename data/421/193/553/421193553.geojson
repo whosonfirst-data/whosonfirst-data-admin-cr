@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Para\u00edso"
+    ],
+    "name:avk_x_preferred":[
+        "Para\u00edso"
+    ],
     "name:ceb_x_preferred":[
         "Para\u00edso"
     ],
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421193553,
-    "wof:lastmodified":1566708851,
+    "wof:lastmodified":1690868453,
     "wof:name":"Para\u00edso",
     "wof:parent_id":421182145,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sabanilla"
+    ],
     "name:cat_x_preferred":[
         "Sabanilla"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421201141,
-    "wof:lastmodified":1566708887,
+    "wof:lastmodified":1690868478,
     "wof:name":"Sabanilla",
     "wof:parent_id":421201603,
     "wof:placetype":"locality",

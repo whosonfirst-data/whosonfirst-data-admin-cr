@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "San Vicente"
+    ],
     "name:cat_x_preferred":[
         "San Vicente"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890435335,
-    "wof:lastmodified":1566708905,
+    "wof:lastmodified":1690868491,
     "wof:name":"San Vicente de Moravia",
     "wof:parent_id":421203271,
     "wof:placetype":"locality",

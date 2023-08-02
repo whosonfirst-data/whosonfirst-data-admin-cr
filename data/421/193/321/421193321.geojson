@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tronadora"
+    ],
     "name:eng_x_preferred":[
         "Tronadora"
     ],
     "name:ita_x_preferred":[
         "Tronadora"
+    ],
+    "name:spa_x_preferred":[
+        "Tronadora"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7f85\u7d0d\u591a\u62c9\u5fb7\u8482\u62c9\u862d\u5340"
     ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":421193321,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1690868454,
     "wof:name":"Tronadora",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

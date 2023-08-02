@@ -35,11 +35,19 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:avk_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Tilar\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Tilaran"
     ],
     "name:eng_x_variant":[
-        "Tilaran",
         "Tilar\u00e1n"
     ],
     "name:fra_x_preferred":[
@@ -52,6 +60,9 @@
         "Tilar\u00e1n"
     ],
     "name:nob_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:pol_x_preferred":[
         "Tilar\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -126,7 +137,7 @@
         }
     ],
     "wof:id":421170251,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1690868479,
     "wof:name":"Tilaran",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

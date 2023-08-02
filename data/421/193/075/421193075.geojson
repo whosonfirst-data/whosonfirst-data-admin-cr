@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Diego"
+    ],
     "name:ceb_x_preferred":[
         "San Diego"
     ],
     "name:eng_x_preferred":[
         "San Diego de La Uni\u00f3n"
+    ],
+    "name:eng_x_variant":[
+        "San Diego"
     ],
     "name:ita_x_preferred":[
         "San Diego"
@@ -31,6 +37,9 @@
     ],
     "name:spa_x_preferred":[
         "San Diego de La Uni\u00f3n"
+    ],
+    "name:spa_x_variant":[
+        "San Diego"
     ],
     "name:swe_x_preferred":[
         "San Diego"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421193075,
-    "wof:lastmodified":1566708851,
+    "wof:lastmodified":1690868453,
     "wof:name":"San Diego",
     "wof:parent_id":421204569,
     "wof:placetype":"locality",

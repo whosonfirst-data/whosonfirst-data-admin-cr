@@ -33,6 +33,15 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646 \u062e\u0648\u0633\u064a\u0647"
     ],
+    "name:ast_x_preferred":[
+        "San Xos\u00e9"
+    ],
+    "name:avk_x_preferred":[
+        "CostarikaSan Jos\u00e9Winka"
+    ],
+    "name:aze_x_preferred":[
+        "San-Xose vilay\u0259ti"
+    ],
     "name:bar_x_preferred":[
         "Provinz San Jos\u00e9"
     ],
@@ -54,6 +63,9 @@
     "name:ces_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:cym_x_preferred":[
+        "Talaith San Jos\u00e9"
+    ],
     "name:dan_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -74,6 +86,9 @@
     ],
     "name:eus_x_preferred":[
         "San Jose"
+    ],
+    "name:eus_x_variant":[
+        "San Jos\u00e9 probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0646 \u062e\u0648\u0632\u0647"
@@ -105,6 +120,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053d\u0578\u057d\u0565"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0561\u0576 \u053d\u0585\u057d\u0567"
+    ],
     "name:ind_x_preferred":[
         "Provinsi San Jos\u00e9"
     ],
@@ -127,7 +145,8 @@
         "\uc0b0\ud638\uc138"
     ],
     "name:kor_x_variant":[
-        "\uc0b0\ud638\uc138 \uc8fc"
+        "\uc0b0\ud638\uc138 \uc8fc",
+        "\uc0b0\ud638\uc138\uc8fc"
     ],
     "name:lad_x_preferred":[
         "San Jos\u00e9"
@@ -146,6 +165,9 @@
     ],
     "name:nah_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "San Jos\u00e9"
@@ -215,6 +237,9 @@
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u4f55\u585e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5723\u4f55\u585e"
@@ -345,7 +370,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614893657,
+    "wof:lastmodified":1690868445,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

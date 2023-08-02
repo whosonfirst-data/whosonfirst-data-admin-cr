@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062e\u0648\u064a\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Alajuela"
+    ],
+    "name:avk_x_preferred":[
+        "CostarikaAlajuelaWinka"
+    ],
     "name:bar_x_preferred":[
         "Provinz Alajuela"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:ces_x_preferred":[
         "Alajuela"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Alajuela"
     ],
     "name:dan_x_preferred":[
         "Alajuela"
@@ -71,6 +80,9 @@
     ],
     "name:eus_x_preferred":[
         "Alajuela"
+    ],
+    "name:eus_x_variant":[
+        "Alajuela probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0627\u0647\u0648\u0626\u0644\u0627"
@@ -102,6 +114,9 @@
     "name:hye_x_preferred":[
         "\u0531\u056c\u0561\u056d\u0578\u0582\u0565\u056c\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056c\u0561\u056d\u0578\u0582\u0567\u056c\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Alajuela"
     ],
@@ -120,6 +135,9 @@
     "name:kor_x_preferred":[
         "\uc54c\ub77c\ud6c4\uc5d8\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc54c\ub77c\ud6c4\uc5d8\ub77c\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Alajuela"
     ],
@@ -137,6 +155,9 @@
     ],
     "name:nah_x_preferred":[
         "Alajuela"
+    ],
+    "name:nan_x_preferred":[
+        "Alajuela S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Alajuela"
@@ -209,6 +230,9 @@
     ],
     "name:war_x_preferred":[
         "Alajuela"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u62c9\u80e1\u57c3\u62c9\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u80e1\u57c3\u62c9\u7701"
@@ -336,7 +360,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636505065,
+    "wof:lastmodified":1690868444,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

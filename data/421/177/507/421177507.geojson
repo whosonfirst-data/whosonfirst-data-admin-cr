@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Rafael Abajo"
+    ],
     "name:ceb_x_preferred":[
         "San Rafael Abajo"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421177507,
-    "wof:lastmodified":1566708891,
+    "wof:lastmodified":1690868481,
     "wof:name":"San Rafael Abajo",
     "wof:parent_id":421175401,
     "wof:placetype":"locality",

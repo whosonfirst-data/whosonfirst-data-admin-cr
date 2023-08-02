@@ -50,6 +50,9 @@
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043a\u0443\u0435\u04b3\u043f\u0443\u0441 \u043c\u043e\u043d\u043e\u0433\u04ef\u043e"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u62ff\u52a0\u673a\u573a"
+    ],
     "oa:elevation_ft":"85",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":102537541,
-    "wof:lastmodified":1631755703,
+    "wof:lastmodified":1690868442,
     "wof:name":"Quepos Managua Airport",
     "wof:parent_id":85670385,
     "wof:placetype":"campus",

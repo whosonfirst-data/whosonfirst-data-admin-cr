@@ -17,7 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bribri"
+    ],
+    "name:avk_x_preferred":[
+        "Bribri"
+    ],
+    "name:cat_x_preferred":[
+        "Bribri"
+    ],
+    "name:deu_x_preferred":[
+        "Bribri"
+    ],
     "name:eng_x_preferred":[
+        "Bribri"
+    ],
+    "name:fra_x_preferred":[
         "Bribri"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":421181013,
-    "wof:lastmodified":1566708874,
+    "wof:lastmodified":1690868468,
     "wof:name":"Bribri",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

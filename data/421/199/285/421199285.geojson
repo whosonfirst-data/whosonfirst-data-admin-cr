@@ -47,6 +47,9 @@
     "name:ast_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:avk_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:aze_x_preferred":[
         "San-Xose"
     ],
@@ -128,6 +131,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30db\u30bb"
     ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30fb\u30db\u30bb"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:ltz_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
     ],
     "name:nah_x_preferred":[
         "San Jos\u00e9"
@@ -212,6 +221,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435"
     ],
+    "name:vec_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:vep_x_preferred":[
         "San Hose"
     ],
@@ -226,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u4f55\u585e"
     ],
     "name:yue_x_preferred":[
         "\u8056\u8377\u897f"
@@ -296,7 +311,7 @@
         }
     ],
     "wof:id":421199285,
-    "wof:lastmodified":1636505113,
+    "wof:lastmodified":1690868474,
     "wof:name":"San Jose",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

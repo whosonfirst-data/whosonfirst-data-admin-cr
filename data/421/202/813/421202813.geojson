@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Parrita"
+    ],
+    "name:ceb_x_preferred":[
+        "Parrita"
+    ],
     "name:eng_x_preferred":[
         "Parrita"
     ],
@@ -24,6 +30,15 @@
         "Parrita"
     ],
     "name:nob_x_preferred":[
+        "Parrita"
+    ],
+    "name:pol_x_preferred":[
+        "Parrita"
+    ],
+    "name:spa_x_preferred":[
+        "Parrita"
+    ],
+    "name:swe_x_preferred":[
         "Parrita"
     ],
     "qs:gn_country":"CR",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":421202813,
-    "wof:lastmodified":1566708860,
+    "wof:lastmodified":1690868460,
     "wof:name":"Parrita",
     "wof:parent_id":421182071,
     "wof:placetype":"locality",

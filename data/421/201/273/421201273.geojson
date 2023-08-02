@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u062c\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Nicoya"
+    ],
+    "name:avk_x_preferred":[
+        "Nicoya"
+    ],
+    "name:cat_x_preferred":[
+        "Nicoya"
+    ],
     "name:ceb_x_preferred":[
         "Nicoya"
     ],
@@ -54,6 +63,9 @@
         "Nicoya"
     ],
     "name:nor_x_preferred":[
+        "Nicoya"
+    ],
+    "name:pol_x_preferred":[
         "Nicoya"
     ],
     "name:ron_x_preferred":[
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":421201273,
-    "wof:lastmodified":1566708884,
+    "wof:lastmodified":1690868475,
     "wof:name":"Nicoya",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

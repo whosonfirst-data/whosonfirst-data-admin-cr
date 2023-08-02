@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Mercedes"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09cd\u09b8\u09bf\u09a6\u09bf\u099c"
     ],
@@ -44,6 +47,9 @@
     "name:ind_x_preferred":[
         "Mercedes"
     ],
+    "name:ita_x_preferred":[
+        "Mercedes"
+    ],
     "name:kor_x_preferred":[
         "\uba54\ub974\uc138\ub370\uc2a4"
     ],
@@ -51,6 +57,9 @@
         "Mercedes"
     ],
     "name:pol_x_preferred":[
+        "Mercedes"
+    ],
+    "name:spa_x_preferred":[
         "Mercedes"
     ],
     "name:swe_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421179401,
-    "wof:lastmodified":1636505116,
+    "wof:lastmodified":1690868484,
     "wof:name":"Mercedes",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",

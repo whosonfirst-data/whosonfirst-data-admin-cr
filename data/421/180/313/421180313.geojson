@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u0631\u0648 \u0631\u0648\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0631\u0648 \u0631\u0648\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Zarcero"
+    ],
+    "name:avk_x_preferred":[
+        "Zarcero"
+    ],
+    "name:cat_x_preferred":[
+        "Zarcero"
+    ],
     "name:ceb_x_preferred":[
         "Zarcero"
     ],
@@ -39,6 +51,9 @@
         "Zarcero"
     ],
     "name:nor_x_preferred":[
+        "Zarcero"
+    ],
+    "name:pol_x_preferred":[
         "Zarcero"
     ],
     "name:spa_x_preferred":[
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":421180313,
-    "wof:lastmodified":1566708862,
+    "wof:lastmodified":1690868462,
     "wof:name":"Zarcero",
     "wof:parent_id":1108693671,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bratsi"
+    ],
+    "name:deu_x_preferred":[
+        "Bratsi"
+    ],
     "name:eng_x_preferred":[
         "Bratsi"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421204143,
-    "wof:lastmodified":1566708856,
+    "wof:lastmodified":1690868458,
     "wof:name":"Bratsi",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

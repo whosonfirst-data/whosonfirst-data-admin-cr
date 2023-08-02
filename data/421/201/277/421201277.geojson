@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Paquera"
+    ],
+    "name:cat_x_preferred":[
+        "Paquera"
+    ],
     "name:ceb_x_preferred":[
         "Paquera"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421201277,
-    "wof:lastmodified":1566708885,
+    "wof:lastmodified":1690868477,
     "wof:name":"Paquera",
     "wof:parent_id":1108693663,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0622\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Santa Ana"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0986\u09a8\u09be"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Santa Ana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30a2\u30ca\u5730\u533a"
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\uc544\ub098"
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421169997,
-    "wof:lastmodified":1636505103,
+    "wof:lastmodified":1690868455,
     "wof:name":"Santa Ana",
     "wof:parent_id":421180919,
     "wof:placetype":"locality",

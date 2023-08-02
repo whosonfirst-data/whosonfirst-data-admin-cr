@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:avk_x_preferred":[
+        "Gu\u00e1piles"
+    ],
+    "name:cat_x_preferred":[
+        "Gu\u00e1piles"
+    ],
     "name:ceb_x_preferred":[
         "Gu\u00e1piles"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:nor_x_preferred":[
         "Santos de Gu\u00e1piles"
+    ],
+    "name:pol_x_preferred":[
+        "Gu\u00e1piles"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0443\u0430\u043f\u0438\u043b\u0435\u0441"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421173025,
-    "wof:lastmodified":1566708865,
+    "wof:lastmodified":1690868464,
     "wof:name":"Gu\u00e1piles",
     "wof:parent_id":421171355,
     "wof:placetype":"locality",

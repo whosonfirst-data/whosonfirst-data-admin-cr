@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tierra Blanca"
+    ],
     "name:eng_x_preferred":[
         "Tierra Blanca"
     ],
@@ -36,6 +39,9 @@
         "Tierra Blanca"
     ],
     "name:nor_x_preferred":[
+        "Tierra Blanca"
+    ],
+    "name:pol_x_preferred":[
         "Tierra Blanca"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421188737,
-    "wof:lastmodified":1582381946,
+    "wof:lastmodified":1690868465,
     "wof:name":"Tierra Blanca",
     "wof:parent_id":421189139,
     "wof:placetype":"localadmin",

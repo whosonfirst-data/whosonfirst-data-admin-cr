@@ -17,8 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Orotina"
+    ],
+    "name:avk_x_preferred":[
+        "Orotina"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e\u0442\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Orotina"
     ],
     "name:ceb_x_preferred":[
         "Orotina"
@@ -48,6 +57,9 @@
         "Orotina"
     ],
     "name:nor_x_preferred":[
+        "Orotina"
+    ],
+    "name:pol_x_preferred":[
         "Orotina"
     ],
     "name:spa_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421176307,
-    "wof:lastmodified":1582381953,
+    "wof:lastmodified":1690868486,
     "wof:name":"Orotina",
     "wof:parent_id":421203757,
     "wof:placetype":"localadmin",

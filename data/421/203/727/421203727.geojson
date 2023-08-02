@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0644 \u0633\u0648\u0644\u0627\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644 \u0633\u0648\u0644\u0627\u0631"
+    ],
     "name:ast_x_preferred":[
         "El Solar"
     ],
@@ -26,6 +32,9 @@
         "El Solar"
     ],
     "name:fra_x_preferred":[
+        "El Solar"
+    ],
+    "name:gle_x_preferred":[
         "El Solar"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +50,9 @@
         "El Solar"
     ],
     "name:spa_x_preferred":[
+        "El Solar"
+    ],
+    "name:sqi_x_preferred":[
         "El Solar"
     ],
     "qs:gn_country":"CR",
@@ -90,7 +102,7 @@
         }
     ],
     "wof:id":421203727,
-    "wof:lastmodified":1566708859,
+    "wof:lastmodified":1690868460,
     "wof:name":"El Solar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

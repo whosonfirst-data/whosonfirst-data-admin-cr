@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:avk_x_preferred":[
+        "Tilar\u00e1n"
+    ],
     "name:ceb_x_preferred":[
         "Tilar\u00e1n"
     ],
@@ -36,6 +42,9 @@
         "Tilar\u00e1n"
     ],
     "name:nor_x_preferred":[
+        "Tilar\u00e1n"
+    ],
+    "name:pol_x_preferred":[
         "Tilar\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":421182485,
-    "wof:lastmodified":1566708895,
+    "wof:lastmodified":1690868485,
     "wof:name":"Tilar\u00e1n",
     "wof:parent_id":421170251,
     "wof:placetype":"locality",

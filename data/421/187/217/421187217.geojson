@@ -17,14 +17,29 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:avk_x_preferred":[
+        "Puerto Viejo"
+    ],
+    "name:cat_x_preferred":[
+        "Puerto Viejo"
+    ],
     "name:eng_x_preferred":[
         "Puerto Viejo de Sarapiqu\u00ed"
+    ],
+    "name:eng_x_variant":[
+        "Puerto Viejo"
     ],
     "name:fra_x_preferred":[
         "Puerto Viejo de Sarapiqu\u00ed"
     ],
     "name:ita_x_preferred":[
         "Puerto Viejo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30d3\u30a8\u30db"
     ],
     "name:lit_x_preferred":[
         "Sarapiki Puerto Vjechas"
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":421187217,
-    "wof:lastmodified":1566708863,
+    "wof:lastmodified":1690868463,
     "wof:name":"Puerto Viejo",
     "wof:parent_id":421185329,
     "wof:placetype":"locality",

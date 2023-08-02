@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tucurrique"
+    ],
     "name:cat_x_preferred":[
         "Cab\u00e9car"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:pms_x_preferred":[
         "Lenga cab\u00e9car"
+    ],
+    "name:pol_x_preferred":[
+        "Tucurrique"
     ],
     "name:sme_x_preferred":[
         "Cab\u00e9cargiella"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421167767,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1690868454,
     "wof:name":"Tucurrique",
     "wof:parent_id":421170047,
     "wof:placetype":"locality",

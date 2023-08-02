@@ -38,6 +38,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0643\u0631\u0648\u0632"
     ],
+    "name:ast_x_preferred":[
+        "La Cruz"
+    ],
+    "name:avk_x_preferred":[
+        "La Cruz"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u0995\u09cd\u09b0\u09c1\u099c"
     ],
@@ -74,6 +80,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30af\u30eb\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30fb\u30af\u30eb\u30b9"
+    ],
     "name:kor_x_preferred":[
         "\ub77c \ud06c\ub8e8\uc988"
     ],
@@ -84,6 +93,9 @@
         "La Cruz"
     ],
     "name:nob_x_preferred":[
+        "La Cruz"
+    ],
+    "name:pol_x_preferred":[
         "La Cruz"
     ],
     "name:por_x_preferred":[
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":421170049,
-    "wof:lastmodified":1636505115,
+    "wof:lastmodified":1690868479,
     "wof:name":"La Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",
