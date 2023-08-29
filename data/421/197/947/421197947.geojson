@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nosara"
+    ],
+    "name:cat_x_preferred":[
+        "Nosara"
+    ],
     "name:eng_x_preferred":[
         "Nosara"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421197947,
-    "wof:lastmodified":1566708881,
+    "wof:lastmodified":1690868472,
     "wof:name":"Nosara",
     "wof:parent_id":421175395,
     "wof:placetype":"locality",

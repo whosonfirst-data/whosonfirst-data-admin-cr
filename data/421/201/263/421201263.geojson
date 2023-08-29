@@ -23,14 +23,29 @@
     "name:eng_x_preferred":[
         "Compadre"
     ],
+    "name:eng_x_variant":[
+        "compadre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30d1\u30c9\u30e9\u30b9\u30b4"
+    ],
     "name:nld_x_preferred":[
         "Compadre"
+    ],
+    "name:por_x_preferred":[
+        "Compadre"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c"
     ],
     "name:scn_x_preferred":[
         "Cumpari"
     ],
     "name:spa_x_preferred":[
         "Compadre"
+    ],
+    "name:spa_x_variant":[
+        "compadre"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u043c\u0441\u0442\u0432\u043e"
@@ -87,7 +102,7 @@
         }
     ],
     "wof:id":421201263,
-    "wof:lastmodified":1566708886,
+    "wof:lastmodified":1690868477,
     "wof:name":"Comadre",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u0630\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Heredia"
+    ],
+    "name:avk_x_preferred":[
+        "CostarikaHerediaWinka"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u0440\u044d\u0434\u0437\u0456\u044f"
     ],
@@ -51,6 +57,9 @@
     "name:ces_x_preferred":[
         "Heredia"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Heredia"
+    ],
     "name:dan_x_preferred":[
         "Heredia"
     ],
@@ -66,8 +75,14 @@
     "name:eng_x_variant":[
         "Heredia Province"
     ],
+    "name:epo_x_preferred":[
+        "Provinco Heredia"
+    ],
     "name:eus_x_preferred":[
         "Heredia"
+    ],
+    "name:eus_x_variant":[
+        "Heredia probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u06cc\u0627"
@@ -96,6 +111,9 @@
     "name:hye_x_preferred":[
         "\u0537\u0580\u0565\u0564\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0537\u0580\u0567\u057f\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Heredia"
     ],
@@ -111,6 +129,9 @@
     "name:kor_x_preferred":[
         "\uc5d0\ub808\ub514\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc5d0\ub808\ub514\uc544\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Heredia"
     ],
@@ -119,6 +140,9 @@
     ],
     "name:nah_x_preferred":[
         "Heredia"
+    ],
+    "name:nan_x_preferred":[
+        "Heredia S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Heredia"
@@ -177,6 +201,9 @@
     ],
     "name:war_x_preferred":[
         "Heredia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u96f7\u8fea\u4e9a\u7701"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u96f7\u8fea\u4e9a\u7701"
@@ -304,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1642551778,
+    "wof:lastmodified":1690868444,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

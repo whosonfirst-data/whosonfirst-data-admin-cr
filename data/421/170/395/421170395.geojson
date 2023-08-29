@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Atenas"
+    ],
+    "name:avk_x_preferred":[
+        "Atenas"
+    ],
     "name:ceb_x_preferred":[
         "Atenas"
     ],
@@ -47,11 +53,17 @@
     "name:nor_x_preferred":[
         "Atenas"
     ],
+    "name:pol_x_preferred":[
+        "Atenas"
+    ],
     "name:spa_x_preferred":[
         "Atenas"
     ],
     "name:swe_x_preferred":[
         "Atenas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u062a\u06cc\u0646\u0633"
     ],
     "name:zho_x_preferred":[
         "\u963f\u7279\u7d0d\u65af\u5340"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":421170395,
-    "wof:lastmodified":1566708889,
+    "wof:lastmodified":1690868480,
     "wof:name":"Atenas",
     "wof:parent_id":421202071,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
     "name:egl_x_preferred":[
         "Guerra"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03ad\u03c1\u03b1"
+    ],
     "name:eml_x_preferred":[
         "Guerra"
     ],
@@ -711,7 +714,7 @@
         }
     ],
     "wof:id":421169541,
-    "wof:lastmodified":1566708855,
+    "wof:lastmodified":1690868457,
     "wof:name":"Guerra",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

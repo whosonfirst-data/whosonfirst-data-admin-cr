@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sabalito"
+    ],
     "name:eng_x_preferred":[
         "Sabalito"
     ],
@@ -27,6 +30,9 @@
         "Sabalito"
     ],
     "name:nld_x_preferred":[
+        "Sabalito"
+    ],
+    "name:spa_x_preferred":[
         "Sabalito"
     ],
     "qs:gn_country":"CR",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421171195,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1690868487,
     "wof:name":"Sabalos",
     "wof:parent_id":421171715,
     "wof:placetype":"locality",

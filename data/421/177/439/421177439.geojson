@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Florencia"
+    ],
     "name:eng_x_preferred":[
         "Florencia"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421177439,
-    "wof:lastmodified":1566708890,
+    "wof:lastmodified":1690868481,
     "wof:name":"Florencia",
     "wof:parent_id":421183457,
     "wof:placetype":"locality",

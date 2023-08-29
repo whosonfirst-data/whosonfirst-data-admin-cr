@@ -17,6 +17,18 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Pedro"
+    ],
+    "name:avk_x_preferred":[
+        "San Pedro"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a6\u09cd\u09b0\u09cb"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646 \u067e\u062f\u0631\u0648"
     ],
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":421169999,
-    "wof:lastmodified":1636505103,
+    "wof:lastmodified":1690868455,
     "wof:name":"San Pedro",
     "wof:parent_id":421194119,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Curridabat"
+    ],
     "name:ceb_x_preferred":[
         "Curridabat"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421187207,
-    "wof:lastmodified":1566708864,
+    "wof:lastmodified":1690868464,
     "wof:name":"Curridabat",
     "wof:parent_id":421203755,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bagaces"
+    ],
+    "name:avk_x_preferred":[
+        "Bagaces"
+    ],
     "name:ceb_x_preferred":[
         "Bagaces"
     ],
@@ -45,6 +51,9 @@
         "Bagaces"
     ],
     "name:nor_x_preferred":[
+        "Bagaces"
+    ],
+    "name:pol_x_preferred":[
         "Bagaces"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421170393,
-    "wof:lastmodified":1566708889,
+    "wof:lastmodified":1690868480,
     "wof:name":"Bagaces",
     "wof:parent_id":421171711,
     "wof:placetype":"locality",

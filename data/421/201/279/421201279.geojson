@@ -32,6 +32,9 @@
     "name:und_x_variant":[
         "El Palmar"
     ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c14\u9ebb\u82cf\u5c14"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3622606,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421201279,
-    "wof:lastmodified":1566708885,
+    "wof:lastmodified":1690868477,
     "wof:name":"Palmar Sur",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

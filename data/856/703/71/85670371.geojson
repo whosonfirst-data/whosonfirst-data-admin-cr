@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0627\u063a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Cartago"
+    ],
+    "name:avk_x_preferred":[
+        "CostarikaCartagoWinka"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0442\u0430\u0433\u043e"
     ],
@@ -60,6 +66,9 @@
     "name:eus_x_preferred":[
         "Cartago"
     ],
+    "name:eus_x_variant":[
+        "Cartago probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u062a\u0627\u06af\u0648"
     ],
@@ -81,6 +90,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u057f\u0561\u0563\u0578"
     ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0561\u0580\u0569\u0561\u0563\u0567\u0576"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Cartago"
     ],
@@ -96,14 +108,23 @@
     "name:kor_x_preferred":[
         "\uce74\ub974\ud0c0\uace0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub974\ud0c0\uace0\uc8fc"
+    ],
     "name:lad_x_preferred":[
         "Kartago"
+    ],
+    "name:lat_x_preferred":[
+        "Carthago"
     ],
     "name:lit_x_preferred":[
         "Kartago provincija"
     ],
     "name:nah_x_preferred":[
         "Cartago"
+    ],
+    "name:nan_x_preferred":[
+        "Cartago S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Cartago"
@@ -164,6 +185,9 @@
     ],
     "name:war_x_preferred":[
         "Cartago"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5854\u6208\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5361\u5854\u6208\u7701"
@@ -291,7 +315,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636505068,
+    "wof:lastmodified":1690868448,
     "wof:name":"Cartago",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

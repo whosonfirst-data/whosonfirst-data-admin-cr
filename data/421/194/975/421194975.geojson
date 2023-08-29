@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.0913,9.9731615,-84.0913,9.9731615",
+    "geom:bbox":"-84.0913,9.973161,-84.0913,9.973161",
     "geom:latitude":9.973161,
     "geom:longitude":-84.0913,
     "iso:country":"CR",
@@ -36,6 +36,9 @@
         "Jes\u00fas Jim\u00e9nez"
     ],
     "name:fra_x_preferred":[
+        "Jes\u00fas Jim\u00e9nez"
+    ],
+    "name:gle_x_preferred":[
         "Jes\u00fas Jim\u00e9nez"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +96,7 @@
     },
     "wof:country":"CR",
     "wof:created":1459009826,
-    "wof:geomhash":"31dc02bb2f5765681797188d89d67289",
+    "wof:geomhash":"8c1c509c6e2c426d3ac63797e6dca23e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421194975,
-    "wof:lastmodified":1566708850,
+    "wof:lastmodified":1690868452,
     "wof:name":"Jesus Jimenez",
     "wof:parent_id":421185327,
     "wof:placetype":"locality",
@@ -115,9 +118,9 @@
 },
   "bbox": [
     -84.0913,
-    9.9731615,
+    9.973161,
     -84.0913,
-    9.9731615
+    9.973161
 ],
-  "geometry": {"coordinates":[-84.0913,9.9731615],"type":"Point"}
+  "geometry": {"coordinates":[-84.0913,9.973161],"type":"Point"}
 }

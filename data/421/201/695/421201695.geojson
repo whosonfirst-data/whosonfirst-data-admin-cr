@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Salitral"
+    ],
     "name:eng_x_preferred":[
         "Salitral"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421201695,
-    "wof:lastmodified":1566708885,
+    "wof:lastmodified":1690868476,
     "wof:name":"Salitral",
     "wof:parent_id":421180919,
     "wof:placetype":"locality",

@@ -35,6 +35,15 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Mateo"
+    ],
+    "name:avk_x_preferred":[
+        "San Mateo"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ae\u09be\u09a4\u09c7\u0993"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041c\u0430\u0442\u0435\u043e"
     ],
@@ -51,7 +60,6 @@
         "San Mateo"
     ],
     "name:eng_x_variant":[
-        "San Mateo",
         "San Mateo de Alajuela"
     ],
     "name:fra_x_preferred":[
@@ -177,7 +185,7 @@
         }
     ],
     "wof:id":421169971,
-    "wof:lastmodified":1636505104,
+    "wof:lastmodified":1690868456,
     "wof:name":"San Mateo",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0627\u062b\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Escaz\u00fa"
+    ],
     "name:ceb_x_preferred":[
+        "Escaz\u00fa"
+    ],
+    "name:ces_x_preferred":[
         "Escaz\u00fa"
     ],
     "name:cym_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Escaz\u00fa District"
+    ],
+    "name:eng_x_variant":[
+        "Escaz\u00fa"
     ],
     "name:fin_x_preferred":[
         "Escaz\u00fa"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":421193003,
-    "wof:lastmodified":1566708852,
+    "wof:lastmodified":1690868453,
     "wof:name":"Escaz\u00fa",
     "wof:parent_id":421188115,
     "wof:placetype":"locality",

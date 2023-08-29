@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Siquirres"
+    ],
+    "name:avk_x_preferred":[
+        "Siquirres"
+    ],
     "name:ceb_x_preferred":[
         "Siquirres"
     ],
@@ -43,6 +49,12 @@
     ],
     "name:nor_x_preferred":[
         "Siquirres"
+    ],
+    "name:pol_x_preferred":[
+        "Siquirres"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0438\u0440\u0440\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Siquirres"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421176299,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1690868487,
     "wof:name":"Siquirres",
     "wof:parent_id":421185331,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:und_x_variant":[
         "Cuatro Esquinas"
     ],
+    "name:zho_x_preferred":[
+        "\u6258\u5c14\u56fe\u683c\u7f57"
+    ],
     "qs:gn_country":"CR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3621241,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421181335,
-    "wof:lastmodified":1566708875,
+    "wof:lastmodified":1690868468,
     "wof:name":"Tortuguero",
     "wof:parent_id":421171355,
     "wof:placetype":"locality",

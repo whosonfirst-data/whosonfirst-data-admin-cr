@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Calle Blancos"
+    ],
+    "name:ceb_x_preferred":[
+        "Calle Blancos"
+    ],
     "name:eng_x_preferred":[
         "Calle Blancos"
     ],
@@ -27,6 +33,9 @@
         "Calle Blancos"
     ],
     "name:spa_x_preferred":[
+        "Calle Blancos"
+    ],
+    "name:swe_x_preferred":[
         "Calle Blancos"
     ],
     "name:und_x_variant":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421179411,
-    "wof:lastmodified":1566708895,
+    "wof:lastmodified":1690868484,
     "wof:name":"Calle Blancos",
     "wof:parent_id":1108693657,
     "wof:placetype":"locality",

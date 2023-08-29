@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Antonio"
+    ],
+    "name:avk_x_preferred":[
+        "San Antonio"
+    ],
     "name:eng_x_preferred":[
         "San Antonio"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:spa_x_preferred":[
         "San Antonio de Bel\u00e9n"
+    ],
+    "name:spa_x_variant":[
+        "San Antonio"
     ],
     "name:und_x_variant":[
         "San Antonio de Belen"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":421180737,
-    "wof:lastmodified":1636505105,
+    "wof:lastmodified":1690868462,
     "wof:name":"San Antonio",
     "wof:parent_id":421197833,
     "wof:placetype":"locality",

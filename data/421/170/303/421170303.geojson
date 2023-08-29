@@ -35,10 +35,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_preferred":[
+    "name:ast_x_preferred":[
         "Matina"
     ],
-    "name:eng_x_variant":[
+    "name:avk_x_preferred":[
+        "Matina"
+    ],
+    "name:deu_x_preferred":[
+        "Matina"
+    ],
+    "name:eng_x_preferred":[
         "Matina"
     ],
     "name:fra_x_preferred":[
@@ -51,6 +57,9 @@
         "Matina"
     ],
     "name:nob_x_preferred":[
+        "Matina"
+    ],
+    "name:pol_x_preferred":[
         "Matina"
     ],
     "name:spa_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421170303,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1690868480,
     "wof:name":"Matina",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

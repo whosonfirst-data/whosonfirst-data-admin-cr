@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sierpe"
+    ],
     "name:eng_x_preferred":[
         "Sierpe"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202819,
-    "wof:lastmodified":1566708859,
+    "wof:lastmodified":1690868460,
     "wof:name":"Sierpe",
     "wof:parent_id":421188109,
     "wof:placetype":"locality",

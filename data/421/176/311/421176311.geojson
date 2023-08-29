@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u062e\u0648\u064a\u0644\u064a\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Alajuelita"
+    ],
     "name:ceb_x_preferred":[
         "Alajuelita"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:hrv_x_preferred":[
         "Alajuelita"
+    ],
+    "name:nan_x_preferred":[
+        "Alajuelita K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Alajuelita Canton"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421176311,
-    "wof:lastmodified":1566708898,
+    "wof:lastmodified":1690868487,
     "wof:name":"Alajuelita",
     "wof:parent_id":421201605,
     "wof:placetype":"locality",

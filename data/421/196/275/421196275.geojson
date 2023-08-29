@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bols\u00f3n"
+    ],
     "name:eng_x_preferred":[
         "Bols\u00f3n District"
+    ],
+    "name:eng_x_variant":[
+        "Bols\u00f3n"
     ],
     "name:ita_x_preferred":[
         "Bols\u00f3n"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":421196275,
-    "wof:lastmodified":1566708878,
+    "wof:lastmodified":1690868471,
     "wof:name":"Bols\u00f3n",
     "wof:parent_id":1108693669,
     "wof:placetype":"locality",

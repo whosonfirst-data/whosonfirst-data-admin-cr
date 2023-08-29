@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jac\u00f3"
+    ],
+    "name:avk_x_preferred":[
+        "Jac\u00f3"
+    ],
+    "name:cat_x_preferred":[
+        "Jac\u00f3"
+    ],
     "name:ceb_x_preferred":[
         "Jac\u00f3"
     ],
@@ -48,6 +57,9 @@
         "Jac\u00f3"
     ],
     "name:nor_x_preferred":[
+        "Jac\u00f3"
+    ],
+    "name:pol_x_preferred":[
         "Jac\u00f3"
     ],
     "name:ron_x_preferred":[
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421174733,
-    "wof:lastmodified":1566708861,
+    "wof:lastmodified":1690868461,
     "wof:name":"Jac\u00f3",
     "wof:parent_id":421204087,
     "wof:placetype":"locality",

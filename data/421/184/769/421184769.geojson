@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Laguna"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0997\u09c1\u09a8\u09be"
     ],
@@ -45,6 +48,9 @@
         "\ub77c\uad6c\ub098"
     ],
     "name:nld_x_preferred":[
+        "Laguna"
+    ],
+    "name:spa_x_preferred":[
         "Laguna"
     ],
     "name:tur_x_preferred":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421184769,
-    "wof:lastmodified":1636505114,
+    "wof:lastmodified":1690868478,
     "wof:name":"Laguna",
     "wof:parent_id":1108693671,
     "wof:placetype":"locality",

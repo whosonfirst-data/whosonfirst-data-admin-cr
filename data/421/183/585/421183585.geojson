@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Manzanillo"
+    ],
     "name:eng_x_preferred":[
         "Manzanillo"
     ],
@@ -24,6 +27,9 @@
         "Manzanillo"
     ],
     "name:nld_x_preferred":[
+        "Manzanillo"
+    ],
+    "name:spa_x_preferred":[
         "Manzanillo"
     ],
     "qs:gn_country":"CR",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":421183585,
-    "wof:lastmodified":1566708894,
+    "wof:lastmodified":1690868483,
     "wof:name":"Manzanillo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

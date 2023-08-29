@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Vito"
+    ],
+    "name:avk_x_preferred":[
+        "San Vito"
+    ],
     "name:eng_x_preferred":[
         "San Vito"
     ],
@@ -30,6 +36,9 @@
         "San Vito"
     ],
     "name:nob_x_preferred":[
+        "San Vito"
+    ],
+    "name:pol_x_preferred":[
         "San Vito"
     ],
     "name:spa_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421177315,
-    "wof:lastmodified":1566708891,
+    "wof:lastmodified":1690868481,
     "wof:name":"San Vito",
     "wof:parent_id":421171715,
     "wof:placetype":"locality",

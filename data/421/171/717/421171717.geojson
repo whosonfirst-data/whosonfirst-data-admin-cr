@@ -35,10 +35,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_preferred":[
+    "name:ast_x_preferred":[
         "Hojancha"
     ],
-    "name:eng_x_variant":[
+    "name:avk_x_preferred":[
+        "Hojancha"
+    ],
+    "name:eng_x_preferred":[
         "Hojancha"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Hojancha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6f22\u67e5\u5340"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421171717,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1690868488,
     "wof:name":"Hojancha",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

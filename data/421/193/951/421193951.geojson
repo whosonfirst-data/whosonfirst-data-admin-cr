@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "name:avk_x_preferred":[
+        "Tres R\u00edos"
+    ],
     "name:eng_x_preferred":[
         "Tres R\u00edos"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421193951,
-    "wof:lastmodified":1566708851,
+    "wof:lastmodified":1690868452,
     "wof:name":"Tres R\u00edos",
     "wof:parent_id":421204569,
     "wof:placetype":"locality",

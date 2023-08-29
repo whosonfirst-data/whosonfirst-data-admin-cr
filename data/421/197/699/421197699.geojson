@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cahuita"
+    ],
     "name:ceb_x_preferred":[
         "Cahuita"
     ],
@@ -42,6 +45,12 @@
         "Cahuita"
     ],
     "name:nor_x_preferred":[
+        "Cahuita"
+    ],
+    "name:pol_x_preferred":[
+        "Cahuita"
+    ],
+    "name:spa_x_preferred":[
         "Cahuita"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":421197699,
-    "wof:lastmodified":1566708882,
+    "wof:lastmodified":1690868473,
     "wof:name":"Cahuita",
     "wof:parent_id":421185333,
     "wof:placetype":"locality",

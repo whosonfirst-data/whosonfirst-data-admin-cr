@@ -17,8 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Upala"
+    ],
+    "name:avk_x_preferred":[
+        "Upala"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u043f\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Upala"
     ],
     "name:ceb_x_preferred":[
         "Upala"
@@ -45,6 +54,9 @@
         "Upala"
     ],
     "name:nor_x_preferred":[
+        "Upala"
+    ],
+    "name:pol_x_preferred":[
         "Upala"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421194125,
-    "wof:lastmodified":1566708850,
+    "wof:lastmodified":1690868451,
     "wof:name":"Upala",
     "wof:parent_id":421172007,
     "wof:placetype":"localadmin",

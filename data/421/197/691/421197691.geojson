@@ -17,11 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Naranjo"
+    ],
+    "name:avk_x_preferred":[
+        "Naranjo"
+    ],
     "name:ceb_x_preferred":[
         "Naranjo"
     ],
     "name:eng_x_preferred":[
         "Naranjo de Alajuela"
+    ],
+    "name:eng_x_variant":[
+        "Naranjo"
     ],
     "name:fra_x_preferred":[
         "Naranjo"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421197691,
-    "wof:lastmodified":1566708882,
+    "wof:lastmodified":1690868474,
     "wof:name":"Naranjo",
     "wof:parent_id":421175393,
     "wof:placetype":"locality",

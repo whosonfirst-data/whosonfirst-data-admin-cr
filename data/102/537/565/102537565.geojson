@@ -2,68 +2,92 @@
   "id": 102537565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "..",
-    "edtf:inception": "",
-    "geom:area": 0,
-    "geom:area_square_m": 0,
-    "geom:bbox": "-85.545556,10.593056,-85.545556,10.593056",
-    "geom:latitude": 10.593056,
-    "geom:longitude": -85.545556,
-    "iso:country": "",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
-    "mz:min_zoom": 13,
-    "name:eng_x_variant": [
-      "Liberia International Airport"
+    "edtf:cessation":"..",
+    "edtf:inception":"",
+    "geom:area":0.0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-85.545556,10.593056,-85.545556,10.593056",
+    "geom:latitude":10.593056,
+    "geom:longitude":-85.545556,
+    "iso:country":"",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":13,
+    "name:eng_x_preferred":[
+        "Guanacaste Airport"
     ],
-    "src:geom": "wikipedia",
-    "src:geom_alt": [],
-    "wd:wordcount": 53,
-    "woe:hierarchy": {
-      "country_id": 23424791,
-      "county_id": 26808830,
-      "localadmin_id": 26809072,
-      "planet_id": 1,
-      "state_id": 2345084
+    "name:eng_x_variant":[
+        "Liberia International Airport"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00e9roport Daniel-Oduber-Quir\u00f3s"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Daniel Oduber"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30cb\u30a8\u30eb\u30fb\u30aa\u30c9\u30a5\u30d9\u30fc\u30eb\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Daniel Oduber"
+    ],
+    "name:spa_x_preferred":[
+        "Guanacaste Aeropuerto"
+    ],
+    "name:swe_x_preferred":[
+        "Aeropuerto Internacional Daniel Oduber"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u97cb\u91cc\u4e9e"
+    ],
+    "src:geom":"wikipedia",
+    "src:geom_alt":[],
+    "wd:wordcount":53,
+    "woe:hierarchy":{
+        "country_id":23424791,
+        "county_id":26808830,
+        "localadmin_id":26809072,
+        "planet_id":1,
+        "state_id":2345084
     },
-    "wof:belongsto": [
-      85632487,
-      85670399
+    "wof:belongsto":[
+        85632487,
+        85670399
     ],
-    "wof:breaches": [],
-    "wof:concordances": {
-      "gp:id": 12524315,
-      "iata:code": "LIR",
-      "icao:code": "MRLB",
-      "wd:id": "Q1708765"
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12524315,
+        "iata:code":"LIR",
+        "icao:code":"MRLB",
+        "wd:id":"Q1708765"
     },
-    "wof:country": "",
-    "wof:created": 1637616544,
-    "wof:geomhash": "bb3ba41da09f10f25288e97e850fdedb",
-    "wof:hierarchy": [
-      {
-        "campus_id": 102537565,
-        "country_id": 85632487,
-        "region_id": 85670399
-      }
+    "wof:country":"",
+    "wof:created":1637616544,
+    "wof:geomhash":"bb3ba41da09f10f25288e97e850fdedb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102537565,
+            "country_id":85632487,
+            "region_id":85670399
+        }
     ],
-    "wof:id": 102537565,
-    "wof:lastmodified": 1637616544,
-    "wof:name": "Guanacaste Airport",
-    "wof:parent_id": 85670399,
-    "wof:placetype": "campus",
-    "wof:repo": "whosonfirst-data-admin-xy",
-    "wof:superseded_by": [],
-    "wof:supersedes": [],
-    "wof:tags": [
-      "airport"
+    "wof:id":102537565,
+    "wof:lastmodified":1690868442,
+    "wof:name":"Guanacaste Airport",
+    "wof:parent_id":85670399,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
     ]
-  },
+},
   "bbox": [
     -85.545556,
     10.593056,
     -85.545556,
     10.593056
-  ],
+],
   "geometry": {"coordinates":[-85.545556,10.593056],"type":"Point"}
 }

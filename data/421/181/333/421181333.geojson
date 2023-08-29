@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "San Ram\u00f3n"
     ],
+    "name:avk_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "name:cat_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -38,11 +41,17 @@
     "name:eng_x_preferred":[
         "San Ram\u00f3n"
     ],
+    "name:epo_x_preferred":[
+        "San Ram\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "San Ram\u00f3n"
     ],
     "name:glg_x_preferred":[
         "San Ram\u00f3n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e8\u05de\u05d5\u05df"
     ],
     "name:ita_x_preferred":[
         "San Ram\u00f3n"
@@ -67,6 +76,9 @@
     ],
     "name:ron_x_preferred":[
         "San Ram\u00f3n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u0430\u043c\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "San Ram\u00f3n"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421181333,
-    "wof:lastmodified":1566708875,
+    "wof:lastmodified":1690868469,
     "wof:name":"San Ram\u00f3n",
     "wof:parent_id":421167885,
     "wof:placetype":"locality",
