@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.234517,
-    "geom:area_square_m":51566292161.009125,
+    "geom:area_square_m":51566292161.006165,
     "geom:bbox":"-87.097473,5.501444,-82.552657,11.219681",
     "geom:latitude":9.971356,
     "geom:longitude":-84.197567,
@@ -14,6 +14,9 @@
     "iso:country":"CR",
     "itu:country_code":[
         "506"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CR"
@@ -1103,7 +1106,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"506",
     "statoids:ds":"CR",
     "statoids:fifa":"CRC",
@@ -1162,7 +1166,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"9d67853819130ef26b2bc3bc795563e5",
+    "wof:geomhash":"5a19d78b493f9b0393401c0449019924",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1176,12 +1180,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868443,
+    "wof:lastmodified":1694639572,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":4872166,
-    "wof:population_rank":12,
+    "wof:population":5047561,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cr",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],
