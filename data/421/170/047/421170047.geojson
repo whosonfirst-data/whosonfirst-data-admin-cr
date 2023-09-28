@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020689,
-    "geom:area_square_m":252083274.939313,
+    "geom:area_square_m":252083638.938599,
     "geom:bbox":"-83.785554,9.689691,-83.59913,9.948773",
     "geom:latitude":9.806807,
     "geom:longitude":-83.702699,
@@ -102,12 +102,13 @@
         "qs_pg:id":1264092,
         "wd:id":"Q3808449"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"939f2bb9031eecba509ba89b1c32f948",
+    "wof:geomhash":"90986e7275cdd6899bdfd599c58fdb95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":421170047,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1695886536,
     "wof:name":"Jimenez",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

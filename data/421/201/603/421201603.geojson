@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032288,
-    "geom:area_square_m":393061174.082077,
+    "geom:area_square_m":393061174.082034,
     "geom:bbox":"-84.3676800908,9.91426659186,-84.1609551425,10.4136944924",
     "geom:latitude":10.094073,
     "geom:longitude":-84.225669,
@@ -204,12 +204,13 @@
         "hasc:id":"CR.AL.AL",
         "qs_pg:id":1264076
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010078,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca934e0c00368a9a1755d99c0abac1de",
+    "wof:geomhash":"3686ad39522c5332e2542561ab3b47bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":421201603,
-    "wof:lastmodified":1582381950,
+    "wof:lastmodified":1695886130,
     "wof:name":"Alajuela",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003976,
-    "geom:area_square_m":48406862.40764,
+    "geom:area_square_m":48406814.803478,
     "geom:bbox":"-84.119656,9.998605,-84.044469,10.120828",
     "geom:latitude":10.048199,
     "geom:longitude":-84.078998,
@@ -185,12 +185,13 @@
         "qs_pg:id":467303,
         "wd:id":"Q293268"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009275,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd7bcadaf09b92e9423cd171e58e6199",
+    "wof:geomhash":"92a814dc779cdf205bdb5fcdce7ada11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421180917,
-    "wof:lastmodified":1690868463,
+    "wof:lastmodified":1695886172,
     "wof:name":"San Rafael",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

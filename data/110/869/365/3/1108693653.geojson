@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196017,
-    "geom:area_square_m":2393214460.321071,
+    "geom:area_square_m":2393214460.321082,
     "geom:bbox":"-83.5635993504,8.77523706306,-82.9686272656,9.38421813763",
     "geom:latitude":9.108424,
     "geom:longitude":-83.250521,
@@ -648,9 +648,10 @@
     "wof:concordances":{
         "hasc:id":"CR.PU.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414942,
-    "wof:geomhash":"db25bce58db9fa1c1213be55e638ab71",
+    "wof:geomhash":"75d9f868dec3b5ffcdc53dca17d26098",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -660,7 +661,7 @@
         }
     ],
     "wof:id":1108693653,
-    "wof:lastmodified":1566708819,
+    "wof:lastmodified":1695886114,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017933,
-    "geom:area_square_m":218380634.562432,
+    "geom:area_square_m":218380634.5625,
     "geom:bbox":"-84.7410454978,9.86372954541,-84.5530043702,10.1278394895",
     "geom:latitude":9.989326,
     "geom:longitude":-84.6555,
@@ -106,12 +106,13 @@
         "hasc:id":"CR.PU.ES",
         "qs_pg:id":1087909
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009534,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"efc15be02a04016c0633ebb4da888640",
+    "wof:geomhash":"0db15c5f0d00390b90ae71235fbca34e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421188117,
-    "wof:lastmodified":1582381946,
+    "wof:lastmodified":1695886127,
     "wof:name":"Esparza",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

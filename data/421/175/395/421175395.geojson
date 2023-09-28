@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10965,
-    "geom:area_square_m":1334771350.644295,
+    "geom:area_square_m":1334771415.787894,
     "geom:bbox":"-85.696765,9.860097,-85.189269,10.347095",
     "geom:latitude":10.115196,
     "geom:longitude":-85.447434,
@@ -155,12 +155,13 @@
         "qs_pg:id":368961,
         "wd:id":"Q2486629"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f547c3358b45acd58349c3325b1a966",
+    "wof:geomhash":"94abe7fa6169cf852b30f8dc457855bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421175395,
-    "wof:lastmodified":1690868470,
+    "wof:lastmodified":1695886129,
     "wof:name":"Nicoya",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

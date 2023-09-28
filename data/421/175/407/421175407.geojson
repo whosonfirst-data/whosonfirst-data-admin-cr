@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011283,
-    "geom:area_square_m":137312464.100893,
+    "geom:area_square_m":137312521.142496,
     "geom:bbox":"-84.362149,10.048149,-84.226587,10.276312",
     "geom:latitude":10.189871,
     "geom:longitude":-84.301083,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.AL.VV",
         "qs_pg:id":368986
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81f89d603133b5116d04af02b6072b8b",
+    "wof:geomhash":"eb554f22a9059390af374ea4173424fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421175407,
-    "wof:lastmodified":1627522029,
+    "wof:lastmodified":1695886541,
     "wof:name":"Valverde Vega",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

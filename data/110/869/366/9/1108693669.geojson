@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108865,
-    "geom:area_square_m":1324687038.507051,
+    "geom:area_square_m":1324686939.46,
     "geom:bbox":"-85.875509,9.982532,-85.406034,10.488499",
     "geom:latitude":10.242868,
     "geom:longitude":-85.685253,
@@ -219,9 +219,10 @@
     "wof:concordances":{
         "hasc:id":"CR.GU.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474415006,
-    "wof:geomhash":"29e223574196f4999f87d15ad8acc8cc",
+    "wof:geomhash":"71fa15f5cdf101980475c1add9770839",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":1108693669,
-    "wof:lastmodified":1636505092,
+    "wof:lastmodified":1695886170,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

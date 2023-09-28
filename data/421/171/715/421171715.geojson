@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077516,
-    "geom:area_square_m":946940650.621362,
+    "geom:area_square_m":946940865.597188,
     "geom:bbox":"-83.106512,8.690453,-82.712114,9.096602",
     "geom:latitude":8.908406,
     "geom:longitude":-82.922714,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.PU.CB",
         "qs_pg:id":1264090
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5200bdd1891702ad6dd479a8c2f3f01e",
+    "wof:geomhash":"1953c3762b2b605d7a060f0c8e372a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421171715,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886534,
     "wof:name":"Coto Brus",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

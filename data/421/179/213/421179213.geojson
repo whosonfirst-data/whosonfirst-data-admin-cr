@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013501,
-    "geom:area_square_m":164467498.784104,
+    "geom:area_square_m":164467498.784108,
     "geom:bbox":"-84.4142889763,9.80835326296,-84.1458937396,9.93620576483",
     "geom:latitude":9.884184,
     "geom:longitude":-84.269844,
@@ -196,12 +196,13 @@
         "hasc:id":"CR.SJ.MR",
         "qs_pg:id":368945
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009208,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0eebfe64ee6a0149367ee9309c2151c",
+    "wof:geomhash":"fbe745029089150b61472c0162f24228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":421179213,
-    "wof:lastmodified":1582381952,
+    "wof:lastmodified":1695886131,
     "wof:name":"Mora",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

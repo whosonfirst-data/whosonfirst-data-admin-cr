@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053605,
-    "geom:area_square_m":652261364.094025,
+    "geom:area_square_m":652261554.115659,
     "geom:bbox":"-85.225659,10.109038,-84.827092,10.389386",
     "geom:latitude":10.247592,
     "geom:longitude":-85.005072,
@@ -94,12 +94,13 @@
         "hasc:id":"CR.GU.AB",
         "qs_pg:id":1119684
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9cfd7c5c56b0c147521ab1df64e1b277",
+    "wof:geomhash":"3f47efbe854ace29a7a86d9f6056646d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421190515,
-    "wof:lastmodified":1627522025,
+    "wof:lastmodified":1695886531,
     "wof:name":"Abangares",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

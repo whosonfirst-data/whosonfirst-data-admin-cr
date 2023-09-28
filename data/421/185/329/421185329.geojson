@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177114,
-    "geom:area_square_m":2153378457.353833,
+    "geom:area_square_m":2153378457.354814,
     "geom:bbox":"-84.1612997406,10.1823030276,-83.70995568,10.792598658",
     "geom:latitude":10.498276,
     "geom:longitude":-83.994748,
@@ -118,12 +118,13 @@
         "hasc:id":"CR.HE.SA",
         "qs_pg:id":890671
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f00f6532ff5c19c427bd544b2c54093",
+    "wof:geomhash":"3d780796318c425fda88a424d21cd3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421185329,
-    "wof:lastmodified":1582381955,
+    "wof:lastmodified":1695886133,
     "wof:name":"Sarapiqui",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

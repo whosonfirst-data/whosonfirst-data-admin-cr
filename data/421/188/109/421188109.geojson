@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158473,
-    "geom:area_square_m":1936211399.941209,
+    "geom:area_square_m":1936211399.943012,
     "geom:bbox":"-83.8695070091,8.50417282287,-83.1626624712,9.28062085006",
     "geom:latitude":8.850735,
     "geom:longitude":-83.5037,
@@ -160,12 +160,13 @@
         "hasc:id":"CR.PU.OS",
         "qs_pg:id":1087912
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009534,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3375539b0398e632dc775861e1ca3ae5",
+    "wof:geomhash":"ff404bab4c1ee5840eeb5bdaf76bf328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421188109,
-    "wof:lastmodified":1582381946,
+    "wof:lastmodified":1695886126,
     "wof:name":"Osa",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

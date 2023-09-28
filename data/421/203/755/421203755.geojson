@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001326,
-    "geom:area_square_m":16152532.859834,
+    "geom:area_square_m":16152428.089568,
     "geom:bbox":"-84.052531,9.893644,-84.005137,9.939011",
     "geom:latitude":9.917482,
     "geom:longitude":-84.027857,
@@ -122,12 +122,13 @@
         "qs_pg:id":115565,
         "wd:id":"Q2569193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1fa397057f9c8ea7a3537dd178fb2b50",
+    "wof:geomhash":"cc50c79b7806b3b1a28e32bd024c299a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421203755,
-    "wof:lastmodified":1690868459,
+    "wof:lastmodified":1695886124,
     "wof:name":"Curridabat",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039283,
-    "geom:area_square_m":478774735.313245,
+    "geom:area_square_m":478774516.651564,
     "geom:bbox":"-83.89476,9.551109,-83.627033,9.907668",
     "geom:latitude":9.716483,
     "geom:longitude":-83.765399,
@@ -149,12 +149,13 @@
         "qs_pg:id":890666,
         "wd:id":"Q1579868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f0b08c5dcd10e9c5b83c0d50d618935",
+    "wof:geomhash":"c39483660af45919332f047440adfb93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421182145,
-    "wof:lastmodified":1690868485,
+    "wof:lastmodified":1695886131,
     "wof:name":"Paraiso",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

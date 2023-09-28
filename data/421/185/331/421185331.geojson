@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07049,
-    "geom:area_square_m":858020439.541284,
+    "geom:area_square_m":858020300.94435,
     "geom:bbox":"-83.7252,9.981802,-83.269494,10.312356",
     "geom:latitude":10.137037,
     "geom:longitude":-83.479663,
@@ -128,12 +128,13 @@
         "qs_pg:id":890672,
         "wd:id":"Q3961977"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b48f25e69bb436b694708a4a496fcdfd",
+    "wof:geomhash":"e8c2fd7694c236add8702535d2d5dab8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421185331,
-    "wof:lastmodified":1690868488,
+    "wof:lastmodified":1695886132,
     "wof:name":"Siquirres",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

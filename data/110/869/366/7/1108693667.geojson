@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0022,
-    "geom:area_square_m":26784230.051967,
+    "geom:area_square_m":26784230.051972,
     "geom:bbox":"-84.0760386447,9.99649535237,-84.0101386216,10.0631252862",
     "geom:latitude":10.027835,
     "geom:longitude":-84.040323,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"CR.HE.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414995,
-    "wof:geomhash":"a7f50a251befc0386d3f633f8bc509d4",
+    "wof:geomhash":"c80a1586215b11500c79dbfc2dd0ff9f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108693667,
-    "wof:lastmodified":1566708819,
+    "wof:lastmodified":1695886114,
     "wof:name":"San Isidro",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

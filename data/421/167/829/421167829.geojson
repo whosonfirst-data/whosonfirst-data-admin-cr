@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013896,
-    "geom:area_square_m":169342410.390771,
+    "geom:area_square_m":169342410.390919,
     "geom:bbox":"-84.2253710098,9.61733518003,-84.0606246643,9.87535870878",
     "geom:latitude":9.744352,
     "geom:longitude":-84.137613,
@@ -118,12 +118,13 @@
         "hasc:id":"CR.SJ.AS",
         "qs_pg:id":421489
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008745,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"689e493f823709c1c3a9f35a67008b55",
+    "wof:geomhash":"d729e9a219e9d73cdca40e79024c933e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421167829,
-    "wof:lastmodified":1582381941,
+    "wof:lastmodified":1695886123,
     "wof:name":"Aserri",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

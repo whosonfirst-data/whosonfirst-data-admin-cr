@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032854,
-    "geom:area_square_m":399706105.848868,
+    "geom:area_square_m":399706469.179788,
     "geom:bbox":"-84.362248,9.992817,-84.160927,10.577465",
     "geom:latitude":10.294348,
     "geom:longitude":-84.241657,
@@ -131,12 +131,13 @@
         "qs_pg:id":237820,
         "wd:id":"Q2079294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010173,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b3c8108858ba52cf8c8175f251a2dea1",
+    "wof:geomhash":"3930a3941bf41caa36a3c750a01301f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421204089,
-    "wof:lastmodified":1690868458,
+    "wof:lastmodified":1695886125,
     "wof:name":"Grecia",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

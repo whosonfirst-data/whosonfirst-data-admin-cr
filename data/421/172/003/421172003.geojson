@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130925,
-    "geom:area_square_m":1595177153.601918,
+    "geom:area_square_m":1595177313.794811,
     "geom:bbox":"-83.819252,9.484012,-83.311907,10.083643",
     "geom:latitude":9.821754,
     "geom:longitude":-83.549232,
@@ -152,12 +152,13 @@
         "qs_pg:id":1289864,
         "wd:id":"Q2625953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008915,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9fb2de5b5834b3946180892615099abe",
+    "wof:geomhash":"0737b50ca432734af7ef4952eaecfaf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421172003,
-    "wof:lastmodified":1690868466,
+    "wof:lastmodified":1695886128,
     "wof:name":"Turrialba",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

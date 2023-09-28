@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062276,
-    "geom:area_square_m":756673714.223943,
+    "geom:area_square_m":756673610.968262,
     "geom:bbox":"-85.012659,10.555832,-84.646658,10.85232",
     "geom:latitude":10.694885,
     "geom:longitude":-84.841434,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.AL.GU",
         "qs_pg:id":237822
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010173,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31eaa9989935afc665952187d5f6dc12",
+    "wof:geomhash":"d59a9854293c27fbe105e5ee38d558f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421204093,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1695886537,
     "wof:name":"Guatuso",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

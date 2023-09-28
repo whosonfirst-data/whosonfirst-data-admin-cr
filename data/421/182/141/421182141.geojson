@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15635,
-    "geom:area_square_m":1907555322.784477,
+    "geom:area_square_m":1907555422.443378,
     "geom:bbox":"-84.001749,9.074913,-83.429295,9.598456",
     "geom:latitude":9.360862,
     "geom:longitude":-83.67391,
@@ -95,12 +95,13 @@
         "hasc:id":"CR.SJ.PZ",
         "qs_pg:id":890668
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009320,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4a6726f2ae03f3d9a2c1fcaf50b1242",
+    "wof:geomhash":"5b5988fc48017c9d2db73d45bddf8bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421182141,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1695886539,
     "wof:name":"Perez Zeledon",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00653,
-    "geom:area_square_m":79537574.811942,
+    "geom:area_square_m":79537574.811828,
     "geom:bbox":"-83.8426942536,9.87112431744,-83.7604681547,10.0168859043",
     "geom:latitude":9.937477,
     "geom:longitude":-83.804829,
@@ -138,12 +138,13 @@
         "hasc:id":"CR.CA.AL",
         "qs_pg:id":1264062
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aefa2dbd56036ebd893e72c135e70307",
+    "wof:geomhash":"cd3363291df6534185088121314b2423",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421171707,
-    "wof:lastmodified":1582381953,
+    "wof:lastmodified":1695886132,
     "wof:name":"Alvarado",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

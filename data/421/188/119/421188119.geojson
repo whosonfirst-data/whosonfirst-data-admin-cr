@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119125,
-    "geom:area_square_m":1447399310.185174,
+    "geom:area_square_m":1447399310.184981,
     "geom:bbox":"-85.6993382292,10.4184548306,-85.2920188884,10.9651828463",
     "geom:latitude":10.696879,
     "geom:longitude":-85.490105,
@@ -681,12 +681,13 @@
         "hasc:id":"CR.GU.LI",
         "qs_pg:id":1087910
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009534,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"904a341fb478f7f68f7616a317add470",
+    "wof:geomhash":"de3564245c19ff8ba6fc8f4c256f58aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -696,7 +697,7 @@
         }
     ],
     "wof:id":421188119,
-    "wof:lastmodified":1582381946,
+    "wof:lastmodified":1695886127,
     "wof:name":"Liberia",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

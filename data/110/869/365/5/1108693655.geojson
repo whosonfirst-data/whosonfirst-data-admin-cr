@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014154,
-    "geom:area_square_m":172481480.043934,
+    "geom:area_square_m":172480390.423843,
     "geom:bbox":"-84.029886,9.61084,-83.790469,9.854015",
     "geom:latitude":9.747254,
     "geom:longitude":-83.93018,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CR.CA.EG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414951,
-    "wof:geomhash":"4bb89ecdb45c9031102b50f5cb99cb86",
+    "wof:geomhash":"6baeb55193a063b414f28fe5381b79fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108693655,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886535,
     "wof:name":"El Guarco",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

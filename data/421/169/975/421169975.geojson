@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001284,
-    "geom:area_square_m":15643503.221888,
+    "geom:area_square_m":15643450.362955,
     "geom:bbox":"-84.065917,9.922414,-83.956547,9.95776",
     "geom:latitude":9.94198,
     "geom:longitude":-84.018786,
@@ -131,12 +131,13 @@
         "qs_pg:id":772733,
         "wd:id":"Q2569193"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008831,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1b4b4c35670603ca4e55b703750cc29",
+    "wof:geomhash":"c457261b36ee12f3be2ee242f4f6e440",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421169975,
-    "wof:lastmodified":1690868457,
+    "wof:lastmodified":1695886124,
     "wof:name":"Montes De Oca",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

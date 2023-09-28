@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023869,
-    "geom:area_square_m":291020003.20217,
+    "geom:area_square_m":291020003.201947,
     "geom:bbox":"-84.158727336,9.44611598604,-83.9723068217,9.71856865936",
     "geom:latitude":9.587117,
     "geom:longitude":-84.044958,
@@ -95,12 +95,13 @@
         "hasc:id":"CR.SJ.TA",
         "qs_pg:id":772734
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008831,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9af9436eb9e95318b0c004b0822cbd53",
+    "wof:geomhash":"9131eb31b517d7a312e0d4eae7bcba32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421169977,
-    "wof:lastmodified":1582381942,
+    "wof:lastmodified":1695886124,
     "wof:name":"Tarrazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04581,
-    "geom:area_square_m":558804688.342668,
+    "geom:area_square_m":558804816.683099,
     "geom:bbox":"-84.253801,9.254671,-83.84004,9.572033",
     "geom:latitude":9.423096,
     "geom:longitude":-84.052398,
@@ -185,12 +185,13 @@
         "qs_pg:id":1264075,
         "wd:id":"Q2776723"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010078,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"711f92c7acb4db640eca9adae9a942b8",
+    "wof:geomhash":"6cacdd3886357e28074e85a5b352bade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421201601,
-    "wof:lastmodified":1690868477,
+    "wof:lastmodified":1695886130,
     "wof:name":"Aguirre",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

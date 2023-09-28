@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016713,
-    "geom:area_square_m":203518890.289619,
+    "geom:area_square_m":203518890.289608,
     "geom:bbox":"-83.9469629663,9.84780205404,-83.8005201135,10.1473013683",
     "geom:latitude":10.007701,
     "geom:longitude":-83.865866,
@@ -97,12 +97,13 @@
         "hasc:id":"CR.CA.OR",
         "qs_pg:id":368962
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e7214c1928f2fe5360fbeb3d1d00296",
+    "wof:geomhash":"f5f04d210ab4a235d7fef8be9e6940ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421175397,
-    "wof:lastmodified":1582381947,
+    "wof:lastmodified":1695886128,
     "wof:name":"Oreamuno",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

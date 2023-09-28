@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00264,
-    "geom:area_square_m":32156309.536547,
+    "geom:area_square_m":32156418.220145,
     "geom:bbox":"-84.078538,9.938433,-83.887196,9.975742",
     "geom:latitude":9.958383,
     "geom:longitude":-83.988345,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"CR.SJ.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414957,
-    "wof:geomhash":"b87bbfbed4c0e61201e17fcd33b9bff2",
+    "wof:geomhash":"3328af152380b91ff484e071cd7da296",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108693657,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886536,
     "wof:name":"Goicoechea",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

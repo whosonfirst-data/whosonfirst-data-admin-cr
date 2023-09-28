@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011964,
-    "geom:area_square_m":145739374.284991,
+    "geom:area_square_m":145739251.943127,
     "geom:bbox":"-84.689141,9.840065,-84.462073,9.946545",
     "geom:latitude":9.896386,
     "geom:longitude":-84.577916,
@@ -134,12 +134,13 @@
         "qs_pg:id":115566,
         "wd:id":"Q1179301"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010162,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57fbd569d0d6c64298b3725b04cfc191",
+    "wof:geomhash":"6f12f072640a9cb7389d4e6129c2dca8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421203757,
-    "wof:lastmodified":1690868459,
+    "wof:lastmodified":1695886124,
     "wof:name":"Orotina",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

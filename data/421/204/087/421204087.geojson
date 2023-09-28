@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025835,
-    "geom:area_square_m":314876222.462922,
+    "geom:area_square_m":314876204.442598,
     "geom:bbox":"-84.701269,9.537488,-84.529357,9.878808",
     "geom:latitude":9.715328,
     "geom:longitude":-84.610318,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.PU.GA",
         "qs_pg:id":237819
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010173,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"697bb1c3c75c343d901a79cb681efc84",
+    "wof:geomhash":"a8aa1488e33381a9648bd8a87dd11e59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421204087,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886535,
     "wof:name":"Garabito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105112,
-    "geom:area_square_m":1277840969.326478,
+    "geom:area_square_m":1277840725.779439,
     "geom:bbox":"-85.433604,10.251864,-85.061292,10.775948",
     "geom:latitude":10.530698,
     "geom:longitude":-85.260535,
@@ -125,12 +125,13 @@
         "qs_pg:id":1264078,
         "wd:id":"Q1401294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008904,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"043e15bb27552a5d192b925a8db9b3e7",
+    "wof:geomhash":"b6f227c75b3ec87c215fe5392a8e4e98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421171711,
-    "wof:lastmodified":1690868488,
+    "wof:lastmodified":1695886132,
     "wof:name":"Bagaces",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

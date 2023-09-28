@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131612,
-    "geom:area_square_m":1598143663.990753,
+    "geom:area_square_m":1598143351.739934,
     "geom:bbox":"-85.449169,10.670787,-84.880578,11.06557",
     "geom:latitude":10.881829,
     "geom:longitude":-85.14929,
@@ -134,12 +134,13 @@
         "qs_pg:id":1289867,
         "wd:id":"Q691346"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008915,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8c6af43b4a2dbab817a069b6497d9ec",
+    "wof:geomhash":"f05c10a5c91f7c4864c9e163388440e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421172007,
-    "wof:lastmodified":1690868466,
+    "wof:lastmodified":1695886128,
     "wof:name":"Upala",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

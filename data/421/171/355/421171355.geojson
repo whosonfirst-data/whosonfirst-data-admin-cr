@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198973,
-    "geom:area_square_m":2419400218.415359,
+    "geom:area_square_m":2419400218.414364,
     "geom:bbox":"-83.9469629663,10.0629758882,-83.3433523811,10.9390760398",
     "geom:latitude":10.465129,
     "geom:longitude":-83.678757,
@@ -121,12 +121,13 @@
         "hasc:id":"CR.LI.PO",
         "qs_pg:id":1242711
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008890,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7210ae208ba6a67182ed50aa9a77a66d",
+    "wof:geomhash":"3e5cffb50cc3e539e3ca135d229a02cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421171355,
-    "wof:lastmodified":1582381953,
+    "wof:lastmodified":1695886131,
     "wof:name":"Pococi",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

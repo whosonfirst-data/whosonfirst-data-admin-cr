@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056318,
-    "geom:area_square_m":684846083.489109,
+    "geom:area_square_m":684846108.565384,
     "geom:bbox":"-85.247532,10.193061,-84.94965,10.708981",
     "geom:latitude":10.442132,
     "geom:longitude":-85.103547,
@@ -140,12 +140,13 @@
         "qs_pg:id":1264088,
         "wd:id":"Q1706524"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010078,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f1cefbc6d9e7282c502dd9b0d2882ac9",
+    "wof:geomhash":"b7d395c4f52ef10f760583bcb6d2e58c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421201613,
-    "wof:lastmodified":1690868476,
+    "wof:lastmodified":1695886130,
     "wof:name":"Canas",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

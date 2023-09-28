@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055167,
-    "geom:area_square_m":670797652.677808,
+    "geom:area_square_m":670797346.20205,
     "geom:bbox":"-85.045779,10.320545,-84.766238,10.652305",
     "geom:latitude":10.468628,
     "geom:longitude":-84.913672,
@@ -122,12 +122,13 @@
         "qs_pg:id":1289863,
         "wd:id":"Q7802056"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008845,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac293e4ef77c738f9ceba0dfdd8567ec",
+    "wof:geomhash":"355fd66a07ac120d9b0bbb26a35161b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421170251,
-    "wof:lastmodified":1690868479,
+    "wof:lastmodified":1695886538,
     "wof:name":"Tilaran",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

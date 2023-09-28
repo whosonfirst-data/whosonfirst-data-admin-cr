@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045782,
-    "geom:area_square_m":557943550.121971,
+    "geom:area_square_m":557943417.375156,
     "geom:bbox":"-84.491557,9.556494,-84.252041,9.91153",
     "geom:latitude":9.741989,
     "geom:longitude":-84.387042,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.SJ.PU",
         "qs_pg:id":368975
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ccf8f0d47d71caf220226a2ac6d42034",
+    "wof:geomhash":"b9daf3a2fef562ae414122f33d46ac4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421175401,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1695886538,
     "wof:name":"Puriscal",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

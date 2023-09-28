@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002384,
-    "geom:area_square_m":29027575.049847,
+    "geom:area_square_m":29027575.049865,
     "geom:bbox":"-84.0661129598,9.95275303601,-83.9751013675,10.066739891",
     "geom:latitude":10.010064,
     "geom:longitude":-84.018435,
@@ -327,12 +327,13 @@
         "hasc:id":"CR.SJ.MV",
         "qs_pg:id":230566
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010145,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84d222f174977c8bdf8906fdab3efb63",
+    "wof:geomhash":"3ad070e24eadd1095db284cd6c487d86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -342,7 +343,7 @@
         }
     ],
     "wof:id":421203271,
-    "wof:lastmodified":1582381944,
+    "wof:lastmodified":1695886125,
     "wof:name":"Moravia",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

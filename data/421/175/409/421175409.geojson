@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018448,
-    "geom:area_square_m":224611432.883348,
+    "geom:area_square_m":224611432.883395,
     "geom:bbox":"-84.0349992203,9.96438247489,-83.8585833933,10.1900422034",
     "geom:latitude":10.043598,
     "geom:longitude":-83.948307,
@@ -118,12 +118,13 @@
         "qs_pg:id":368987,
         "wd:id":"Q1935116"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009066,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d99b59d21aeb84fecb951a0f15fe341",
+    "wof:geomhash":"4ce28d84e8deaa7cfa00256882c1c76e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421175409,
-    "wof:lastmodified":1582381948,
+    "wof:lastmodified":1695886129,
     "wof:name":"Vazquez De Coronado",
     "wof:parent_id":85670391,
     "wof:placetype":"county",
