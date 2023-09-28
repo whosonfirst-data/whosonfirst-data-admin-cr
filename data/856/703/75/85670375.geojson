@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219883,
-    "geom:area_square_m":2674033137.991403,
+    "geom:area_square_m":2674032863.027678,
     "geom:bbox":"-84.200032,9.959616,-83.709956,10.792599",
     "geom:latitude":10.42136,
     "geom:longitude":-84.012999,
@@ -306,17 +306,19 @@
         "gn:id":3623484,
         "gp:id":2345085,
         "hasc:id":"CR.HE",
+        "iso:code":"CR-H",
         "iso:id":"CR-H",
         "qs_pg:id":891519,
         "unlc:id":"CR-H",
         "wd:id":"Q502192",
         "wk:page":"Heredia Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d28185bb5db6eb1a2123ea6ddab509a4",
+    "wof:geomhash":"efb51717abf7d3067d08e920d93cecf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868444,
+    "wof:lastmodified":1695885132,
     "wof:name":"Heredia",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

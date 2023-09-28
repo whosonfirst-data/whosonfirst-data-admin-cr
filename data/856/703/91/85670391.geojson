@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.409255,
-    "geom:area_square_m":4989530851.286741,
+    "geom:area_square_m":4989530944.085212,
     "geom:bbox":"-84.592696,9.074913,-83.429295,10.190042",
     "geom:latitude":9.605407,
     "geom:longitude":-83.991778,
@@ -345,17 +345,19 @@
         "gn:id":3621837,
         "gp:id":2345088,
         "hasc:id":"CR.SJ",
+        "iso:code":"CR-SJ",
         "iso:id":"CR-SJ",
         "qs_pg:id":891517,
         "unlc:id":"CR-SJ",
         "wd:id":"Q647808",
         "wk:page":"San Jos\u00e9 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cbe8b54570c41c4b3bcc4fdc2ac3e62",
+    "wof:geomhash":"c82a3c57a4fc05809ff9a0f6b0eac99f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -370,7 +372,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868445,
+    "wof:lastmodified":1695884501,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85632487,
     "wof:placetype":"region",
