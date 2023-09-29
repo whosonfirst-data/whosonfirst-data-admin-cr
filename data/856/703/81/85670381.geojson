@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.758559,
-    "geom:area_square_m":9238548663.525333,
+    "geom:area_square_m":9238547952.338192,
     "geom:bbox":"-83.946963,9.074932,-82.552319,10.939076",
     "geom:latitude":9.94528,
     "geom:longitude":-83.344003,
@@ -289,17 +289,19 @@
         "gn:id":3623064,
         "gp:id":2345086,
         "hasc:id":"CR.LI",
+        "iso:code":"CR-L",
         "iso:id":"CR-L",
         "qs_pg:id":569320,
         "unlc:id":"CR-L",
         "wd:id":"Q642644",
         "wk:page":"Lim\u00f3n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86b91a389f1add5e75d27363db587233",
+    "wof:geomhash":"096413f5dc8bd9a00b7cafe7365d3820",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868444,
+    "wof:lastmodified":1695884607,
     "wof:name":"Lim\u00f3n",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

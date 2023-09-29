@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03957,
-    "geom:area_square_m":482498514.197662,
+    "geom:area_square_m":482498288.982376,
     "geom:bbox":"-84.555584,9.446499,-84.130503,9.649858",
     "geom:latitude":9.561996,
     "geom:longitude":-84.317029,
@@ -113,12 +113,13 @@
         "qs_pg:id":890667,
         "wd:id":"Q7139824"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009317,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53620467d30ec44e1df2a0587949e9ab",
+    "wof:geomhash":"018a02f90c9679bf34acd59e2bac8413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421182071,
-    "wof:lastmodified":1690868485,
+    "wof:lastmodified":1695886539,
     "wof:name":"Parrita",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

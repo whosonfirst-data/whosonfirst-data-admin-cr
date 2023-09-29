@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046877,
-    "geom:area_square_m":570982218.15623,
+    "geom:area_square_m":570982310.299957,
     "geom:bbox":"-85.457531,9.727134,-85.149916,10.077206",
     "geom:latitude":9.913578,
     "geom:longitude":-85.280642,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CR.GU.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414978,
-    "wof:geomhash":"e9b108e58639724c00dfd66fffffc792",
+    "wof:geomhash":"c6aeefc32b79bc3f09e8dae86a347d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108693661,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1695886540,
     "wof:name":"Nandayure",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

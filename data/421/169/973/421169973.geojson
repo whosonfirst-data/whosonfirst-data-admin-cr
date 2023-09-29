@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110266,
-    "geom:area_square_m":1338931295.111973,
+    "geom:area_square_m":1338930842.192319,
     "geom:bbox":"-84.897612,10.629432,-84.451475,11.084494",
     "geom:latitude":10.884147,
     "geom:longitude":-84.666104,
@@ -125,12 +125,13 @@
         "qs_pg:id":772732,
         "wd:id":"Q1757578"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008831,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37c929000b882b26a2a49293a682085f",
+    "wof:geomhash":"47d1851d1cc1e7501250883418a7d77c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421169973,
-    "wof:lastmodified":1690868457,
+    "wof:lastmodified":1695886123,
     "wof:name":"Los Chiles",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

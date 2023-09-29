@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006155,
-    "geom:area_square_m":74927493.812847,
+    "geom:area_square_m":74927414.045554,
     "geom:bbox":"-84.299799,10.014249,-84.195733,10.198061",
     "geom:latitude":10.105849,
     "geom:longitude":-84.240932,
@@ -124,12 +124,13 @@
         "hasc:id":"CR.AL.PO",
         "qs_pg:id":890669
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009794,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc0e1230be8971fbdbf65c606fac155f",
+    "wof:geomhash":"f2283ecb3500e4f661a96d079573d627",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421194119,
-    "wof:lastmodified":1627522028,
+    "wof:lastmodified":1695886540,
     "wof:name":"Poas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

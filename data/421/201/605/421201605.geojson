@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001768,
-    "geom:area_square_m":21536520.172826,
+    "geom:area_square_m":21536550.835966,
     "geom:bbox":"-84.145894,9.847564,-84.084156,9.931675",
     "geom:latitude":9.887681,
     "geom:longitude":-84.114608,
@@ -106,12 +106,13 @@
         "qs_pg:id":1264077,
         "wd:id":"Q3410901"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010078,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15dad8155324f632ec263eb02f09f1b1",
+    "wof:geomhash":"3976e8bb62f582146ce0abf14f7eb674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421201605,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886535,
     "wof:name":"Alajuelita",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

@@ -1145,6 +1145,7 @@
         "hasc:id":"CR",
         "icao:code":"TI",
         "ioc:id":"CRC",
+        "iso:code":"CR",
         "itu:id":"CTR",
         "loc:id":"n79070075",
         "m49:code":"188",
@@ -1159,6 +1160,7 @@
         "wk:page":"Costa Rica",
         "wmo:id":"CS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:country_alpha3":"CRI",
     "wof:geom_alt":[
@@ -1180,7 +1182,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639572,
+    "wof:lastmodified":1695881231,
     "wof:name":"Costa Rica",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

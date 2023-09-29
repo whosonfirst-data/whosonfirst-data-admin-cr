@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00069,
-    "geom:area_square_m":8401389.312691,
+    "geom:area_square_m":8401363.159593,
     "geom:bbox":"-84.107211,9.941244,-84.055136,9.972863",
     "geom:latitude":9.95873,
     "geom:longitude":-84.081013,
@@ -135,12 +135,13 @@
         "qs_pg:id":224841,
         "wd:id":"Q426978"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010124,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc009067a1fe1828cfa631457ef06073",
+    "wof:geomhash":"e670e27ac8eb90fc41b5308a617a9e48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421202607,
-    "wof:lastmodified":1690868461,
+    "wof:lastmodified":1695886125,
     "wof:name":"Tibas",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

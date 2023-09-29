@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051269,
-    "geom:area_square_m":626912704.504193,
+    "geom:area_square_m":626912339.309609,
     "geom:bbox":"-83.057239,8.34195,-82.822255,8.733774",
     "geom:latitude":8.549269,
     "geom:longitude":-82.934257,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.PU.CO",
         "qs_pg:id":1110220
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009611,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6e0c93c5925f28f82f73ebbcf3217a4d",
+    "wof:geomhash":"24840d1ee8e88005b3f5164778269f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421189149,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886535,
     "wof:name":"Corredores",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

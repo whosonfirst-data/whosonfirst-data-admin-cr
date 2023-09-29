@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009841,
-    "geom:area_square_m":119907898.305561,
+    "geom:area_square_m":119907954.370707,
     "geom:bbox":"-84.109845,9.714225,-83.94878,9.908795",
     "geom:latitude":9.814631,
     "geom:longitude":-84.045534,
@@ -122,12 +122,13 @@
         "qs_pg:id":1119685,
         "wd:id":"Q14108797"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009660,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f98a45b74c1069efd64b743635f5d187",
+    "wof:geomhash":"151593b15eaa885d7e0501a7ae48391a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421190519,
-    "wof:lastmodified":1690868471,
+    "wof:lastmodified":1695886129,
     "wof:name":"Desamparados",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

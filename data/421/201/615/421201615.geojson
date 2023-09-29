@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049459,
-    "geom:area_square_m":601405627.255418,
+    "geom:area_square_m":601405627.255201,
     "geom:bbox":"-85.8121736822,10.325287023,-85.3690685556,10.6368885241",
     "geom:latitude":10.459959,
     "geom:longitude":-85.60228,
@@ -124,12 +124,13 @@
         "hasc:id":"CR.GU.CR",
         "qs_pg:id":1264089
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010078,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db13b5a0d0999987dcf998e5900e4df0",
+    "wof:geomhash":"91a00ddf1a3e45bd4cea268227aadcbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421201615,
-    "wof:lastmodified":1582381950,
+    "wof:lastmodified":1695886131,
     "wof:name":"Carrillo",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020363,
-    "geom:area_square_m":247871410.43847,
+    "geom:area_square_m":247871472.397195,
     "geom:bbox":"-84.812055,10.008765,-84.656564,10.284366",
     "geom:latitude":10.123403,
     "geom:longitude":-84.724498,
@@ -94,12 +94,13 @@
         "hasc:id":"CR.PU.MO",
         "qs_pg:id":897117
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009444,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67e425b3d86acb518060509159880260",
+    "wof:geomhash":"cdf8ffa953476c41842ce9612417dfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421185489,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1695886537,
     "wof:name":"Montes De Oro",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.840433,
-    "geom:area_square_m":10219695972.394241,
+    "geom:area_square_m":10219695378.297764,
     "geom:bbox":"-85.950251,9.727134,-84.766238,11.219758",
     "geom:latitude":10.446419,
     "geom:longitude":-85.391603,
@@ -323,17 +323,19 @@
         "gn:id":3623582,
         "gp:id":2345084,
         "hasc:id":"CR.GU",
+        "iso:code":"CR-G",
         "iso:id":"CR-G",
         "qs_pg:id":1117338,
         "unlc:id":"CR-G",
         "wd:id":"Q690026",
         "wk:page":"Guanacaste Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c2645ea9f949755025673c71ac45c03",
+    "wof:geomhash":"e8e739d03939cfe57ed96a7109bc6e08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -348,7 +350,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868446,
+    "wof:lastmodified":1695884964,
     "wof:name":"Guanacaste",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

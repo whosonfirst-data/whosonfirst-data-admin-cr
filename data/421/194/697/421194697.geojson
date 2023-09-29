@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144241,
-    "geom:area_square_m":1763722697.313577,
+    "geom:area_square_m":1763722715.381874,
     "geom:bbox":"-83.652435,8.039627,-82.886141,8.814248",
     "geom:latitude":8.554012,
     "geom:longitude":-83.242624,
@@ -185,12 +185,13 @@
         "qs_pg:id":897134,
         "wd:id":"Q949409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009816,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e5a68c4d52a76665f0e18d88a0f76318",
+    "wof:geomhash":"f9650b790ed9dfac79a052ef970ce067",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421194697,
-    "wof:lastmodified":1690868451,
+    "wof:lastmodified":1695886170,
     "wof:name":"Golfito",
     "wof:parent_id":85670385,
     "wof:placetype":"county",

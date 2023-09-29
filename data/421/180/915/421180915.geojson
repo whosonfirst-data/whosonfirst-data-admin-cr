@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000679,
-    "geom:area_square_m":8273366.946191,
+    "geom:area_square_m":8273425.564608,
     "geom:bbox":"-84.113887,9.971305,-84.074021,10.01261",
     "geom:latitude":9.994936,
     "geom:longitude":-84.094592,
@@ -182,12 +182,13 @@
         "qs_pg:id":467302,
         "wd:id":"Q295411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009275,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7af4af672bd0f8d1c9f45da480bd5f0c",
+    "wof:geomhash":"4b5653dddb671cf46850fd255823b7af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421180915,
-    "wof:lastmodified":1690868462,
+    "wof:lastmodified":1695886172,
     "wof:name":"San Pablo",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

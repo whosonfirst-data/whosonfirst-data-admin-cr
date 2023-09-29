@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01043,
-    "geom:area_square_m":127020128.939224,
+    "geom:area_square_m":127020095.324917,
     "geom:bbox":"-84.468848,9.920312,-84.340812,10.03907",
     "geom:latitude":9.97532,
     "geom:longitude":-84.40437,
@@ -131,12 +131,13 @@
         "qs_pg:id":219086,
         "wd:id":"Q973817"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010104,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6efc9f59e9fa2bd60c2a8ce7a66488c",
+    "wof:geomhash":"40507677fcf4069fa75ea696f5349bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421202071,
-    "wof:lastmodified":1690868460,
+    "wof:lastmodified":1695886125,
     "wof:name":"Atenas",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

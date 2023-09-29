@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010088,
-    "geom:area_square_m":122963118.627137,
+    "geom:area_square_m":122963114.555303,
     "geom:bbox":"-84.154168,9.636764,-83.970935,9.751188",
     "geom:latitude":9.69544,
     "geom:longitude":-84.070627,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"CR.SJ.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414968,
-    "wof:geomhash":"e70f635c52ef2eec8efdcce3beed2a33",
+    "wof:geomhash":"2713cc547bb7ce1dbdaf3ba84a9f59bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108693659,
-    "wof:lastmodified":1627522027,
+    "wof:lastmodified":1695886538,
     "wof:name":"Leon Cortes",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

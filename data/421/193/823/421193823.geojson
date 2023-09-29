@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004611,
-    "geom:area_square_m":56137981.627815,
+    "geom:area_square_m":56137984.544807,
     "geom:bbox":"-84.146044,10.009928,-84.085313,10.137054",
     "geom:latitude":10.07556,
     "geom:longitude":-84.114717,
@@ -128,12 +128,13 @@
         "qs_pg:id":421486,
         "wd:id":"Q2414905"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009784,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"693803ed9337394887c4bab5d02b8515",
+    "wof:geomhash":"88cfda3c22da45d1019959afabb96d17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421193823,
-    "wof:lastmodified":1690868453,
+    "wof:lastmodified":1695886123,
     "wof:name":"Barva",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

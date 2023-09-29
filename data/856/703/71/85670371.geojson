@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254953,
-    "geom:area_square_m":3106388034.090824,
+    "geom:area_square_m":3106387826.002534,
     "geom:bbox":"-84.088529,9.484012,-83.311907,10.147301",
     "geom:latitude":9.816033,
     "geom:longitude":-83.68327,
@@ -290,17 +290,19 @@
         "gn:id":3624368,
         "gp:id":2345083,
         "hasc:id":"CR.CA",
+        "iso:code":"CR-C",
         "iso:id":"CR-C",
         "qs_pg:id":891518,
         "unlc:id":"CR-C",
         "wd:id":"Q502181",
         "wk:page":"Cartago Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89bc43c5f1ae2b4ed0118abf3b1cbf7d",
+    "wof:geomhash":"3df23cff2c52c4ceee8909654351b070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868448,
+    "wof:lastmodified":1695884966,
     "wof:name":"Cartago",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

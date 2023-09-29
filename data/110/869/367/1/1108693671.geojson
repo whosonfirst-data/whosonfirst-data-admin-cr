@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012963,
-    "geom:area_square_m":157748631.150983,
+    "geom:area_square_m":157748569.969416,
     "geom:bbox":"-84.51836,10.167054,-84.315016,10.270422",
     "geom:latitude":10.219271,
     "geom:longitude":-84.413883,
@@ -106,9 +106,10 @@
         "hasc:id":"CR.AL.AR",
         "wd:id":"Q975960"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474415021,
-    "wof:geomhash":"bc6b518c06b536f0280291dfde0937ba",
+    "wof:geomhash":"2210164b87f8971b5d71706d77d04a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108693671,
-    "wof:lastmodified":1690868449,
+    "wof:lastmodified":1695886116,
     "wof:name":"Zarcero",
     "wof:parent_id":85670393,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231783,
-    "geom:area_square_m":2826926535.948731,
+    "geom:area_square_m":2826926535.948988,
     "geom:bbox":"-83.4890873606,9.07493244098,-82.552318988,9.76776201678",
     "geom:latitude":9.476541,
     "geom:longitude":-83.087196,
@@ -127,12 +127,13 @@
         "hasc:id":"CR.LI.TA",
         "qs_pg:id":890673
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f974e624d83ef787341996f3981c8d6e",
+    "wof:geomhash":"39a78e7dc4a535b6a194021040085c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421185333,
-    "wof:lastmodified":1582381954,
+    "wof:lastmodified":1695886133,
     "wof:name":"Talamanca",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

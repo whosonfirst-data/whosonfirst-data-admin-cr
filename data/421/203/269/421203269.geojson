@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":6802344.292945,
+    "geom:area_square_m":6802328.040517,
     "geom:bbox":"-84.173756,9.990085,-84.134055,10.021542",
     "geom:latitude":10.006629,
     "geom:longitude":-84.155871,
@@ -283,12 +283,13 @@
         "hasc:id":"CR.HE.FL",
         "qs_pg:id":230565
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010145,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bcdfcb6cbc5e0f6a00f1865c880216e6",
+    "wof:geomhash":"3e37c9e3b702f7af782e40106a00c389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -298,7 +299,7 @@
         }
     ],
     "wof:id":421203269,
-    "wof:lastmodified":1636505105,
+    "wof:lastmodified":1695886172,
     "wof:name":"Flores",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

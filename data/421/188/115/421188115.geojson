@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002847,
-    "geom:area_square_m":34678899.784523,
+    "geom:area_square_m":34678913.324857,
     "geom:bbox":"-84.185823,9.859566,-84.120777,9.972575",
     "geom:latitude":9.914695,
     "geom:longitude":-84.14524,
@@ -94,12 +94,13 @@
         "hasc:id":"CR.SJ.ES",
         "qs_pg:id":1087908
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009534,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3bdc97e61402e18a4dc9a982834bfcda",
+    "wof:geomhash":"976898f5a28028290af1daa27352177f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421188115,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886534,
     "wof:name":"Escazu",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

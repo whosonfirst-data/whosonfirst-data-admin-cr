@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047976,
-    "geom:area_square_m":583850467.2255,
+    "geom:area_square_m":583850210.018655,
     "geom:bbox":"-83.775329,10.038727,-83.470273,10.370578",
     "geom:latitude":10.201809,
     "geom:longitude":-83.646058,
@@ -125,12 +125,13 @@
         "qs_pg:id":237821,
         "wd:id":"Q3780110"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459010173,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8aa9a0f88a097f663269210cfe48776",
+    "wof:geomhash":"3de0656db515e227640fb183733462a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421204091,
-    "wof:lastmodified":1690868458,
+    "wof:lastmodified":1695886535,
     "wof:name":"Guacimo",
     "wof:parent_id":85670381,
     "wof:placetype":"county",

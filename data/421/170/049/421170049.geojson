@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114638,
-    "geom:area_square_m":1391463130.787227,
+    "geom:area_square_m":1391462987.691769,
     "geom:bbox":"-85.950251,10.797038,-85.229091,11.219758",
     "geom:latitude":11.002254,
     "geom:longitude":-85.579663,
@@ -178,12 +178,13 @@
         "qs_pg:id":1264093,
         "wd:id":"Q3820791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459008835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5c1d1d569e411d5003e42e107aa969d",
+    "wof:geomhash":"d8e768d01a99200b85f905035270559e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421170049,
-    "wof:lastmodified":1690868479,
+    "wof:lastmodified":1695886173,
     "wof:name":"La Cruz",
     "wof:parent_id":85670399,
     "wof:placetype":"county",

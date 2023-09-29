@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001026,
-    "geom:area_square_m":12496314.330879,
+    "geom:area_square_m":12496289.434154,
     "geom:bbox":"-84.200032,9.965746,-84.15353,10.00559",
     "geom:latitude":9.983197,
     "geom:longitude":-84.177395,
@@ -356,12 +356,13 @@
         "qs_pg:id":421504,
         "wd:id":"Q816332"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009926,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b25360d3adb81d663ed7d9de1db34cb5",
+    "wof:geomhash":"852e7825beef7b4814f348c9547ffdc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -371,7 +372,7 @@
         }
     ],
     "wof:id":421197833,
-    "wof:lastmodified":1636505112,
+    "wof:lastmodified":1695886173,
     "wof:name":"Belen",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

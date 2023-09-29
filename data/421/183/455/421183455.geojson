@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023354,
-    "geom:area_square_m":284261251.359275,
+    "geom:area_square_m":284261239.949898,
     "geom:bbox":"-84.164709,9.959616,-83.913612,10.298438",
     "geom:latitude":10.149613,
     "geom:longitude":-84.07464,
@@ -130,12 +130,13 @@
         "hasc:id":"CR.HE.HE",
         "qs_pg:id":978243
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009370,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1010389767b0238492f1e7a6292dbc27",
+    "wof:geomhash":"9c121c94682a4a712e8bf5c16d549fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421183455,
-    "wof:lastmodified":1636505116,
+    "wof:lastmodified":1695886174,
     "wof:name":"Heredia",
     "wof:parent_id":85670375,
     "wof:placetype":"county",

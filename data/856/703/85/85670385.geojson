@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.927155,
-    "geom:area_square_m":11318132569.441952,
+    "geom:area_square_m":11318132360.18191,
     "geom:bbox":"-87.094541,5.49857,-82.712114,10.337327",
     "geom:latitude":9.147961,
     "geom:longitude":-83.716681,
@@ -326,17 +326,19 @@
         "gn:id":3622226,
         "gp:id":2345087,
         "hasc:id":"CR.PU",
+        "iso:code":"CR-P",
         "iso:id":"CR-P",
         "qs_pg:id":1117340,
         "unlc:id":"CR-P",
         "wd:id":"Q502170",
         "wk:page":"Puntarenas Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bbfb93dbfe2895ffceceb857a06e860",
+    "wof:geomhash":"e91d04277ed0652f68608587f7062869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -351,7 +353,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868447,
+    "wof:lastmodified":1695884964,
     "wof:name":"Puntarenas",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

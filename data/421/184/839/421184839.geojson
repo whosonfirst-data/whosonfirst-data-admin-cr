@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03336,
-    "geom:area_square_m":406744715.984849,
+    "geom:area_square_m":406744483.073805,
     "geom:bbox":"-83.989677,9.430669,-83.757945,9.739354",
     "geom:latitude":9.587093,
     "geom:longitude":-83.913044,
@@ -93,12 +93,13 @@
         "hasc:id":"CR.SJ.DO",
         "qs_pg:id":1119686
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009424,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9cd4f1cb898e8723109fcdc8defd330f",
+    "wof:geomhash":"eb8b56fea23092b09cacec4f126582cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421184839,
-    "wof:lastmodified":1627522026,
+    "wof:lastmodified":1695886534,
     "wof:name":"Dota",
     "wof:parent_id":85670391,
     "wof:placetype":"county",

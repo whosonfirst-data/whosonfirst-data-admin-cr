@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023016,
-    "geom:area_square_m":280429773.240015,
+    "geom:area_square_m":280430899.230759,
     "geom:bbox":"-84.088529,9.603838,-83.765321,9.971182",
     "geom:latitude":9.815264,
     "geom:longitude":-83.921036,
@@ -190,12 +190,13 @@
         "hasc:id":"CR.CA.CA",
         "qs_pg:id":1110214
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1459009611,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6187a2dac293379de878147ce2b3d29b",
+    "wof:geomhash":"de1df98389d34e960384898ad6ecd235",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":421189139,
-    "wof:lastmodified":1636505109,
+    "wof:lastmodified":1695886173,
     "wof:name":"Cartago",
     "wof:parent_id":85670371,
     "wof:placetype":"county",

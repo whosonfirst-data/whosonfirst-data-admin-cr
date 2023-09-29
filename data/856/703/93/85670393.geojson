@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.807384,
-    "geom:area_square_m":9814051669.612137,
+    "geom:area_square_m":9814051433.933056,
     "geom:bbox":"-85.449169,9.840065,-84.160927,11.084494",
     "geom:latitude":10.565649,
     "geom:longitude":-84.614125,
@@ -335,17 +335,19 @@
         "gn:id":3624953,
         "gp:id":2345082,
         "hasc:id":"CR.AL",
+        "iso:code":"CR-A",
         "iso:id":"CR-A",
         "qs_pg:id":913482,
         "unlc:id":"CR-A",
         "wd:id":"Q502188",
         "wk:page":"Alajuela Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cf4b1390aa66ff14f771e0664e7caa0c",
+    "wof:geomhash":"cd845c4b3d616b6dbfd5bcd98173ff46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -360,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690868444,
+    "wof:lastmodified":1695884963,
     "wof:name":"Alajuela",
     "wof:parent_id":85632487,
     "wof:placetype":"region",

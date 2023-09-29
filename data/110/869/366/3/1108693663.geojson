@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.150127,
-    "geom:area_square_m":1828699175.502768,
+    "geom:area_square_m":1828699175.50262,
     "geom:bbox":"-87.094540821,5.49857041365,-84.6618183321,10.3373268013",
     "geom:latitude":9.888606,
     "geom:longitude":-85.019475,
@@ -159,9 +159,10 @@
     "wof:concordances":{
         "hasc:id":"CR.PU.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CR",
     "wof:created":1474414991,
-    "wof:geomhash":"ed21aa4fb81aedabce9209c710dbb9c3",
+    "wof:geomhash":"61878600d589ab2f58348027ae1d9df9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108693663,
-    "wof:lastmodified":1566708820,
+    "wof:lastmodified":1695886114,
     "wof:name":"Puntarenas",
     "wof:parent_id":85670385,
     "wof:placetype":"county",
