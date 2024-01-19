@@ -9,6 +9,7 @@
     "geom:bbox":"-84.081206,9.930219,-84.081206,9.930219",
     "geom:latitude":9.930219,
     "geom:longitude":-84.081206,
+    "gn:country":null,
     "gn:id":"",
     "iso:country":"CR",
     "lbl:bbox":"-84.086206,9.925219,-84.076206,9.935219",
@@ -25,6 +26,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "Dolorosa"
@@ -53,11 +55,31 @@
     "qs:woe_lau":26808932,
     "qs:woe_local":59426,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dolorosa",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"San Jose",
+    "qs_pg:photos":3964,
+    "qs_pg:photos_1k":803,
+    "qs_pg:photos_9k":18,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3964,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":889892,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":22723690,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"San Jose",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85670391,
         102191575,
@@ -69,7 +91,12 @@
         "gp:id":22723690,
         "qs_pg:id":889892
     },
+    "wof:concordances_alt":{
+        "gp:id":22723690,
+        "qs_pg:id":889892
+    },
     "wof:country":"CR",
+    "wof:created":1497312322,
     "wof:geom_alt":[
         "quattroshapes"
     ],
@@ -88,13 +115,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582381931,
+    "wof:lastmodified":1705624223,
     "wof:name":"Dolorosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-cr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126083471
+    ],
     "wof:tags":[]
 },
   "bbox": [
