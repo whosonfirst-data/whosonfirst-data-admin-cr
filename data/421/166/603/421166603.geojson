@@ -11,6 +11,8 @@
     "geom:longitude":-84.05074,
     "iso:country":"CR",
     "lbl:bbox":"-84.15074,9.82829,-83.95074,10.02829",
+    "lbl:latitude":9.92829,
+    "lbl:longitude":-84.05074,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
@@ -122,6 +124,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
+    "name:und_x_variant":[
+        "Pedro"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u067e\u06cc\u0688\u0631\u0648"
     ],
@@ -155,7 +160,29 @@
     "qs:qs_id":267801,
     "qs:woe_adm0":23424791,
     "qs:woe_id":26809230,
+    "qs_pg:aaroncc":"CR",
+    "qs_pg:name":"San Pedro",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"Alajuela",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017246,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":26809228,
     "src:geom":"quattroshapes",
+    "src:lbl_centroid":"qs_pg",
+    "src:population":"quattroshapes",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"Alajuela",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191575,
         85632487,
@@ -164,8 +191,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3621717,
         "gp:id":26809230,
         "qs_pg:id":267801
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            26809228
+        ],
+        "qs_pg:id":[
+            1017246
+        ]
     },
     "wof:country":"CR",
     "wof:created":1459008696,
@@ -180,13 +216,20 @@
         }
     ],
     "wof:id":421166603,
-    "wof:lastmodified":1636505100,
+    "wof:lastmodified":1706216480,
     "wof:name":"San Pedro",
     "wof:parent_id":421169975,
     "wof:placetype":"localadmin",
+    "wof:population":27477,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-cr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        421173725,
+        421185049,
+        421185053,
+        1125389441
+    ],
     "wof:tags":[]
 },
   "bbox": [

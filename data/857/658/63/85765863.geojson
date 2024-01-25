@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "Hatillo No.3"
@@ -53,11 +54,30 @@
     "qs:woe_lau":26809010,
     "qs:woe_local":59426,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Hatillo No.3",
+    "qs_pg:name_adm0":"Costa Rica",
+    "qs_pg:name_adm1":"San Jose",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":264773,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424791,
+    "qs_pg:woe_id":22723860,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424791,
+    "woe:name_adm0":"Costa Rica",
+    "woe:name_adm1":"San Jose",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85670391,
         102191575,
@@ -68,6 +88,14 @@
     "wof:concordances":{
         "gp:id":22723860,
         "qs_pg:id":264773
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22723860
+        ],
+        "qs_pg:id":[
+            264773
+        ]
     },
     "wof:country":"CR",
     "wof:geom_alt":[
@@ -88,13 +116,15 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582381931,
+    "wof:lastmodified":1706216480,
     "wof:name":"Hatillo No.3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-cr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126105705
+    ],
     "wof:tags":[]
 },
   "bbox": [
