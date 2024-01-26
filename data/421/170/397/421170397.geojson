@@ -9,6 +9,21 @@
     "geom:bbox":"-84.11651,10.00236,-84.11651,10.00236",
     "geom:latitude":10.00236,
     "geom:longitude":-84.11651,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"401",
+    "gn:admin3_code":"40101.0",
+    "gn:asciiname":"Heredia",
+    "gn:country_code":"CR",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":3623486,
+    "gn:latitude":10.00236,
+    "gn:longitude":-84.11651,
+    "gn:modification_date":"2016-09-07",
+    "gn:name":"Heredia",
+    "gn:population":21947,
+    "gn:timezone":"America/Costa_Rica",
     "iso:country":"CR",
     "lbl:bbox":"-84.13651,9.98236,-84.09651,10.02236",
     "lbl:max_zoom":14.0,
@@ -127,6 +142,9 @@
         "Heredia"
     ],
     "name:nah_x_preferred":[
+        "Heredia"
+    ],
+    "name:nds_x_preferred":[
         "Heredia"
     ],
     "name:nld_x_preferred":[
@@ -346,7 +364,15 @@
         "wk:page":"Heredia, Costa Rica"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1200232
+        "gn:id":[
+            3623486
+        ],
+        "qs_pg:id":[
+            1200232
+        ],
+        "wk:page":[
+            "Heredia"
+        ]
     },
     "wof:country":"CR",
     "wof:created":1459008851,
@@ -364,7 +390,7 @@
         }
     ],
     "wof:id":421170397,
-    "wof:lastmodified":1690868478,
+    "wof:lastmodified":1706239486,
     "wof:name":"Heredia",
     "wof:parent_id":421183455,
     "wof:placetype":"locality",
@@ -372,7 +398,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-cr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276768797
+    ],
     "wof:tags":[]
 },
   "bbox": [
