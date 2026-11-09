@@ -56,7 +56,7 @@
         "wk:page":"Zapote_District%2C_San_Jos%C3%A9"
     },
     "wof:country":"CR",
-    "wof:geomhash":"a0aafdfb63b0ac39caf3d1c5438f9062",
+    "wof:geomhash":"c737b48a1ccd167e541f9ed3bf9f28bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -84.05445999999998,
     9.91877
 ],
-  "geometry": {"coordinates":[-84.05445999999998,9.91877],"type":"Point"}
+  "geometry": {"coordinates":[-84.05446,9.91877],"type":"Point"}
 }

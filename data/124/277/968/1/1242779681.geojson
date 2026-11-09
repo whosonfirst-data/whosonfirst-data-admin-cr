@@ -47,7 +47,7 @@
         "wk:page":"Playa_Grande%2C_Costa_Rica"
     },
     "wof:country":"CR",
-    "wof:geomhash":"dfbf473622d0a83182c7797669934e4e",
+    "wof:geomhash":"0c17c051f0258db216f3aed0a685102d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -85.84510999999998,
     10.33316
 ],
-  "geometry": {"coordinates":[-85.84510999999998,10.33316],"type":"Point"}
+  "geometry": {"coordinates":[-85.84511,10.33316],"type":"Point"}
 }

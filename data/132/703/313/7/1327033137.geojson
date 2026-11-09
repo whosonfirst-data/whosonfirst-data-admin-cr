@@ -53,7 +53,7 @@
         "wk:page":"Ujarr%C3%A1s"
     },
     "wof:country":"CR",
-    "wof:geomhash":"0b73a2293e7d7b3842123164e4713268",
+    "wof:geomhash":"ec097de3a1c9c5532ff61e42f8da4da9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,5 +79,5 @@
     -83.83185999999998,
     9.8274
 ],
-  "geometry": {"coordinates":[-83.83185999999998,9.8274],"type":"Point"}
+  "geometry": {"coordinates":[-83.83186,9.8274],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "gn:id":3622785
     },
     "wof:country":"CR",
-    "wof:geomhash":"f4994d85825dded3c8c597e64761a082",
+    "wof:geomhash":"dbfa208fea8fe9ff822aeb9876d04947",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -84.51666999999998,
     10.53333
 ],
-  "geometry": {"coordinates":[-84.51666999999998,10.53333],"type":"Point"}
+  "geometry": {"coordinates":[-84.51667,10.53333],"type":"Point"}
 }

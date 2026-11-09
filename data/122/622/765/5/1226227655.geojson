@@ -56,7 +56,7 @@
         "wk:page":"Uruca_District%2C_San_Jos%C3%A9"
     },
     "wof:country":"CR",
-    "wof:geomhash":"73bbcf647f2d5a3f2252185f58d065dd",
+    "wof:geomhash":"549392d35d15fd90c974b00579d25c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -84.13323000000003,
     9.76273
 ],
-  "geometry": {"coordinates":[-84.13323000000003,9.76273],"type":"Point"}
+  "geometry": {"coordinates":[-84.13323,9.76273],"type":"Point"}
 }

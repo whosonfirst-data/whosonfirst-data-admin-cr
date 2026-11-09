@@ -56,7 +56,7 @@
         "wk:page":"San_Sebasti%C3%A1n_District%2C_San_Jos%C3%A9"
     },
     "wof:country":"CR",
-    "wof:geomhash":"700d1a25c407c18a177de16645d5cb9c",
+    "wof:geomhash":"cc7bbb8e58631e0db8bf6b3c69179146",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -84.08554000000002,
     9.91194
 ],
-  "geometry": {"coordinates":[-84.08554000000002,9.91194],"type":"Point"}
+  "geometry": {"coordinates":[-84.08554,9.91194],"type":"Point"}
 }

@@ -56,7 +56,7 @@
     },
     "wof:country":"CR",
     "wof:created":1497047483,
-    "wof:geomhash":"2f49493862d4ddaaf05777e64497f766",
+    "wof:geomhash":"c10d84caa82b54d430a83ba010433c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,5 +84,5 @@
     -84.499822,
     9.8922705
 ],
-  "geometry": {"coordinates":[-84.49982199999999,9.8922705],"type":"Point"}
+  "geometry": {"coordinates":[-84.499822,9.892271],"type":"Point"}
 }

@@ -47,7 +47,7 @@
         "wk:page":"Guaitil_District"
     },
     "wof:country":"CR",
-    "wof:geomhash":"8d08c10f61821dbaf005d2c77770a4b4",
+    "wof:geomhash":"c77f498853a75667b1d9a84bd207bda2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,5 +73,5 @@
     -84.23123000000002,
     9.79123
 ],
-  "geometry": {"coordinates":[-84.23123000000002,9.79123],"type":"Point"}
+  "geometry": {"coordinates":[-84.23123,9.79123],"type":"Point"}
 }
